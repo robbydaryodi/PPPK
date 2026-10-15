@@ -1,4 +1,4 @@
-// Data cache default (offline-fallback) dari Spreadsheet Monitoring Pegawai BGTK Sumbar
+// Data cache default dari Tab 'Form Responses 1' (gid=155701133)
 window.OFFLINE_REPORTS_DATA = [
   {
     "id": 1,
@@ -7,7 +7,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor",
     "output": "Halaman parkir ibuk kepala bersih",
     "hambatan": "",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1Bk7l79DoTyxz8sQ0iCLXdho-QLVr7Gkp",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1Bk7l79DoTyxz8sQ0iCLXdho-QLVr7Gkp"
   },
   {
     "id": 2,
@@ -16,7 +18,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyusun barang bantuan dihol utama untuk dikirim ke sekolah - sekolah",
     "output": "Barang sudah dipak dan dikirimkan sama mobil dinas",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1TuzJ7GieHRraM42O-thNEhYElwjCc-wt"
+    "photoUrl": "https://drive.google.com/open?id=1TuzJ7GieHRraM42O-thNEhYElwjCc-wt",
+    "photoPagi": "https://drive.google.com/open?id=1TuzJ7GieHRraM42O-thNEhYElwjCc-wt",
+    "photoSore": ""
   },
   {
     "id": 3,
@@ -25,7 +29,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Rapat timbrumah tangga",
     "output": "Lagi berlanjut",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1YLOGpdmks5JtMLTd7YrJAEl9wUvDa8D_"
+    "photoUrl": "https://drive.google.com/open?id=1YLOGpdmks5JtMLTd7YrJAEl9wUvDa8D_",
+    "photoPagi": "https://drive.google.com/open?id=1YLOGpdmks5JtMLTd7YrJAEl9wUvDa8D_",
+    "photoSore": ""
   },
   {
     "id": 4,
@@ -34,7 +40,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan ruangan telekompen",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1idAXjSeEDZZpcrBeFZXupi55K1jzu9WY"
+    "photoUrl": "https://drive.google.com/open?id=1idAXjSeEDZZpcrBeFZXupi55K1jzu9WY",
+    "photoPagi": "https://drive.google.com/open?id=1idAXjSeEDZZpcrBeFZXupi55K1jzu9WY",
+    "photoSore": ""
   },
   {
     "id": 5,
@@ -43,7 +51,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan halaman",
     "output": "selesai tugas dikerjakan",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1Yj3A9czC9GDN0kUAt8VvfxtvkO3pFgC8"
+    "photoUrl": "https://drive.google.com/open?id=1Yj3A9czC9GDN0kUAt8VvfxtvkO3pFgC8",
+    "photoPagi": "https://drive.google.com/open?id=1Yj3A9czC9GDN0kUAt8VvfxtvkO3pFgC8",
+    "photoSore": "https://drive.google.com/open?id=1ndymdPdEiK-jefAJ8QYM_53WUazMlel7"
   },
   {
     "id": 6,
@@ -52,7 +62,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Rapat rumah tangga di teleconfrence",
     "output": "rapat terlaksana",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=138rvWYQ0Lf40l42m69TC-_qSDsUPFac5"
+    "photoUrl": "https://drive.google.com/open?id=138rvWYQ0Lf40l42m69TC-_qSDsUPFac5",
+    "photoPagi": "https://drive.google.com/open?id=138rvWYQ0Lf40l42m69TC-_qSDsUPFac5",
+    "photoSore": "https://drive.google.com/open?id=10UCuHOKb0u2PBSDvwOguAag01wneIYYx"
   },
   {
     "id": 7,
@@ -61,7 +73,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menata perabotan kantor",
     "output": "selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1ydeXqCOrIToIE-Ect80pysvjtfKZ1KkT"
+    "photoUrl": "https://drive.google.com/open?id=1ydeXqCOrIToIE-Ect80pysvjtfKZ1KkT",
+    "photoPagi": "https://drive.google.com/open?id=1ydeXqCOrIToIE-Ect80pysvjtfKZ1KkT",
+    "photoSore": ""
   },
   {
     "id": 8,
@@ -70,7 +84,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan ruangan gedung untuk rapat",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=11vmDS0zBwt5xeXEXcHI34fTfA1fG3-3s"
+    "photoUrl": "https://drive.google.com/open?id=11vmDS0zBwt5xeXEXcHI34fTfA1fG3-3s",
+    "photoPagi": "https://drive.google.com/open?id=11vmDS0zBwt5xeXEXcHI34fTfA1fG3-3s",
+    "photoSore": ""
   },
   {
     "id": 9,
@@ -79,7 +95,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memperbaiki tali portal di pos dua",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1S417TqhSWqn1vVjIDQvj-NIvg0k8oH4_",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1S417TqhSWqn1vVjIDQvj-NIvg0k8oH4_"
   },
   {
     "id": 10,
@@ -88,7 +106,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "mengepel ruangan pengadaaan",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1mJ40hj7vDCDArdIqRiYRJmJYcOfGdkRa",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1mJ40hj7vDCDArdIqRiYRJmJYcOfGdkRa"
   },
   {
     "id": 11,
@@ -97,16 +117,20 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu dan menyusun barang bantuan di hol utama",
     "output": "Bersih",
     "hambatan": "",
-    "photoUrl": "https://drive.google.com/open?id=1B1AsCdMGsuTXvL1kGVVqBDnRKHnDCPJp"
+    "photoUrl": "https://drive.google.com/open?id=1B1AsCdMGsuTXvL1kGVVqBDnRKHnDCPJp",
+    "photoPagi": "https://drive.google.com/open?id=1B1AsCdMGsuTXvL1kGVVqBDnRKHnDCPJp",
+    "photoSore": ""
   },
   {
     "id": 12,
     "timestamp": "3/2/2026 15:51:38",
-    "author": "Salaudin",
-    "content": "Membuang sampah dan membakar sampah",
-    "output": "Aman",
+    "author": "Buyung Syafrianto",
+    "content": "Bersihkan ruang gedung",
+    "output": "Membersihkan ruang dan halaman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1ugw-jBefKofafRjLTj9ckGz77Uvsj75h"
+    "photoUrl": "https://drive.google.com/open?id=1ugw-jBefKofafRjLTj9ckGz77Uvsj75h",
+    "photoPagi": "https://drive.google.com/open?id=1ugw-jBefKofafRjLTj9ckGz77Uvsj75h",
+    "photoSore": ""
   },
   {
     "id": 13,
@@ -115,7 +139,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengunci dan mengecek asrama baru",
     "output": "Selesai",
     "hambatan": "",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1WttlOxXkUfZgWdOwkOZ8bg3_G4Z4vNTT",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1WttlOxXkUfZgWdOwkOZ8bg3_G4Z4vNTT"
   },
   {
     "id": 14,
@@ -124,7 +150,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menyiram bunga di area ruangan ULT DAN pengaduan",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=17ANProuOEazU_54r4dLdKeJ0SPewcwu1"
+    "photoUrl": "https://drive.google.com/open?id=17ANProuOEazU_54r4dLdKeJ0SPewcwu1",
+    "photoPagi": "https://drive.google.com/open?id=17ANProuOEazU_54r4dLdKeJ0SPewcwu1",
+    "photoSore": ""
   },
   {
     "id": 15,
@@ -133,7 +161,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan dan mencabut rumput diteras ruangan numerasi",
     "output": "Bersih",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1W6U1ynwi-IhuJx-5q1mR8zCwEYBfUXzG"
+    "photoUrl": "https://drive.google.com/open?id=1W6U1ynwi-IhuJx-5q1mR8zCwEYBfUXzG",
+    "photoPagi": "https://drive.google.com/open?id=1W6U1ynwi-IhuJx-5q1mR8zCwEYBfUXzG",
+    "photoSore": ""
   },
   {
     "id": 16,
@@ -142,7 +172,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengangkat bantuan ke agam",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=14dC1VJqfrd-5pvBm-EE3qqhvFDGv3GPM"
+    "photoUrl": "https://drive.google.com/open?id=14dC1VJqfrd-5pvBm-EE3qqhvFDGv3GPM",
+    "photoPagi": "https://drive.google.com/open?id=14dC1VJqfrd-5pvBm-EE3qqhvFDGv3GPM",
+    "photoSore": "https://drive.google.com/open?id=1S5X9EDqVDl2DnnpnakZmBw8saJWUGuDC"
   },
   {
     "id": 17,
@@ -151,7 +183,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "mengepel jalan ULT dan pengaduan",
     "output": "selesai",
     "hambatan": "_",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=155tkJpoz0kfiO9WTDaSxeLVytMnjtB59",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=155tkJpoz0kfiO9WTDaSxeLVytMnjtB59"
   },
   {
     "id": 18,
@@ -160,7 +194,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Halaman numerasi",
     "output": "Sudah dibersihkan",
     "hambatan": "Tidak ada",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=101qVMCjVMcFUI0AOlWxhPu2pblXLjETo",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=101qVMCjVMcFUI0AOlWxhPu2pblXLjETo"
   },
   {
     "id": 19,
@@ -169,16 +205,20 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan WC kantor",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=12d3k7wqmFbt8mz--HpsqTQt19nfeQRXF",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=12d3k7wqmFbt8mz--HpsqTQt19nfeQRXF"
   },
   {
     "id": 20,
     "timestamp": "3/3/2026 15:19:42",
-    "author": "Roby",
-    "content": "Santai",
-    "output": "Senang",
-    "hambatan": "Capek",
-    "photoUrl": "https://drive.google.com/open?id=1m_VDbr4BvNkablRP1526ja8YD9on8SsP"
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan jaring laba² dan menyapu teras aula mini",
+    "output": "Terselesaikannya pekerjaan",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1m_VDbr4BvNkablRP1526ja8YD9on8SsP",
+    "photoPagi": "https://drive.google.com/open?id=1m_VDbr4BvNkablRP1526ja8YD9on8SsP",
+    "photoSore": "https://drive.google.com/open?id=1eCWt9m-HZH_qQyVLX5hV8tilGuHxzZME"
   },
   {
     "id": 21,
@@ -187,7 +227,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan teras arsip dan stanby piket receptionist",
     "output": "terselesaikannnya pekerjaan",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1K8-CwBwIChd1HyHRjyg1UeI8BH3R5FTQ"
+    "photoUrl": "https://drive.google.com/open?id=1K8-CwBwIChd1HyHRjyg1UeI8BH3R5FTQ",
+    "photoPagi": "https://drive.google.com/open?id=1K8-CwBwIChd1HyHRjyg1UeI8BH3R5FTQ",
+    "photoSore": "https://drive.google.com/open?id=1pYp1bylkR9W3Uj-ICO4UeIImiSrp2VsE"
   },
   {
     "id": 22,
@@ -196,7 +238,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan halaman aula utama dan mushalla",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=13qNd2B0xebx3q6jK-Hb7DCetDH8gdLXm"
+    "photoUrl": "https://drive.google.com/open?id=13qNd2B0xebx3q6jK-Hb7DCetDH8gdLXm",
+    "photoPagi": "https://drive.google.com/open?id=13qNd2B0xebx3q6jK-Hb7DCetDH8gdLXm",
+    "photoSore": "https://drive.google.com/open?id=161Z5l67TOTKToxLa2kgGMk9O7YIMo2zz"
   },
   {
     "id": 23,
@@ -205,7 +249,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan aula mini dan mushola",
     "output": "2 gedung",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1ZAXvGupqKyitKChAyFh3aP8LNP5NyREx"
+    "photoUrl": "https://drive.google.com/open?id=1ZAXvGupqKyitKChAyFh3aP8LNP5NyREx",
+    "photoPagi": "https://drive.google.com/open?id=1ZAXvGupqKyitKChAyFh3aP8LNP5NyREx",
+    "photoSore": "https://drive.google.com/open?id=1Dn-E79gS3ok-oqZnO0Er7hQT4H71hdgf"
   },
   {
     "id": 24,
@@ -214,7 +260,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan ruangan hol mini",
     "output": "Bersih tuntas",
     "hambatan": "",
-    "photoUrl": "https://drive.google.com/open?id=1VNFI1cbnjRrUucwFRzlq8SKCbYXRWz2H"
+    "photoUrl": "https://drive.google.com/open?id=1VNFI1cbnjRrUucwFRzlq8SKCbYXRWz2H",
+    "photoPagi": "https://drive.google.com/open?id=1VNFI1cbnjRrUucwFRzlq8SKCbYXRWz2H",
+    "photoSore": ""
   },
   {
     "id": 25,
@@ -223,7 +271,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mencabut rumput di depan asrama baru",
     "output": "Belum tuntas",
     "hambatan": "",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1ApvjE88Wwz9HG7b68-86aIZgyg5Hk0Ue",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1ApvjE88Wwz9HG7b68-86aIZgyg5Hk0Ue"
   },
   {
     "id": 26,
@@ -232,7 +282,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menyapu dan pel rumah dinas",
     "output": "selesai",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1wDaG9Q9vWH5AeDOYSWaVyMKmad1NMhy4"
+    "photoUrl": "https://drive.google.com/open?id=1wDaG9Q9vWH5AeDOYSWaVyMKmad1NMhy4",
+    "photoPagi": "https://drive.google.com/open?id=1wDaG9Q9vWH5AeDOYSWaVyMKmad1NMhy4",
+    "photoSore": ""
   },
   {
     "id": 27,
@@ -241,7 +293,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan taman hol mini",
     "output": "Bersih",
     "hambatan": "Tinggal separoh lagi",
-    "photoUrl": "https://drive.google.com/open?id=1n5DDw1UAU_bw-HNfo-4lkwyApPYAKAi4"
+    "photoUrl": "https://drive.google.com/open?id=1n5DDw1UAU_bw-HNfo-4lkwyApPYAKAi4",
+    "photoPagi": "https://drive.google.com/open?id=1n5DDw1UAU_bw-HNfo-4lkwyApPYAKAi4",
+    "photoSore": ""
   },
   {
     "id": 28,
@@ -250,7 +304,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu dan mepel teras ULT dan perpustakaan",
     "output": "Selasai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=10J1Sl7afRNjTKAOp5_7iWWzwYzw6Anxp"
+    "photoUrl": "https://drive.google.com/open?id=10J1Sl7afRNjTKAOp5_7iWWzwYzw6Anxp",
+    "photoPagi": "https://drive.google.com/open?id=10J1Sl7afRNjTKAOp5_7iWWzwYzw6Anxp",
+    "photoSore": ""
   },
   {
     "id": 29,
@@ -259,7 +315,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1MA1jgL7qyeVZhU-U93cfZFySS8GME2rQ"
+    "photoUrl": "https://drive.google.com/open?id=1MA1jgL7qyeVZhU-U93cfZFySS8GME2rQ",
+    "photoPagi": "https://drive.google.com/open?id=1MA1jgL7qyeVZhU-U93cfZFySS8GME2rQ",
+    "photoSore": "https://drive.google.com/open?id=18r6USWTX3pHXeAAqpshlNk4tsGcWLWkb"
   },
   {
     "id": 30,
@@ -268,7 +326,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan kaca ruangan pengaduan",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=14buydargBDYGBWsOU9UI4OoBi7o0FTeG",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=14buydargBDYGBWsOU9UI4OoBi7o0FTeG"
   },
   {
     "id": 31,
@@ -277,7 +337,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan kaca ruangan pengaduan",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1HVCYzgWoCkye0W76uw4J9_t0rOxVr8nc",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1HVCYzgWoCkye0W76uw4J9_t0rOxVr8nc"
   },
   {
     "id": 32,
@@ -286,7 +348,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengelap meja dan tempat area bermain diruang numerasi",
     "output": "Bersih",
     "hambatan": "Tidak ada",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1F2RTsWlFe5H1T1H6n1-Eu8KCTq9gqTyk",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1F2RTsWlFe5H1T1H6n1-Eu8KCTq9gqTyk"
   },
   {
     "id": 33,
@@ -295,7 +359,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan ruang kantor",
     "output": "Jaring laba-laba",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1h3jYbeUYudy0M0qVOXV7nvut3ykUXJe_"
+    "photoUrl": "https://drive.google.com/open?id=1h3jYbeUYudy0M0qVOXV7nvut3ykUXJe_",
+    "photoPagi": "https://drive.google.com/open?id=1h3jYbeUYudy0M0qVOXV7nvut3ykUXJe_",
+    "photoSore": "https://drive.google.com/open?id=1ER5-91fE1G1ZK_6IN13HGppU9t5vQkgd"
   },
   {
     "id": 34,
@@ -304,7 +370,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memperbaiki kolam",
     "output": "1",
     "hambatan": "Banyak pecahan kaca dalam kolam",
-    "photoUrl": "https://drive.google.com/open?id=1qxJcOTk2svoYVIpn2LQ9O7R_SYEX2QNu"
+    "photoUrl": "https://drive.google.com/open?id=1qxJcOTk2svoYVIpn2LQ9O7R_SYEX2QNu",
+    "photoPagi": "https://drive.google.com/open?id=1qxJcOTk2svoYVIpn2LQ9O7R_SYEX2QNu",
+    "photoSore": "https://drive.google.com/open?id=1WVn519JXtXixiCO_4LuZqqyDYQYhH2Mh"
   },
   {
     "id": 35,
@@ -313,7 +381,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Kunci kantor baru",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1MqBzZdqFUvXttfgqfvafQfYmtbQRnDWK",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1MqBzZdqFUvXttfgqfvafQfYmtbQRnDWK"
   },
   {
     "id": 36,
@@ -322,7 +392,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan ruang belajar Wi dan memperbaiki kamar mandi Ruang Kepala",
     "output": "terselesaikannya pekerjaan",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=15pD35tjXPJwm_TMZ4xa-bjqVZZdcuaVd"
+    "photoUrl": "https://drive.google.com/open?id=15pD35tjXPJwm_TMZ4xa-bjqVZZdcuaVd",
+    "photoPagi": "https://drive.google.com/open?id=15pD35tjXPJwm_TMZ4xa-bjqVZZdcuaVd",
+    "photoSore": "https://drive.google.com/open?id=1Hva1iM7yEeKCrydH0WWjtMWA1ZXbk4SN"
   },
   {
     "id": 37,
@@ -331,7 +403,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan kerak cat depan pintu masuk ruang numerasi",
     "output": "Belum selesai",
     "hambatan": "Karna juga piket resepsionis",
-    "photoUrl": "https://drive.google.com/open?id=1ICX14LiGpnYSKTkauSNdcYUbbGtccy37"
+    "photoUrl": "https://drive.google.com/open?id=1ICX14LiGpnYSKTkauSNdcYUbbGtccy37",
+    "photoPagi": "https://drive.google.com/open?id=1ICX14LiGpnYSKTkauSNdcYUbbGtccy37",
+    "photoSore": ""
   },
   {
     "id": 38,
@@ -340,7 +414,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan teras aula mini dan memperbaiki mesin sanio gedung baru",
     "output": "Mesin sudah di perbaiki,dan sudah hidup,tanpa otomatis(rotag)",
     "hambatan": "Rotag mesin sanio rusak,,,",
-    "photoUrl": "https://drive.google.com/open?id=1wvIXF-pBN8OnRznDtnbis4b6YDxtTLfU"
+    "photoUrl": "https://drive.google.com/open?id=1wvIXF-pBN8OnRznDtnbis4b6YDxtTLfU",
+    "photoPagi": "https://drive.google.com/open?id=1wvIXF-pBN8OnRznDtnbis4b6YDxtTLfU",
+    "photoSore": "https://drive.google.com/open?id=1wqh88c5R-cxUda-T_Gxp1xFa8M5kU_GO"
   },
   {
     "id": 39,
@@ -349,7 +425,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "bersihkan halaman kantor",
     "output": "halaman kantor bersih dan rapi",
     "hambatan": "tak ada",
-    "photoUrl": "https://drive.google.com/open?id=1V69uTsIez7EEoGIs7lWE_BGi_3pxt1c5"
+    "photoUrl": "https://drive.google.com/open?id=1V69uTsIez7EEoGIs7lWE_BGi_3pxt1c5",
+    "photoPagi": "https://drive.google.com/open?id=1V69uTsIez7EEoGIs7lWE_BGi_3pxt1c5",
+    "photoSore": "https://drive.google.com/open?id=1nfgvuJ9kQvTfkDa0Mhuu3u3TTqLi26nv"
   },
   {
     "id": 40,
@@ -358,7 +436,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "perawatan ruang belajar wi dan pengambilan barang di ruang persediaan",
     "output": "terlesaikannya pekerjaan",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1tf6Fna1A6S9UJAzfKptYJGQpeBeNcalh"
+    "photoUrl": "https://drive.google.com/open?id=1tf6Fna1A6S9UJAzfKptYJGQpeBeNcalh",
+    "photoPagi": "https://drive.google.com/open?id=1tf6Fna1A6S9UJAzfKptYJGQpeBeNcalh",
+    "photoSore": "https://drive.google.com/open?id=1-blZteU-ESzvIBGaTMal4ri3sRPzjhNf"
   },
   {
     "id": 41,
@@ -367,7 +447,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan lorong di perpustakaan dan membuang jaring laba laba di atap",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1IJR4AG6xtsMLr3k5sAzfqa_8FHDUwmXi"
+    "photoUrl": "https://drive.google.com/open?id=1IJR4AG6xtsMLr3k5sAzfqa_8FHDUwmXi",
+    "photoPagi": "https://drive.google.com/open?id=1IJR4AG6xtsMLr3k5sAzfqa_8FHDUwmXi",
+    "photoSore": "https://drive.google.com/open?id=1Hfcu1pKZpEmtPCRIUnQvCS-TfYB4nCi8"
   },
   {
     "id": 42,
@@ -376,7 +458,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan rumput",
     "output": "Bersih",
     "hambatan": "Tidak ada",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1mBpyB2b-UvnrL5Jiz2lA2X8kd2Wbrksd",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1mBpyB2b-UvnrL5Jiz2lA2X8kd2Wbrksd"
   },
   {
     "id": 43,
@@ -385,7 +469,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan kantor",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1evReKCnaA3euNI8U-uxIPeTAfXc5h0hs"
+    "photoUrl": "https://drive.google.com/open?id=1evReKCnaA3euNI8U-uxIPeTAfXc5h0hs",
+    "photoPagi": "https://drive.google.com/open?id=1evReKCnaA3euNI8U-uxIPeTAfXc5h0hs",
+    "photoSore": "https://drive.google.com/open?id=1B5AqnrRuPR_a4ncbKT6U6PgtMqBoO0-4"
   },
   {
     "id": 44,
@@ -394,7 +480,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan area kantor",
     "output": "Membersihkan jaring laba-laba dan menyiram bunga",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1LrQMLPus7E3I4YWn8fMDuUjBeJF7Cr1u"
+    "photoUrl": "https://drive.google.com/open?id=1LrQMLPus7E3I4YWn8fMDuUjBeJF7Cr1u",
+    "photoPagi": "https://drive.google.com/open?id=1LrQMLPus7E3I4YWn8fMDuUjBeJF7Cr1u",
+    "photoSore": "https://drive.google.com/open?id=15bmT0VYuZLukBEU-LPlz1qbw8Lwb1BeK"
   },
   {
     "id": 45,
@@ -403,7 +491,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "bersihkan mushala",
     "output": "selesai dan rapi",
     "hambatan": "tak ada. itu poto tgl 4 maret",
-    "photoUrl": "https://drive.google.com/open?id=1DU9VpvExd_Q015Y4skh2RACvq_3L_BQ9"
+    "photoUrl": "https://drive.google.com/open?id=1DU9VpvExd_Q015Y4skh2RACvq_3L_BQ9",
+    "photoPagi": "https://drive.google.com/open?id=1DU9VpvExd_Q015Y4skh2RACvq_3L_BQ9",
+    "photoSore": "https://drive.google.com/open?id=1Curdu55KbMRzssRB57XqD-6wdTGjnLK1"
   },
   {
     "id": 46,
@@ -412,7 +502,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "bersihkan halaman kantor",
     "output": "selesai dan rapi",
     "hambatan": "tak ada. itu poto tgl 3 maret",
-    "photoUrl": "https://drive.google.com/open?id=1GsY6PZ_4O5bUbcJLrprvVEE_DnEJUcm6"
+    "photoUrl": "https://drive.google.com/open?id=1GsY6PZ_4O5bUbcJLrprvVEE_DnEJUcm6",
+    "photoPagi": "https://drive.google.com/open?id=1GsY6PZ_4O5bUbcJLrprvVEE_DnEJUcm6",
+    "photoSore": "https://drive.google.com/open?id=1j_QvfAXPJt_dvDmIhSvMboOAG8kM2HQB"
   },
   {
     "id": 47,
@@ -421,7 +513,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan halaman sebelah ruang pengaduan dan halaman depan numerasi",
     "output": "Bersih",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1SYVIZkd58004X1R89_7J7UEnvJauKzCy"
+    "photoUrl": "https://drive.google.com/open?id=1SYVIZkd58004X1R89_7J7UEnvJauKzCy",
+    "photoPagi": "https://drive.google.com/open?id=1SYVIZkd58004X1R89_7J7UEnvJauKzCy",
+    "photoSore": ""
   },
   {
     "id": 48,
@@ -430,7 +524,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "",
     "output": "",
     "hambatan": "",
-    "photoUrl": "https://drive.google.com/open?id=1CDc_QIV_V-dJlwatci_ZkEnYEj9_xvYf"
+    "photoUrl": "https://drive.google.com/open?id=1CDc_QIV_V-dJlwatci_ZkEnYEj9_xvYf",
+    "photoPagi": "https://drive.google.com/open?id=1CDc_QIV_V-dJlwatci_ZkEnYEj9_xvYf",
+    "photoSore": ""
   },
   {
     "id": 49,
@@ -439,7 +535,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan kantor",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1kdQmI5UWlJupFgEa6q41hQFZs_Ni1WyK"
+    "photoUrl": "https://drive.google.com/open?id=1kdQmI5UWlJupFgEa6q41hQFZs_Ni1WyK",
+    "photoPagi": "https://drive.google.com/open?id=1kdQmI5UWlJupFgEa6q41hQFZs_Ni1WyK",
+    "photoSore": "https://drive.google.com/open?id=1kYhAgKo0g1iw677EOkA6YgeG6e2r2jh3"
   },
   {
     "id": 50,
@@ -448,7 +546,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan  teras aula mini,,dan teras mushola,dan mengantar tim sosial menbezuk ibuk kepala",
     "output": "Semua tuntas",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1APH0ZnsBTY8W4HO9CNxXdz-E94AEfVNY"
+    "photoUrl": "https://drive.google.com/open?id=1APH0ZnsBTY8W4HO9CNxXdz-E94AEfVNY",
+    "photoPagi": "https://drive.google.com/open?id=1APH0ZnsBTY8W4HO9CNxXdz-E94AEfVNY",
+    "photoSore": "https://drive.google.com/open?id=1PNb2RFf13jdzM8HNljJ-ShnrjElP1cGi"
   },
   {
     "id": 51,
@@ -457,7 +557,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Bersih² kantor utama dan stambay d repsionis kantor",
     "output": "Membersihkan ruang kantor utama mulai siram bunga dan debu²",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=11iexdfKjRPHAwX5lxTiCSPY51jj9Jtu_"
+    "photoUrl": "https://drive.google.com/open?id=11iexdfKjRPHAwX5lxTiCSPY51jj9Jtu_",
+    "photoPagi": "https://drive.google.com/open?id=11iexdfKjRPHAwX5lxTiCSPY51jj9Jtu_",
+    "photoSore": "https://drive.google.com/open?id=1YYxQ4G-zZZrBwpu4Doi1Fp_cBP6iNrFM"
   },
   {
     "id": 52,
@@ -466,7 +568,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan rumput sebelah rumah dinas",
     "output": "Bersih",
     "hambatan": "Tidak ada",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1GpYi6N-Ol_ECJ8WU0s4ZrAw-2zd3eDyG",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1GpYi6N-Ol_ECJ8WU0s4ZrAw-2zd3eDyG"
   },
   {
     "id": 53,
@@ -475,7 +579,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan teras ULT dan mencabut rumput di halaman pengaduandi halaman pengaduan",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1zLbC5YOmWhWLgmrHvwF72d91E7AkIY9_"
+    "photoUrl": "https://drive.google.com/open?id=1zLbC5YOmWhWLgmrHvwF72d91E7AkIY9_",
+    "photoPagi": "https://drive.google.com/open?id=1zLbC5YOmWhWLgmrHvwF72d91E7AkIY9_",
+    "photoSore": "https://drive.google.com/open?id=1qEkt1L33nuUK-1BZZVrn8hQzVDCqf2Fv"
   },
   {
     "id": 54,
@@ -484,7 +590,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan halaman aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1MjxfXSlIC7tdGedPiFvzt1_hho9fdTgG"
+    "photoUrl": "https://drive.google.com/open?id=1MjxfXSlIC7tdGedPiFvzt1_hho9fdTgG",
+    "photoPagi": "https://drive.google.com/open?id=1MjxfXSlIC7tdGedPiFvzt1_hho9fdTgG",
+    "photoSore": "https://drive.google.com/open?id=1lmWorh2-n00KsKZlK4Zpb73bedkBRTMR"
   },
   {
     "id": 55,
@@ -493,7 +601,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membagikan sembako ke warga sekitar dan menyusun brg sembako",
     "output": "terselsaikannya pekerjaan",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1n6NtF5AAQygd43-7KYadSHiFcUmGSHH_"
+    "photoUrl": "https://drive.google.com/open?id=1n6NtF5AAQygd43-7KYadSHiFcUmGSHH_",
+    "photoPagi": "https://drive.google.com/open?id=1n6NtF5AAQygd43-7KYadSHiFcUmGSHH_",
+    "photoSore": "https://drive.google.com/open?id=1SR6Lqt9hpxnXYl34YSBEEg3cqVvvFPlr"
   },
   {
     "id": 56,
@@ -502,7 +612,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membagi sembako",
     "output": "Tuntas",
     "hambatan": "",
-    "photoUrl": "https://drive.google.com/open?id=1J-91-cDUqPtS82cgQU79STeFHBo5Ovdx"
+    "photoUrl": "https://drive.google.com/open?id=1J-91-cDUqPtS82cgQU79STeFHBo5Ovdx",
+    "photoPagi": "https://drive.google.com/open?id=1J-91-cDUqPtS82cgQU79STeFHBo5Ovdx",
+    "photoSore": "https://drive.google.com/open?id=1wJ1G0Tbjzctae9zunLNMo1_6WSTWrxjP"
   },
   {
     "id": 57,
@@ -511,7 +623,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengantarkan bantuan",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1L4CC3tiYg-4Okqy-FJKL94cC8sDv33NL"
+    "photoUrl": "https://drive.google.com/open?id=1L4CC3tiYg-4Okqy-FJKL94cC8sDv33NL",
+    "photoPagi": "https://drive.google.com/open?id=1L4CC3tiYg-4Okqy-FJKL94cC8sDv33NL",
+    "photoSore": "https://drive.google.com/open?id=1GE3lJXjI9lN93OZrPg7XnO6hVSYbB3I5"
   },
   {
     "id": 58,
@@ -520,7 +634,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengepel teras aula mini dan teras mushola",
     "output": "2",
     "hambatan": "Hujan",
-    "photoUrl": "https://drive.google.com/open?id=1CIjsbzwczER4mSimAUtdfNKolwtt6W8L"
+    "photoUrl": "https://drive.google.com/open?id=1CIjsbzwczER4mSimAUtdfNKolwtt6W8L",
+    "photoPagi": "https://drive.google.com/open?id=1CIjsbzwczER4mSimAUtdfNKolwtt6W8L",
+    "photoSore": "https://drive.google.com/open?id=1uWWRC-M-fw7N5aQPytB0o7vvlaA49WtA"
   },
   {
     "id": 59,
@@ -529,7 +645,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan aula utama",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=13mNIto6Z8rejRjNLR4pGviBJcC2Miu62"
+    "photoUrl": "https://drive.google.com/open?id=13mNIto6Z8rejRjNLR4pGviBJcC2Miu62",
+    "photoPagi": "https://drive.google.com/open?id=13mNIto6Z8rejRjNLR4pGviBJcC2Miu62",
+    "photoSore": "https://drive.google.com/open?id=18Itm2TN78_WNgMdzxbunLmZiceDXOoli"
   },
   {
     "id": 60,
@@ -538,7 +656,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menyiram bunga dan membersihkan kaca di rumah dinas",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1kBi9M8UOueG1_7R4q_Rk-35WoOdONF_k"
+    "photoUrl": "https://drive.google.com/open?id=1kBi9M8UOueG1_7R4q_Rk-35WoOdONF_k",
+    "photoPagi": "https://drive.google.com/open?id=1kBi9M8UOueG1_7R4q_Rk-35WoOdONF_k",
+    "photoSore": "https://drive.google.com/open?id=1p-ZqKXJQwhkSJ5LynuOoTJu_DNjqDanJ"
   },
   {
     "id": 61,
@@ -547,7 +667,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan kantor",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1eRkP-fGSsYEvVm0sExwM1N2lF-WIle65"
+    "photoUrl": "https://drive.google.com/open?id=1eRkP-fGSsYEvVm0sExwM1N2lF-WIle65",
+    "photoPagi": "https://drive.google.com/open?id=1eRkP-fGSsYEvVm0sExwM1N2lF-WIle65",
+    "photoSore": "https://drive.google.com/open?id=18ZRILpAzBbJcHLVbsbq0lVmJ_zHYYONv"
   },
   {
     "id": 62,
@@ -556,7 +678,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan ruang belajar wi dan persiapan acara lomba mtq",
     "output": "terselesaikannya pekerjaan",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=141XdflQe3UUN5_q6javpZSUa6yMtwtIC"
+    "photoUrl": "https://drive.google.com/open?id=141XdflQe3UUN5_q6javpZSUa6yMtwtIC",
+    "photoPagi": "https://drive.google.com/open?id=141XdflQe3UUN5_q6javpZSUa6yMtwtIC",
+    "photoSore": "https://drive.google.com/open?id=14HamvNBoPmYI39SoGE0pyBAmKtfJTcJH"
   },
   {
     "id": 63,
@@ -565,7 +689,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mempersiapkan ruang untuk kegiatan MTQ di aula mini",
     "output": "Membersihkan ruang aula mini dan kantor utama",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=13VYESBPs-pQ3MlNPUjYcnUXRTRMqqqcL"
+    "photoUrl": "https://drive.google.com/open?id=13VYESBPs-pQ3MlNPUjYcnUXRTRMqqqcL",
+    "photoPagi": "https://drive.google.com/open?id=13VYESBPs-pQ3MlNPUjYcnUXRTRMqqqcL",
+    "photoSore": "https://drive.google.com/open?id=1Mb0Kt5sNbHriEp40e-WxzCb2KhDVtWIX"
   },
   {
     "id": 64,
@@ -574,7 +700,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Kegiatan Rakor dari tnggal 10s/d12 di Hotel Roky Padang",
     "output": "Stambay dan memberikan mix untuk peserta tanya jawab",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=19gmIQAhjZSq3h-S2pyOWjpHxYt0ptDeL"
+    "photoUrl": "https://drive.google.com/open?id=19gmIQAhjZSq3h-S2pyOWjpHxYt0ptDeL",
+    "photoPagi": "https://drive.google.com/open?id=19gmIQAhjZSq3h-S2pyOWjpHxYt0ptDeL",
+    "photoSore": "https://drive.google.com/open?id=1XVBd3lxHoC0UsxQlvab0YJpgxBvMNKnp"
   },
   {
     "id": 65,
@@ -583,7 +711,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan area numerasi dan halaman depan",
     "output": "Bersih",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1SjmDv7QQ4dUE8wrSp1NzJkCAIK7nkgg0"
+    "photoUrl": "https://drive.google.com/open?id=1SjmDv7QQ4dUE8wrSp1NzJkCAIK7nkgg0",
+    "photoPagi": "https://drive.google.com/open?id=1SjmDv7QQ4dUE8wrSp1NzJkCAIK7nkgg0",
+    "photoSore": ""
   },
   {
     "id": 66,
@@ -592,7 +722,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "",
     "output": "",
     "hambatan": "",
-    "photoUrl": "https://drive.google.com/open?id=1RxtGigTgaEXKBuqA8NcT3I_8NFEHNmpL"
+    "photoUrl": "https://drive.google.com/open?id=1RxtGigTgaEXKBuqA8NcT3I_8NFEHNmpL",
+    "photoPagi": "https://drive.google.com/open?id=1RxtGigTgaEXKBuqA8NcT3I_8NFEHNmpL",
+    "photoSore": ""
   },
   {
     "id": 67,
@@ -601,7 +733,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan aula mini dan mengepel lantai nya,,dilanjut rapat di aula mini,bersama pimpinan BGTK SUMBAR",
     "output": "Sudah terlaksana",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1EYE9rpJsvzfZvYizf6xf7jMAtRuhqAcQ"
+    "photoUrl": "https://drive.google.com/open?id=1EYE9rpJsvzfZvYizf6xf7jMAtRuhqAcQ",
+    "photoPagi": "https://drive.google.com/open?id=1EYE9rpJsvzfZvYizf6xf7jMAtRuhqAcQ",
+    "photoSore": "https://drive.google.com/open?id=121qnmEqaK1v3EZMsfpKb0CiGmtJAzi3z"
   },
   {
     "id": 68,
@@ -610,7 +744,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menata lingkungan kantor",
     "output": "bersih dan rapi",
     "hambatan": "tak ada",
-    "photoUrl": "https://drive.google.com/open?id=1Vw-hQLibsgdcsaB_j0BGKmn32Wns3PVs"
+    "photoUrl": "https://drive.google.com/open?id=1Vw-hQLibsgdcsaB_j0BGKmn32Wns3PVs",
+    "photoPagi": "https://drive.google.com/open?id=1Vw-hQLibsgdcsaB_j0BGKmn32Wns3PVs",
+    "photoSore": "https://drive.google.com/open?id=1sMh7ObkkpKXy7uYIbQr_RudRkJKdNdTn"
   },
   {
     "id": 69,
@@ -619,7 +755,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan ruangan pengaduan dan mengepel teras ULT",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1ClHH2g9f-QoFXW3rpElrlV6XT1puu3t6"
+    "photoUrl": "https://drive.google.com/open?id=1ClHH2g9f-QoFXW3rpElrlV6XT1puu3t6",
+    "photoPagi": "https://drive.google.com/open?id=1ClHH2g9f-QoFXW3rpElrlV6XT1puu3t6",
+    "photoSore": "https://drive.google.com/open?id=1xQ8UdaNi4e470CyV_aSNbHgN5uYm_5XO"
   },
   {
     "id": 70,
@@ -628,7 +766,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "memasang instalasi teras aula mini dan antar sembako",
     "output": "terselesaikannya pekerjaan",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1Zrwvv1Q97FXmgWifl7NGv1dcYL-Nwfxw"
+    "photoUrl": "https://drive.google.com/open?id=1Zrwvv1Q97FXmgWifl7NGv1dcYL-Nwfxw",
+    "photoPagi": "https://drive.google.com/open?id=1Zrwvv1Q97FXmgWifl7NGv1dcYL-Nwfxw",
+    "photoSore": "https://drive.google.com/open?id=1rp_A2ZicMzw8ShWfErwGg8GquRioEMM4"
   },
   {
     "id": 71,
@@ -637,7 +777,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengangkat barang dari mobil ke ruang fungsional dan stambay d repsionis",
     "output": "Membawa kardus isinya kue lebaran ke ruang fungsional stelah itu rapat di aula mini",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1aFRwU4ERImalfKFlp2qRuCtiotcHBOm4"
+    "photoUrl": "https://drive.google.com/open?id=1aFRwU4ERImalfKFlp2qRuCtiotcHBOm4",
+    "photoPagi": "https://drive.google.com/open?id=1aFRwU4ERImalfKFlp2qRuCtiotcHBOm4",
+    "photoSore": "https://drive.google.com/open?id=12D97QrMMY6K3_bAs596Yx861s5UCscdB"
   },
   {
     "id": 72,
@@ -646,7 +788,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan wc pria dan wanita dekat ULT",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1oEi7acw8BiSTMC7Jp6iQfb44Om2RcYhe",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1oEi7acw8BiSTMC7Jp6iQfb44Om2RcYhe"
   },
   {
     "id": 73,
@@ -655,7 +799,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "",
     "output": "",
     "hambatan": "",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1mqoB6LAO3-3hcIN-vEC2KgMBnAKTsiyr",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1mqoB6LAO3-3hcIN-vEC2KgMBnAKTsiyr"
   },
   {
     "id": 74,
@@ -664,7 +810,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan teras aual besar",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1GTJNdonCU7OqEUrzgw2KlEhBOZxkVum4"
+    "photoUrl": "https://drive.google.com/open?id=1GTJNdonCU7OqEUrzgw2KlEhBOZxkVum4",
+    "photoPagi": "https://drive.google.com/open?id=1GTJNdonCU7OqEUrzgw2KlEhBOZxkVum4",
+    "photoSore": "https://drive.google.com/open?id=1dQPWjZDFGp8KmGUN28PpJxl-ggD5S7Lw"
   },
   {
     "id": 75,
@@ -673,7 +821,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu lantai dan pel lantai aula mini",
     "output": "Bersihkan",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1439BjZy6UnM3gWzdQuYun5CLwRQDkyel"
+    "photoUrl": "https://drive.google.com/open?id=1439BjZy6UnM3gWzdQuYun5CLwRQDkyel",
+    "photoPagi": "https://drive.google.com/open?id=1439BjZy6UnM3gWzdQuYun5CLwRQDkyel",
+    "photoSore": ""
   },
   {
     "id": 76,
@@ -682,7 +832,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan ruangan numerasi dan halamannya",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1Lk2GqMsViMjxz4BU0tyXFCm7Ss-Pn-sS"
+    "photoUrl": "https://drive.google.com/open?id=1Lk2GqMsViMjxz4BU0tyXFCm7Ss-Pn-sS",
+    "photoPagi": "https://drive.google.com/open?id=1Lk2GqMsViMjxz4BU0tyXFCm7Ss-Pn-sS",
+    "photoSore": ""
   },
   {
     "id": 77,
@@ -691,7 +843,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Kegiatan",
     "output": "1",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1in2cXV330SMtTeBy7qHT-d1rTzTQYfJ7"
+    "photoUrl": "https://drive.google.com/open?id=1in2cXV330SMtTeBy7qHT-d1rTzTQYfJ7",
+    "photoPagi": "https://drive.google.com/open?id=1in2cXV330SMtTeBy7qHT-d1rTzTQYfJ7",
+    "photoSore": "https://drive.google.com/open?id=1dPEBE4AE-43aWsigf9t-eADsftkVSUeu"
   },
   {
     "id": 78,
@@ -700,7 +854,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan kantor",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1qbiUsTCYJl2sA2zZ0ESZQOdH0wzDiQkS"
+    "photoUrl": "https://drive.google.com/open?id=1qbiUsTCYJl2sA2zZ0ESZQOdH0wzDiQkS",
+    "photoPagi": "https://drive.google.com/open?id=1qbiUsTCYJl2sA2zZ0ESZQOdH0wzDiQkS",
+    "photoSore": "https://drive.google.com/open?id=1h-ooNpkkkxoHTlPZtZ190F14Eo9ejUq5"
   },
   {
     "id": 79,
@@ -709,7 +865,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menata lingkungan kantor",
     "output": "menata perkarangan",
     "hambatan": "tak ada",
-    "photoUrl": "https://drive.google.com/open?id=16twtmvv667DdPHniZwikL15N28sQIYBV"
+    "photoUrl": "https://drive.google.com/open?id=16twtmvv667DdPHniZwikL15N28sQIYBV",
+    "photoPagi": "https://drive.google.com/open?id=16twtmvv667DdPHniZwikL15N28sQIYBV",
+    "photoSore": "https://drive.google.com/open?id=1GZ_sf3-ltX3RHnLvR5fCac6JSIjUoEFc"
   },
   {
     "id": 80,
@@ -718,7 +876,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyediakan ruang untuk kegiatan halalbihalal",
     "output": "Mempersiapkan",
     "hambatan": "_",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=10OkaJ1d4N81_PwKxYrPrheS96N56GqkF",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=10OkaJ1d4N81_PwKxYrPrheS96N56GqkF"
   },
   {
     "id": 81,
@@ -727,7 +887,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu lantai aula mini",
     "output": "Bersih²",
     "hambatan": "_",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1wa3d8TkZVR9Qe02_AEJyfqbm7umsnpxI",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1wa3d8TkZVR9Qe02_AEJyfqbm7umsnpxI"
   },
   {
     "id": 82,
@@ -736,7 +898,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan teras pustaka dan teras rumah kepala",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1aPZH5lwFBlp2KhoX5T99CvjxVMmG0pu_"
+    "photoUrl": "https://drive.google.com/open?id=1aPZH5lwFBlp2KhoX5T99CvjxVMmG0pu_",
+    "photoPagi": "https://drive.google.com/open?id=1aPZH5lwFBlp2KhoX5T99CvjxVMmG0pu_",
+    "photoSore": "https://drive.google.com/open?id=1CVFc5XRMBrcagC0uAhWRdba3k9nJkbYe"
   },
   {
     "id": 83,
@@ -745,7 +909,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan teras arsip dan ruang belajar Wi",
     "output": "terlesaikannya pekerjaan",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1XAsGLR1V9hInIcvGomZvU7909wbXTlxz"
+    "photoUrl": "https://drive.google.com/open?id=1XAsGLR1V9hInIcvGomZvU7909wbXTlxz",
+    "photoPagi": "https://drive.google.com/open?id=1XAsGLR1V9hInIcvGomZvU7909wbXTlxz",
+    "photoSore": "https://drive.google.com/open?id=1oAVAtRgPi9Cg_H8HxovZKrPIdBUnGjD0"
   },
   {
     "id": 84,
@@ -754,7 +920,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu dan menyiram bunga depan kantor utama",
     "output": "Bersih²",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1mNv2uoEaYR_xVq3w1fZViFKNvZXs70di"
+    "photoUrl": "https://drive.google.com/open?id=1mNv2uoEaYR_xVq3w1fZViFKNvZXs70di",
+    "photoPagi": "https://drive.google.com/open?id=1mNv2uoEaYR_xVq3w1fZViFKNvZXs70di",
+    "photoSore": ""
   },
   {
     "id": 85,
@@ -763,7 +931,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Kegiatan",
     "output": "1",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1PU6iu3wyLHaTmhAVC9OnO_vBb4l229MB"
+    "photoUrl": "https://drive.google.com/open?id=1PU6iu3wyLHaTmhAVC9OnO_vBb4l229MB",
+    "photoPagi": "https://drive.google.com/open?id=1PU6iu3wyLHaTmhAVC9OnO_vBb4l229MB",
+    "photoSore": "https://drive.google.com/open?id=1aLDkBlzHYtnqMC539fiOTl7H9jcqqOMW"
   },
   {
     "id": 86,
@@ -772,7 +942,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu teras pustaka ULT dan sekitar ruang pengaduan",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1Dckyu1ZqWHgQqZJOuMO4VhBNUs8gZr6V",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1Dckyu1ZqWHgQqZJOuMO4VhBNUs8gZr6V"
   },
   {
     "id": 87,
@@ -781,7 +953,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menata perkarangan lingkungan kantor",
     "output": "menata perkarangan lingkungan kantor",
     "hambatan": "tak ada",
-    "photoUrl": "https://drive.google.com/open?id=1Qq2hlh6htScGnQ0_ceyS5OHaP-Dyyf2e"
+    "photoUrl": "https://drive.google.com/open?id=1Qq2hlh6htScGnQ0_ceyS5OHaP-Dyyf2e",
+    "photoPagi": "https://drive.google.com/open?id=1Qq2hlh6htScGnQ0_ceyS5OHaP-Dyyf2e",
+    "photoSore": "https://drive.google.com/open?id=1SEM2VNSt0ye-Tp84XDETm4qzpugdDfwd"
   },
   {
     "id": 88,
@@ -790,7 +964,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1stJ9TH3sKEuvne6YMAYbTBb6Y33u2FBv",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1stJ9TH3sKEuvne6YMAYbTBb6Y33u2FBv"
   },
   {
     "id": 89,
@@ -799,7 +975,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan ruangan pengaduan dan halaman depan ULT",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1rOdqY2mAChq9d6cZRYwqL06Qlk6DOuFG"
+    "photoUrl": "https://drive.google.com/open?id=1rOdqY2mAChq9d6cZRYwqL06Qlk6DOuFG",
+    "photoPagi": "https://drive.google.com/open?id=1rOdqY2mAChq9d6cZRYwqL06Qlk6DOuFG",
+    "photoSore": "https://drive.google.com/open?id=1Unl7OIKl6D_LRI-crtlFg61AvjTX9q_b"
   },
   {
     "id": 90,
@@ -808,7 +986,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberihkan teras aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1zUXPUGOKy_Hk8WfnosS_4zeEunM85eX0"
+    "photoUrl": "https://drive.google.com/open?id=1zUXPUGOKy_Hk8WfnosS_4zeEunM85eX0",
+    "photoPagi": "https://drive.google.com/open?id=1zUXPUGOKy_Hk8WfnosS_4zeEunM85eX0",
+    "photoSore": "https://drive.google.com/open?id=1BuOQA7QYEqmi9xNCI7nTzcenbGwi0lKq"
   },
   {
     "id": 91,
@@ -817,7 +997,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan teras auala utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1y2pHVoGZLvz3d29F7FE7LJ1nD5gavCdY"
+    "photoUrl": "https://drive.google.com/open?id=1y2pHVoGZLvz3d29F7FE7LJ1nD5gavCdY",
+    "photoPagi": "https://drive.google.com/open?id=1y2pHVoGZLvz3d29F7FE7LJ1nD5gavCdY",
+    "photoSore": ""
   },
   {
     "id": 92,
@@ -826,7 +1008,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengganti dudukan toilet dan buat konten tiktok halal bihalal",
     "output": "terselesaikannya pekerjaan",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=11IMiBhSiuOLsVyPXd1o6z646s7LhLOmH"
+    "photoUrl": "https://drive.google.com/open?id=11IMiBhSiuOLsVyPXd1o6z646s7LhLOmH",
+    "photoPagi": "https://drive.google.com/open?id=11IMiBhSiuOLsVyPXd1o6z646s7LhLOmH",
+    "photoSore": "https://drive.google.com/open?id=1FV3RxPk341Uc8ExEXImNcQb8ePmQG5l6"
   },
   {
     "id": 93,
@@ -835,7 +1019,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan kantor",
     "output": "1",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1Y-uu7b_nkE-59WinhdzIZi1Sk0qKQ5wA"
+    "photoUrl": "https://drive.google.com/open?id=1Y-uu7b_nkE-59WinhdzIZi1Sk0qKQ5wA",
+    "photoPagi": "https://drive.google.com/open?id=1Y-uu7b_nkE-59WinhdzIZi1Sk0qKQ5wA",
+    "photoSore": ""
   },
   {
     "id": 94,
@@ -844,7 +1030,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengepel lantai aula mini dan aula besar",
     "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1D36FbL_qPZAIDTv0ZzPzDHaHCLQhoP7z"
+    "photoUrl": "https://drive.google.com/open?id=1D36FbL_qPZAIDTv0ZzPzDHaHCLQhoP7z",
+    "photoPagi": "https://drive.google.com/open?id=1D36FbL_qPZAIDTv0ZzPzDHaHCLQhoP7z",
+    "photoSore": ""
   },
   {
     "id": 95,
@@ -853,7 +1041,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "",
     "output": "",
     "hambatan": "",
-    "photoUrl": "https://drive.google.com/open?id=1V3FmCZbgp0-qknK5JnvSCcAfs8AYDWC7"
+    "photoUrl": "https://drive.google.com/open?id=1V3FmCZbgp0-qknK5JnvSCcAfs8AYDWC7",
+    "photoPagi": "https://drive.google.com/open?id=1V3FmCZbgp0-qknK5JnvSCcAfs8AYDWC7",
+    "photoSore": ""
   },
   {
     "id": 96,
@@ -862,7 +1052,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan rumput sebelah ruangan pengaduan",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1vvS5_cDyIFQNuRIDZF2_Sr_0PrWxIvlK"
+    "photoUrl": "https://drive.google.com/open?id=1vvS5_cDyIFQNuRIDZF2_Sr_0PrWxIvlK",
+    "photoPagi": "https://drive.google.com/open?id=1vvS5_cDyIFQNuRIDZF2_Sr_0PrWxIvlK",
+    "photoSore": ""
   },
   {
     "id": 97,
@@ -871,7 +1063,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memperbaiki mesin sanio dua mesin",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1mUU5uQWUW4DKwjTvMQcdqMcygz-vLDRK"
+    "photoUrl": "https://drive.google.com/open?id=1mUU5uQWUW4DKwjTvMQcdqMcygz-vLDRK",
+    "photoPagi": "https://drive.google.com/open?id=1mUU5uQWUW4DKwjTvMQcdqMcygz-vLDRK",
+    "photoSore": "https://drive.google.com/open?id=1YzZ-PorI1YFqQtcezEY1gPR_xmlIDQt8"
   },
   {
     "id": 98,
@@ -880,7 +1074,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Kegiatan",
     "output": "1",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1lDElklNj96GgVhWBgAuj3QVmfc1nY9As"
+    "photoUrl": "https://drive.google.com/open?id=1lDElklNj96GgVhWBgAuj3QVmfc1nY9As",
+    "photoPagi": "https://drive.google.com/open?id=1lDElklNj96GgVhWBgAuj3QVmfc1nY9As",
+    "photoSore": "https://drive.google.com/open?id=1EgeReFBUwsxgqRNKvHuyi-BtBokQRe6w"
   },
   {
     "id": 99,
@@ -889,7 +1085,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan halaman pengaduan dan membersihkan kaca",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1rpDw39tFCliElxJdpnRPs1mxzQbNQLGS"
+    "photoUrl": "https://drive.google.com/open?id=1rpDw39tFCliElxJdpnRPs1mxzQbNQLGS",
+    "photoPagi": "https://drive.google.com/open?id=1rpDw39tFCliElxJdpnRPs1mxzQbNQLGS",
+    "photoSore": "https://drive.google.com/open?id=1jtTteeqAOfgQlwVEYV6KsVFgAc3edoY1"
   },
   {
     "id": 100,
@@ -898,7 +1096,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Kontrol PLN selesaikan kabel putus depan parkier kepala dan selesaikan verval",
     "output": "terselesaikannya pekerjaan",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1jhYSwJUQkYgSYejHrTYJxk0kITebinq2"
+    "photoUrl": "https://drive.google.com/open?id=1jhYSwJUQkYgSYejHrTYJxk0kITebinq2",
+    "photoPagi": "https://drive.google.com/open?id=1jhYSwJUQkYgSYejHrTYJxk0kITebinq2",
+    "photoSore": "https://drive.google.com/open?id=1um5RERghzKUPiL8CON1VEf-EpFIYFuLb"
   },
   {
     "id": 101,
@@ -907,7 +1107,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan/menyapu lantai aula mini BGTK Sumbar",
     "output": "Bersih-Bersih",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1fo65rhRACcddmAc8aleCf-ltFE-6lfEs",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1fo65rhRACcddmAc8aleCf-ltFE-6lfEs"
   },
   {
     "id": 102,
@@ -916,7 +1118,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Bersihkan teras aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1U0RM925_h82bB1LQYeUHjYnY_J98Gt0u"
+    "photoUrl": "https://drive.google.com/open?id=1U0RM925_h82bB1LQYeUHjYnY_J98Gt0u",
+    "photoPagi": "https://drive.google.com/open?id=1U0RM925_h82bB1LQYeUHjYnY_J98Gt0u",
+    "photoSore": "https://drive.google.com/open?id=1T-qlc9yYd2WhDch5P0kA9uOoVsR0Jxdi"
   },
   {
     "id": 103,
@@ -925,7 +1129,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "",
     "output": "",
     "hambatan": "",
-    "photoUrl": "https://drive.google.com/open?id=1LjzcTbeyh8fPPpqpE5T2UYl-_RBziDdX"
+    "photoUrl": "https://drive.google.com/open?id=1LjzcTbeyh8fPPpqpE5T2UYl-_RBziDdX",
+    "photoPagi": "https://drive.google.com/open?id=1LjzcTbeyh8fPPpqpE5T2UYl-_RBziDdX",
+    "photoSore": ""
   },
   {
     "id": 104,
@@ -934,7 +1140,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu dan mengepel lantai aula mini",
     "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1p-Y20HFXzX-iP0UrHR7SfdAEcTqYcFqv"
+    "photoUrl": "https://drive.google.com/open?id=1p-Y20HFXzX-iP0UrHR7SfdAEcTqYcFqv",
+    "photoPagi": "https://drive.google.com/open?id=1p-Y20HFXzX-iP0UrHR7SfdAEcTqYcFqv",
+    "photoSore": ""
   },
   {
     "id": 105,
@@ -943,7 +1151,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Rapat kompetensi ESDM pegawai",
     "output": "Ke sumatera Utara",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=16T_gJkd177uJvg9uVm0On4zHC8e3WyNM"
+    "photoUrl": "https://drive.google.com/open?id=16T_gJkd177uJvg9uVm0On4zHC8e3WyNM",
+    "photoPagi": "https://drive.google.com/open?id=16T_gJkd177uJvg9uVm0On4zHC8e3WyNM",
+    "photoSore": ""
   },
   {
     "id": 106,
@@ -952,7 +1162,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memperbaiki instalasi air gedung baru,dan rapat di aula mini",
     "output": "Belum di temukan permasalahan nya",
     "hambatan": "Intalasi air dalam tembok dinding",
-    "photoUrl": "https://drive.google.com/open?id=1QqdqlSGJn8GfRWvXVxNpRReDv6AH-SHr"
+    "photoUrl": "https://drive.google.com/open?id=1QqdqlSGJn8GfRWvXVxNpRReDv6AH-SHr",
+    "photoPagi": "https://drive.google.com/open?id=1QqdqlSGJn8GfRWvXVxNpRReDv6AH-SHr",
+    "photoSore": "https://drive.google.com/open?id=18jl5Zro3GfHJEoHPm3qy3cFEiIEVm_p3"
   },
   {
     "id": 107,
@@ -961,7 +1173,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan area dekat parkir kepala",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1SCWUNYkoSgrgwFAaxtWG3hVize-sDJfL"
+    "photoUrl": "https://drive.google.com/open?id=1SCWUNYkoSgrgwFAaxtWG3hVize-sDJfL",
+    "photoPagi": "https://drive.google.com/open?id=1SCWUNYkoSgrgwFAaxtWG3hVize-sDJfL",
+    "photoSore": ""
   },
   {
     "id": 108,
@@ -970,7 +1184,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Kegiatan",
     "output": "1",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=193pWcMT_faPAnejK8_7n7NtHe4mGVS65"
+    "photoUrl": "https://drive.google.com/open?id=193pWcMT_faPAnejK8_7n7NtHe4mGVS65",
+    "photoPagi": "https://drive.google.com/open?id=193pWcMT_faPAnejK8_7n7NtHe4mGVS65",
+    "photoSore": "https://drive.google.com/open?id=1pWxSzb7HBi7UIK3dmdDNsnaCCnC9XVC-"
   },
   {
     "id": 109,
@@ -979,7 +1195,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu lantai aula besar",
     "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1BUQ-7HRGLr7cYMgtGQ8pguaZmhGo38TX",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1BUQ-7HRGLr7cYMgtGQ8pguaZmhGo38TX"
   },
   {
     "id": 110,
@@ -988,7 +1206,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan samping asrama baru dan toilet",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1Y3toh4XuJ0kbKzK1c_CY57Af1EJrDo6h"
+    "photoUrl": "https://drive.google.com/open?id=1Y3toh4XuJ0kbKzK1c_CY57Af1EJrDo6h",
+    "photoPagi": "https://drive.google.com/open?id=1Y3toh4XuJ0kbKzK1c_CY57Af1EJrDo6h",
+    "photoSore": "https://drive.google.com/open?id=1QVq-us-NRYcht9m7XNDn1PcWMbXX4Oor"
   },
   {
     "id": 111,
@@ -997,7 +1217,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan  kantor",
     "output": "1",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1SUDtfKMNsVaNYqwTHQsdg-5TZnzbenl5"
+    "photoUrl": "https://drive.google.com/open?id=1SUDtfKMNsVaNYqwTHQsdg-5TZnzbenl5",
+    "photoPagi": "https://drive.google.com/open?id=1SUDtfKMNsVaNYqwTHQsdg-5TZnzbenl5",
+    "photoSore": ""
   },
   {
     "id": 112,
@@ -1006,7 +1228,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Ngepel lantai aula mini",
     "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1f1fO6-FATAVRJ1RO25oxbQJMklkfj_OE"
+    "photoUrl": "https://drive.google.com/open?id=1f1fO6-FATAVRJ1RO25oxbQJMklkfj_OE",
+    "photoPagi": "https://drive.google.com/open?id=1f1fO6-FATAVRJ1RO25oxbQJMklkfj_OE",
+    "photoSore": ""
   },
   {
     "id": 113,
@@ -1015,7 +1239,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan area ULT pengaduan dan halaman numerasi",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=19YApK5X8K-LHVAe-PYxuEA4-myT44rUP"
+    "photoUrl": "https://drive.google.com/open?id=19YApK5X8K-LHVAe-PYxuEA4-myT44rUP",
+    "photoPagi": "https://drive.google.com/open?id=19YApK5X8K-LHVAe-PYxuEA4-myT44rUP",
+    "photoSore": ""
   },
   {
     "id": 114,
@@ -1024,7 +1250,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Stambay di repsionis kantor",
     "output": "Stambay Nunggu tamu BGTK Sumbar",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1dCyrWpZuafpen7X8EU3nNzbsR3Z6JrT-"
+    "photoUrl": "https://drive.google.com/open?id=1dCyrWpZuafpen7X8EU3nNzbsR3Z6JrT-",
+    "photoPagi": "https://drive.google.com/open?id=1dCyrWpZuafpen7X8EU3nNzbsR3Z6JrT-",
+    "photoSore": ""
   },
   {
     "id": 115,
@@ -1033,7 +1261,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan dan pel ULT SERTA MENCABUT rumput di pekarangan",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1NzdTYrReiFtTCKPcM6hKO84wAnSNXCC5"
+    "photoUrl": "https://drive.google.com/open?id=1NzdTYrReiFtTCKPcM6hKO84wAnSNXCC5",
+    "photoPagi": "https://drive.google.com/open?id=1NzdTYrReiFtTCKPcM6hKO84wAnSNXCC5",
+    "photoSore": "https://drive.google.com/open?id=1zKW5MZWrVFxSkcWN4CZTnqyNpnpdUHCD"
   },
   {
     "id": 116,
@@ -1042,7 +1272,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu lantai aula mini BGTK Sumbar",
     "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1bQl8MkfuH7w9cShx8LGVRVohgRbUWBzb",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1bQl8MkfuH7w9cShx8LGVRVohgRbUWBzb"
   },
   {
     "id": 117,
@@ -1051,7 +1283,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memperbaiki pipa lepas jalur ke gedung utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1LsIGCCbYAv--KRbsrr9WAb5VDTUn9N2N"
+    "photoUrl": "https://drive.google.com/open?id=1LsIGCCbYAv--KRbsrr9WAb5VDTUn9N2N",
+    "photoPagi": "https://drive.google.com/open?id=1LsIGCCbYAv--KRbsrr9WAb5VDTUn9N2N",
+    "photoSore": "https://drive.google.com/open?id=1BSDhzBJ-eo0X9Laqq_t_RNB8lPSfNDMw"
   },
   {
     "id": 118,
@@ -1060,7 +1294,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan area gedung utama tempat mobil dinas pakir",
     "output": "Bersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1cmfxnzjW25DhUWJkxHBgOuITCZtoxaab"
+    "photoUrl": "https://drive.google.com/open?id=1cmfxnzjW25DhUWJkxHBgOuITCZtoxaab",
+    "photoPagi": "https://drive.google.com/open?id=1cmfxnzjW25DhUWJkxHBgOuITCZtoxaab",
+    "photoSore": ""
   },
   {
     "id": 119,
@@ -1069,7 +1305,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mencabut rumput depan ruangan numerasi",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1JEAA3T6syiMa0Q5HtTquJwSS2neVTYNt"
+    "photoUrl": "https://drive.google.com/open?id=1JEAA3T6syiMa0Q5HtTquJwSS2neVTYNt",
+    "photoPagi": "https://drive.google.com/open?id=1JEAA3T6syiMa0Q5HtTquJwSS2neVTYNt",
+    "photoSore": ""
   },
   {
     "id": 120,
@@ -1078,7 +1316,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Ngepel lantai aula mini BGTK Sumbar",
     "output": "Bersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=16C4DQoQYF3ND8EHYXFraa1boELQL6AmQ"
+    "photoUrl": "https://drive.google.com/open?id=16C4DQoQYF3ND8EHYXFraa1boELQL6AmQ",
+    "photoPagi": "https://drive.google.com/open?id=16C4DQoQYF3ND8EHYXFraa1boELQL6AmQ",
+    "photoSore": ""
   },
   {
     "id": 121,
@@ -1087,7 +1327,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memperbaiki kran air d gedung baru",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1bannsGvlPfdsH03iL0qF3oUqHAVxnUlc"
+    "photoUrl": "https://drive.google.com/open?id=1bannsGvlPfdsH03iL0qF3oUqHAVxnUlc",
+    "photoPagi": "https://drive.google.com/open?id=1bannsGvlPfdsH03iL0qF3oUqHAVxnUlc",
+    "photoSore": "https://drive.google.com/open?id=1CSgBzjDwb3rU5D1dpDlsWOZmvVBrsok6"
   },
   {
     "id": 122,
@@ -1096,7 +1338,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan lantai aula mini",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1tWwRSkH-5pXEXg1o6FilHuZi-dgVqKXJ",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1tWwRSkH-5pXEXg1o6FilHuZi-dgVqKXJ"
   },
   {
     "id": 123,
@@ -1105,7 +1349,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan kantor",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1-Pnf7NtCCiNT-YEiiBszJro4joWPGFCn"
+    "photoUrl": "https://drive.google.com/open?id=1-Pnf7NtCCiNT-YEiiBszJro4joWPGFCn",
+    "photoPagi": "https://drive.google.com/open?id=1-Pnf7NtCCiNT-YEiiBszJro4joWPGFCn",
+    "photoSore": ""
   },
   {
     "id": 124,
@@ -1114,7 +1360,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu lantai aula mini",
     "output": "Bersih-Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1kgWiw9fXUgOaCsHgEbjz40pM17tsEbD0"
+    "photoUrl": "https://drive.google.com/open?id=1kgWiw9fXUgOaCsHgEbjz40pM17tsEbD0",
+    "photoPagi": "https://drive.google.com/open?id=1kgWiw9fXUgOaCsHgEbjz40pM17tsEbD0",
+    "photoSore": ""
   },
   {
     "id": 125,
@@ -1123,7 +1371,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Tertatanya ruangan halaman aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1BqU95zqpDqYNOXEIZL-1cOZ5xvjlQ6C8"
+    "photoUrl": "https://drive.google.com/open?id=1BqU95zqpDqYNOXEIZL-1cOZ5xvjlQ6C8",
+    "photoPagi": "https://drive.google.com/open?id=1BqU95zqpDqYNOXEIZL-1cOZ5xvjlQ6C8",
+    "photoSore": "https://drive.google.com/open?id=1GijroTs56fDkRvk9IAEt3JP9ROu_Avn4"
   },
   {
     "id": 126,
@@ -1132,7 +1382,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan teras ULT dan membersihkan toilet",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1ZQF1kL9q9754qS_wyNKqIfeppkC1UnyW"
+    "photoUrl": "https://drive.google.com/open?id=1ZQF1kL9q9754qS_wyNKqIfeppkC1UnyW",
+    "photoPagi": "https://drive.google.com/open?id=1ZQF1kL9q9754qS_wyNKqIfeppkC1UnyW",
+    "photoSore": "https://drive.google.com/open?id=1rWH-imywcdmt0LcJ6Tjbof6-Ras0bNzx"
   },
   {
     "id": 127,
@@ -1141,7 +1393,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Kegiatan",
     "output": "1",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=142JgdXgEay2GHs1cjSIj3abBJO6RMSF_"
+    "photoUrl": "https://drive.google.com/open?id=142JgdXgEay2GHs1cjSIj3abBJO6RMSF_",
+    "photoPagi": "https://drive.google.com/open?id=142JgdXgEay2GHs1cjSIj3abBJO6RMSF_",
+    "photoSore": "https://drive.google.com/open?id=1lwUxi12yOc7N5kpUgf-T8IC047AH9W_C"
   },
   {
     "id": 128,
@@ -1150,7 +1404,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan kantor",
     "output": "Kegiatan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=15W6icDserqrp0zmGfoJFsNwYtiwr0KtE"
+    "photoUrl": "https://drive.google.com/open?id=15W6icDserqrp0zmGfoJFsNwYtiwr0KtE",
+    "photoPagi": "https://drive.google.com/open?id=15W6icDserqrp0zmGfoJFsNwYtiwr0KtE",
+    "photoSore": ""
   },
   {
     "id": 129,
@@ -1159,7 +1415,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan depan halaman numerasi",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=10NWWWy9EMvybuhlxM_5ARhhUM6txn_gN",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=10NWWWy9EMvybuhlxM_5ARhhUM6txn_gN"
   },
   {
     "id": 130,
@@ -1168,7 +1426,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memasang mesin sanio",
     "output": "Terlaksana",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1bOImfrhBhd5uRumniZjRyO2t6coJxccB"
+    "photoUrl": "https://drive.google.com/open?id=1bOImfrhBhd5uRumniZjRyO2t6coJxccB",
+    "photoPagi": "https://drive.google.com/open?id=1bOImfrhBhd5uRumniZjRyO2t6coJxccB",
+    "photoSore": "https://drive.google.com/open?id=1K1rIeDH7CXygo52Qd_mZOT5l1fDL8lJu"
   },
   {
     "id": 131,
@@ -1177,7 +1437,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan aula besar",
     "output": "Menyapu aula",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1WEyODfggAg1c5wrWFSItxwHUsA1wCBIB",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1WEyODfggAg1c5wrWFSItxwHUsA1wCBIB"
   },
   {
     "id": 132,
@@ -1186,7 +1448,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor",
     "output": "Kegiatan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1K_KuHnOrrKwF636P3K1lMhhaMKNrMG2o"
+    "photoUrl": "https://drive.google.com/open?id=1K_KuHnOrrKwF636P3K1lMhhaMKNrMG2o",
+    "photoPagi": "https://drive.google.com/open?id=1K_KuHnOrrKwF636P3K1lMhhaMKNrMG2o",
+    "photoSore": ""
   },
   {
     "id": 133,
@@ -1195,7 +1459,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu dan mengepel lantai area parkir mobil dinas",
     "output": "Membersihkan area mobil dinas",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1RWKO7FA0YaatE9NdOzcR_L7vmBkYV0XF"
+    "photoUrl": "https://drive.google.com/open?id=1RWKO7FA0YaatE9NdOzcR_L7vmBkYV0XF",
+    "photoPagi": "https://drive.google.com/open?id=1RWKO7FA0YaatE9NdOzcR_L7vmBkYV0XF",
+    "photoSore": ""
   },
   {
     "id": 134,
@@ -1204,7 +1470,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "mengepel ruangan pengaduan,dan pustaka",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1-HW6tG1SVSgB3iwG3DaC_SCpWEvdLf4i"
+    "photoUrl": "https://drive.google.com/open?id=1-HW6tG1SVSgB3iwG3DaC_SCpWEvdLf4i",
+    "photoPagi": "https://drive.google.com/open?id=1-HW6tG1SVSgB3iwG3DaC_SCpWEvdLf4i",
+    "photoSore": ""
   },
   {
     "id": 135,
@@ -1213,7 +1481,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan ruangan hol mini",
     "output": "Bersih",
     "hambatan": "-terlupa tanggal 9 maret",
-    "photoUrl": "https://drive.google.com/open?id=1X-ahDB2cAlNcppeizvjjhLeUIDKXsnSa"
+    "photoUrl": "https://drive.google.com/open?id=1X-ahDB2cAlNcppeizvjjhLeUIDKXsnSa",
+    "photoPagi": "https://drive.google.com/open?id=1X-ahDB2cAlNcppeizvjjhLeUIDKXsnSa",
+    "photoSore": ""
   },
   {
     "id": 136,
@@ -1222,7 +1492,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan perkarsng kantor",
     "output": "Bersih",
     "hambatan": "Terlupa tanggal 9 maret sore",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1yQhrq3J0jeqp8iD-fn0wLkGQEpOtcSTn",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1yQhrq3J0jeqp8iD-fn0wLkGQEpOtcSTn"
   },
   {
     "id": 137,
@@ -1231,7 +1503,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menata seluruh ruang aula utama dan membersihkan",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1fIU5_tX7OxrCCLO6-_Q9ZGio9EZgKX9u"
+    "photoUrl": "https://drive.google.com/open?id=1fIU5_tX7OxrCCLO6-_Q9ZGio9EZgKX9u",
+    "photoPagi": "https://drive.google.com/open?id=1fIU5_tX7OxrCCLO6-_Q9ZGio9EZgKX9u",
+    "photoSore": "https://drive.google.com/open?id=1OEWNLulKVt1qHIHwBHwVoOAPwVB8dJ-r"
   },
   {
     "id": 138,
@@ -1240,7 +1514,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan halaman aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1lXmYhf_JjlzTE5juFzYxm_vUtj0WefFe"
+    "photoUrl": "https://drive.google.com/open?id=1lXmYhf_JjlzTE5juFzYxm_vUtj0WefFe",
+    "photoPagi": "https://drive.google.com/open?id=1lXmYhf_JjlzTE5juFzYxm_vUtj0WefFe",
+    "photoSore": "https://drive.google.com/open?id=1xLG_uUa4hLdzkyu5Ajqc_cpIqSkmHyno"
   },
   {
     "id": 139,
@@ -1249,7 +1525,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan mushalla",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1ZBS64TQ6uX8ef8yj9M_oeXmblqV-DXOt"
+    "photoUrl": "https://drive.google.com/open?id=1ZBS64TQ6uX8ef8yj9M_oeXmblqV-DXOt",
+    "photoPagi": "https://drive.google.com/open?id=1ZBS64TQ6uX8ef8yj9M_oeXmblqV-DXOt",
+    "photoSore": "https://drive.google.com/open?id=16nhLOi3yZYQhNxrIg2tt39qoTteSbP3U"
   },
   {
     "id": 140,
@@ -1258,7 +1536,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memebersihkan lingjungan kantor",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1UYYyg-G3uiRqLV711q7U0t0LWuyx3IUi"
+    "photoUrl": "https://drive.google.com/open?id=1UYYyg-G3uiRqLV711q7U0t0LWuyx3IUi",
+    "photoPagi": "https://drive.google.com/open?id=1UYYyg-G3uiRqLV711q7U0t0LWuyx3IUi",
+    "photoSore": "https://drive.google.com/open?id=17snGaVEwyK1VeSKM5BV1AUiuchBStuiM"
   },
   {
     "id": 141,
@@ -1267,7 +1547,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan area numerasi sampai halaman",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1zB-2_V94r0rnfGvdSJimDh0P6XipqMse"
+    "photoUrl": "https://drive.google.com/open?id=1zB-2_V94r0rnfGvdSJimDh0P6XipqMse",
+    "photoPagi": "https://drive.google.com/open?id=1zB-2_V94r0rnfGvdSJimDh0P6XipqMse",
+    "photoSore": ""
   },
   {
     "id": 142,
@@ -1276,7 +1558,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Melayani tamu hotel",
     "output": "Pelayanan prima",
     "hambatan": "Lupa tanggal. 10 April 2026",
-    "photoUrl": "https://drive.google.com/open?id=1vAYDSBIXc5cDAL3ndemGUb5ukIuuPb0T"
+    "photoUrl": "https://drive.google.com/open?id=1vAYDSBIXc5cDAL3ndemGUb5ukIuuPb0T",
+    "photoPagi": "https://drive.google.com/open?id=1vAYDSBIXc5cDAL3ndemGUb5ukIuuPb0T",
+    "photoSore": ""
   },
   {
     "id": 143,
@@ -1285,7 +1569,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan rumah dinas",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1o9u0rQb3RAnUmSkcUwT3P77jN2aOvBRK"
+    "photoUrl": "https://drive.google.com/open?id=1o9u0rQb3RAnUmSkcUwT3P77jN2aOvBRK",
+    "photoPagi": "https://drive.google.com/open?id=1o9u0rQb3RAnUmSkcUwT3P77jN2aOvBRK",
+    "photoSore": ""
   },
   {
     "id": 144,
@@ -1294,7 +1580,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mencabut rumput di dekat taman lumerasi",
     "output": "Bersih",
     "hambatan": "Lupa tanggal 10 April 202 sore",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1SqBwIchzxwpGE8ULCkMFtcUUupL0UT25",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1SqBwIchzxwpGE8ULCkMFtcUUupL0UT25"
   },
   {
     "id": 145,
@@ -1303,7 +1591,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Melayani tamu",
     "output": "Pelayanan prima",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1qw71d4pdrXmomRJfFRpTB4suJd-8G0sv"
+    "photoUrl": "https://drive.google.com/open?id=1qw71d4pdrXmomRJfFRpTB4suJd-8G0sv",
+    "photoPagi": "https://drive.google.com/open?id=1qw71d4pdrXmomRJfFRpTB4suJd-8G0sv",
+    "photoSore": ""
   },
   {
     "id": 146,
@@ -1312,7 +1602,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "fitriandi",
     "output": "membersihkan ruangan teras pengaduan",
     "hambatan": "_",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=13irV9oSrJZZ25N7M2S3Tfxc9AsL26eFa",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=13irV9oSrJZZ25N7M2S3Tfxc9AsL26eFa"
   },
   {
     "id": 147,
@@ -1321,7 +1613,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan aula mini dan mengecek meteran listri yg mati",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1A4gzJ0VIsvB5I831vu0XY0ead3bVt2dE"
+    "photoUrl": "https://drive.google.com/open?id=1A4gzJ0VIsvB5I831vu0XY0ead3bVt2dE",
+    "photoPagi": "https://drive.google.com/open?id=1A4gzJ0VIsvB5I831vu0XY0ead3bVt2dE",
+    "photoSore": "https://drive.google.com/open?id=1X8fAGC42Wmgo1mkNxD1bEKh885WSwi3d"
   },
   {
     "id": 148,
@@ -1330,7 +1624,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor",
     "output": "Bersih",
     "hambatan": "",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=14rwTYxCREj1xr77RfJoq9Y3Rc65d1R5U",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=14rwTYxCREj1xr77RfJoq9Y3Rc65d1R5U"
   },
   {
     "id": 149,
@@ -1339,7 +1635,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu area parkir mobil dinas",
     "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1ZoL9l_nCfV-LZ4cXIRZ52ZzvIjPAWtGs",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1ZoL9l_nCfV-LZ4cXIRZ52ZzvIjPAWtGs"
   },
   {
     "id": 150,
@@ -1348,7 +1646,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan are kantor",
     "output": "Bersih",
     "hambatan": "-⁰",
-    "photoUrl": "https://drive.google.com/open?id=17F06dGMuRC01D8hoQET0rwolIfjVluS5"
+    "photoUrl": "https://drive.google.com/open?id=17F06dGMuRC01D8hoQET0rwolIfjVluS5",
+    "photoPagi": "https://drive.google.com/open?id=17F06dGMuRC01D8hoQET0rwolIfjVluS5",
+    "photoSore": ""
   },
   {
     "id": 151,
@@ -1357,7 +1657,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyiapkan ruangan untuk senam pagi",
     "output": "Siap",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=18Bj29lc8dtSLbmZQfB--FRNMuuXYTHPm"
+    "photoUrl": "https://drive.google.com/open?id=18Bj29lc8dtSLbmZQfB--FRNMuuXYTHPm",
+    "photoPagi": "https://drive.google.com/open?id=18Bj29lc8dtSLbmZQfB--FRNMuuXYTHPm",
+    "photoSore": ""
   },
   {
     "id": 152,
@@ -1366,7 +1668,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1Vx_6hf9CFIn6ed-j_wr6AfXpuXZT6ZWY"
+    "photoUrl": "https://drive.google.com/open?id=1Vx_6hf9CFIn6ed-j_wr6AfXpuXZT6ZWY",
+    "photoPagi": "https://drive.google.com/open?id=1Vx_6hf9CFIn6ed-j_wr6AfXpuXZT6ZWY",
+    "photoSore": ""
   },
   {
     "id": 153,
@@ -1375,7 +1679,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan lumerasi",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1Bp5BpefCaw-Q1iJvYZUARCduevfmgRdB"
+    "photoUrl": "https://drive.google.com/open?id=1Bp5BpefCaw-Q1iJvYZUARCduevfmgRdB",
+    "photoPagi": "https://drive.google.com/open?id=1Bp5BpefCaw-Q1iJvYZUARCduevfmgRdB",
+    "photoSore": ""
   },
   {
     "id": 154,
@@ -1384,7 +1690,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor di parkiran baru",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1iPmE4TaTqhuHSZ9KK81btraXUu0FqJKf"
+    "photoUrl": "https://drive.google.com/open?id=1iPmE4TaTqhuHSZ9KK81btraXUu0FqJKf",
+    "photoPagi": "https://drive.google.com/open?id=1iPmE4TaTqhuHSZ9KK81btraXUu0FqJKf",
+    "photoSore": ""
   },
   {
     "id": 155,
@@ -1393,7 +1701,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu area parkir mobil dinas",
     "output": "Bersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1q00sfrDDl48rUHYhC9UIQWf4p6WVTefF"
+    "photoUrl": "https://drive.google.com/open?id=1q00sfrDDl48rUHYhC9UIQWf4p6WVTefF",
+    "photoPagi": "https://drive.google.com/open?id=1q00sfrDDl48rUHYhC9UIQWf4p6WVTefF",
+    "photoSore": ""
   },
   {
     "id": 156,
@@ -1402,7 +1712,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menyiram bunga",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1UO2GEcO4Q1aEMRYuP-_ct2rAJHulnjcM"
+    "photoUrl": "https://drive.google.com/open?id=1UO2GEcO4Q1aEMRYuP-_ct2rAJHulnjcM",
+    "photoPagi": "https://drive.google.com/open?id=1UO2GEcO4Q1aEMRYuP-_ct2rAJHulnjcM",
+    "photoSore": ""
   },
   {
     "id": 157,
@@ -1411,7 +1723,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "belajar tentang laptop",
     "output": "selesai",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1szOX6spDn4E9GrtRuyc9j9nPklr6dFzA"
+    "photoUrl": "https://drive.google.com/open?id=1szOX6spDn4E9GrtRuyc9j9nPklr6dFzA",
+    "photoPagi": "https://drive.google.com/open?id=1szOX6spDn4E9GrtRuyc9j9nPklr6dFzA",
+    "photoSore": ""
   },
   {
     "id": 158,
@@ -1420,7 +1734,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menyiram bunga",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=105D3I17NjFYbd6y-psvEIB9Yx2eDIIWl"
+    "photoUrl": "https://drive.google.com/open?id=105D3I17NjFYbd6y-psvEIB9Yx2eDIIWl",
+    "photoPagi": "https://drive.google.com/open?id=105D3I17NjFYbd6y-psvEIB9Yx2eDIIWl",
+    "photoSore": ""
   },
   {
     "id": 159,
@@ -1429,7 +1745,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mencek mesin air",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1y7CDZ1UtAE3nBUsBj_z2rXTJ44F8FLIK"
+    "photoUrl": "https://drive.google.com/open?id=1y7CDZ1UtAE3nBUsBj_z2rXTJ44F8FLIK",
+    "photoPagi": "https://drive.google.com/open?id=1y7CDZ1UtAE3nBUsBj_z2rXTJ44F8FLIK",
+    "photoSore": ""
   },
   {
     "id": 160,
@@ -1438,7 +1756,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mencek temon air",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1llJicpxvpmpyHk-LdmWoi6P9jtWXaxXG"
+    "photoUrl": "https://drive.google.com/open?id=1llJicpxvpmpyHk-LdmWoi6P9jtWXaxXG",
+    "photoPagi": "https://drive.google.com/open?id=1llJicpxvpmpyHk-LdmWoi6P9jtWXaxXG",
+    "photoSore": ""
   },
   {
     "id": 161,
@@ -1447,7 +1767,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Belajar lepto di aula mini",
     "output": "1",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=16TWTih69k2DtAX8JIeLuknbBACMPmT5_"
+    "photoUrl": "https://drive.google.com/open?id=16TWTih69k2DtAX8JIeLuknbBACMPmT5_",
+    "photoPagi": "https://drive.google.com/open?id=16TWTih69k2DtAX8JIeLuknbBACMPmT5_",
+    "photoSore": ""
   },
   {
     "id": 162,
@@ -1456,7 +1778,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu area parkir mobil dinas",
     "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1mAT4NGFJ471zt8sOXbOTpB63Kbv5f5U7"
+    "photoUrl": "https://drive.google.com/open?id=1mAT4NGFJ471zt8sOXbOTpB63Kbv5f5U7",
+    "photoPagi": "https://drive.google.com/open?id=1mAT4NGFJ471zt8sOXbOTpB63Kbv5f5U7",
+    "photoSore": ""
   },
   {
     "id": 163,
@@ -1465,7 +1789,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan halaman aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1tURnwoamcK9e14xv79G_coz33ly_J-mb"
+    "photoUrl": "https://drive.google.com/open?id=1tURnwoamcK9e14xv79G_coz33ly_J-mb",
+    "photoPagi": "https://drive.google.com/open?id=1tURnwoamcK9e14xv79G_coz33ly_J-mb",
+    "photoSore": "https://drive.google.com/open?id=1eObD92vy-H0IoJ_JGSw_QvCksvvDlsQx"
   },
   {
     "id": 164,
@@ -1474,7 +1800,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memeberaihkan halaman auala utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1SLUvqK6OEbOXpGg6gQYXNoHkrx_0olzg"
+    "photoUrl": "https://drive.google.com/open?id=1SLUvqK6OEbOXpGg6gQYXNoHkrx_0olzg",
+    "photoPagi": "https://drive.google.com/open?id=1SLUvqK6OEbOXpGg6gQYXNoHkrx_0olzg",
+    "photoSore": "https://drive.google.com/open?id=10oPqyp7KqHy8o0l0q__pCvYg676fQC0Y"
   },
   {
     "id": 165,
@@ -1483,7 +1811,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan aula utama",
     "output": "-",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1ZoBKaaGJcj4JAcefxtzI6YCSC3VmCRX9"
+    "photoUrl": "https://drive.google.com/open?id=1ZoBKaaGJcj4JAcefxtzI6YCSC3VmCRX9",
+    "photoPagi": "https://drive.google.com/open?id=1ZoBKaaGJcj4JAcefxtzI6YCSC3VmCRX9",
+    "photoSore": "https://drive.google.com/open?id=1Z1nK_dO9wxTEmsQarV80bshilgB_r2MG"
   },
   {
     "id": 166,
@@ -1492,7 +1822,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Belajar laptop",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1r6q8DsbA8_yW5sZuIsTf7BSY18Da-C1s"
+    "photoUrl": "https://drive.google.com/open?id=1r6q8DsbA8_yW5sZuIsTf7BSY18Da-C1s",
+    "photoPagi": "https://drive.google.com/open?id=1r6q8DsbA8_yW5sZuIsTf7BSY18Da-C1s",
+    "photoSore": ""
   },
   {
     "id": 167,
@@ -1501,7 +1833,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Belajar aplikasi sama robi diaula mini",
     "output": "Lancar",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1U7g3jVx2ej5SEUlt2o6ByHidpSMYtiDL"
+    "photoUrl": "https://drive.google.com/open?id=1U7g3jVx2ej5SEUlt2o6ByHidpSMYtiDL",
+    "photoPagi": "https://drive.google.com/open?id=1U7g3jVx2ej5SEUlt2o6ByHidpSMYtiDL",
+    "photoSore": ""
   },
   {
     "id": 168,
@@ -1510,7 +1844,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Belajar laptop di ruang hol mini sama robi",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1DMnK5brcqdwFkad4h4E6tKatoAXC_a4V"
+    "photoUrl": "https://drive.google.com/open?id=1DMnK5brcqdwFkad4h4E6tKatoAXC_a4V",
+    "photoPagi": "https://drive.google.com/open?id=1DMnK5brcqdwFkad4h4E6tKatoAXC_a4V",
+    "photoSore": ""
   },
   {
     "id": 169,
@@ -1519,7 +1855,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "belajar tentang aplikasi laptop bersama",
     "output": "mendengarkan",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1tVV2UFOYg3-cZqPgiD80ctAb2hO3Fr_y"
+    "photoUrl": "https://drive.google.com/open?id=1tVV2UFOYg3-cZqPgiD80ctAb2hO3Fr_y",
+    "photoPagi": "https://drive.google.com/open?id=1tVV2UFOYg3-cZqPgiD80ctAb2hO3Fr_y",
+    "photoSore": ""
   },
   {
     "id": 170,
@@ -1528,7 +1866,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan ruang hol mini",
     "output": "Bersih",
     "hambatan": "Tak ada",
-    "photoUrl": "https://drive.google.com/open?id=1UmKtYF8w2ecHUWxke_dTYY2ogTkIm6HV"
+    "photoUrl": "https://drive.google.com/open?id=1UmKtYF8w2ecHUWxke_dTYY2ogTkIm6HV",
+    "photoPagi": "https://drive.google.com/open?id=1UmKtYF8w2ecHUWxke_dTYY2ogTkIm6HV",
+    "photoSore": ""
   },
   {
     "id": 171,
@@ -1537,7 +1877,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membuang sampah ketempat pembungaan sampah",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1ng6xr0TmHYnIuW0ztYNxyA66nZ5oN1YZ"
+    "photoUrl": "https://drive.google.com/open?id=1ng6xr0TmHYnIuW0ztYNxyA66nZ5oN1YZ",
+    "photoPagi": "https://drive.google.com/open?id=1ng6xr0TmHYnIuW0ztYNxyA66nZ5oN1YZ",
+    "photoSore": ""
   },
   {
     "id": 172,
@@ -1546,7 +1888,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan rak penitipan barang",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1NeDvDe6w4PbCqWjiclWKCy9ctTgZzsjx",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1NeDvDe6w4PbCqWjiclWKCy9ctTgZzsjx"
   },
   {
     "id": 173,
@@ -1555,7 +1899,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan  teras aula mini",
     "output": "Terselesaikan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1FNAZM0z2aJkr3KW-RNv5XKiNIgKuw4zz"
+    "photoUrl": "https://drive.google.com/open?id=1FNAZM0z2aJkr3KW-RNv5XKiNIgKuw4zz",
+    "photoPagi": "https://drive.google.com/open?id=1FNAZM0z2aJkr3KW-RNv5XKiNIgKuw4zz",
+    "photoSore": "https://drive.google.com/open?id=19ECelBOp1UU6bFZng7fVYtnIVUayypV3"
   },
   {
     "id": 174,
@@ -1564,7 +1910,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menyapu teras ULT",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=18BrWKHbNVR3yTox5hka4tXlSCGCHN9Ey",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=18BrWKHbNVR3yTox5hka4tXlSCGCHN9Ey"
   },
   {
     "id": 175,
@@ -1573,7 +1921,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor",
     "output": "Bersih",
     "hambatan": "Tidak",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1qBLJYHqgt7OqqiK0KRCc2z9K9IpMHdq7",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1qBLJYHqgt7OqqiK0KRCc2z9K9IpMHdq7"
   },
   {
     "id": 176,
@@ -1582,7 +1932,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "mendampingi  tamu biro keuangan",
     "output": "terlaksananya pekerjaan",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1uH38DTiXVOaHyG0v9BeM-8h4aSC9kwp5"
+    "photoUrl": "https://drive.google.com/open?id=1uH38DTiXVOaHyG0v9BeM-8h4aSC9kwp5",
+    "photoPagi": "https://drive.google.com/open?id=1uH38DTiXVOaHyG0v9BeM-8h4aSC9kwp5",
+    "photoSore": "https://drive.google.com/open?id=1f41jnd5A8jrERd1ChTvLDn0nED55-aAf"
   },
   {
     "id": 177,
@@ -1591,7 +1943,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu lantai belakang aula besar BGTK Sumbar",
     "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1HWtupNPcIpHK5G8g_y2CeetEkey8OxHK",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1HWtupNPcIpHK5G8g_y2CeetEkey8OxHK"
   },
   {
     "id": 178,
@@ -1600,7 +1954,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan kantor",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1XHg6MMiE-6bM0htegHtbRR10JtHQs7Ru"
+    "photoUrl": "https://drive.google.com/open?id=1XHg6MMiE-6bM0htegHtbRR10JtHQs7Ru",
+    "photoPagi": "https://drive.google.com/open?id=1XHg6MMiE-6bM0htegHtbRR10JtHQs7Ru",
+    "photoSore": ""
   },
   {
     "id": 179,
@@ -1609,7 +1965,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan ruangan asrama putra",
     "output": "1",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=19l5PhKXcXvZ7N5kBEmZiS9sZGN0lVYWJ"
+    "photoUrl": "https://drive.google.com/open?id=19l5PhKXcXvZ7N5kBEmZiS9sZGN0lVYWJ",
+    "photoPagi": "https://drive.google.com/open?id=19l5PhKXcXvZ7N5kBEmZiS9sZGN0lVYWJ",
+    "photoSore": ""
   },
   {
     "id": 180,
@@ -1618,7 +1976,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1l76cyFEtv5x0FrilcNXUU4mjpSKNMEgv"
+    "photoUrl": "https://drive.google.com/open?id=1l76cyFEtv5x0FrilcNXUU4mjpSKNMEgv",
+    "photoPagi": "https://drive.google.com/open?id=1l76cyFEtv5x0FrilcNXUU4mjpSKNMEgv",
+    "photoSore": ""
   },
   {
     "id": 181,
@@ -1627,7 +1987,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mencabut rumput",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1ofXpYbFdTbY--Pu4J1Z5PFJ8c2DUxnnm"
+    "photoUrl": "https://drive.google.com/open?id=1ofXpYbFdTbY--Pu4J1Z5PFJ8c2DUxnnm",
+    "photoPagi": "https://drive.google.com/open?id=1ofXpYbFdTbY--Pu4J1Z5PFJ8c2DUxnnm",
+    "photoSore": ""
   },
   {
     "id": 182,
@@ -1636,7 +1998,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan asrama lantai 2",
     "output": "1",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1TB7x59776_DWIwbqbaAVtxrXSbnvpbdI"
+    "photoUrl": "https://drive.google.com/open?id=1TB7x59776_DWIwbqbaAVtxrXSbnvpbdI",
+    "photoPagi": "https://drive.google.com/open?id=1TB7x59776_DWIwbqbaAVtxrXSbnvpbdI",
+    "photoSore": ""
   },
   {
     "id": 183,
@@ -1645,7 +2009,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu lantai belakang aula besar BGTK",
     "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1q48FtsbTfOHiaaq5lYVPvwyu_CPn6ykz"
+    "photoUrl": "https://drive.google.com/open?id=1q48FtsbTfOHiaaq5lYVPvwyu_CPn6ykz",
+    "photoPagi": "https://drive.google.com/open?id=1q48FtsbTfOHiaaq5lYVPvwyu_CPn6ykz",
+    "photoSore": ""
   },
   {
     "id": 184,
@@ -1654,7 +2020,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan ruangan dan halaman ruang numerasi",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1gipJv3wR4LJyUZ5P_CU8w6E665SDussS"
+    "photoUrl": "https://drive.google.com/open?id=1gipJv3wR4LJyUZ5P_CU8w6E665SDussS",
+    "photoPagi": "https://drive.google.com/open?id=1gipJv3wR4LJyUZ5P_CU8w6E665SDussS",
+    "photoSore": ""
   },
   {
     "id": 185,
@@ -1663,7 +2031,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "mencabut rumput rumah dinas",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1LlV7xA0uBHe_t-WswhCaHiABapjKicL0"
+    "photoUrl": "https://drive.google.com/open?id=1LlV7xA0uBHe_t-WswhCaHiABapjKicL0",
+    "photoPagi": "https://drive.google.com/open?id=1LlV7xA0uBHe_t-WswhCaHiABapjKicL0",
+    "photoSore": ""
   },
   {
     "id": 186,
@@ -1672,7 +2042,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan kan halaman samping asrama putra",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1W7h_kH9nlJGOOdzwD5k435feVJMhn9Jj"
+    "photoUrl": "https://drive.google.com/open?id=1W7h_kH9nlJGOOdzwD5k435feVJMhn9Jj",
+    "photoPagi": "https://drive.google.com/open?id=1W7h_kH9nlJGOOdzwD5k435feVJMhn9Jj",
+    "photoSore": ""
   },
   {
     "id": 187,
@@ -1681,7 +2053,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan teras mobil dinas",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=198vKxNxP7DWiziE01WWXjXj-tC1VBI0r"
+    "photoUrl": "https://drive.google.com/open?id=198vKxNxP7DWiziE01WWXjXj-tC1VBI0r",
+    "photoPagi": "https://drive.google.com/open?id=198vKxNxP7DWiziE01WWXjXj-tC1VBI0r",
+    "photoSore": ""
   },
   {
     "id": 188,
@@ -1690,7 +2064,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mencabut rumput yang tumbuh dalam pot bunga serta menyiram bunga disekitar area ULT",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=11BUxnAxoiRIQXorAJKLhMSwiZ1MYBmou"
+    "photoUrl": "https://drive.google.com/open?id=11BUxnAxoiRIQXorAJKLhMSwiZ1MYBmou",
+    "photoPagi": "https://drive.google.com/open?id=11BUxnAxoiRIQXorAJKLhMSwiZ1MYBmou",
+    "photoSore": ""
   },
   {
     "id": 189,
@@ -1699,7 +2075,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "mencabut rumput disamping ULT",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1wRS-CD6d1wGflHS6HFmJbv43maKIaeDk"
+    "photoUrl": "https://drive.google.com/open?id=1wRS-CD6d1wGflHS6HFmJbv43maKIaeDk",
+    "photoPagi": "https://drive.google.com/open?id=1wRS-CD6d1wGflHS6HFmJbv43maKIaeDk",
+    "photoSore": ""
   },
   {
     "id": 190,
@@ -1708,7 +2086,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menyiram bunga dirumah dinas",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1DUwGNJMbWbATW_dVuIr7EBSHzys-7tt_"
+    "photoUrl": "https://drive.google.com/open?id=1DUwGNJMbWbATW_dVuIr7EBSHzys-7tt_",
+    "photoPagi": "https://drive.google.com/open?id=1DUwGNJMbWbATW_dVuIr7EBSHzys-7tt_",
+    "photoSore": ""
   },
   {
     "id": 191,
@@ -1717,7 +2097,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "mengepel teras ult",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1H-fhYnebWdHbZ8X9_r17fiN2QJ1xtXNx"
+    "photoUrl": "https://drive.google.com/open?id=1H-fhYnebWdHbZ8X9_r17fiN2QJ1xtXNx",
+    "photoPagi": "https://drive.google.com/open?id=1H-fhYnebWdHbZ8X9_r17fiN2QJ1xtXNx",
+    "photoSore": ""
   },
   {
     "id": 192,
@@ -1726,7 +2108,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mencabut rumput",
     "output": "Belum selesai",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "",
+    "photoPagi": "",
+    "photoSore": ""
   },
   {
     "id": 193,
@@ -1735,7 +2119,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mencabut rumput",
     "output": "Belum selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1AwmtyIiqL8PKozcHNcgjK1khzXwUFKd2"
+    "photoUrl": "https://drive.google.com/open?id=1AwmtyIiqL8PKozcHNcgjK1khzXwUFKd2",
+    "photoPagi": "https://drive.google.com/open?id=1AwmtyIiqL8PKozcHNcgjK1khzXwUFKd2",
+    "photoSore": ""
   },
   {
     "id": 194,
@@ -1744,7 +2130,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mencabut rumput",
     "output": "Belum selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1KMqqOnBrUhH-Rn_72pGp6QN6l79SsVKm"
+    "photoUrl": "https://drive.google.com/open?id=1KMqqOnBrUhH-Rn_72pGp6QN6l79SsVKm",
+    "photoPagi": "https://drive.google.com/open?id=1KMqqOnBrUhH-Rn_72pGp6QN6l79SsVKm",
+    "photoSore": ""
   },
   {
     "id": 195,
@@ -1753,7 +2141,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "memasang meja kerja",
     "output": "siap di pakai",
     "hambatan": "ini photo yg lama belum di uploup",
-    "photoUrl": "https://drive.google.com/open?id=1-4UQ0-_Ci03KbRXxYu-N13RyO_tJjHAY"
+    "photoUrl": "https://drive.google.com/open?id=1-4UQ0-_Ci03KbRXxYu-N13RyO_tJjHAY",
+    "photoPagi": "https://drive.google.com/open?id=1-4UQ0-_Ci03KbRXxYu-N13RyO_tJjHAY",
+    "photoSore": ""
   },
   {
     "id": 196,
@@ -1762,7 +2152,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menanam bunga di area kantor",
     "output": "ini photo yang belum update",
     "hambatan": "selesai",
-    "photoUrl": "https://drive.google.com/open?id=1SUDkUUHbfRE8M9NQqga_pB4gHeozUk-K"
+    "photoUrl": "https://drive.google.com/open?id=1SUDkUUHbfRE8M9NQqga_pB4gHeozUk-K",
+    "photoPagi": "https://drive.google.com/open?id=1SUDkUUHbfRE8M9NQqga_pB4gHeozUk-K",
+    "photoSore": ""
   },
   {
     "id": 197,
@@ -1771,7 +2163,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan depan halaman aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1aHeb3Le2BGcO0FWMjiPJTB8rBGKcfGxB"
+    "photoUrl": "https://drive.google.com/open?id=1aHeb3Le2BGcO0FWMjiPJTB8rBGKcfGxB",
+    "photoPagi": "https://drive.google.com/open?id=1aHeb3Le2BGcO0FWMjiPJTB8rBGKcfGxB",
+    "photoSore": "https://drive.google.com/open?id=1vNWm5ab4yfE0U1LYOLTzl2nHDhmbgzDO"
   },
   {
     "id": 198,
@@ -1780,7 +2174,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "perawatan gedung",
     "output": "kantor",
     "hambatan": "dalam kondisi baik",
-    "photoUrl": "https://drive.google.com/open?id=1pk4pptRC54e5WRKlWc7JfFeFKc-0by4I"
+    "photoUrl": "https://drive.google.com/open?id=1pk4pptRC54e5WRKlWc7JfFeFKc-0by4I",
+    "photoPagi": "https://drive.google.com/open?id=1pk4pptRC54e5WRKlWc7JfFeFKc-0by4I",
+    "photoSore": ""
   },
   {
     "id": 199,
@@ -1789,7 +2185,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "perawatan gedung",
     "output": "kantor utama",
     "hambatan": "bersih dan aman",
-    "photoUrl": "https://drive.google.com/open?id=1HSTcC7l1jKbDpXVVIso0Glks4MKqnu8F"
+    "photoUrl": "https://drive.google.com/open?id=1HSTcC7l1jKbDpXVVIso0Glks4MKqnu8F",
+    "photoPagi": "https://drive.google.com/open?id=1HSTcC7l1jKbDpXVVIso0Glks4MKqnu8F",
+    "photoSore": ""
   },
   {
     "id": 200,
@@ -1798,7 +2196,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "perawatan gedung",
     "output": "samping kiri kantor",
     "hambatan": "bersih dan aman",
-    "photoUrl": "https://drive.google.com/open?id=1MSGPQ4o5Sd4orFMpPySWkY8WzKH398wv"
+    "photoUrl": "https://drive.google.com/open?id=1MSGPQ4o5Sd4orFMpPySWkY8WzKH398wv",
+    "photoPagi": "https://drive.google.com/open?id=1MSGPQ4o5Sd4orFMpPySWkY8WzKH398wv",
+    "photoSore": ""
   },
   {
     "id": 201,
@@ -1807,7 +2207,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "perawatan gedung",
     "output": "aula utama",
     "hambatan": "bersih",
-    "photoUrl": "https://drive.google.com/open?id=1Dh3Tz1ow80I0teNjS1G6M6T3ozrZdLRg"
+    "photoUrl": "https://drive.google.com/open?id=1Dh3Tz1ow80I0teNjS1G6M6T3ozrZdLRg",
+    "photoPagi": "https://drive.google.com/open?id=1Dh3Tz1ow80I0teNjS1G6M6T3ozrZdLRg",
+    "photoSore": ""
   },
   {
     "id": 202,
@@ -1816,7 +2218,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "perawatan gedung samping kiri,kantor utama",
     "output": "bersih",
     "hambatan": "aman terkendali",
-    "photoUrl": "https://drive.google.com/open?id=1enc-p7zje6oOTYW0l0axkFTAYAK6xVvK"
+    "photoUrl": "https://drive.google.com/open?id=1enc-p7zje6oOTYW0l0axkFTAYAK6xVvK",
+    "photoPagi": "https://drive.google.com/open?id=1enc-p7zje6oOTYW0l0axkFTAYAK6xVvK",
+    "photoSore": ""
   },
   {
     "id": 203,
@@ -1825,7 +2229,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "perawatan gedung aula utama",
     "output": "bersih",
     "hambatan": "aman terkendali",
-    "photoUrl": "https://drive.google.com/open?id=1hCym_FXv2lpFrIEdSFBOBsSAJxyV9rAu"
+    "photoUrl": "https://drive.google.com/open?id=1hCym_FXv2lpFrIEdSFBOBsSAJxyV9rAu",
+    "photoPagi": "https://drive.google.com/open?id=1hCym_FXv2lpFrIEdSFBOBsSAJxyV9rAu",
+    "photoSore": ""
   },
   {
     "id": 204,
@@ -1834,7 +2240,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Sanyo di gedung perpustakaan",
     "output": "pengecekan",
     "hambatan": "aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1vn4CVoQUrBhW19HkQjZyCDI5GNFtLuAI",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1vn4CVoQUrBhW19HkQjZyCDI5GNFtLuAI"
   },
   {
     "id": 205,
@@ -1843,7 +2251,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "sanio",
     "output": "pengecekan sanio di asrama",
     "hambatan": "aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1FqaOpp3TFcSvzGHikLSA-ykgO60lKrP-",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1FqaOpp3TFcSvzGHikLSA-ykgO60lKrP-"
   },
   {
     "id": 206,
@@ -1852,7 +2262,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "pemindahan barang milik negara dan pemasangan meja",
     "output": "tgl sebelumnya",
     "hambatan": "selesai",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1J0wh0O32x4e_qtsHwy6Q94NdXsmLGw7b",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1J0wh0O32x4e_qtsHwy6Q94NdXsmLGw7b"
   },
   {
     "id": 207,
@@ -1861,7 +2273,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "pemasangan meja baru",
     "output": "tanggal sebelumnya",
     "hambatan": "selesai",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1OCl9hvnfqIM1sRdm-01_wjxy5QB1ZToy",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1OCl9hvnfqIM1sRdm-01_wjxy5QB1ZToy"
   },
   {
     "id": 208,
@@ -1870,7 +2284,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "pemasangan meja untuk pegawai",
     "output": "tanggal sebelumnya",
     "hambatan": "selesai",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=170GJ8HFjMTqf8k7Vv1DNCRwg2GrC__zY",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=170GJ8HFjMTqf8k7Vv1DNCRwg2GrC__zY"
   },
   {
     "id": 209,
@@ -1879,7 +2295,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "merundap rumput samping aula utama",
     "output": "tanggal sebelumnya",
     "hambatan": "selesai",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1nQMxgshnfAPHoeosRpIgVtB97YAYeHhx",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1nQMxgshnfAPHoeosRpIgVtB97YAYeHhx"
   },
   {
     "id": 210,
@@ -1888,7 +2306,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "merundap samping aula besar",
     "output": "bersih dan selesai",
     "hambatan": "tanggal sebelumnya",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1a1QzBCAL4W3T014VeGWbO9wO_TwwoXnn",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1a1QzBCAL4W3T014VeGWbO9wO_TwwoXnn"
   },
   {
     "id": 211,
@@ -1897,7 +2317,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Merondap rumput",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1sy8Ues2OnU97EuBzRMtWroY81yfGEpTa",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1sy8Ues2OnU97EuBzRMtWroY81yfGEpTa"
   },
   {
     "id": 212,
@@ -1906,7 +2328,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan/menyapu area tempat parkir mobil dinas BGTK Sumbar",
     "output": "Dibersihkan",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1jpBSdqWPlkFOKIrkQoz9qrekfQdtO88c",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1jpBSdqWPlkFOKIrkQoz9qrekfQdtO88c"
   },
   {
     "id": 213,
@@ -1915,7 +2339,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu teras sekitar ULT dan Pustaka",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1QC7AFh7VE6-S2QCoFkWXNOUwgzabeMNh",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1QC7AFh7VE6-S2QCoFkWXNOUwgzabeMNh"
   },
   {
     "id": 214,
@@ -1924,7 +2350,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan aula mini..dan memperbaiki kran air yang rusak",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1Q9VkESvADO1_IL-jbRItZ6pOveSW_Mbq"
+    "photoUrl": "https://drive.google.com/open?id=1Q9VkESvADO1_IL-jbRItZ6pOveSW_Mbq",
+    "photoPagi": "https://drive.google.com/open?id=1Q9VkESvADO1_IL-jbRItZ6pOveSW_Mbq",
+    "photoSore": "https://drive.google.com/open?id=1-S366fRFNMEARMD81JfR_NUC-3q8HTFI"
   },
   {
     "id": 215,
@@ -1933,7 +2361,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1nEj4f_XXAgf1cxK-YZ7WEqpaZ9260I6E",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1nEj4f_XXAgf1cxK-YZ7WEqpaZ9260I6E"
   },
   {
     "id": 216,
@@ -1942,7 +2372,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1IDCvvJ21-SdVgK5qIwLAlewhqCugYDMp"
+    "photoUrl": "https://drive.google.com/open?id=1IDCvvJ21-SdVgK5qIwLAlewhqCugYDMp",
+    "photoPagi": "https://drive.google.com/open?id=1IDCvvJ21-SdVgK5qIwLAlewhqCugYDMp",
+    "photoSore": ""
   },
   {
     "id": 217,
@@ -1951,7 +2383,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu area tempat parkir mobil dinas BGTK Sumbar",
     "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1BK1s6UEaYBczsswEzDYWiD1MASOdeIBy"
+    "photoUrl": "https://drive.google.com/open?id=1BK1s6UEaYBczsswEzDYWiD1MASOdeIBy",
+    "photoPagi": "https://drive.google.com/open?id=1BK1s6UEaYBczsswEzDYWiD1MASOdeIBy",
+    "photoSore": ""
   },
   {
     "id": 218,
@@ -1960,7 +2394,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "verval dan bersihkan ruang belajar Wi",
     "output": "terlaksananya pekerjaan",
     "hambatan": "tgl 16 april 2024",
-    "photoUrl": "https://drive.google.com/open?id=1_HfssxlxXFDn9lmQ39HAKbmmdO6EWGjN"
+    "photoUrl": "https://drive.google.com/open?id=1_HfssxlxXFDn9lmQ39HAKbmmdO6EWGjN",
+    "photoPagi": "https://drive.google.com/open?id=1_HfssxlxXFDn9lmQ39HAKbmmdO6EWGjN",
+    "photoSore": "https://drive.google.com/open?id=11Uvx19Jxq_TDC4UG3-uCHhiOpT-JXz7v"
   },
   {
     "id": 219,
@@ -1969,7 +2405,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan pekarangan depan pustaka dan area ULT",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1NXspAdpPfpIcdTlRVmm17Zo6siFZQSLx"
+    "photoUrl": "https://drive.google.com/open?id=1NXspAdpPfpIcdTlRVmm17Zo6siFZQSLx",
+    "photoPagi": "https://drive.google.com/open?id=1NXspAdpPfpIcdTlRVmm17Zo6siFZQSLx",
+    "photoSore": ""
   },
   {
     "id": 220,
@@ -1978,7 +2416,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyiram bunga area parkir Kepala dan area sekitar ULT",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1yK1QcQvLMDbo4ek79wczXihorh5W68ul"
+    "photoUrl": "https://drive.google.com/open?id=1yK1QcQvLMDbo4ek79wczXihorh5W68ul",
+    "photoPagi": "https://drive.google.com/open?id=1yK1QcQvLMDbo4ek79wczXihorh5W68ul",
+    "photoSore": ""
   },
   {
     "id": 221,
@@ -1987,7 +2427,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersih kan depan ruangan arsip",
     "output": "Bersih",
     "hambatan": "Selesai",
-    "photoUrl": "https://drive.google.com/open?id=1M77Mj9gmH616f47THT4In_ooJeAi1EW4"
+    "photoUrl": "https://drive.google.com/open?id=1M77Mj9gmH616f47THT4In_ooJeAi1EW4",
+    "photoPagi": "https://drive.google.com/open?id=1M77Mj9gmH616f47THT4In_ooJeAi1EW4",
+    "photoSore": ""
   },
   {
     "id": 222,
@@ -1996,7 +2438,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan depan aula utama dan mengeluarkan perlengkapan apel pagi",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1U_2AfzDEYOruN0vWwn70_ugtmt5fDYpO"
+    "photoUrl": "https://drive.google.com/open?id=1U_2AfzDEYOruN0vWwn70_ugtmt5fDYpO",
+    "photoPagi": "https://drive.google.com/open?id=1U_2AfzDEYOruN0vWwn70_ugtmt5fDYpO",
+    "photoSore": ""
   },
   {
     "id": 223,
@@ -2005,7 +2449,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan aula utama dan mengeluarkan perlengkapan apel sound system",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1amWOtAWiJbGH_L3Gv0neFJHRwvY7OGfq"
+    "photoUrl": "https://drive.google.com/open?id=1amWOtAWiJbGH_L3Gv0neFJHRwvY7OGfq",
+    "photoPagi": "https://drive.google.com/open?id=1amWOtAWiJbGH_L3Gv0neFJHRwvY7OGfq",
+    "photoSore": ""
   },
   {
     "id": 224,
@@ -2014,7 +2460,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memversihkan teras aula dan mengeluarkan perlengkapan sound system",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1meVaAAwHzHUXcUSH-GYX0eBh815UQ0DO"
+    "photoUrl": "https://drive.google.com/open?id=1meVaAAwHzHUXcUSH-GYX0eBh815UQ0DO",
+    "photoPagi": "https://drive.google.com/open?id=1meVaAAwHzHUXcUSH-GYX0eBh815UQ0DO",
+    "photoSore": ""
   },
   {
     "id": 225,
@@ -2023,7 +2471,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan samping asrama putra",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=14voTea9FvwEUEpFlKLAwCDnMSfF1VE8P"
+    "photoUrl": "https://drive.google.com/open?id=14voTea9FvwEUEpFlKLAwCDnMSfF1VE8P",
+    "photoPagi": "https://drive.google.com/open?id=14voTea9FvwEUEpFlKLAwCDnMSfF1VE8P",
+    "photoSore": ""
   },
   {
     "id": 226,
@@ -2032,7 +2482,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu lantai aula mini BGTK Sumbar",
     "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1yZ3RcdD4jWy0BLSvz3LVXiKfZjpwXund"
+    "photoUrl": "https://drive.google.com/open?id=1yZ3RcdD4jWy0BLSvz3LVXiKfZjpwXund",
+    "photoPagi": "https://drive.google.com/open?id=1yZ3RcdD4jWy0BLSvz3LVXiKfZjpwXund",
+    "photoSore": ""
   },
   {
     "id": 227,
@@ -2041,7 +2493,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu lantai aula mini BGTK Sumbar",
     "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=10S2UHjEPu_w2mf_dfTRL_DghN2x2sB_m"
+    "photoUrl": "https://drive.google.com/open?id=10S2UHjEPu_w2mf_dfTRL_DghN2x2sB_m",
+    "photoPagi": "https://drive.google.com/open?id=10S2UHjEPu_w2mf_dfTRL_DghN2x2sB_m",
+    "photoSore": ""
   },
   {
     "id": 228,
@@ -2050,7 +2504,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan area numerasi ULT dan sekitar parkir Kepala",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1DVlUzSKZHfemS8SVZu-clQx4HGi4YBeK"
+    "photoUrl": "https://drive.google.com/open?id=1DVlUzSKZHfemS8SVZu-clQx4HGi4YBeK",
+    "photoPagi": "https://drive.google.com/open?id=1DVlUzSKZHfemS8SVZu-clQx4HGi4YBeK",
+    "photoSore": ""
   },
   {
     "id": 229,
@@ -2059,7 +2515,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyediakan sonsistem untuk apel pagibdi aula utama",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1AQoSf-emqHE07-BhK5Z84xKeq8ULHcOx"
+    "photoUrl": "https://drive.google.com/open?id=1AQoSf-emqHE07-BhK5Z84xKeq8ULHcOx",
+    "photoPagi": "https://drive.google.com/open?id=1AQoSf-emqHE07-BhK5Z84xKeq8ULHcOx",
+    "photoSore": ""
   },
   {
     "id": 230,
@@ -2068,7 +2526,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyiram bunga sekitar parkir Kepala dan ULT",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=118VCLLPPwv-CGhGFfaayXq--9sWwunT_"
+    "photoUrl": "https://drive.google.com/open?id=118VCLLPPwv-CGhGFfaayXq--9sWwunT_",
+    "photoPagi": "https://drive.google.com/open?id=118VCLLPPwv-CGhGFfaayXq--9sWwunT_",
+    "photoSore": ""
   },
   {
     "id": 231,
@@ -2077,7 +2537,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyusun kursi di aula mini",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1hPXQ3t3Piw8rS5JnrxUG-cEzUVN9sTle"
+    "photoUrl": "https://drive.google.com/open?id=1hPXQ3t3Piw8rS5JnrxUG-cEzUVN9sTle",
+    "photoPagi": "https://drive.google.com/open?id=1hPXQ3t3Piw8rS5JnrxUG-cEzUVN9sTle",
+    "photoSore": ""
   },
   {
     "id": 232,
@@ -2086,7 +2548,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "mengepel teras ult",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1Hbu9YbpK7hDntMjGD4VbJD6TCpxEqQ6P"
+    "photoUrl": "https://drive.google.com/open?id=1Hbu9YbpK7hDntMjGD4VbJD6TCpxEqQ6P",
+    "photoPagi": "https://drive.google.com/open?id=1Hbu9YbpK7hDntMjGD4VbJD6TCpxEqQ6P",
+    "photoSore": ""
   },
   {
     "id": 233,
@@ -2095,7 +2559,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "mengepel rumah dinas",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1K0KU7PnbyksM9iYhcpxXUR7hyQAOVtqC"
+    "photoUrl": "https://drive.google.com/open?id=1K0KU7PnbyksM9iYhcpxXUR7hyQAOVtqC",
+    "photoPagi": "https://drive.google.com/open?id=1K0KU7PnbyksM9iYhcpxXUR7hyQAOVtqC",
+    "photoSore": ""
   },
   {
     "id": 234,
@@ -2104,7 +2570,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menyapu ruangan pengaduan",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1l-3YrzQpY0ziG6aToWxOlZBulrpVCYq3"
+    "photoUrl": "https://drive.google.com/open?id=1l-3YrzQpY0ziG6aToWxOlZBulrpVCYq3",
+    "photoPagi": "https://drive.google.com/open?id=1l-3YrzQpY0ziG6aToWxOlZBulrpVCYq3",
+    "photoSore": ""
   },
   {
     "id": 235,
@@ -2113,7 +2581,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menyiram bunga area ult rumah dinas",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1VlJj5Es5IE9KrVu79XedU7mLzFg2JZsO"
+    "photoUrl": "https://drive.google.com/open?id=1VlJj5Es5IE9KrVu79XedU7mLzFg2JZsO",
+    "photoPagi": "https://drive.google.com/open?id=1VlJj5Es5IE9KrVu79XedU7mLzFg2JZsO",
+    "photoSore": ""
   },
   {
     "id": 236,
@@ -2122,7 +2592,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyusun kursi di aula mini",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1DPF1l6ADitb5W7OQ2jqUJ57lvGHoJPpb"
+    "photoUrl": "https://drive.google.com/open?id=1DPF1l6ADitb5W7OQ2jqUJ57lvGHoJPpb",
+    "photoPagi": "https://drive.google.com/open?id=1DPF1l6ADitb5W7OQ2jqUJ57lvGHoJPpb",
+    "photoSore": ""
   },
   {
     "id": 237,
@@ -2131,7 +2603,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "rapat evaluasi di aula mino bersama buk kasubag",
     "output": "aman",
     "hambatan": "bersama",
-    "photoUrl": "https://drive.google.com/open?id=1pIW0LKdCp6-7iP8MW5OYraQOknXBGlzu"
+    "photoUrl": "https://drive.google.com/open?id=1pIW0LKdCp6-7iP8MW5OYraQOknXBGlzu",
+    "photoPagi": "https://drive.google.com/open?id=1pIW0LKdCp6-7iP8MW5OYraQOknXBGlzu",
+    "photoSore": ""
   },
   {
     "id": 238,
@@ -2140,7 +2614,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Rapat sosialisasi aplikasi perjadin bgtk sumbar",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1XxNPPdMFJhbh-_TxHYPPmZmZDy07BbeK"
+    "photoUrl": "https://drive.google.com/open?id=1XxNPPdMFJhbh-_TxHYPPmZmZDy07BbeK",
+    "photoPagi": "https://drive.google.com/open?id=1XxNPPdMFJhbh-_TxHYPPmZmZDy07BbeK",
+    "photoSore": ""
   },
   {
     "id": 239,
@@ -2149,7 +2625,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengikuti Sosialisasi Aplikasi Perjadin BGTK SUMBAR",
     "output": "Lancar",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1TcfYeRnJITQhGESoLuxqrnwu9Aos2x5E"
+    "photoUrl": "https://drive.google.com/open?id=1TcfYeRnJITQhGESoLuxqrnwu9Aos2x5E",
+    "photoPagi": "https://drive.google.com/open?id=1TcfYeRnJITQhGESoLuxqrnwu9Aos2x5E",
+    "photoSore": ""
   },
   {
     "id": 240,
@@ -2158,7 +2636,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengikuti rapat penjelasan pembahasan aplikasi perjadin  oleh keuangan BGTK Sumbar di aula mini",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1HbFZMZVnJgFePRNWraxP37Phj0I44bR_"
+    "photoUrl": "https://drive.google.com/open?id=1HbFZMZVnJgFePRNWraxP37Phj0I44bR_",
+    "photoPagi": "https://drive.google.com/open?id=1HbFZMZVnJgFePRNWraxP37Phj0I44bR_",
+    "photoSore": ""
   },
   {
     "id": 241,
@@ -2167,7 +2647,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan area kantor",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1_yLQeisqi4JnmvQyQN3QuwQZ_bE8uGqz"
+    "photoUrl": "https://drive.google.com/open?id=1_yLQeisqi4JnmvQyQN3QuwQZ_bE8uGqz",
+    "photoPagi": "https://drive.google.com/open?id=1_yLQeisqi4JnmvQyQN3QuwQZ_bE8uGqz",
+    "photoSore": ""
   },
   {
     "id": 242,
@@ -2176,7 +2658,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan halaman aula mini dan standby di area tempat kerja",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1T7AzMTVNJAjK2Su5xfxDFzXV2TeTByB2"
+    "photoUrl": "https://drive.google.com/open?id=1T7AzMTVNJAjK2Su5xfxDFzXV2TeTByB2",
+    "photoPagi": "https://drive.google.com/open?id=1T7AzMTVNJAjK2Su5xfxDFzXV2TeTByB2",
+    "photoSore": ""
   },
   {
     "id": 243,
@@ -2185,7 +2669,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan depan asrama",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1Ilg2SFmsmIlDP3MaFbfwMBeWoEmUwuWT",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1Ilg2SFmsmIlDP3MaFbfwMBeWoEmUwuWT"
   },
   {
     "id": 244,
@@ -2194,7 +2680,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Halaman belakang asrama",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1fSWRX11fR5I7qTYWjZySDiReOtj44eyX",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1fSWRX11fR5I7qTYWjZySDiReOtj44eyX"
   },
   {
     "id": 245,
@@ -2203,7 +2691,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Halaman samping asrama",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1M3fQzSj-26j1juZRltMKxHddf2ZBTwIL",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1M3fQzSj-26j1juZRltMKxHddf2ZBTwIL"
   },
   {
     "id": 246,
@@ -2212,7 +2702,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan samping ruang aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1Q3uTcAikxGH39I3JGASmfYfLMeoQMAzn",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1Q3uTcAikxGH39I3JGASmfYfLMeoQMAzn"
   },
   {
     "id": 247,
@@ -2221,7 +2713,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Halaman samping asrama putra",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1jxmcB6EngKuKrTpJ7PTm-yhfjciQdzO3",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1jxmcB6EngKuKrTpJ7PTm-yhfjciQdzO3"
   },
   {
     "id": 248,
@@ -2230,7 +2724,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "lantai kantor utama",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1W-ZUHuEuuxeHmSZcQAYMW7qaiSU0sS3P",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1W-ZUHuEuuxeHmSZcQAYMW7qaiSU0sS3P"
   },
   {
     "id": 249,
@@ -2239,7 +2735,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "pekarangan ruangan pengaduan dan numerisasi",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1dykvwbrCdmtKz0ub4ms46sIQybpv5m7C",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1dykvwbrCdmtKz0ub4ms46sIQybpv5m7C"
   },
   {
     "id": 250,
@@ -2248,7 +2746,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu teras area ULT dan pustaka",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1Kix8PtGVD7rt-rGJHaa7QO7GRMnOC_UW",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1Kix8PtGVD7rt-rGJHaa7QO7GRMnOC_UW"
   },
   {
     "id": 251,
@@ -2257,7 +2757,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan area aula mini",
     "output": "Menyapu",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=185V4ZR1JBRARkmOFz0xOPlFIeP6PAF2u",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=185V4ZR1JBRARkmOFz0xOPlFIeP6PAF2u"
   },
   {
     "id": 252,
@@ -2266,7 +2768,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memotong rumput",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1fgx7yUzSr3jMlBhBpp9BuVXt8z-sdwGy",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1fgx7yUzSr3jMlBhBpp9BuVXt8z-sdwGy"
   },
   {
     "id": 253,
@@ -2275,7 +2779,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan teras arsip dan tambal ban mobil kantor",
     "output": "terselesaikannya pekerjaan",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1yFzAz2cDe5Od6PxOdHKQbyEJO3xcbLjV"
+    "photoUrl": "https://drive.google.com/open?id=1yFzAz2cDe5Od6PxOdHKQbyEJO3xcbLjV",
+    "photoPagi": "https://drive.google.com/open?id=1yFzAz2cDe5Od6PxOdHKQbyEJO3xcbLjV",
+    "photoSore": "https://drive.google.com/open?id=1CrjBbeo69ZXjvUiJ8ZBsfyvzHfywmO3z"
   },
   {
     "id": 254,
@@ -2284,7 +2790,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1bkwfdUngNtFCZPrZn3igFHk3L-lqqIiZ"
+    "photoUrl": "https://drive.google.com/open?id=1bkwfdUngNtFCZPrZn3igFHk3L-lqqIiZ",
+    "photoPagi": "https://drive.google.com/open?id=1bkwfdUngNtFCZPrZn3igFHk3L-lqqIiZ",
+    "photoSore": ""
   },
   {
     "id": 255,
@@ -2293,7 +2801,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu dan mencabut rumput di depan taman lumerasi",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1awD4YdNL0uRYnCU1L7yoe49ZZh2MDXuy"
+    "photoUrl": "https://drive.google.com/open?id=1awD4YdNL0uRYnCU1L7yoe49ZZh2MDXuy",
+    "photoPagi": "https://drive.google.com/open?id=1awD4YdNL0uRYnCU1L7yoe49ZZh2MDXuy",
+    "photoSore": ""
   },
   {
     "id": 256,
@@ -2302,7 +2812,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan parkir mobil ibuk kepala",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=173TKUTrtK0h4fzG-JiRH6Jo2vCiz1fJo"
+    "photoUrl": "https://drive.google.com/open?id=173TKUTrtK0h4fzG-JiRH6Jo2vCiz1fJo",
+    "photoPagi": "https://drive.google.com/open?id=173TKUTrtK0h4fzG-JiRH6Jo2vCiz1fJo",
+    "photoSore": ""
   },
   {
     "id": 257,
@@ -2311,7 +2823,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "mengepel teras ult",
     "output": "bersih",
     "hambatan": "bersih",
-    "photoUrl": "https://drive.google.com/open?id=1A4YUcwZO5kxaj_AZ8clDWbczQgWl-g0Y"
+    "photoUrl": "https://drive.google.com/open?id=1A4YUcwZO5kxaj_AZ8clDWbczQgWl-g0Y",
+    "photoPagi": "https://drive.google.com/open?id=1A4YUcwZO5kxaj_AZ8clDWbczQgWl-g0Y",
+    "photoSore": ""
   },
   {
     "id": 258,
@@ -2320,7 +2834,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan toilet",
     "output": "bersih",
     "hambatan": "bersih",
-    "photoUrl": "https://drive.google.com/open?id=1NZkm-DhAzQoV3rpRbkubbWykkA3PnhIz"
+    "photoUrl": "https://drive.google.com/open?id=1NZkm-DhAzQoV3rpRbkubbWykkA3PnhIz",
+    "photoPagi": "https://drive.google.com/open?id=1NZkm-DhAzQoV3rpRbkubbWykkA3PnhIz",
+    "photoSore": ""
   },
   {
     "id": 259,
@@ -2329,7 +2845,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan samping rumah dinas",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1Sp6kx65Q6WflSsVi6FUZN6Dr7JDKu8UH"
+    "photoUrl": "https://drive.google.com/open?id=1Sp6kx65Q6WflSsVi6FUZN6Dr7JDKu8UH",
+    "photoPagi": "https://drive.google.com/open?id=1Sp6kx65Q6WflSsVi6FUZN6Dr7JDKu8UH",
+    "photoSore": ""
   },
   {
     "id": 260,
@@ -2338,7 +2856,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu dan mengepel lantai aula mini BGTK",
     "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=11ImS5CXtNAtmbRbOl682qdVfexr6buqS"
+    "photoUrl": "https://drive.google.com/open?id=11ImS5CXtNAtmbRbOl682qdVfexr6buqS",
+    "photoPagi": "https://drive.google.com/open?id=11ImS5CXtNAtmbRbOl682qdVfexr6buqS",
+    "photoSore": ""
   },
   {
     "id": 261,
@@ -2347,7 +2867,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan mengepel dan menata ruangan numerasi",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1WlmEo8cYZSExiyuoBt1-gfy9FlpZgaKI"
+    "photoUrl": "https://drive.google.com/open?id=1WlmEo8cYZSExiyuoBt1-gfy9FlpZgaKI",
+    "photoPagi": "https://drive.google.com/open?id=1WlmEo8cYZSExiyuoBt1-gfy9FlpZgaKI",
+    "photoSore": ""
   },
   {
     "id": 262,
@@ -2356,7 +2878,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan halaman area numerasi dan depan pustaka",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1GaJgOdWXINW5uW-vtcAagRksqS_62h7U"
+    "photoUrl": "https://drive.google.com/open?id=1GaJgOdWXINW5uW-vtcAagRksqS_62h7U",
+    "photoPagi": "https://drive.google.com/open?id=1GaJgOdWXINW5uW-vtcAagRksqS_62h7U",
+    "photoSore": ""
   },
   {
     "id": 263,
@@ -2365,7 +2889,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyiram bunga area parkir Kepala dan sekitar ULT",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=15LjCcrbW1K2BOnxwmW7yJiLqJlburOry"
+    "photoUrl": "https://drive.google.com/open?id=15LjCcrbW1K2BOnxwmW7yJiLqJlburOry",
+    "photoPagi": "https://drive.google.com/open?id=15LjCcrbW1K2BOnxwmW7yJiLqJlburOry",
+    "photoSore": ""
   },
   {
     "id": 264,
@@ -2374,7 +2900,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menyusun meja di aula mini",
     "output": "rapi",
     "hambatan": "bersih",
-    "photoUrl": "https://drive.google.com/open?id=1dT-C3KiH_Gs3KNhq9btYMAGrFehGFYKp"
+    "photoUrl": "https://drive.google.com/open?id=1dT-C3KiH_Gs3KNhq9btYMAGrFehGFYKp",
+    "photoPagi": "https://drive.google.com/open?id=1dT-C3KiH_Gs3KNhq9btYMAGrFehGFYKp",
+    "photoSore": ""
   },
   {
     "id": 265,
@@ -2383,7 +2911,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan parkir mobil ibuk kepala",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1DYHFE5sqDUkh-DJR9HVuDEkjINpPywEk"
+    "photoUrl": "https://drive.google.com/open?id=1DYHFE5sqDUkh-DJR9HVuDEkjINpPywEk",
+    "photoPagi": "https://drive.google.com/open?id=1DYHFE5sqDUkh-DJR9HVuDEkjINpPywEk",
+    "photoSore": ""
   },
   {
     "id": 266,
@@ -2392,7 +2922,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu dan mencabut rumput di depan taman lumerasi",
     "output": "Bersih",
     "hambatan": "+",
-    "photoUrl": "https://drive.google.com/open?id=19inDnrw3dZCmeE23rY4e3C1yy8LCea5S"
+    "photoUrl": "https://drive.google.com/open?id=19inDnrw3dZCmeE23rY4e3C1yy8LCea5S",
+    "photoPagi": "https://drive.google.com/open?id=19inDnrw3dZCmeE23rY4e3C1yy8LCea5S",
+    "photoSore": ""
   },
   {
     "id": 267,
@@ -2401,7 +2933,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor di pos satpam depan gedung baru",
     "output": "Bersih",
     "hambatan": "+-",
-    "photoUrl": "https://drive.google.com/open?id=1tleo-_3LEmsPSWb40NfuwYIFZxoYskKQ"
+    "photoUrl": "https://drive.google.com/open?id=1tleo-_3LEmsPSWb40NfuwYIFZxoYskKQ",
+    "photoPagi": "https://drive.google.com/open?id=1tleo-_3LEmsPSWb40NfuwYIFZxoYskKQ",
+    "photoSore": ""
   },
   {
     "id": 268,
@@ -2410,7 +2944,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyusun kursi di aula mini",
     "output": "Aman",
     "hambatan": "+--",
-    "photoUrl": "https://drive.google.com/open?id=1FK8qLEYRWmU0x-ZsfGXjwZ1ESlEVNxcS"
+    "photoUrl": "https://drive.google.com/open?id=1FK8qLEYRWmU0x-ZsfGXjwZ1ESlEVNxcS",
+    "photoPagi": "https://drive.google.com/open?id=1FK8qLEYRWmU0x-ZsfGXjwZ1ESlEVNxcS",
+    "photoSore": ""
   },
   {
     "id": 269,
@@ -2419,7 +2955,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan kaca rumah dinas",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1Sn-Fjr_W5FMMSUZbrdTtxpbuCEOs1mL4"
+    "photoUrl": "https://drive.google.com/open?id=1Sn-Fjr_W5FMMSUZbrdTtxpbuCEOs1mL4",
+    "photoPagi": "https://drive.google.com/open?id=1Sn-Fjr_W5FMMSUZbrdTtxpbuCEOs1mL4",
+    "photoSore": ""
   },
   {
     "id": 270,
@@ -2428,7 +2966,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "mversihkan kaca ruangan ult",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1cWGgRsWUt9c3hB_u8oRqNnEwalA-ct41"
+    "photoUrl": "https://drive.google.com/open?id=1cWGgRsWUt9c3hB_u8oRqNnEwalA-ct41",
+    "photoPagi": "https://drive.google.com/open?id=1cWGgRsWUt9c3hB_u8oRqNnEwalA-ct41",
+    "photoSore": ""
   },
   {
     "id": 271,
@@ -2437,7 +2977,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menata ruangan aula mini",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1zNiICs4ZPc24BQJxIFjMJM0zu2OyHjSe"
+    "photoUrl": "https://drive.google.com/open?id=1zNiICs4ZPc24BQJxIFjMJM0zu2OyHjSe",
+    "photoPagi": "https://drive.google.com/open?id=1zNiICs4ZPc24BQJxIFjMJM0zu2OyHjSe",
+    "photoSore": ""
   },
   {
     "id": 272,
@@ -2446,7 +2988,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1wskChnDFDbrDFLGRXkMJBkc7KzdvZquI"
+    "photoUrl": "https://drive.google.com/open?id=1wskChnDFDbrDFLGRXkMJBkc7KzdvZquI",
+    "photoPagi": "https://drive.google.com/open?id=1wskChnDFDbrDFLGRXkMJBkc7KzdvZquI",
+    "photoSore": ""
   },
   {
     "id": 273,
@@ -2455,7 +2999,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan kaca ruangan pengaduan",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1e0l8zvCrUu8aUZO0RBiOLd4BYx9JACv0"
+    "photoUrl": "https://drive.google.com/open?id=1e0l8zvCrUu8aUZO0RBiOLd4BYx9JACv0",
+    "photoPagi": "https://drive.google.com/open?id=1e0l8zvCrUu8aUZO0RBiOLd4BYx9JACv0",
+    "photoSore": ""
   },
   {
     "id": 274,
@@ -2464,7 +3010,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Rapat dihol mini tentang ASIGO",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1n4OX3qgvxgNQSyUJMWO9_YOzAk0Uhx87"
+    "photoUrl": "https://drive.google.com/open?id=1n4OX3qgvxgNQSyUJMWO9_YOzAk0Uhx87",
+    "photoPagi": "https://drive.google.com/open?id=1n4OX3qgvxgNQSyUJMWO9_YOzAk0Uhx87",
+    "photoSore": ""
   },
   {
     "id": 275,
@@ -2473,7 +3021,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "mengepel ruangan tamu asrama",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1kunJCFjwrf086ykmINLvwC3Zfnf69zFE",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1kunJCFjwrf086ykmINLvwC3Zfnf69zFE"
   },
   {
     "id": 276,
@@ -2482,7 +3032,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan ruangan BMN",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=14qsxY7OAno9PCnuRajuo3W8fKdTyvd0J",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=14qsxY7OAno9PCnuRajuo3W8fKdTyvd0J"
   },
   {
     "id": 277,
@@ -2491,7 +3043,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "teras asrama baru di pel",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=19llDEdpbRi9uRI5qqhXDJS-lVMZsuMZb",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=19llDEdpbRi9uRI5qqhXDJS-lVMZsuMZb"
   },
   {
     "id": 278,
@@ -2500,7 +3054,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "bersihkan ruangan ventry",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1uytWLbzWE8u7A3Ioerym92fyrWvULABF",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1uytWLbzWE8u7A3Ioerym92fyrWvULABF"
   },
   {
     "id": 279,
@@ -2509,7 +3065,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "dokumentasi acara di aula mini dan bantuan baju sekolah",
     "output": "terlaksana pekerjaan",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=15-trySU3l-547iqwxOJRQFepk8rPxttm"
+    "photoUrl": "https://drive.google.com/open?id=15-trySU3l-547iqwxOJRQFepk8rPxttm",
+    "photoPagi": "https://drive.google.com/open?id=15-trySU3l-547iqwxOJRQFepk8rPxttm",
+    "photoSore": "https://drive.google.com/open?id=1fGsIP386fOdNld5VZKz4dFMowCfMpxOH"
   },
   {
     "id": 280,
@@ -2518,7 +3076,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Stambay di repsionis kantor BGTK Sumbar",
     "output": "Jaga kantor utama",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1WJuRorRtyuHqDGUiYgy_xkS8bjx8tbPH",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1WJuRorRtyuHqDGUiYgy_xkS8bjx8tbPH"
   },
   {
     "id": 281,
@@ -2527,7 +3087,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengerjakan membersihkan halaman ult",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1upNMf48kJltAMf1Qx3klZKXFWPaB6w39",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1upNMf48kJltAMf1Qx3klZKXFWPaB6w39"
   },
   {
     "id": 282,
@@ -2536,7 +3098,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan area kantor",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1NaIxWDhRtZMYTSm1cERstlPrPicbWUw-"
+    "photoUrl": "https://drive.google.com/open?id=1NaIxWDhRtZMYTSm1cERstlPrPicbWUw-",
+    "photoPagi": "https://drive.google.com/open?id=1NaIxWDhRtZMYTSm1cERstlPrPicbWUw-",
+    "photoSore": "https://drive.google.com/open?id=1c9YtvK8y23hEuvAAxTqSjXjfkyOMyWBs"
   },
   {
     "id": 283,
@@ -2545,7 +3109,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan ruangan asrama putra",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1LBkK0O1gg2lPkIMzxy649nfdT78xFTbz"
+    "photoUrl": "https://drive.google.com/open?id=1LBkK0O1gg2lPkIMzxy649nfdT78xFTbz",
+    "photoPagi": "https://drive.google.com/open?id=1LBkK0O1gg2lPkIMzxy649nfdT78xFTbz",
+    "photoSore": ""
   },
   {
     "id": 284,
@@ -2554,7 +3120,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan ruangan tengah asrama putra",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1JU_U8b0HfKhiUPHOcc1MTJsjo3hQ0tpj"
+    "photoUrl": "https://drive.google.com/open?id=1JU_U8b0HfKhiUPHOcc1MTJsjo3hQ0tpj",
+    "photoPagi": "https://drive.google.com/open?id=1JU_U8b0HfKhiUPHOcc1MTJsjo3hQ0tpj",
+    "photoSore": ""
   },
   {
     "id": 285,
@@ -2563,7 +3131,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengepel dan menyapu lantai aula mini",
     "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1uw6-wXUNP_tYanirAOB0ZDV6Z17TsOGO"
+    "photoUrl": "https://drive.google.com/open?id=1uw6-wXUNP_tYanirAOB0ZDV6Z17TsOGO",
+    "photoPagi": "https://drive.google.com/open?id=1uw6-wXUNP_tYanirAOB0ZDV6Z17TsOGO",
+    "photoSore": ""
   },
   {
     "id": 286,
@@ -2572,7 +3142,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan depan halaman aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1vPZWN2e0PTSN0qWeXW2WEJR7Z4QYXTxY"
+    "photoUrl": "https://drive.google.com/open?id=1vPZWN2e0PTSN0qWeXW2WEJR7Z4QYXTxY",
+    "photoPagi": "https://drive.google.com/open?id=1vPZWN2e0PTSN0qWeXW2WEJR7Z4QYXTxY",
+    "photoSore": ""
   },
   {
     "id": 287,
@@ -2581,7 +3153,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Melakasanakan piket pelayanan kantor",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=15M28sZwAHcT8CaVu0XZoTu1mZaqp3p6o"
+    "photoUrl": "https://drive.google.com/open?id=15M28sZwAHcT8CaVu0XZoTu1mZaqp3p6o",
+    "photoPagi": "https://drive.google.com/open?id=15M28sZwAHcT8CaVu0XZoTu1mZaqp3p6o",
+    "photoSore": ""
   },
   {
     "id": 288,
@@ -2590,7 +3164,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menyapu teras",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1Ky-fUwM5PqZONyyrw7YKsJmM1EToQKj8"
+    "photoUrl": "https://drive.google.com/open?id=1Ky-fUwM5PqZONyyrw7YKsJmM1EToQKj8",
+    "photoPagi": "https://drive.google.com/open?id=1Ky-fUwM5PqZONyyrw7YKsJmM1EToQKj8",
+    "photoSore": ""
   },
   {
     "id": 289,
@@ -2599,7 +3175,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan kaca ruangan pegaduan",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1hEcgZZdA5-N0wK-2hzWRwBVeMVLQaD7M"
+    "photoUrl": "https://drive.google.com/open?id=1hEcgZZdA5-N0wK-2hzWRwBVeMVLQaD7M",
+    "photoPagi": "https://drive.google.com/open?id=1hEcgZZdA5-N0wK-2hzWRwBVeMVLQaD7M",
+    "photoSore": ""
   },
   {
     "id": 290,
@@ -2608,7 +3186,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menyapu teras luar ULT",
     "output": "bersih",
     "hambatan": "",
-    "photoUrl": "https://drive.google.com/open?id=1SGSUkPywszVnFAyJst_Inys4vNtnB5ba"
+    "photoUrl": "https://drive.google.com/open?id=1SGSUkPywszVnFAyJst_Inys4vNtnB5ba",
+    "photoPagi": "https://drive.google.com/open?id=1SGSUkPywszVnFAyJst_Inys4vNtnB5ba",
+    "photoSore": ""
   },
   {
     "id": 291,
@@ -2617,7 +3197,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan toilet ULT",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1LY0oaNB50tXal3V6aGooWI7sXptBxoD9"
+    "photoUrl": "https://drive.google.com/open?id=1LY0oaNB50tXal3V6aGooWI7sXptBxoD9",
+    "photoPagi": "https://drive.google.com/open?id=1LY0oaNB50tXal3V6aGooWI7sXptBxoD9",
+    "photoSore": ""
   },
   {
     "id": 292,
@@ -2626,7 +3208,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menata ruangan numerasi",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1UFR7UY_f_UCfLmhaP1lMVXzd8X6Id5Nh"
+    "photoUrl": "https://drive.google.com/open?id=1UFR7UY_f_UCfLmhaP1lMVXzd8X6Id5Nh",
+    "photoPagi": "https://drive.google.com/open?id=1UFR7UY_f_UCfLmhaP1lMVXzd8X6Id5Nh",
+    "photoSore": ""
   },
   {
     "id": 293,
@@ -2635,7 +3219,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu taman area ULT dan pustaka",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1KHlRpas5ZfqZ0gf3AaAWLWIj-7V8ZooN"
+    "photoUrl": "https://drive.google.com/open?id=1KHlRpas5ZfqZ0gf3AaAWLWIj-7V8ZooN",
+    "photoPagi": "https://drive.google.com/open?id=1KHlRpas5ZfqZ0gf3AaAWLWIj-7V8ZooN",
+    "photoSore": ""
   },
   {
     "id": 294,
@@ -2644,7 +3230,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyiram bunga sekitar ULT",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1yHJOR72dyaHxRSBqy1JN5aztxEWvMeSn"
+    "photoUrl": "https://drive.google.com/open?id=1yHJOR72dyaHxRSBqy1JN5aztxEWvMeSn",
+    "photoPagi": "https://drive.google.com/open?id=1yHJOR72dyaHxRSBqy1JN5aztxEWvMeSn",
+    "photoSore": ""
   },
   {
     "id": 295,
@@ -2653,7 +3241,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengikuti rapat penjelasan tentang kearsipan",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1JVTnE1nQ2P3_N0NaokkvZpDkuyHdyxp7"
+    "photoUrl": "https://drive.google.com/open?id=1JVTnE1nQ2P3_N0NaokkvZpDkuyHdyxp7",
+    "photoPagi": "https://drive.google.com/open?id=1JVTnE1nQ2P3_N0NaokkvZpDkuyHdyxp7",
+    "photoSore": ""
   },
   {
     "id": 296,
@@ -2662,7 +3252,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Tempat pelayanan",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1lqmJb_D0hsXGe5xDuaeZX8Oaa7AStlVP"
+    "photoUrl": "https://drive.google.com/open?id=1lqmJb_D0hsXGe5xDuaeZX8Oaa7AStlVP",
+    "photoPagi": "https://drive.google.com/open?id=1lqmJb_D0hsXGe5xDuaeZX8Oaa7AStlVP",
+    "photoSore": ""
   },
   {
     "id": 297,
@@ -2671,7 +3263,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menyapu teras belakang arsiap dan perbaikan selang wc pria",
     "output": "terselesaikannya pekerjaan",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1hQVUdnrG22kU97yK8Mu1q19NjsW7Vbx2"
+    "photoUrl": "https://drive.google.com/open?id=1hQVUdnrG22kU97yK8Mu1q19NjsW7Vbx2",
+    "photoPagi": "https://drive.google.com/open?id=1hQVUdnrG22kU97yK8Mu1q19NjsW7Vbx2",
+    "photoSore": "https://drive.google.com/open?id=1X_dPpOqRWOU7CM3sTDCeyK1rb8uMsYAa"
   },
   {
     "id": 298,
@@ -2680,7 +3274,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Melayani tamu",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1rGqIzknXdV1ZTURtXUp8FphbBHxFyqm8",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1rGqIzknXdV1ZTURtXUp8FphbBHxFyqm8"
   },
   {
     "id": 299,
@@ -2689,7 +3285,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Melayani tamu",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1b9QDLpi3EaBIhKbgb5NsJn6uZA4YYt6E",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1b9QDLpi3EaBIhKbgb5NsJn6uZA4YYt6E"
   },
   {
     "id": 300,
@@ -2698,7 +3296,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Melayani tamu",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1_7sJOsvk0Oa_JKzRiq2Gqcd_oUJrlq_z",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1_7sJOsvk0Oa_JKzRiq2Gqcd_oUJrlq_z"
   },
   {
     "id": 301,
@@ -2707,7 +3307,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Melayani tamu",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1A92IwXCmo4o0C-4EnDDn2ItvUTzPCfb6",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1A92IwXCmo4o0C-4EnDDn2ItvUTzPCfb6"
   },
   {
     "id": 302,
@@ -2716,7 +3318,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyiapkan ruangan untuk senam pagi",
     "output": "Aman",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1Tnt2nAaRjdDL996wVaeBQ3VpYsuw-PrA"
+    "photoUrl": "https://drive.google.com/open?id=1Tnt2nAaRjdDL996wVaeBQ3VpYsuw-PrA",
+    "photoPagi": "https://drive.google.com/open?id=1Tnt2nAaRjdDL996wVaeBQ3VpYsuw-PrA",
+    "photoSore": ""
   },
   {
     "id": 303,
@@ -2725,7 +3329,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyiram bunga",
     "output": "Aman",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1NsCRx6suPe44KWCXLLlaN9gVjwjgvY4o"
+    "photoUrl": "https://drive.google.com/open?id=1NsCRx6suPe44KWCXLLlaN9gVjwjgvY4o",
+    "photoPagi": "https://drive.google.com/open?id=1NsCRx6suPe44KWCXLLlaN9gVjwjgvY4o",
+    "photoSore": ""
   },
   {
     "id": 304,
@@ -2734,7 +3340,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memindahkan printer ke gedung BMN",
     "output": "Aman",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=19wWWOAo17OiltxnTgXzpuh7HEgLUS5j1"
+    "photoUrl": "https://drive.google.com/open?id=19wWWOAo17OiltxnTgXzpuh7HEgLUS5j1",
+    "photoPagi": "https://drive.google.com/open?id=19wWWOAo17OiltxnTgXzpuh7HEgLUS5j1",
+    "photoSore": ""
   },
   {
     "id": 305,
@@ -2743,7 +3351,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Merakit kursi dibruang utama BGTK",
     "output": "Aman",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1xY9odZjQhOAzx2DHftcHtNehu13vO2wt"
+    "photoUrl": "https://drive.google.com/open?id=1xY9odZjQhOAzx2DHftcHtNehu13vO2wt",
+    "photoPagi": "https://drive.google.com/open?id=1xY9odZjQhOAzx2DHftcHtNehu13vO2wt",
+    "photoSore": ""
   },
   {
     "id": 306,
@@ -2752,7 +3362,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyiapkan kokarde untuk acara PKGSD MBI di hotel Imelda padang",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1_rPT2sSG16lJyaXpsbNSQnGUXwnCa8yq"
+    "photoUrl": "https://drive.google.com/open?id=1_rPT2sSG16lJyaXpsbNSQnGUXwnCa8yq",
+    "photoPagi": "https://drive.google.com/open?id=1_rPT2sSG16lJyaXpsbNSQnGUXwnCa8yq",
+    "photoSore": ""
   },
   {
     "id": 307,
@@ -2761,7 +3373,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyiapkan ruangan untuk rapat kearsipan",
     "output": "Aman",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1xG-hkqTl9KlrlxFBM1-0ab4ge5-Pyohl"
+    "photoUrl": "https://drive.google.com/open?id=1xG-hkqTl9KlrlxFBM1-0ab4ge5-Pyohl",
+    "photoPagi": "https://drive.google.com/open?id=1xG-hkqTl9KlrlxFBM1-0ab4ge5-Pyohl",
+    "photoSore": ""
   },
   {
     "id": 308,
@@ -2770,7 +3384,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengikuti rapat ZIWBK di hol mini",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=13mWNjbxLvWz4mNWxuyKhNaHNUrTzgqOM"
+    "photoUrl": "https://drive.google.com/open?id=13mWNjbxLvWz4mNWxuyKhNaHNUrTzgqOM",
+    "photoPagi": "https://drive.google.com/open?id=13mWNjbxLvWz4mNWxuyKhNaHNUrTzgqOM",
+    "photoSore": ""
   },
   {
     "id": 309,
@@ -2779,7 +3395,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengikuti Rapat kearsipan",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1TxRC3fHhncOXK88pYsoN-0UHz-91DJTR"
+    "photoUrl": "https://drive.google.com/open?id=1TxRC3fHhncOXK88pYsoN-0UHz-91DJTR",
+    "photoPagi": "https://drive.google.com/open?id=1TxRC3fHhncOXK88pYsoN-0UHz-91DJTR",
+    "photoSore": ""
   },
   {
     "id": 310,
@@ -2788,7 +3406,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengikuti Rapat ZIWBK di hol mini",
     "output": "Lancar",
     "hambatan": "Tidak ada",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1LZ5mnlffpaVlQK_3MYKiZlrS21m4grMe",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1LZ5mnlffpaVlQK_3MYKiZlrS21m4grMe"
   },
   {
     "id": 311,
@@ -2797,7 +3417,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Masih dalam rapat ziwbk di aula mini",
     "output": "Mengikuti rapat sampai sekarang",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1MVK7zhIMd-EjSmNRVRB7DunPmTOBarGe",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1MVK7zhIMd-EjSmNRVRB7DunPmTOBarGe"
   },
   {
     "id": 312,
@@ -2806,7 +3428,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor di hol mini",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1H1Ks-k9XgnZFdOkUlc2wOhZDT6JSIFFJ"
+    "photoUrl": "https://drive.google.com/open?id=1H1Ks-k9XgnZFdOkUlc2wOhZDT6JSIFFJ",
+    "photoPagi": "https://drive.google.com/open?id=1H1Ks-k9XgnZFdOkUlc2wOhZDT6JSIFFJ",
+    "photoSore": ""
   },
   {
     "id": 313,
@@ -2815,7 +3439,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan area kantor, membuang sampah",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1FQ6UwDcgTcqunVK0i0-OQW3--IipctkY"
+    "photoUrl": "https://drive.google.com/open?id=1FQ6UwDcgTcqunVK0i0-OQW3--IipctkY",
+    "photoPagi": "https://drive.google.com/open?id=1FQ6UwDcgTcqunVK0i0-OQW3--IipctkY",
+    "photoSore": "https://drive.google.com/open?id=1KZptiOPCjR53D719T4JH2qpKdr_HpiLn"
   },
   {
     "id": 314,
@@ -2824,7 +3450,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan halaman aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1lwoa8wP-ArPiUNhlFCmTXvSIOEuA-GA9"
+    "photoUrl": "https://drive.google.com/open?id=1lwoa8wP-ArPiUNhlFCmTXvSIOEuA-GA9",
+    "photoPagi": "https://drive.google.com/open?id=1lwoa8wP-ArPiUNhlFCmTXvSIOEuA-GA9",
+    "photoSore": ""
   },
   {
     "id": 315,
@@ -2833,7 +3461,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1I6Hm3yxEoA2KVKstY07uQWQDQgmOgbh3"
+    "photoUrl": "https://drive.google.com/open?id=1I6Hm3yxEoA2KVKstY07uQWQDQgmOgbh3",
+    "photoPagi": "https://drive.google.com/open?id=1I6Hm3yxEoA2KVKstY07uQWQDQgmOgbh3",
+    "photoSore": ""
   },
   {
     "id": 316,
@@ -2842,7 +3472,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan samping asrama putra",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1rSCJZ6L2Bj_wSKj7iKBT_sVAyyIBb-NZ"
+    "photoUrl": "https://drive.google.com/open?id=1rSCJZ6L2Bj_wSKj7iKBT_sVAyyIBb-NZ",
+    "photoPagi": "https://drive.google.com/open?id=1rSCJZ6L2Bj_wSKj7iKBT_sVAyyIBb-NZ",
+    "photoSore": ""
   },
   {
     "id": 317,
@@ -2851,7 +3483,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan belakang asrama putra",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1i09DbbW8ie2wuP5Up26WGIR3vCP1tygN"
+    "photoUrl": "https://drive.google.com/open?id=1i09DbbW8ie2wuP5Up26WGIR3vCP1tygN",
+    "photoPagi": "https://drive.google.com/open?id=1i09DbbW8ie2wuP5Up26WGIR3vCP1tygN",
+    "photoSore": ""
   },
   {
     "id": 318,
@@ -2860,7 +3494,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan depan asrama putra",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=18rk5kMG5Qnhv70tasxDBnQBhm9z8UOTz"
+    "photoUrl": "https://drive.google.com/open?id=18rk5kMG5Qnhv70tasxDBnQBhm9z8UOTz",
+    "photoPagi": "https://drive.google.com/open?id=18rk5kMG5Qnhv70tasxDBnQBhm9z8UOTz",
+    "photoSore": ""
   },
   {
     "id": 319,
@@ -2869,7 +3505,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "mengepel lantai",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1gvQjqKJZotrBk-j4Ud8gWH6bS8hcjLXT"
+    "photoUrl": "https://drive.google.com/open?id=1gvQjqKJZotrBk-j4Ud8gWH6bS8hcjLXT",
+    "photoPagi": "https://drive.google.com/open?id=1gvQjqKJZotrBk-j4Ud8gWH6bS8hcjLXT",
+    "photoSore": ""
   },
   {
     "id": 320,
@@ -2878,7 +3516,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "ruangan ventry",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1wkCZnEOYqtijjJkrGIcvWXgbEqQONkzB"
+    "photoUrl": "https://drive.google.com/open?id=1wkCZnEOYqtijjJkrGIcvWXgbEqQONkzB",
+    "photoPagi": "https://drive.google.com/open?id=1wkCZnEOYqtijjJkrGIcvWXgbEqQONkzB",
+    "photoSore": ""
   },
   {
     "id": 321,
@@ -2887,7 +3527,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "teras samping asrama",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1_-yxCcjU8hGVp6Wx_jULxARe1Yju_jo2"
+    "photoUrl": "https://drive.google.com/open?id=1_-yxCcjU8hGVp6Wx_jULxARe1Yju_jo2",
+    "photoPagi": "https://drive.google.com/open?id=1_-yxCcjU8hGVp6Wx_jULxARe1Yju_jo2",
+    "photoSore": ""
   },
   {
     "id": 322,
@@ -2896,7 +3538,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan halaman depan pustaka dan numerasi",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1tDgE5BZBK3IdseqFoysqbkuPkA8Qr0sl"
+    "photoUrl": "https://drive.google.com/open?id=1tDgE5BZBK3IdseqFoysqbkuPkA8Qr0sl",
+    "photoPagi": "https://drive.google.com/open?id=1tDgE5BZBK3IdseqFoysqbkuPkA8Qr0sl",
+    "photoSore": ""
   },
   {
     "id": 323,
@@ -2905,7 +3549,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan asrama putra",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=16wfmvuPQ4I_Wax5ijekHPE0e-HVTfNwF"
+    "photoUrl": "https://drive.google.com/open?id=16wfmvuPQ4I_Wax5ijekHPE0e-HVTfNwF",
+    "photoPagi": "https://drive.google.com/open?id=16wfmvuPQ4I_Wax5ijekHPE0e-HVTfNwF",
+    "photoSore": ""
   },
   {
     "id": 324,
@@ -2914,7 +3560,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menata ruangan numerasi",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1iVv_RuLuYOUdYTVB4BdDAHyrTG8yluGk"
+    "photoUrl": "https://drive.google.com/open?id=1iVv_RuLuYOUdYTVB4BdDAHyrTG8yluGk",
+    "photoPagi": "https://drive.google.com/open?id=1iVv_RuLuYOUdYTVB4BdDAHyrTG8yluGk",
+    "photoSore": ""
   },
   {
     "id": 325,
@@ -2923,7 +3571,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "samping ruangan pengaduan",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1D0J6otyNFCxdAy53do36CD_9J5Lw47TH"
+    "photoUrl": "https://drive.google.com/open?id=1D0J6otyNFCxdAy53do36CD_9J5Lw47TH",
+    "photoPagi": "https://drive.google.com/open?id=1D0J6otyNFCxdAy53do36CD_9J5Lw47TH",
+    "photoSore": ""
   },
   {
     "id": 326,
@@ -2932,7 +3582,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "samping ULT",
     "output": "bersih",
     "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1qpaCpf9E2KLi56yJRJRaaObyr-kIaSzU"
+    "photoUrl": "https://drive.google.com/open?id=1qpaCpf9E2KLi56yJRJRaaObyr-kIaSzU",
+    "photoPagi": "https://drive.google.com/open?id=1qpaCpf9E2KLi56yJRJRaaObyr-kIaSzU",
+    "photoSore": ""
   },
   {
     "id": 327,
@@ -2941,7 +3593,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mencabut rumput dalam pot bunga area ULT dan ruangan pengaduan",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1Pl0lYQPD61GJfvclvBcNN2R8fBOoEQRV"
+    "photoUrl": "https://drive.google.com/open?id=1Pl0lYQPD61GJfvclvBcNN2R8fBOoEQRV",
+    "photoPagi": "https://drive.google.com/open?id=1Pl0lYQPD61GJfvclvBcNN2R8fBOoEQRV",
+    "photoSore": ""
   },
   {
     "id": 328,
@@ -2950,7 +3604,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membuang sampah yang ada dalam tong WC pria dan wanita serta tong sampah di pustaka dan pengaduan",
     "output": "Bersih",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1os3s5IRqMjluTTrKC0gXbrOhxRJhI4-w"
+    "photoUrl": "https://drive.google.com/open?id=1os3s5IRqMjluTTrKC0gXbrOhxRJhI4-w",
+    "photoPagi": "https://drive.google.com/open?id=1os3s5IRqMjluTTrKC0gXbrOhxRJhI4-w",
+    "photoSore": ""
   },
   {
     "id": 329,
@@ -2959,7 +3615,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan mushola dari laba² dan menyapu dgn mengepel lantai luar dalam mushola",
     "output": "Bersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1GS3D_pvlxhqz-J47n4ST4QZUWKcweKHE"
+    "photoUrl": "https://drive.google.com/open?id=1GS3D_pvlxhqz-J47n4ST4QZUWKcweKHE",
+    "photoPagi": "https://drive.google.com/open?id=1GS3D_pvlxhqz-J47n4ST4QZUWKcweKHE",
+    "photoSore": ""
   },
   {
     "id": 330,
@@ -2968,7 +3626,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Bersihkan mushola",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1xIZnSFiJCdJuhPixpyqdINc2ZBQZ3Uwx"
+    "photoUrl": "https://drive.google.com/open?id=1xIZnSFiJCdJuhPixpyqdINc2ZBQZ3Uwx",
+    "photoPagi": "https://drive.google.com/open?id=1xIZnSFiJCdJuhPixpyqdINc2ZBQZ3Uwx",
+    "photoSore": ""
   },
   {
     "id": 331,
@@ -2977,7 +3637,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor dekat parkiran mobil ibuk e",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1mLUHChte3-TwkJiikyZcTA1VIA8_G8bl"
+    "photoUrl": "https://drive.google.com/open?id=1mLUHChte3-TwkJiikyZcTA1VIA8_G8bl",
+    "photoPagi": "https://drive.google.com/open?id=1mLUHChte3-TwkJiikyZcTA1VIA8_G8bl",
+    "photoSore": ""
   },
   {
     "id": 332,
@@ -2986,7 +3648,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan rumput disebelah ruangan parkir Kepala",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1gNzntJrjeOcq_HnGw8mUCWfLBwpoU9hH"
+    "photoUrl": "https://drive.google.com/open?id=1gNzntJrjeOcq_HnGw8mUCWfLBwpoU9hH",
+    "photoPagi": "https://drive.google.com/open?id=1gNzntJrjeOcq_HnGw8mUCWfLBwpoU9hH",
+    "photoSore": ""
   },
   {
     "id": 333,
@@ -2995,7 +3659,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "mencabut rumput di pekarangan rumah dinas",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1I0WBwx5f2tqN-5uk5KmgyhRyjOqCt4LZ"
+    "photoUrl": "https://drive.google.com/open?id=1I0WBwx5f2tqN-5uk5KmgyhRyjOqCt4LZ",
+    "photoPagi": "https://drive.google.com/open?id=1I0WBwx5f2tqN-5uk5KmgyhRyjOqCt4LZ",
+    "photoSore": ""
   },
   {
     "id": 334,
@@ -3004,7 +3670,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan perkarangan rumah dinas",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1vW9P2M8CEHociVCxHm1IbMQiT_ReGwYg"
+    "photoUrl": "https://drive.google.com/open?id=1vW9P2M8CEHociVCxHm1IbMQiT_ReGwYg",
+    "photoPagi": "https://drive.google.com/open?id=1vW9P2M8CEHociVCxHm1IbMQiT_ReGwYg",
+    "photoSore": ""
   },
   {
     "id": 335,
@@ -3013,7 +3681,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membuka gudang",
     "output": "bobol ganti gembok",
     "hambatan": "aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1MeogR1XC68RqxI_BiFUsnzCsTEp7rpKc",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1MeogR1XC68RqxI_BiFUsnzCsTEp7rpKc"
   },
   {
     "id": 336,
@@ -3022,7 +3692,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "mengarahkan tamu",
     "output": "1",
     "hambatan": "aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1CNJORViTFUIKwGagJ23mSQ9KBgoP5KqV",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1CNJORViTFUIKwGagJ23mSQ9KBgoP5KqV"
   },
   {
     "id": 337,
@@ -3031,7 +3703,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memantau pengamanan di asrama besar",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1DUd4k3Ilcj6oaOmyVJHPpy2-yMQeK1eY"
+    "photoUrl": "https://drive.google.com/open?id=1DUd4k3Ilcj6oaOmyVJHPpy2-yMQeK1eY",
+    "photoPagi": "https://drive.google.com/open?id=1DUd4k3Ilcj6oaOmyVJHPpy2-yMQeK1eY",
+    "photoSore": ""
   },
   {
     "id": 338,
@@ -3040,7 +3714,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "sarana dan prasarana gembok utk gudang",
     "output": "2",
     "hambatan": "baru di beli",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1BN1oqlS35t0zkxrkK2Md-Cew9bFx_Ua5",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1BN1oqlS35t0zkxrkK2Md-Cew9bFx_Ua5"
   },
   {
     "id": 339,
@@ -3049,7 +3725,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan area kantor, membuang sampah, memberikan rumput dan menata rumput",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1l9eZ-b0zj3KetMIcJbkcQ5-mCZSUrKFT"
+    "photoUrl": "https://drive.google.com/open?id=1l9eZ-b0zj3KetMIcJbkcQ5-mCZSUrKFT",
+    "photoPagi": "https://drive.google.com/open?id=1l9eZ-b0zj3KetMIcJbkcQ5-mCZSUrKFT",
+    "photoSore": "https://drive.google.com/open?id=10u-WkG6xcbWasefpMhQio3gzVFx8cr4k"
   },
   {
     "id": 340,
@@ -3058,7 +3736,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan area jalan depan kantor",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1He2qBxXVKt4YryS9HmgSxL9iqJIX8WdX",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1He2qBxXVKt4YryS9HmgSxL9iqJIX8WdX"
   },
   {
     "id": 341,
@@ -3067,7 +3747,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "kontrol kerja PLN pencabutan instalasi dan cek barang BMN",
     "output": "terselesaikan pekerjaan",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1Uv5CHcD5QJnyZz0JKH6KSnMxIvH0rJm4"
+    "photoUrl": "https://drive.google.com/open?id=1Uv5CHcD5QJnyZz0JKH6KSnMxIvH0rJm4",
+    "photoPagi": "https://drive.google.com/open?id=1Uv5CHcD5QJnyZz0JKH6KSnMxIvH0rJm4",
+    "photoSore": "https://drive.google.com/open?id=1EjZmskoD9ZWAyKDcpVIgN-B3rVNogacn"
   },
   {
     "id": 342,
@@ -3076,7 +3758,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Cek keadaan kebersihan ruang lingkup kerja",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1NJmdFMhtcz4nRwBYj6OHf4QuAneylRMi",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1NJmdFMhtcz4nRwBYj6OHf4QuAneylRMi"
   },
   {
     "id": 343,
@@ -3085,7 +3769,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mencabut rumput diteras sela sela batu depan pustaka",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1CefnyxBV7BJ4Ze2Xlww26bp65cuCoNIM",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1CefnyxBV7BJ4Ze2Xlww26bp65cuCoNIM"
   },
   {
     "id": 344,
@@ -3094,7 +3780,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan teras numerasi",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1OqsQF6RooDvRLyB-pAutE1AALnem1fcn",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1OqsQF6RooDvRLyB-pAutE1AALnem1fcn"
   },
   {
     "id": 345,
@@ -3103,7 +3791,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan aula mini,dan memperbaiki instalasi air pos satpam",
     "output": "Selesai dengan baik",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1JqxE2Y6GGFVcEBButSvy-NHUuJTXRWrd"
+    "photoUrl": "https://drive.google.com/open?id=1JqxE2Y6GGFVcEBButSvy-NHUuJTXRWrd",
+    "photoPagi": "https://drive.google.com/open?id=1JqxE2Y6GGFVcEBButSvy-NHUuJTXRWrd",
+    "photoSore": "https://drive.google.com/open?id=17DVM7c-sQGBagjS983haBjyodfzSv5jW"
   },
   {
     "id": 346,
@@ -3112,7 +3802,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu teras sebelah parkir Kepala",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1PnlKY64SoiD3un3zpHPCMRZp52jxQQBQ",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1PnlKY64SoiD3un3zpHPCMRZp52jxQQBQ"
   },
   {
     "id": 347,
@@ -3121,7 +3813,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Sapu lantai mushola",
     "output": "Bersih²",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=10H7wZ85ho7Ak0KdYnd2NRmow6bFym4WA",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=10H7wZ85ho7Ak0KdYnd2NRmow6bFym4WA"
   },
   {
     "id": 348,
@@ -3130,7 +3824,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "",
     "output": "",
     "hambatan": "",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1QsksFxZOG29pV0pess3vNelCeHu6PmPC",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1QsksFxZOG29pV0pess3vNelCeHu6PmPC"
   },
   {
     "id": 349,
@@ -3139,7 +3835,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor dekat parkiran mobil ibuk kepala",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=17SEe8VgwHAcqBZLqbspWeB9u83pKD8Wt"
+    "photoUrl": "https://drive.google.com/open?id=17SEe8VgwHAcqBZLqbspWeB9u83pKD8Wt",
+    "photoPagi": "https://drive.google.com/open?id=17SEe8VgwHAcqBZLqbspWeB9u83pKD8Wt",
+    "photoSore": ""
   },
   {
     "id": 350,
@@ -3148,7 +3846,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan rumput yang sudah di cangkul",
     "output": "Bersih",
     "hambatan": "--",
-    "photoUrl": "https://drive.google.com/open?id=1G3_7DP-OGUd69MzbMmc7EAIat2mL3Gdq"
+    "photoUrl": "https://drive.google.com/open?id=1G3_7DP-OGUd69MzbMmc7EAIat2mL3Gdq",
+    "photoPagi": "https://drive.google.com/open?id=1G3_7DP-OGUd69MzbMmc7EAIat2mL3Gdq",
+    "photoSore": ""
   },
   {
     "id": 351,
@@ -3157,7 +3857,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Me stempel sertifikat",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1L0TBujnWyAZMy7FpxldFaFaUCdJ5ofX_"
+    "photoUrl": "https://drive.google.com/open?id=1L0TBujnWyAZMy7FpxldFaFaUCdJ5ofX_",
+    "photoPagi": "https://drive.google.com/open?id=1L0TBujnWyAZMy7FpxldFaFaUCdJ5ofX_",
+    "photoSore": ""
   },
   {
     "id": 352,
@@ -3166,7 +3868,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mencabut rumput di depan ruang kepala",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1I_se_x_zYOUflRtvVG-fmEggA_N55gAv",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1I_se_x_zYOUflRtvVG-fmEggA_N55gAv"
   },
   {
     "id": 353,
@@ -3175,7 +3879,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mentempel menyiapkan sonsistem untuk apel pagi di hol utama",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1oFAwwvQ2s32xEyuI7gHW1nvRSlq9NL0o"
+    "photoUrl": "https://drive.google.com/open?id=1oFAwwvQ2s32xEyuI7gHW1nvRSlq9NL0o",
+    "photoPagi": "https://drive.google.com/open?id=1oFAwwvQ2s32xEyuI7gHW1nvRSlq9NL0o",
+    "photoSore": ""
   },
   {
     "id": 354,
@@ -3184,7 +3890,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyusun kursi di aula mini untuk acara kegiatan BGTK",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1TMGlUtypcE-wk3sAzmsvJo_hJkwBkN7z"
+    "photoUrl": "https://drive.google.com/open?id=1TMGlUtypcE-wk3sAzmsvJo_hJkwBkN7z",
+    "photoPagi": "https://drive.google.com/open?id=1TMGlUtypcE-wk3sAzmsvJo_hJkwBkN7z",
+    "photoSore": ""
   },
   {
     "id": 355,
@@ -3193,7 +3901,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengeluarkan perlengkapan sound system apel",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1B3bj1Ldd134B6WsUJL9Om-HnCcalE9fb"
+    "photoUrl": "https://drive.google.com/open?id=1B3bj1Ldd134B6WsUJL9Om-HnCcalE9fb",
+    "photoPagi": "https://drive.google.com/open?id=1B3bj1Ldd134B6WsUJL9Om-HnCcalE9fb",
+    "photoSore": ""
   },
   {
     "id": 356,
@@ -3202,7 +3912,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan ruangan asrama putra",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1m1tqmsHdo3z4ys6LBLANO1PR_VO0Rb4s"
+    "photoUrl": "https://drive.google.com/open?id=1m1tqmsHdo3z4ys6LBLANO1PR_VO0Rb4s",
+    "photoPagi": "https://drive.google.com/open?id=1m1tqmsHdo3z4ys6LBLANO1PR_VO0Rb4s",
+    "photoSore": ""
   },
   {
     "id": 357,
@@ -3211,7 +3923,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersih kan ruang tamu asrama putra",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1JPvTjCl7N7TuAUe7X2X9uUA8MRK2WPHu"
+    "photoUrl": "https://drive.google.com/open?id=1JPvTjCl7N7TuAUe7X2X9uUA8MRK2WPHu",
+    "photoPagi": "https://drive.google.com/open?id=1JPvTjCl7N7TuAUe7X2X9uUA8MRK2WPHu",
+    "photoSore": ""
   },
   {
     "id": 358,
@@ -3220,7 +3934,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan asrama putra",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1foZPpfZdsRR-AHSISzPjZsUFoUNPLvQc"
+    "photoUrl": "https://drive.google.com/open?id=1foZPpfZdsRR-AHSISzPjZsUFoUNPLvQc",
+    "photoPagi": "https://drive.google.com/open?id=1foZPpfZdsRR-AHSISzPjZsUFoUNPLvQc",
+    "photoSore": ""
   },
   {
     "id": 359,
@@ -3229,7 +3945,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengeluarkan perlengkapan sound system dan membersihkan ruang aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1_VW86oYNWxBnR9QQpiDm1bEW0G_-CFKC"
+    "photoUrl": "https://drive.google.com/open?id=1_VW86oYNWxBnR9QQpiDm1bEW0G_-CFKC",
+    "photoPagi": "https://drive.google.com/open?id=1_VW86oYNWxBnR9QQpiDm1bEW0G_-CFKC",
+    "photoSore": ""
   },
   {
     "id": 360,
@@ -3238,7 +3956,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersih kan samping asrama putra",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1XVdV2fPbWeNUvm93vWdeoBzPZCtg2OLI"
+    "photoUrl": "https://drive.google.com/open?id=1XVdV2fPbWeNUvm93vWdeoBzPZCtg2OLI",
+    "photoPagi": "https://drive.google.com/open?id=1XVdV2fPbWeNUvm93vWdeoBzPZCtg2OLI",
+    "photoSore": ""
   },
   {
     "id": 361,
@@ -3247,7 +3967,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan area dalam ruang aula mini",
     "output": "Bersih²",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1jBdDJOJlOr2ODdzBYMVS903Uu1BkS-AY"
+    "photoUrl": "https://drive.google.com/open?id=1jBdDJOJlOr2ODdzBYMVS903Uu1BkS-AY",
+    "photoPagi": "https://drive.google.com/open?id=1jBdDJOJlOr2ODdzBYMVS903Uu1BkS-AY",
+    "photoSore": ""
   },
   {
     "id": 362,
@@ -3256,7 +3978,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Pelayanan tamu guru dari kabupaten pdg pariaman",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1chzaJGdZF6u9h0qenD3v5qcMdp05-mZP"
+    "photoUrl": "https://drive.google.com/open?id=1chzaJGdZF6u9h0qenD3v5qcMdp05-mZP",
+    "photoPagi": "https://drive.google.com/open?id=1chzaJGdZF6u9h0qenD3v5qcMdp05-mZP",
+    "photoSore": ""
   },
   {
     "id": 363,
@@ -3265,7 +3989,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan meja di ult dan pengaduan",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=15I7z4937usSINNaT-GDETH3UEbeax1FG"
+    "photoUrl": "https://drive.google.com/open?id=15I7z4937usSINNaT-GDETH3UEbeax1FG",
+    "photoPagi": "https://drive.google.com/open?id=15I7z4937usSINNaT-GDETH3UEbeax1FG",
+    "photoSore": ""
   },
   {
     "id": 364,
@@ -3274,7 +4000,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan tempat duduk tamu",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1MwxxJg2B7XjTtZuYELfTvCJg-71t85ja"
+    "photoUrl": "https://drive.google.com/open?id=1MwxxJg2B7XjTtZuYELfTvCJg-71t85ja",
+    "photoPagi": "https://drive.google.com/open?id=1MwxxJg2B7XjTtZuYELfTvCJg-71t85ja",
+    "photoSore": ""
   },
   {
     "id": 365,
@@ -3283,7 +4011,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "kaca di ult",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1cULJ8KidrAf_Rrq6L_i4Oz6XAg9x2Tmi"
+    "photoUrl": "https://drive.google.com/open?id=1cULJ8KidrAf_Rrq6L_i4Oz6XAg9x2Tmi",
+    "photoPagi": "https://drive.google.com/open?id=1cULJ8KidrAf_Rrq6L_i4Oz6XAg9x2Tmi",
+    "photoSore": ""
   },
   {
     "id": 366,
@@ -3292,7 +4022,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu ruangan numerasi",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1hfY5rDY3Zwg6UaTy5FmGAiPwpJ1tr25N"
+    "photoUrl": "https://drive.google.com/open?id=1hfY5rDY3Zwg6UaTy5FmGAiPwpJ1tr25N",
+    "photoPagi": "https://drive.google.com/open?id=1hfY5rDY3Zwg6UaTy5FmGAiPwpJ1tr25N",
+    "photoSore": ""
   },
   {
     "id": 367,
@@ -3301,7 +4033,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu halaman depan pustaka dan ULT",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1bR6d8-UkATG51mZPp0a5V7z7VuuQD72X"
+    "photoUrl": "https://drive.google.com/open?id=1bR6d8-UkATG51mZPp0a5V7z7VuuQD72X",
+    "photoPagi": "https://drive.google.com/open?id=1bR6d8-UkATG51mZPp0a5V7z7VuuQD72X",
+    "photoSore": ""
   },
   {
     "id": 368,
@@ -3310,7 +4044,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan WC pria dan wanita dekat ULT",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1CzrEsS1Y9mAOto9VivDBKp38R4EauYHl"
+    "photoUrl": "https://drive.google.com/open?id=1CzrEsS1Y9mAOto9VivDBKp38R4EauYHl",
+    "photoPagi": "https://drive.google.com/open?id=1CzrEsS1Y9mAOto9VivDBKp38R4EauYHl",
+    "photoSore": ""
   },
   {
     "id": 369,
@@ -3319,7 +4055,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyiram bunga sekitar ULT",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1kcZBfktC8AWTk1L5sUG73TIJKaMzQ07P"
+    "photoUrl": "https://drive.google.com/open?id=1kcZBfktC8AWTk1L5sUG73TIJKaMzQ07P",
+    "photoPagi": "https://drive.google.com/open?id=1kcZBfktC8AWTk1L5sUG73TIJKaMzQ07P",
+    "photoSore": ""
   },
   {
     "id": 370,
@@ -3328,7 +4066,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan perkarangan luar asrama putra",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1wvNh2FfxxSvyZR78uxL0MaagLBIjZF2j"
+    "photoUrl": "https://drive.google.com/open?id=1wvNh2FfxxSvyZR78uxL0MaagLBIjZF2j",
+    "photoPagi": "https://drive.google.com/open?id=1wvNh2FfxxSvyZR78uxL0MaagLBIjZF2j",
+    "photoSore": ""
   },
   {
     "id": 371,
@@ -3337,7 +4077,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan area kantor",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1SfkbqElb3WcF1LBxKlkyMUa2MJTrE3Yi"
+    "photoUrl": "https://drive.google.com/open?id=1SfkbqElb3WcF1LBxKlkyMUa2MJTrE3Yi",
+    "photoPagi": "https://drive.google.com/open?id=1SfkbqElb3WcF1LBxKlkyMUa2MJTrE3Yi",
+    "photoSore": ""
   },
   {
     "id": 372,
@@ -3346,7 +4088,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menata ruangan aula utama dan barang iventaris kantor",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1jL-2bTSbmX9qOcitVY82srtJIerDVXqx"
+    "photoUrl": "https://drive.google.com/open?id=1jL-2bTSbmX9qOcitVY82srtJIerDVXqx",
+    "photoPagi": "https://drive.google.com/open?id=1jL-2bTSbmX9qOcitVY82srtJIerDVXqx",
+    "photoSore": ""
   },
   {
     "id": 373,
@@ -3355,7 +4099,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Kunjungan guru kab. Padang Pariaman",
     "output": "Lancar",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=19vT8ONjCiRMxB3BlNyAK_meFLNftPzbp"
+    "photoUrl": "https://drive.google.com/open?id=19vT8ONjCiRMxB3BlNyAK_meFLNftPzbp",
+    "photoPagi": "https://drive.google.com/open?id=19vT8ONjCiRMxB3BlNyAK_meFLNftPzbp",
+    "photoSore": ""
   },
   {
     "id": 374,
@@ -3364,7 +4110,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mendampingi tukang memperbaiki pintu",
     "output": "Lancar",
     "hambatan": "Tidak ada",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1oSXvdrsFcp1sMDEc6SaOYrfg7gVFZfdX",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1oSXvdrsFcp1sMDEc6SaOYrfg7gVFZfdX"
   },
   {
     "id": 375,
@@ -3373,7 +4121,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan tumpukan tanah",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1ulFq2qVW8ZQ62t_QUz-gZX6ulAJq7b9u",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1ulFq2qVW8ZQ62t_QUz-gZX6ulAJq7b9u"
   },
   {
     "id": 376,
@@ -3382,7 +4132,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan area kantor",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=10alMR5SONYzNLC1dHHloAX86sDSrETtx",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=10alMR5SONYzNLC1dHHloAX86sDSrETtx"
   },
   {
     "id": 377,
@@ -3391,7 +4143,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan diluar asrama putra",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=17s_qI9eIcisvJ1fyzCaGSbd-zfhOvZJn",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=17s_qI9eIcisvJ1fyzCaGSbd-zfhOvZJn"
   },
   {
     "id": 378,
@@ -3400,7 +4154,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan aula mini.mushola dan perawatan pintu gedung baru.dan instalasi air d lantai dua",
     "output": "Selesai",
     "hambatan": "Kendala di intalasi air gedung baru lantai dua.karna pipa dalam coran semen",
-    "photoUrl": "https://drive.google.com/open?id=17M0vEx5YvmbSn2Ha7Ro375HohQ4LFQow"
+    "photoUrl": "https://drive.google.com/open?id=17M0vEx5YvmbSn2Ha7Ro375HohQ4LFQow",
+    "photoPagi": "https://drive.google.com/open?id=17M0vEx5YvmbSn2Ha7Ro375HohQ4LFQow",
+    "photoSore": "https://drive.google.com/open?id=1_Cdo4N7I5RL_b5vUwOTLrGGqoJLV_NNV"
   },
   {
     "id": 379,
@@ -3409,7 +4165,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Rapat untuk acara kegiatan di hotel Imelda padang 4-6 mai 2026",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=18vpVA3R7TOCfgX_-S10KFqaJ0LYDajR3"
+    "photoUrl": "https://drive.google.com/open?id=18vpVA3R7TOCfgX_-S10KFqaJ0LYDajR3",
+    "photoPagi": "https://drive.google.com/open?id=18vpVA3R7TOCfgX_-S10KFqaJ0LYDajR3",
+    "photoSore": ""
   },
   {
     "id": 380,
@@ -3418,7 +4176,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memasang gorden ruang Siti Nurbaya BGTK Sumbar",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1V4AjXWwBgGStvzO6ZcYYcSYcPSEE0c2A",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1V4AjXWwBgGStvzO6ZcYYcSYcPSEE0c2A"
   },
   {
     "id": 381,
@@ -3427,7 +4187,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memantau keamanan di area kantor",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1J1F9j7b_UAQFhzrOcMZR6RaeB3X_DLM_"
+    "photoUrl": "https://drive.google.com/open?id=1J1F9j7b_UAQFhzrOcMZR6RaeB3X_DLM_",
+    "photoPagi": "https://drive.google.com/open?id=1J1F9j7b_UAQFhzrOcMZR6RaeB3X_DLM_",
+    "photoSore": ""
   },
   {
     "id": 382,
@@ -3436,7 +4198,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu lantai aula mini",
     "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=10wWoCmFlT6F0_k9DJC1W-9e_foxAFvkJ",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=10wWoCmFlT6F0_k9DJC1W-9e_foxAFvkJ"
   },
   {
     "id": 383,
@@ -3445,7 +4209,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Merapikan ruang aula mini stelan kegiatan",
     "output": "Menyusun kursi",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1VghLXWMd-sMdM_VjSBJNvAuUX_vbfzjw",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1VghLXWMd-sMdM_VjSBJNvAuUX_vbfzjw"
   },
   {
     "id": 384,
@@ -3454,7 +4220,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "perbaikan gedung",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1UIcpgGadXAmr2NoLjTy0qHuRXWfZQSFK"
+    "photoUrl": "https://drive.google.com/open?id=1UIcpgGadXAmr2NoLjTy0qHuRXWfZQSFK",
+    "photoPagi": "https://drive.google.com/open?id=1UIcpgGadXAmr2NoLjTy0qHuRXWfZQSFK",
+    "photoSore": ""
   },
   {
     "id": 385,
@@ -3463,7 +4231,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "perawatan gedung",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1bR-nYxtvtawHb2Ecni03Y9QFH2SJcHXY"
+    "photoUrl": "https://drive.google.com/open?id=1bR-nYxtvtawHb2Ecni03Y9QFH2SJcHXY",
+    "photoPagi": "https://drive.google.com/open?id=1bR-nYxtvtawHb2Ecni03Y9QFH2SJcHXY",
+    "photoSore": ""
   },
   {
     "id": 386,
@@ -3472,7 +4242,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "teras ult dan pustaka",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1kiRIafg-kYjiXyGrVXYNs1yt6PLGKOlI"
+    "photoUrl": "https://drive.google.com/open?id=1kiRIafg-kYjiXyGrVXYNs1yt6PLGKOlI",
+    "photoPagi": "https://drive.google.com/open?id=1kiRIafg-kYjiXyGrVXYNs1yt6PLGKOlI",
+    "photoSore": ""
   },
   {
     "id": 387,
@@ -3481,7 +4253,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "teras rumah dinas",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1cOp1bdAuWTBYHTIfZDA69RJwuFM_ezRd"
+    "photoUrl": "https://drive.google.com/open?id=1cOp1bdAuWTBYHTIfZDA69RJwuFM_ezRd",
+    "photoPagi": "https://drive.google.com/open?id=1cOp1bdAuWTBYHTIfZDA69RJwuFM_ezRd",
+    "photoSore": ""
   },
   {
     "id": 388,
@@ -3490,7 +4264,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "teras ruangan laktasi",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1dnB6yvM_7OP9saMVpduqw7xNB2gDGlu_"
+    "photoUrl": "https://drive.google.com/open?id=1dnB6yvM_7OP9saMVpduqw7xNB2gDGlu_",
+    "photoPagi": "https://drive.google.com/open?id=1dnB6yvM_7OP9saMVpduqw7xNB2gDGlu_",
+    "photoSore": ""
   },
   {
     "id": 389,
@@ -3499,7 +4275,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Merapikan meja dan menyapu ruang aula mini untuk kegiatan wayoik",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1oaYzaThaxucXGcMv_bvdA6fwPpk5DBS9"
+    "photoUrl": "https://drive.google.com/open?id=1oaYzaThaxucXGcMv_bvdA6fwPpk5DBS9",
+    "photoPagi": "https://drive.google.com/open?id=1oaYzaThaxucXGcMv_bvdA6fwPpk5DBS9",
+    "photoSore": ""
   },
   {
     "id": 390,
@@ -3508,7 +4286,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "ruangan ult",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1tGEputyBakH6zloy2g6Td9yAtgOR16wo",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1tGEputyBakH6zloy2g6Td9yAtgOR16wo"
   },
   {
     "id": 391,
@@ -3517,7 +4297,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersih kan depan asrama putra",
     "output": "Bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1cPSj-x2Q6gLvCTD5eSV3DC188MwdBHIv"
+    "photoUrl": "https://drive.google.com/open?id=1cPSj-x2Q6gLvCTD5eSV3DC188MwdBHIv",
+    "photoPagi": "https://drive.google.com/open?id=1cPSj-x2Q6gLvCTD5eSV3DC188MwdBHIv",
+    "photoSore": ""
   },
   {
     "id": 392,
@@ -3526,7 +4308,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersih kan taman numerasi",
     "output": "Bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=11dU9HcwOyuY6TwvU1MaZ6Z_I6ritmsU_"
+    "photoUrl": "https://drive.google.com/open?id=11dU9HcwOyuY6TwvU1MaZ6Z_I6ritmsU_",
+    "photoPagi": "https://drive.google.com/open?id=11dU9HcwOyuY6TwvU1MaZ6Z_I6ritmsU_",
+    "photoSore": ""
   },
   {
     "id": 393,
@@ -3535,7 +4319,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "ruangan numerasi",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1HbAEFUJr-01VPv8Owgt84VXnyLRVge97",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1HbAEFUJr-01VPv8Owgt84VXnyLRVge97"
   },
   {
     "id": 394,
@@ -3544,7 +4330,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "ruangan perpustakaan",
     "output": "menjamu",
     "hambatan": "aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=16MTgI6oe6IYcZFZsnuxmoyrjShPpr5ql",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=16MTgI6oe6IYcZFZsnuxmoyrjShPpr5ql"
   },
   {
     "id": 395,
@@ -3553,7 +4341,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan depan halaman aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1mbPXjJDazfTZVtm-HWbMvc42HHc1ACfu"
+    "photoUrl": "https://drive.google.com/open?id=1mbPXjJDazfTZVtm-HWbMvc42HHc1ACfu",
+    "photoPagi": "https://drive.google.com/open?id=1mbPXjJDazfTZVtm-HWbMvc42HHc1ACfu",
+    "photoSore": ""
   },
   {
     "id": 396,
@@ -3562,7 +4352,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menata ruangan aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1xAfBpH5QYkW2ngE0LqkdbUnDEbmP5Ch8"
+    "photoUrl": "https://drive.google.com/open?id=1xAfBpH5QYkW2ngE0LqkdbUnDEbmP5Ch8",
+    "photoPagi": "https://drive.google.com/open?id=1xAfBpH5QYkW2ngE0LqkdbUnDEbmP5Ch8",
+    "photoSore": ""
   },
   {
     "id": 397,
@@ -3571,7 +4363,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menata ruangan aula utama dan membersihkan kegiatan peningjatan kompetensi guru",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1TS26HW6jFcCP08Yxy86d1b5l0fpMoVLx"
+    "photoUrl": "https://drive.google.com/open?id=1TS26HW6jFcCP08Yxy86d1b5l0fpMoVLx",
+    "photoPagi": "https://drive.google.com/open?id=1TS26HW6jFcCP08Yxy86d1b5l0fpMoVLx",
+    "photoSore": ""
   },
   {
     "id": 398,
@@ -3580,7 +4374,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Telah tertata dan bersih ruang aula utama kegiatan peningkatan kompetensi guru",
     "output": "Selesai",
     "hambatan": "Alat pel tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1JnW_mq6TxTm_fmeNj__jIs3tSS9UOz2Z"
+    "photoUrl": "https://drive.google.com/open?id=1JnW_mq6TxTm_fmeNj__jIs3tSS9UOz2Z",
+    "photoPagi": "https://drive.google.com/open?id=1JnW_mq6TxTm_fmeNj__jIs3tSS9UOz2Z",
+    "photoSore": ""
   },
   {
     "id": 399,
@@ -3589,7 +4385,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor dekat parkiran mobil ibuk kepala",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1Q2wa1rF7IX6-Rd8nehnIo-fciasspomo"
+    "photoUrl": "https://drive.google.com/open?id=1Q2wa1rF7IX6-Rd8nehnIo-fciasspomo",
+    "photoPagi": "https://drive.google.com/open?id=1Q2wa1rF7IX6-Rd8nehnIo-fciasspomo",
+    "photoSore": ""
   },
   {
     "id": 400,
@@ -3598,7 +4396,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor di parkiran baru",
     "output": "Bersih",
     "hambatan": "-_",
-    "photoUrl": "https://drive.google.com/open?id=1CzciL3Ht6KQNYyAJNkfNexgASAlzF8bo"
+    "photoUrl": "https://drive.google.com/open?id=1CzciL3Ht6KQNYyAJNkfNexgASAlzF8bo",
+    "photoPagi": "https://drive.google.com/open?id=1CzciL3Ht6KQNYyAJNkfNexgASAlzF8bo",
+    "photoSore": ""
   },
   {
     "id": 401,
@@ -3607,7 +4407,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan lumerasi",
     "output": "Bersih",
     "hambatan": "-_-",
-    "photoUrl": "https://drive.google.com/open?id=1FIX2pjm5YK4WI2LkU_rq2e--GnYnAMps"
+    "photoUrl": "https://drive.google.com/open?id=1FIX2pjm5YK4WI2LkU_rq2e--GnYnAMps",
+    "photoPagi": "https://drive.google.com/open?id=1FIX2pjm5YK4WI2LkU_rq2e--GnYnAMps",
+    "photoSore": ""
   },
   {
     "id": 402,
@@ -3616,7 +4418,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor dekat hol besar",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1gu26Z50RD2qHDIdf91JlxfQTo1YZkx_5"
+    "photoUrl": "https://drive.google.com/open?id=1gu26Z50RD2qHDIdf91JlxfQTo1YZkx_5",
+    "photoPagi": "https://drive.google.com/open?id=1gu26Z50RD2qHDIdf91JlxfQTo1YZkx_5",
+    "photoSore": ""
   },
   {
     "id": 403,
@@ -3625,7 +4429,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "monitoring dari SD sungai sariak",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1sHyrsLMbggGNKlwnqbaeqGApxwrJjiT3"
+    "photoUrl": "https://drive.google.com/open?id=1sHyrsLMbggGNKlwnqbaeqGApxwrJjiT3",
+    "photoPagi": "https://drive.google.com/open?id=1sHyrsLMbggGNKlwnqbaeqGApxwrJjiT3",
+    "photoSore": ""
   },
   {
     "id": 404,
@@ -3634,7 +4440,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menata ruang numerasi",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1S86rdPiXsvHEYKiIbbCBva7M3iDFBBFz"
+    "photoUrl": "https://drive.google.com/open?id=1S86rdPiXsvHEYKiIbbCBva7M3iDFBBFz",
+    "photoPagi": "https://drive.google.com/open?id=1S86rdPiXsvHEYKiIbbCBva7M3iDFBBFz",
+    "photoSore": ""
   },
   {
     "id": 405,
@@ -3643,7 +4451,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu halaman",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1lRuqCJnpJuOcNDlC6HAhyJHxSIU8rIlA"
+    "photoUrl": "https://drive.google.com/open?id=1lRuqCJnpJuOcNDlC6HAhyJHxSIU8rIlA",
+    "photoPagi": "https://drive.google.com/open?id=1lRuqCJnpJuOcNDlC6HAhyJHxSIU8rIlA",
+    "photoSore": ""
   },
   {
     "id": 406,
@@ -3652,7 +4462,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyiram bunga",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1lyZjPbvr4bi-OBjLQ8CwYZxphVrNFyeL"
+    "photoUrl": "https://drive.google.com/open?id=1lyZjPbvr4bi-OBjLQ8CwYZxphVrNFyeL",
+    "photoPagi": "https://drive.google.com/open?id=1lyZjPbvr4bi-OBjLQ8CwYZxphVrNFyeL",
+    "photoSore": ""
   },
   {
     "id": 407,
@@ -3661,7 +4473,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan jaring laba laba diruangan pustaka dan ULT",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1-fhCFOPRjQSQYkTtOoRX4puZjx_YCajn"
+    "photoUrl": "https://drive.google.com/open?id=1-fhCFOPRjQSQYkTtOoRX4puZjx_YCajn",
+    "photoPagi": "https://drive.google.com/open?id=1-fhCFOPRjQSQYkTtOoRX4puZjx_YCajn",
+    "photoSore": ""
   },
   {
     "id": 408,
@@ -3670,7 +4484,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Melayani tamu berkunjung keruangan numerasi",
     "output": "Lancar",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1o81U2aQ4vBjPcy-Ed63uEe6WpBNdGZjC"
+    "photoUrl": "https://drive.google.com/open?id=1o81U2aQ4vBjPcy-Ed63uEe6WpBNdGZjC",
+    "photoPagi": "https://drive.google.com/open?id=1o81U2aQ4vBjPcy-Ed63uEe6WpBNdGZjC",
+    "photoSore": ""
   },
   {
     "id": 409,
@@ -3679,7 +4495,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memantau keamanan dan barang iventaris dalam keadaan aman",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=15mQdT8UVb42BIHk1WAN7IW0tSLMiSi31"
+    "photoUrl": "https://drive.google.com/open?id=15mQdT8UVb42BIHk1WAN7IW0tSLMiSi31",
+    "photoPagi": "https://drive.google.com/open?id=15mQdT8UVb42BIHk1WAN7IW0tSLMiSi31",
+    "photoSore": ""
   },
   {
     "id": 410,
@@ -3688,7 +4506,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memperbaiki saluran pembuangan air di asrama putra",
     "output": "Beres",
     "hambatan": "Aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1-RvgTS9oLrovqgRA75Lk1xwpd2m_9G6G",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1-RvgTS9oLrovqgRA75Lk1xwpd2m_9G6G"
   },
   {
     "id": 411,
@@ -3697,7 +4517,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan taman",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1yK0KjCq6gJOCBcWYZ7FQ0LP5oEu5_6ZM",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1yK0KjCq6gJOCBcWYZ7FQ0LP5oEu5_6ZM"
   },
   {
     "id": 412,
@@ -3706,7 +4528,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyusun kursi setelah kegiatan wayoik di aula mini",
     "output": "Merapikan",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1fHHU5Ep02z0b86updn0IbjTkBFagdkS6",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1fHHU5Ep02z0b86updn0IbjTkBFagdkS6"
   },
   {
     "id": 413,
@@ -3715,7 +4539,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "persiapan kelas belajar Wi dan menyusun spj",
     "output": "terlaksana pekerjaa",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1YrsZi_4BUxyAb5j_JSrOBaH8akYvxTx3"
+    "photoUrl": "https://drive.google.com/open?id=1YrsZi_4BUxyAb5j_JSrOBaH8akYvxTx3",
+    "photoPagi": "https://drive.google.com/open?id=1YrsZi_4BUxyAb5j_JSrOBaH8akYvxTx3",
+    "photoSore": "https://drive.google.com/open?id=1EJZMGaqjd27-iCB7TYkpLFV2XvyMqqLU"
   },
   {
     "id": 414,
@@ -3724,7 +4550,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "masang gorden dan persiapan kelas belajar",
     "output": "terlaksana pekerjaan",
     "hambatan": "tgl 27 april 2026",
-    "photoUrl": "https://drive.google.com/open?id=1dd9-PdWcSIhF5Xebv0pCLMQ3B0R9EXZf"
+    "photoUrl": "https://drive.google.com/open?id=1dd9-PdWcSIhF5Xebv0pCLMQ3B0R9EXZf",
+    "photoPagi": "https://drive.google.com/open?id=1dd9-PdWcSIhF5Xebv0pCLMQ3B0R9EXZf",
+    "photoSore": "https://drive.google.com/open?id=1o5GuCinkOmkLbqy93AAM09y8RIm_gTqw"
   },
   {
     "id": 415,
@@ -3733,7 +4561,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan aula mini dan memperbaiki saluran air kamar mandi gedung baru",
     "output": "Selesai",
     "hambatan": "Pipa di ruangan sempit",
-    "photoUrl": "https://drive.google.com/open?id=1Nf-MQIbpvJlZTagsr7cBhHtynYr_iGjY"
+    "photoUrl": "https://drive.google.com/open?id=1Nf-MQIbpvJlZTagsr7cBhHtynYr_iGjY",
+    "photoPagi": "https://drive.google.com/open?id=1Nf-MQIbpvJlZTagsr7cBhHtynYr_iGjY",
+    "photoSore": "https://drive.google.com/open?id=1Kfo60tlzxdo8DFfI6duA52mLrFeSv1O0"
   },
   {
     "id": 416,
@@ -3742,7 +4572,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "",
     "output": "Memberikan area kantor",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1cazJTpsa_wswWZwmTQyC54llO0DUL9uM"
+    "photoUrl": "https://drive.google.com/open?id=1cazJTpsa_wswWZwmTQyC54llO0DUL9uM",
+    "photoPagi": "https://drive.google.com/open?id=1cazJTpsa_wswWZwmTQyC54llO0DUL9uM",
+    "photoSore": ""
   },
   {
     "id": 417,
@@ -3751,7 +4583,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan aula utama dan menata aula utama buat senam besok",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1ixI_ZR9QdQnUsu6hx2Dg4vnTPEqKnEZf",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1ixI_ZR9QdQnUsu6hx2Dg4vnTPEqKnEZf"
   },
   {
     "id": 418,
@@ -3760,7 +4594,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan kaca aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1uNid3UXmkWJ9HdFxCaNvxkH6fD5RJSC6"
+    "photoUrl": "https://drive.google.com/open?id=1uNid3UXmkWJ9HdFxCaNvxkH6fD5RJSC6",
+    "photoPagi": "https://drive.google.com/open?id=1uNid3UXmkWJ9HdFxCaNvxkH6fD5RJSC6",
+    "photoSore": "https://drive.google.com/open?id=1m0g4lNvxPil648S8tWLQrK8hd-LERRwu"
   },
   {
     "id": 419,
@@ -3769,7 +4605,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan area kantor",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1unOsrRUU6aw6jYwl0FatSI-bj8xmcaOY"
+    "photoUrl": "https://drive.google.com/open?id=1unOsrRUU6aw6jYwl0FatSI-bj8xmcaOY",
+    "photoPagi": "https://drive.google.com/open?id=1unOsrRUU6aw6jYwl0FatSI-bj8xmcaOY",
+    "photoSore": ""
   },
   {
     "id": 420,
@@ -3778,7 +4616,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan asrama putra",
     "output": "Bersih",
     "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1qdX7QhjBDWq70c559cj6GHccUqRPwt8I"
+    "photoUrl": "https://drive.google.com/open?id=1qdX7QhjBDWq70c559cj6GHccUqRPwt8I",
+    "photoPagi": "https://drive.google.com/open?id=1qdX7QhjBDWq70c559cj6GHccUqRPwt8I",
+    "photoSore": ""
   },
   {
     "id": 421,
@@ -3787,7 +4627,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan samping asrama putra",
     "output": "Bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1IV5vZZ8pGHcwHNWmzkMF-rBhisqz_3NR"
+    "photoUrl": "https://drive.google.com/open?id=1IV5vZZ8pGHcwHNWmzkMF-rBhisqz_3NR",
+    "photoPagi": "https://drive.google.com/open?id=1IV5vZZ8pGHcwHNWmzkMF-rBhisqz_3NR",
+    "photoSore": ""
   },
   {
     "id": 422,
@@ -3796,7 +4638,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan samping arsip asrama putra",
     "output": "Bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=14Fgs6gl2ayG-z7TCJiITXuS49Gh2mBsT"
+    "photoUrl": "https://drive.google.com/open?id=14Fgs6gl2ayG-z7TCJiITXuS49Gh2mBsT",
+    "photoPagi": "https://drive.google.com/open?id=14Fgs6gl2ayG-z7TCJiITXuS49Gh2mBsT",
+    "photoSore": ""
   },
   {
     "id": 423,
@@ -3805,7 +4649,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan samping kantor",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=14ZhkiatVrQAJHWrq8gVzaKUes8qNzh0Z"
+    "photoUrl": "https://drive.google.com/open?id=14ZhkiatVrQAJHWrq8gVzaKUes8qNzh0Z",
+    "photoPagi": "https://drive.google.com/open?id=14ZhkiatVrQAJHWrq8gVzaKUes8qNzh0Z",
+    "photoSore": ""
   },
   {
     "id": 424,
@@ -3814,7 +4660,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "mengepel teras aula besar",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=17zd03-5EZxAGR8sP8CSWkGe8IhokZVlQ"
+    "photoUrl": "https://drive.google.com/open?id=17zd03-5EZxAGR8sP8CSWkGe8IhokZVlQ",
+    "photoPagi": "https://drive.google.com/open?id=17zd03-5EZxAGR8sP8CSWkGe8IhokZVlQ",
+    "photoSore": ""
   },
   {
     "id": 425,
@@ -3823,7 +4671,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "membersihkan samping aula besar",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1eFkI-rLiWnFwThEVt49sZA6CVVPqP55G"
+    "photoUrl": "https://drive.google.com/open?id=1eFkI-rLiWnFwThEVt49sZA6CVVPqP55G",
+    "photoPagi": "https://drive.google.com/open?id=1eFkI-rLiWnFwThEVt49sZA6CVVPqP55G",
+    "photoSore": ""
   },
   {
     "id": 426,
@@ -3832,7 +4682,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Ruang kegiatan wayoik udah di rapikan meja dan kursinya",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1QjvJVQPuinw9DI4hCXCwyfq3UyGnGCsF"
+    "photoUrl": "https://drive.google.com/open?id=1QjvJVQPuinw9DI4hCXCwyfq3UyGnGCsF",
+    "photoPagi": "https://drive.google.com/open?id=1QjvJVQPuinw9DI4hCXCwyfq3UyGnGCsF",
+    "photoSore": ""
   },
   {
     "id": 427,
@@ -3841,7 +4693,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan depan aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1AIMOW7SgeIR4l8upWHahcbBi3ZexKuW1"
+    "photoUrl": "https://drive.google.com/open?id=1AIMOW7SgeIR4l8upWHahcbBi3ZexKuW1",
+    "photoPagi": "https://drive.google.com/open?id=1AIMOW7SgeIR4l8upWHahcbBi3ZexKuW1",
+    "photoSore": ""
   },
   {
     "id": 428,
@@ -3850,7 +4704,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "menyiram bunga pekarangan",
     "output": "bersih",
     "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=19QsqRvni_NuqtpamBwC0WnnQem4cp-vr"
+    "photoUrl": "https://drive.google.com/open?id=19QsqRvni_NuqtpamBwC0WnnQem4cp-vr",
+    "photoPagi": "https://drive.google.com/open?id=19QsqRvni_NuqtpamBwC0WnnQem4cp-vr",
+    "photoSore": ""
   },
   {
     "id": 429,
@@ -3859,7 +4715,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "kegiatan diruangan numerasi",
     "output": "aman",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1bkp-KDJOv_lDlsFoxxOzvi2cSODjw0OO"
+    "photoUrl": "https://drive.google.com/open?id=1bkp-KDJOv_lDlsFoxxOzvi2cSODjw0OO",
+    "photoPagi": "https://drive.google.com/open?id=1bkp-KDJOv_lDlsFoxxOzvi2cSODjw0OO",
+    "photoSore": ""
   },
   {
     "id": 430,
@@ -3868,7 +4726,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "monitor ke numerasi",
     "output": "aman",
     "hambatan": "_",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1wV-CFhekHNHyRXQZ9phFVjgXBJ4MQERV",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1wV-CFhekHNHyRXQZ9phFVjgXBJ4MQERV"
   },
   {
     "id": 431,
@@ -3877,7 +4737,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan toilet aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1n88zhYsZ-jpbtSSmpATvrPnRS5ZYzy9Z"
+    "photoUrl": "https://drive.google.com/open?id=1n88zhYsZ-jpbtSSmpATvrPnRS5ZYzy9Z",
+    "photoPagi": "https://drive.google.com/open?id=1n88zhYsZ-jpbtSSmpATvrPnRS5ZYzy9Z",
+    "photoSore": ""
   },
   {
     "id": 432,
@@ -3886,7 +4748,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan halaman numerasi",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1tQB33ahyGk7je3C5wzkSGJmyB1Mk1Yog"
+    "photoUrl": "https://drive.google.com/open?id=1tQB33ahyGk7je3C5wzkSGJmyB1Mk1Yog",
+    "photoPagi": "https://drive.google.com/open?id=1tQB33ahyGk7je3C5wzkSGJmyB1Mk1Yog",
+    "photoSore": ""
   },
   {
     "id": 433,
@@ -3895,7 +4759,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menata ruangan numerasi",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1ouKuskK_rJFCydRQjvBp4Lf-eaEd-4OV"
+    "photoUrl": "https://drive.google.com/open?id=1ouKuskK_rJFCydRQjvBp4Lf-eaEd-4OV",
+    "photoPagi": "https://drive.google.com/open?id=1ouKuskK_rJFCydRQjvBp4Lf-eaEd-4OV",
+    "photoSore": ""
   },
   {
     "id": 434,
@@ -3904,7 +4770,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyiram bunga sekitar ULT",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=17oyfZWkionuj0y5bTjm_WC4J2gu4FfEr"
+    "photoUrl": "https://drive.google.com/open?id=17oyfZWkionuj0y5bTjm_WC4J2gu4FfEr",
+    "photoPagi": "https://drive.google.com/open?id=17oyfZWkionuj0y5bTjm_WC4J2gu4FfEr",
+    "photoSore": ""
   },
   {
     "id": 435,
@@ -3913,7 +4781,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Melayani tamu guru guru dari limau puruik Padang Pariaman",
     "output": "Lancar",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1tc3qQJjlgr6PaqHgRONUn8phxLPJvP9v"
+    "photoUrl": "https://drive.google.com/open?id=1tc3qQJjlgr6PaqHgRONUn8phxLPJvP9v",
+    "photoPagi": "https://drive.google.com/open?id=1tc3qQJjlgr6PaqHgRONUn8phxLPJvP9v",
+    "photoSore": ""
   },
   {
     "id": 436,
@@ -3922,7 +4792,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "persiapan kelas dan plat mobil",
     "output": "terlaksana pekerjaan",
     "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1hxw9A_LrJxF-V8hTA_1CldbIjFk79uKb"
+    "photoUrl": "https://drive.google.com/open?id=1hxw9A_LrJxF-V8hTA_1CldbIjFk79uKb",
+    "photoPagi": "https://drive.google.com/open?id=1hxw9A_LrJxF-V8hTA_1CldbIjFk79uKb",
+    "photoSore": "https://drive.google.com/open?id=1xUYQccX5FDpAoyARXsES3swJFkACn9-Y"
   },
   {
     "id": 437,
@@ -3931,7 +4803,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan aula mini.dan periksa listrik di asrama putra.",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1XGPg7ID6z5h8xnuCCQZ5o1DvQFxaBl2l"
+    "photoUrl": "https://drive.google.com/open?id=1XGPg7ID6z5h8xnuCCQZ5o1DvQFxaBl2l",
+    "photoPagi": "https://drive.google.com/open?id=1XGPg7ID6z5h8xnuCCQZ5o1DvQFxaBl2l",
+    "photoSore": "https://drive.google.com/open?id=1w0GfDzFeWc1XHK0VrhTJXH5Xf-k6P0Pr"
   },
   {
     "id": 438,
@@ -3940,7 +4814,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membuang sampah dan membakar sampah",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1TSUSDGF-5FdtIBeEFvt7DMgoHNNo3BoY",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1TSUSDGF-5FdtIBeEFvt7DMgoHNNo3BoY"
   },
   {
     "id": 439,
@@ -3949,7 +4825,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu dan menyusun meja kursi untuk kegiatan wayoik",
     "output": "Merapikan meja kursi untuk kegiatan wayoik besok",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1c7p8RBVmdtFlhPKVwcOtNeOtnXbxTFhy",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1c7p8RBVmdtFlhPKVwcOtNeOtnXbxTFhy"
   },
   {
     "id": 440,
@@ -3958,7 +4836,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyiapkan ruangan untuk senam pagi",
     "output": "Aman",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1s1-OU4Z8fwUcufA3KUDlC-g-sxKhfhId"
+    "photoUrl": "https://drive.google.com/open?id=1s1-OU4Z8fwUcufA3KUDlC-g-sxKhfhId",
+    "photoPagi": "https://drive.google.com/open?id=1s1-OU4Z8fwUcufA3KUDlC-g-sxKhfhId",
+    "photoSore": ""
   },
   {
     "id": 441,
@@ -3967,7 +4847,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor dekat parkiran mobil ibuk kepala",
     "output": "Bersih",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=12dQUJckYP2RgfzXt2Eucmre1eSo4U4ov"
+    "photoUrl": "https://drive.google.com/open?id=12dQUJckYP2RgfzXt2Eucmre1eSo4U4ov",
+    "photoPagi": "https://drive.google.com/open?id=12dQUJckYP2RgfzXt2Eucmre1eSo4U4ov",
+    "photoSore": ""
   },
   {
     "id": 442,
@@ -3976,7 +4858,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membuang sampah ke tempat pembuangan sampah",
     "output": "Aman",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1XQ-vPFB87FZmT8yYEm69hnbQC6lQHJNh"
+    "photoUrl": "https://drive.google.com/open?id=1XQ-vPFB87FZmT8yYEm69hnbQC6lQHJNh",
+    "photoPagi": "https://drive.google.com/open?id=1XQ-vPFB87FZmT8yYEm69hnbQC6lQHJNh",
+    "photoSore": ""
   },
   {
     "id": 443,
@@ -3985,7 +4869,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan area kantor",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1AoGMiD-IcoEOw1uL0I4D4bDcL60Km77m"
+    "photoUrl": "https://drive.google.com/open?id=1AoGMiD-IcoEOw1uL0I4D4bDcL60Km77m",
+    "photoPagi": "https://drive.google.com/open?id=1AoGMiD-IcoEOw1uL0I4D4bDcL60Km77m",
+    "photoSore": ""
   },
   {
     "id": 444,
@@ -3994,7 +4880,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan parkir mobil ibuk kepala",
     "output": "Bersih",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1QAwBEnLPLWh5ygAyhUJMB-G5ofGxe8ox"
+    "photoUrl": "https://drive.google.com/open?id=1QAwBEnLPLWh5ygAyhUJMB-G5ofGxe8ox",
+    "photoPagi": "https://drive.google.com/open?id=1QAwBEnLPLWh5ygAyhUJMB-G5ofGxe8ox",
+    "photoSore": ""
   },
   {
     "id": 445,
@@ -4003,7 +4891,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan lumerasi",
     "output": "Bersih",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1XyQZYbieGR-qPxNSgs-q6gdBGteIuHkk"
+    "photoUrl": "https://drive.google.com/open?id=1XyQZYbieGR-qPxNSgs-q6gdBGteIuHkk",
+    "photoPagi": "https://drive.google.com/open?id=1XyQZYbieGR-qPxNSgs-q6gdBGteIuHkk",
+    "photoSore": ""
   },
   {
     "id": 446,
@@ -4012,7 +4902,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor depan gedung baru",
     "output": "Bersih",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1X7q28gh7Jk_mwbPjU2FiQFrBLRpkBBRh"
+    "photoUrl": "https://drive.google.com/open?id=1X7q28gh7Jk_mwbPjU2FiQFrBLRpkBBRh",
+    "photoPagi": "https://drive.google.com/open?id=1X7q28gh7Jk_mwbPjU2FiQFrBLRpkBBRh",
+    "photoSore": ""
   },
   {
     "id": 447,
@@ -4021,7 +4913,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Merapikan ruang aula mini untuk kegiatan",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1vWkJ9Iij9_ngSIKE2k6zoCa4p9K_oyBE"
+    "photoUrl": "https://drive.google.com/open?id=1vWkJ9Iij9_ngSIKE2k6zoCa4p9K_oyBE",
+    "photoPagi": "https://drive.google.com/open?id=1vWkJ9Iij9_ngSIKE2k6zoCa4p9K_oyBE",
+    "photoSore": ""
   },
   {
     "id": 448,
@@ -4030,7 +4924,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu perkarangan kantor depan",
     "output": "Bersih",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1lehARAmkYRsFSd2Fg8dBbAbo4bKOHTjD"
+    "photoUrl": "https://drive.google.com/open?id=1lehARAmkYRsFSd2Fg8dBbAbo4bKOHTjD",
+    "photoPagi": "https://drive.google.com/open?id=1lehARAmkYRsFSd2Fg8dBbAbo4bKOHTjD",
+    "photoSore": ""
   },
   {
     "id": 449,
@@ -4039,7 +4935,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Mengatur parkiran tamu acara KKG SD",
     "output": "Aman",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1qBojXqR_rv1UarZFmPsMghK3PgzNSDDX"
+    "photoUrl": "https://drive.google.com/open?id=1qBojXqR_rv1UarZFmPsMghK3PgzNSDDX",
+    "photoPagi": "https://drive.google.com/open?id=1qBojXqR_rv1UarZFmPsMghK3PgzNSDDX",
+    "photoSore": ""
   },
   {
     "id": 450,
@@ -4048,7 +4946,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "teras pustaka",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1gbAUMzIhRBJyJKDQEhYKJGNUe9NpvEIM"
+    "photoUrl": "https://drive.google.com/open?id=1gbAUMzIhRBJyJKDQEhYKJGNUe9NpvEIM",
+    "photoPagi": "https://drive.google.com/open?id=1gbAUMzIhRBJyJKDQEhYKJGNUe9NpvEIM",
+    "photoSore": ""
   },
   {
     "id": 451,
@@ -4057,7 +4957,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "pekarangan pengaduan",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1fh9Pgr7UT8GaF6wvdP--vBxAiNxzWWo_"
+    "photoUrl": "https://drive.google.com/open?id=1fh9Pgr7UT8GaF6wvdP--vBxAiNxzWWo_",
+    "photoPagi": "https://drive.google.com/open?id=1fh9Pgr7UT8GaF6wvdP--vBxAiNxzWWo_",
+    "photoSore": ""
   },
   {
     "id": 452,
@@ -4066,7 +4968,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "pekarangan rumah dinas",
     "output": "bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1CjMDJ9Ll7yI47xg0ZOCLqtDQ5kUPLhzr"
+    "photoUrl": "https://drive.google.com/open?id=1CjMDJ9Ll7yI47xg0ZOCLqtDQ5kUPLhzr",
+    "photoPagi": "https://drive.google.com/open?id=1CjMDJ9Ll7yI47xg0ZOCLqtDQ5kUPLhzr",
+    "photoSore": ""
   },
   {
     "id": 453,
@@ -4075,7 +4979,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "teras parkir rumah dinas",
     "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1TZN-f3EHda1WCdTlj8-AMV7Cinv9B_9o"
+    "photoUrl": "https://drive.google.com/open?id=1TZN-f3EHda1WCdTlj8-AMV7Cinv9B_9o",
+    "photoPagi": "https://drive.google.com/open?id=1TZN-f3EHda1WCdTlj8-AMV7Cinv9B_9o",
+    "photoSore": ""
   },
   {
     "id": 454,
@@ -4084,7 +4990,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "monitoring guru SD di ulakan",
     "output": "aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1A76aYMxE4C1Vzn30LtDYtgGqtabqGYA9"
+    "photoUrl": "https://drive.google.com/open?id=1A76aYMxE4C1Vzn30LtDYtgGqtabqGYA9",
+    "photoPagi": "https://drive.google.com/open?id=1A76aYMxE4C1Vzn30LtDYtgGqtabqGYA9",
+    "photoSore": ""
   },
   {
     "id": 455,
@@ -4093,7 +5001,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "monitoring dari SD sungai limau",
     "output": "aman",
     "hambatan": "",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1PVggyDpCZVbB0T8XVw8Ln-1YiuImtP0V",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1PVggyDpCZVbB0T8XVw8Ln-1YiuImtP0V"
   },
   {
     "id": 456,
@@ -4102,7 +5012,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menata dan membersihkan ruangan numerasi",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1L3yYlsG9EoJvSDNce22DyXk3KDwnscT6"
+    "photoUrl": "https://drive.google.com/open?id=1L3yYlsG9EoJvSDNce22DyXk3KDwnscT6",
+    "photoPagi": "https://drive.google.com/open?id=1L3yYlsG9EoJvSDNce22DyXk3KDwnscT6",
+    "photoSore": ""
   },
   {
     "id": 457,
@@ -4111,7 +5023,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyiram bunga sekitar ULT pustaka",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=11IO7mYtLL-Lys8SwxBjEElOnf9hS5_JW"
+    "photoUrl": "https://drive.google.com/open?id=11IO7mYtLL-Lys8SwxBjEElOnf9hS5_JW",
+    "photoPagi": "https://drive.google.com/open?id=11IO7mYtLL-Lys8SwxBjEElOnf9hS5_JW",
+    "photoSore": ""
   },
   {
     "id": 458,
@@ -4120,7 +5034,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu halaman numerasi",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=19-wtsR8fMDyGFK78j-tchIzCIGlnrol7"
+    "photoUrl": "https://drive.google.com/open?id=19-wtsR8fMDyGFK78j-tchIzCIGlnrol7",
+    "photoPagi": "https://drive.google.com/open?id=19-wtsR8fMDyGFK78j-tchIzCIGlnrol7",
+    "photoSore": ""
   },
   {
     "id": 459,
@@ -4129,7 +5045,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan WC pria dan wanita depan pustaka",
     "output": "Selesai",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1f7P18BoROBa9rVRY8EEyRJHdY-lgIZ3d"
+    "photoUrl": "https://drive.google.com/open?id=1f7P18BoROBa9rVRY8EEyRJHdY-lgIZ3d",
+    "photoPagi": "https://drive.google.com/open?id=1f7P18BoROBa9rVRY8EEyRJHdY-lgIZ3d",
+    "photoSore": ""
   },
   {
     "id": 460,
@@ -4138,7 +5056,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Melayani tamu dari ulakan tapakis Padang Pariaman",
     "output": "Lancar",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1ulB4XP4NTJWOg5rl-BJIxs9wKdqqr7uU"
+    "photoUrl": "https://drive.google.com/open?id=1ulB4XP4NTJWOg5rl-BJIxs9wKdqqr7uU",
+    "photoPagi": "https://drive.google.com/open?id=1ulB4XP4NTJWOg5rl-BJIxs9wKdqqr7uU",
+    "photoSore": ""
   },
   {
     "id": 461,
@@ -4147,7 +5067,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Melayani tamu dari sungai limau",
     "output": "Lancar",
     "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1ECTzEaefkw_a8TqxcZs2f7X3KrZMWh3P"
+    "photoUrl": "https://drive.google.com/open?id=1ECTzEaefkw_a8TqxcZs2f7X3KrZMWh3P",
+    "photoPagi": "https://drive.google.com/open?id=1ECTzEaefkw_a8TqxcZs2f7X3KrZMWh3P",
+    "photoSore": ""
   },
   {
     "id": 462,
@@ -4156,7 +5078,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan dan menata gedung aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1nCxMjvO7q2cwEWzSfs9XJu0VlafARty_"
+    "photoUrl": "https://drive.google.com/open?id=1nCxMjvO7q2cwEWzSfs9XJu0VlafARty_",
+    "photoPagi": "https://drive.google.com/open?id=1nCxMjvO7q2cwEWzSfs9XJu0VlafARty_",
+    "photoSore": ""
   },
   {
     "id": 463,
@@ -4165,7 +5089,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menjaga ketertiban dan keamanan",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=10udU3v2JeO077nQ2_ArEjnyIsa6dI70h"
+    "photoUrl": "https://drive.google.com/open?id=10udU3v2JeO077nQ2_ArEjnyIsa6dI70h",
+    "photoPagi": "https://drive.google.com/open?id=10udU3v2JeO077nQ2_ArEjnyIsa6dI70h",
+    "photoSore": ""
   },
   {
     "id": 464,
@@ -4174,7 +5100,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan seluruh kaca aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1K_rB2iVjPpYpZwkX85EvryJu_2Nk6-Ov"
+    "photoUrl": "https://drive.google.com/open?id=1K_rB2iVjPpYpZwkX85EvryJu_2Nk6-Ov",
+    "photoPagi": "https://drive.google.com/open?id=1K_rB2iVjPpYpZwkX85EvryJu_2Nk6-Ov",
+    "photoSore": "https://drive.google.com/open?id=1jx48ytsxNmgovy0S_nDWK7rkMPvlGD6a"
   },
   {
     "id": 465,
@@ -4183,7 +5111,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan aula utama dan membersihkan kaca aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1gyUOPGycjuMc54GY7jqRYYY3p9o_r_N0"
+    "photoUrl": "https://drive.google.com/open?id=1gyUOPGycjuMc54GY7jqRYYY3p9o_r_N0",
+    "photoPagi": "https://drive.google.com/open?id=1gyUOPGycjuMc54GY7jqRYYY3p9o_r_N0",
+    "photoSore": "https://drive.google.com/open?id=1VaD5-hchyNstC4Nbz_PVT-WBTOCCySZH"
   },
   {
     "id": 466,
@@ -4192,7 +5122,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Memberikan area kantor",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1DsxOWihwcyys9V3bsSmVRpq6m6vMJ6aJ",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1DsxOWihwcyys9V3bsSmVRpq6m6vMJ6aJ"
   },
   {
     "id": 467,
@@ -4201,7 +5133,9 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Menyapu dan memberikan ruang aula mini",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": ""
+    "photoUrl": "https://drive.google.com/open?id=1JxsEOYB2V6WVgtWPEP67qWPxAXtq6sMi",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1JxsEOYB2V6WVgtWPEP67qWPxAXtq6sMi"
   },
   {
     "id": 468,
@@ -4210,1779 +5144,9072 @@ window.OFFLINE_REPORTS_DATA = [
     "content": "Membersihkan aula mini dan mushola",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1KVboB11eGeLl1hensJ1gjKuAsVfLMBcK"
+    "photoUrl": "https://drive.google.com/open?id=1KVboB11eGeLl1hensJ1gjKuAsVfLMBcK",
+    "photoPagi": "https://drive.google.com/open?id=1KVboB11eGeLl1hensJ1gjKuAsVfLMBcK",
+    "photoSore": "https://drive.google.com/open?id=14xZN0_V9Wv5uMYmY1GCpVf_nKdaq_dl0"
   },
   {
     "id": 469,
-    "timestamp": "4/30/2026 16:35:18",
-    "author": "Neli Aftariani",
-    "content": "Cek",
-    "output": "cek",
-    "hambatan": "cek",
-    "photoUrl": "https://drive.google.com/file/d/1TtPbn12zmcg8pM2hygsBmHnyp886jtz_/view"
+    "timestamp": "5/2/2026 8:55:44",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan menyapu lantai aula mini untuk kegiatan wayoik",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=17ZxhPPE5A-e_c_jRXrgjAcOScOEVZTWe",
+    "photoPagi": "https://drive.google.com/open?id=17ZxhPPE5A-e_c_jRXrgjAcOScOEVZTWe",
+    "photoSore": ""
   },
   {
     "id": 470,
-    "timestamp": "4/30/2026 19:46:59",
-    "author": "robby",
-    "content": "membersihkan ruang arsip",
-    "output": "Draft via WebApp",
-    "hambatan": "Kebersihan",
-    "photoUrl": ""
+    "timestamp": "5/2/2026 9:34:08",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1XJl5J5oRsEbLI_eHx6dxAP2kec4IZ6vK",
+    "photoPagi": "https://drive.google.com/open?id=1XJl5J5oRsEbLI_eHx6dxAP2kec4IZ6vK",
+    "photoSore": ""
   },
   {
     "id": 471,
-    "timestamp": "3/2/2026 10:21:44",
-    "author": "Neli Aftariani",
-    "content": "Menyapu perkarangan kantor",
-    "output": "Halaman parkir ibuk kepala bersih",
-    "hambatan": "",
-    "photoUrl": "https://drive.google.com/open?id=1Bk7l79DoTyxz8sQ0iCLXdho-QLVr7Gkp"
+    "timestamp": "5/2/2026 9:35:07",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1BXr-SUwd1oFnlhALvdWOfiL4ymLvDKH1",
+    "photoPagi": "https://drive.google.com/open?id=1BXr-SUwd1oFnlhALvdWOfiL4ymLvDKH1",
+    "photoSore": ""
   },
   {
     "id": 472,
-    "timestamp": "3/2/2026 10:30:42",
-    "author": "Karmawar",
-    "content": "membersihkan halaman",
-    "output": "selesai tugas dikerjakan",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1ndymdPdEiK-jefAJ8QYM_53WUazMlel7"
+    "timestamp": "5/2/2026 9:36:53",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1zr5zKyyI5JmRTH7xmbHcAKdJoRI781Fv",
+    "photoPagi": "https://drive.google.com/open?id=1zr5zKyyI5JmRTH7xmbHcAKdJoRI781Fv",
+    "photoSore": ""
   },
   {
     "id": 473,
-    "timestamp": "3/2/2026 10:30:50",
-    "author": "Ade inputra",
-    "content": "Rapat rumah tangga di teleconfrence",
-    "output": "rapat terlaksana",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=10UCuHOKb0u2PBSDvwOguAag01wneIYYx"
+    "timestamp": "5/2/2026 9:38:10",
+    "author": "Musrizaldi",
+    "content": "Mencabut rumput depan teras pustaka",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1zvx4CVwu_a9jVhw2A07PdxdRdk6_xqqp",
+    "photoPagi": "https://drive.google.com/open?id=1zvx4CVwu_a9jVhw2A07PdxdRdk6_xqqp",
+    "photoSore": ""
   },
   {
     "id": 474,
-    "timestamp": "3/2/2026 14:40:53",
-    "author": "Usrialdi",
-    "content": "Memperbaiki tali portal di pos dua",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1S417TqhSWqn1vVjIDQvj-NIvg0k8oH4_"
+    "timestamp": "5/2/2026 12:18:48",
+    "author": "Musrizaldi",
+    "content": "Melayani tamu dari Tanah Datar",
+    "output": "Lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=17K9KsuxCseOheUVWX56J-0HO0TMp13b0",
+    "photoPagi": "https://drive.google.com/open?id=17K9KsuxCseOheUVWX56J-0HO0TMp13b0",
+    "photoSore": ""
   },
   {
     "id": 475,
-    "timestamp": "3/2/2026 15:40:07",
-    "author": "Fitriandi",
-    "content": "mengepel ruangan pengadaaan",
-    "output": "bersih",
-    "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1mJ40hj7vDCDArdIqRiYRJmJYcOfGdkRa"
+    "timestamp": "5/2/2026 14:13:08",
+    "author": "Ade inputra",
+    "content": "persiapan kelas belajar wi  dan buat konten memeriahakan hari kartini",
+    "output": "terlaksana pekerjaan",
+    "hambatan": "tgl 30 april 2026",
+    "photoUrl": "https://drive.google.com/open?id=1Uhe9SboiaTgCn7lVel2Qdu3de3883gPz",
+    "photoPagi": "https://drive.google.com/open?id=1Uhe9SboiaTgCn7lVel2Qdu3de3883gPz",
+    "photoSore": "https://drive.google.com/open?id=16NaCC6a5Qry0xJiv7IXc2Ud1qPwvZcUF"
   },
   {
     "id": 476,
-    "timestamp": "3/2/2026 21:24:49",
-    "author": "Salaudin",
-    "content": "Mengunci dan mengecek asrama baru",
-    "output": "Selesai",
-    "hambatan": "",
-    "photoUrl": "https://drive.google.com/open?id=1WttlOxXkUfZgWdOwkOZ8bg3_G4Z4vNTT"
-  },
-  {
-    "id": 477,
-    "timestamp": "3/3/2026 14:11:50",
-    "author": "Rio Mailando Agustiano",
-    "content": "Mengangkat bantuan ke agam",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1S5X9EDqVDl2DnnpnakZmBw8saJWUGuDC"
-  },
-  {
-    "id": 478,
-    "timestamp": "3/3/2026 15:10:39",
-    "author": "Fitriandi",
-    "content": "mengepel jalan ULT dan pengaduan",
-    "output": "selesai",
-    "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=155tkJpoz0kfiO9WTDaSxeLVytMnjtB59"
-  },
-  {
-    "id": 479,
-    "timestamp": "3/3/2026 15:15:06",
-    "author": "Musrizaldi",
-    "content": "Halaman numerasi",
-    "output": "Sudah dibersihkan",
-    "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=101qVMCjVMcFUI0AOlWxhPu2pblXLjETo"
-  },
-  {
-    "id": 480,
-    "timestamp": "3/3/2026 15:18:01",
-    "author": "Salaudin",
-    "content": "Memberikan WC kantor",
-    "output": "Bersih",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=12d3k7wqmFbt8mz--HpsqTQt19nfeQRXF"
-  },
-  {
-    "id": 481,
-    "timestamp": "3/3/2026 15:19:42",
-    "author": "Buyung Syafrianto",
-    "content": "Membersihkan jaring laba² dan menyapu teras aula mini",
-    "output": "Terselesaikannya pekerjaan",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1eCWt9m-HZH_qQyVLX5hV8tilGuHxzZME"
-  },
-  {
-    "id": 482,
-    "timestamp": "3/3/2026 15:27:32",
-    "author": "Ade inputra",
-    "content": "Membersihkan teras arsip dan stanby piket receptionist",
-    "output": "terselesaikannnya pekerjaan",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1pYp1bylkR9W3Uj-ICO4UeIImiSrp2VsE"
-  },
-  {
-    "id": 483,
-    "timestamp": "3/3/2026 15:32:26",
-    "author": "Rio Mailando Agustiano",
-    "content": "Membersihkan halaman aula utama dan mushalla",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=161Z5l67TOTKToxLa2kgGMk9O7YIMo2zz"
-  },
-  {
-    "id": 484,
-    "timestamp": "3/3/2026 15:40:00",
-    "author": "Usrialdi",
-    "content": "Membersihkan aula mini dan mushola",
-    "output": "2 gedung",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1Dn-E79gS3ok-oqZnO0Er7hQT4H71hdgf"
-  },
-  {
-    "id": 485,
-    "timestamp": "3/3/2026 16:28:36",
-    "author": "Neli Aftariani",
-    "content": "Mencabut rumput di depan asrama baru",
-    "output": "Belum tuntas",
-    "hambatan": "",
-    "photoUrl": "https://drive.google.com/open?id=1ApvjE88Wwz9HG7b68-86aIZgyg5Hk0Ue"
-  },
-  {
-    "id": 486,
-    "timestamp": "3/4/2026 15:06:05",
-    "author": "Rio Mailando Agustiano",
-    "content": "Membersihkan aula utama",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=18r6USWTX3pHXeAAqpshlNk4tsGcWLWkb"
-  },
-  {
-    "id": 487,
-    "timestamp": "3/4/2026 15:08:16",
-    "author": "Fitriandi",
-    "content": "membersihkan kaca ruangan pengaduan",
-    "output": "bersih",
-    "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=14buydargBDYGBWsOU9UI4OoBi7o0FTeG"
-  },
-  {
-    "id": 488,
-    "timestamp": "3/4/2026 15:09:25",
-    "author": "Fitriandi",
-    "content": "membersihkan kaca ruangan pengaduan",
-    "output": "bersih",
-    "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1HVCYzgWoCkye0W76uw4J9_t0rOxVr8nc"
-  },
-  {
-    "id": 489,
-    "timestamp": "3/4/2026 15:12:21",
-    "author": "Musrizaldi",
-    "content": "Mengelap meja dan tempat area bermain diruang numerasi",
-    "output": "Bersih",
-    "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1F2RTsWlFe5H1T1H6n1-Eu8KCTq9gqTyk"
-  },
-  {
-    "id": 490,
-    "timestamp": "3/4/2026 15:17:40",
-    "author": "Buyung Syafrianto",
-    "content": "Membersihkan ruang kantor",
-    "output": "Jaring laba-laba",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1ER5-91fE1G1ZK_6IN13HGppU9t5vQkgd"
-  },
-  {
-    "id": 491,
-    "timestamp": "3/4/2026 15:19:16",
-    "author": "Usrialdi",
-    "content": "Memperbaiki kolam",
-    "output": "1",
-    "hambatan": "Banyak pecahan kaca dalam kolam",
-    "photoUrl": "https://drive.google.com/open?id=1WVn519JXtXixiCO_4LuZqqyDYQYhH2Mh"
-  },
-  {
-    "id": 492,
-    "timestamp": "3/4/2026 16:01:49",
-    "author": "Salaudin",
-    "content": "Kunci kantor baru",
-    "output": "Aman",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1MqBzZdqFUvXttfgqfvafQfYmtbQRnDWK"
-  },
-  {
-    "id": 493,
-    "timestamp": "3/4/2026 22:01:31",
-    "author": "Ade inputra",
-    "content": "membersihkan ruang belajar Wi dan memperbaiki kamar mandi Ruang Kepala",
-    "output": "terselesaikannya pekerjaan",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1Hva1iM7yEeKCrydH0WWjtMWA1ZXbk4SN"
-  },
-  {
-    "id": 494,
-    "timestamp": "3/5/2026 14:52:12",
-    "author": "Usrialdi",
-    "content": "Membersihkan teras aula mini dan memperbaiki mesin sanio gedung baru",
-    "output": "Mesin sudah di perbaiki,dan sudah hidup,tanpa otomatis(rotag)",
-    "hambatan": "Rotag mesin sanio rusak,,,",
-    "photoUrl": "https://drive.google.com/open?id=1wqh88c5R-cxUda-T_Gxp1xFa8M5kU_GO"
-  },
-  {
-    "id": 495,
-    "timestamp": "3/5/2026 14:52:51",
-    "author": "Karmawar",
-    "content": "bersihkan halaman kantor",
-    "output": "halaman kantor bersih dan rapi",
-    "hambatan": "tak ada",
-    "photoUrl": "https://drive.google.com/open?id=1nfgvuJ9kQvTfkDa0Mhuu3u3TTqLi26nv"
-  },
-  {
-    "id": 496,
-    "timestamp": "3/5/2026 15:05:33",
-    "author": "Ade inputra",
-    "content": "perawatan ruang belajar wi dan pengambilan barang di ruang persediaan",
-    "output": "terlesaikannya pekerjaan",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1-blZteU-ESzvIBGaTMal4ri3sRPzjhNf"
-  },
-  {
-    "id": 497,
-    "timestamp": "3/5/2026 15:11:04",
-    "author": "Fitriandi",
-    "content": "membersihkan lorong di perpustakaan dan membuang jaring laba laba di atap",
-    "output": "bersih",
-    "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1Hfcu1pKZpEmtPCRIUnQvCS-TfYB4nCi8"
-  },
-  {
-    "id": 498,
-    "timestamp": "3/5/2026 15:22:23",
-    "author": "Musrizaldi",
-    "content": "Membersihkan rumput",
-    "output": "Bersih",
-    "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1mBpyB2b-UvnrL5Jiz2lA2X8kd2Wbrksd"
-  },
-  {
-    "id": 499,
-    "timestamp": "3/5/2026 15:29:29",
-    "author": "Salaudin",
-    "content": "Memberikan kantor",
-    "output": "Bersih",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1B5AqnrRuPR_a4ncbKT6U6PgtMqBoO0-4"
-  },
-  {
-    "id": 500,
-    "timestamp": "3/5/2026 15:29:42",
-    "author": "Buyung Syafrianto",
-    "content": "Membersihkan area kantor",
-    "output": "Membersihkan jaring laba-laba dan menyiram bunga",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=15bmT0VYuZLukBEU-LPlz1qbw8Lwb1BeK"
-  },
-  {
-    "id": 501,
-    "timestamp": "3/6/2026 7:51:51",
-    "author": "Karmawar",
-    "content": "bersihkan mushala",
-    "output": "selesai dan rapi",
-    "hambatan": "tak ada. itu poto tgl 4 maret",
-    "photoUrl": "https://drive.google.com/open?id=1Curdu55KbMRzssRB57XqD-6wdTGjnLK1"
-  },
-  {
-    "id": 502,
-    "timestamp": "3/6/2026 7:55:08",
-    "author": "Karmawar",
-    "content": "bersihkan halaman kantor",
-    "output": "selesai dan rapi",
-    "hambatan": "tak ada. itu poto tgl 3 maret",
-    "photoUrl": "https://drive.google.com/open?id=1j_QvfAXPJt_dvDmIhSvMboOAG8kM2HQB"
-  },
-  {
-    "id": 503,
-    "timestamp": "3/6/2026 14:58:54",
-    "author": "Salaudin",
-    "content": "Memberikan kantor",
-    "output": "Bersih",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1kYhAgKo0g1iw677EOkA6YgeG6e2r2jh3"
-  },
-  {
-    "id": 504,
-    "timestamp": "3/6/2026 15:10:21",
-    "author": "Usrialdi",
-    "content": "Membersihkan  teras aula mini,,dan teras mushola,dan mengantar tim sosial menbezuk ibuk kepala",
-    "output": "Semua tuntas",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1PNb2RFf13jdzM8HNljJ-ShnrjElP1cGi"
-  },
-  {
-    "id": 505,
-    "timestamp": "3/6/2026 15:25:49",
-    "author": "Buyung Syafrianto",
-    "content": "Bersih² kantor utama dan stambay d repsionis kantor",
-    "output": "Membersihkan ruang kantor utama mulai siram bunga dan debu²",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1YYxQ4G-zZZrBwpu4Doi1Fp_cBP6iNrFM"
-  },
-  {
-    "id": 506,
-    "timestamp": "3/6/2026 15:32:06",
-    "author": "Musrizaldi",
-    "content": "Membersihkan rumput sebelah rumah dinas",
-    "output": "Bersih",
-    "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1GpYi6N-Ol_ECJ8WU0s4ZrAw-2zd3eDyG"
-  },
-  {
-    "id": 507,
-    "timestamp": "3/6/2026 15:38:24",
-    "author": "Fitriandi",
-    "content": "membersihkan teras ULT dan mencabut rumput di halaman pengaduandi halaman pengaduan",
-    "output": "bersih",
-    "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1qEkt1L33nuUK-1BZZVrn8hQzVDCqf2Fv"
-  },
-  {
-    "id": 508,
-    "timestamp": "3/6/2026 16:04:52",
-    "author": "Rio Mailando Agustiano",
-    "content": "Membersihkan halaman aula utama",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1lmWorh2-n00KsKZlK4Zpb73bedkBRTMR"
-  },
-  {
-    "id": 509,
-    "timestamp": "3/6/2026 16:23:03",
-    "author": "Ade inputra",
-    "content": "Membagikan sembako ke warga sekitar dan menyusun brg sembako",
-    "output": "terselsaikannya pekerjaan",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1SR6Lqt9hpxnXYl34YSBEEg3cqVvvFPlr"
-  },
-  {
-    "id": 510,
-    "timestamp": "3/6/2026 16:24:17",
-    "author": "Neli Aftariani",
-    "content": "Membagi sembako",
-    "output": "Tuntas",
-    "hambatan": "",
-    "photoUrl": "https://drive.google.com/open?id=1wJ1G0Tbjzctae9zunLNMo1_6WSTWrxjP"
-  },
-  {
-    "id": 511,
-    "timestamp": "3/7/2026 22:15:28",
-    "author": "Rio Mailando Agustiano",
-    "content": "Mengantarkan bantuan",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1GE3lJXjI9lN93OZrPg7XnO6hVSYbB3I5"
-  },
-  {
-    "id": 512,
-    "timestamp": "3/9/2026 14:30:45",
-    "author": "Usrialdi",
-    "content": "Mengepel teras aula mini dan teras mushola",
-    "output": "2",
-    "hambatan": "Hujan",
-    "photoUrl": "https://drive.google.com/open?id=1uWWRC-M-fw7N5aQPytB0o7vvlaA49WtA"
-  },
-  {
-    "id": 513,
-    "timestamp": "3/9/2026 15:01:50",
-    "author": "Rio Mailando Agustiano",
-    "content": "Membersihkan aula utama",
-    "output": "Bersih",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=18Itm2TN78_WNgMdzxbunLmZiceDXOoli"
-  },
-  {
-    "id": 514,
-    "timestamp": "3/9/2026 15:21:14",
-    "author": "Fitriandi",
-    "content": "menyiram bunga dan membersihkan kaca di rumah dinas",
-    "output": "bersih",
-    "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1p-ZqKXJQwhkSJ5LynuOoTJu_DNjqDanJ"
-  },
-  {
-    "id": 515,
-    "timestamp": "3/9/2026 15:24:39",
-    "author": "Salaudin",
-    "content": "Memberikan kantor",
-    "output": "Bersih",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=18ZRILpAzBbJcHLVbsbq0lVmJ_zHYYONv"
-  },
-  {
-    "id": 516,
-    "timestamp": "3/9/2026 21:19:48",
-    "author": "Ade inputra",
-    "content": "membersihkan ruang belajar wi dan persiapan acara lomba mtq",
-    "output": "terselesaikannya pekerjaan",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=14HamvNBoPmYI39SoGE0pyBAmKtfJTcJH"
-  },
-  {
-    "id": 517,
-    "timestamp": "3/9/2026 22:25:23",
-    "author": "Buyung Syafrianto",
-    "content": "Mempersiapkan ruang untuk kegiatan MTQ di aula mini",
-    "output": "Membersihkan ruang aula mini dan kantor utama",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1Mb0Kt5sNbHriEp40e-WxzCb2KhDVtWIX"
-  },
-  {
-    "id": 518,
-    "timestamp": "3/11/2026 10:08:39",
-    "author": "Buyung Syafrianto",
-    "content": "Kegiatan Rakor dari tnggal 10s/d12 di Hotel Roky Padang",
-    "output": "Stambay dan memberikan mix untuk peserta tanya jawab",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1XVBd3lxHoC0UsxQlvab0YJpgxBvMNKnp"
-  },
-  {
-    "id": 519,
-    "timestamp": "3/13/2026 14:09:33",
-    "author": "Usrialdi",
-    "content": "Membersihkan aula mini dan mengepel lantai nya,,dilanjut rapat di aula mini,bersama pimpinan BGTK SUMBAR",
-    "output": "Sudah terlaksana",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=121qnmEqaK1v3EZMsfpKb0CiGmtJAzi3z"
-  },
-  {
-    "id": 520,
-    "timestamp": "3/13/2026 15:37:51",
-    "author": "Karmawar",
-    "content": "menata lingkungan kantor",
-    "output": "bersih dan rapi",
-    "hambatan": "tak ada",
-    "photoUrl": "https://drive.google.com/open?id=1sMh7ObkkpKXy7uYIbQr_RudRkJKdNdTn"
-  },
-  {
-    "id": 521,
-    "timestamp": "3/13/2026 15:39:02",
-    "author": "Fitriandi",
-    "content": "membersihkan ruangan pengaduan dan mengepel teras ULT",
-    "output": "bersih",
-    "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1xQ8UdaNi4e470CyV_aSNbHgN5uYm_5XO"
-  },
-  {
-    "id": 522,
-    "timestamp": "3/13/2026 15:39:40",
-    "author": "Ade inputra",
-    "content": "memasang instalasi teras aula mini dan antar sembako",
-    "output": "terselesaikannya pekerjaan",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1rp_A2ZicMzw8ShWfErwGg8GquRioEMM4"
-  },
-  {
-    "id": 523,
-    "timestamp": "3/13/2026 15:47:03",
-    "author": "Buyung Syafrianto",
-    "content": "Mengangkat barang dari mobil ke ruang fungsional dan stambay d repsionis",
-    "output": "Membawa kardus isinya kue lebaran ke ruang fungsional stelah itu rapat di aula mini",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=12D97QrMMY6K3_bAs596Yx861s5UCscdB"
-  },
-  {
-    "id": 524,
-    "timestamp": "3/13/2026 16:12:46",
-    "author": "Musrizaldi",
-    "content": "Membersihkan wc pria dan wanita dekat ULT",
-    "output": "Selesai",
-    "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1oEi7acw8BiSTMC7Jp6iQfb44Om2RcYhe"
-  },
-  {
-    "id": 525,
-    "timestamp": "3/13/2026 16:13:11",
-    "author": "Fitriandi",
-    "content": "",
-    "output": "",
-    "hambatan": "",
-    "photoUrl": "https://drive.google.com/open?id=1mqoB6LAO3-3hcIN-vEC2KgMBnAKTsiyr"
-  },
-  {
-    "id": 526,
-    "timestamp": "3/13/2026 21:35:26",
-    "author": "Rio Mailando Agustiano",
-    "content": "Membersihkan teras aual besar",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1dQPWjZDFGp8KmGUN28PpJxl-ggD5S7Lw"
-  },
-  {
-    "id": 527,
-    "timestamp": "3/30/2026 15:19:38",
-    "author": "Mardianto",
-    "content": "Kegiatan",
-    "output": "1",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1dPEBE4AE-43aWsigf9t-eADsftkVSUeu"
-  },
-  {
-    "id": 528,
-    "timestamp": "3/30/2026 15:45:04",
-    "author": "Salaudin",
-    "content": "Memberikan kantor",
-    "output": "Bersih",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1h-ooNpkkkxoHTlPZtZ190F14Eo9ejUq5"
-  },
-  {
-    "id": 529,
-    "timestamp": "3/30/2026 16:08:23",
-    "author": "Karmawar",
-    "content": "menata lingkungan kantor",
-    "output": "menata perkarangan",
-    "hambatan": "tak ada",
-    "photoUrl": "https://drive.google.com/open?id=1GZ_sf3-ltX3RHnLvR5fCac6JSIjUoEFc"
-  },
-  {
-    "id": 530,
-    "timestamp": "3/30/2026 16:11:10",
-    "author": "Buyung Syafrianto",
-    "content": "Menyediakan ruang untuk kegiatan halalbihalal",
-    "output": "Mempersiapkan",
-    "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=10OkaJ1d4N81_PwKxYrPrheS96N56GqkF"
-  },
-  {
-    "id": 531,
-    "timestamp": "3/30/2026 16:30:58",
-    "author": "Buyung Syafrianto",
-    "content": "Menyapu lantai aula mini",
-    "output": "Bersih²",
-    "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1wa3d8TkZVR9Qe02_AEJyfqbm7umsnpxI"
-  },
-  {
-    "id": 532,
-    "timestamp": "3/30/2026 16:52:42",
-    "author": "Fitriandi",
-    "content": "membersihkan teras pustaka dan teras rumah kepala",
-    "output": "bersih",
-    "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1CVFc5XRMBrcagC0uAhWRdba3k9nJkbYe"
-  },
-  {
-    "id": 533,
-    "timestamp": "3/30/2026 18:26:55",
-    "author": "Ade inputra",
-    "content": "membersihkan teras arsip dan ruang belajar Wi",
-    "output": "terlesaikannya pekerjaan",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1oAVAtRgPi9Cg_H8HxovZKrPIdBUnGjD0"
-  },
-  {
-    "id": 534,
-    "timestamp": "3/31/2026 15:12:51",
-    "author": "",
-    "content": "Kegiatan",
-    "output": "1",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1aLDkBlzHYtnqMC539fiOTl7H9jcqqOMW"
-  },
-  {
-    "id": 535,
-    "timestamp": "3/31/2026 16:02:36",
-    "author": "Musrizaldi",
-    "content": "Menyapu teras pustaka ULT dan sekitar ruang pengaduan",
-    "output": "Selesai",
-    "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1Dckyu1ZqWHgQqZJOuMO4VhBNUs8gZr6V"
-  },
-  {
-    "id": 536,
-    "timestamp": "3/31/2026 16:11:36",
-    "author": "Karmawar",
-    "content": "menata perkarangan lingkungan kantor",
-    "output": "menata perkarangan lingkungan kantor",
-    "hambatan": "tak ada",
-    "photoUrl": "https://drive.google.com/open?id=1SEM2VNSt0ye-Tp84XDETm4qzpugdDfwd"
-  },
-  {
-    "id": 537,
-    "timestamp": "3/31/2026 16:17:15",
+    "timestamp": "5/2/2026 18:34:21",
     "author": "Buyung Syafrianto",
     "content": "Membersihkan",
     "output": "Bersih",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1stJ9TH3sKEuvne6YMAYbTBb6Y33u2FBv"
+    "photoUrl": "https://drive.google.com/open?id=1VpY2EiEHGfJMBBaUVSLAksj1hTIRwViD",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1VpY2EiEHGfJMBBaUVSLAksj1hTIRwViD"
+  },
+  {
+    "id": 477,
+    "timestamp": "5/4/2026 7:14:04",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihka. Gedung aula utama",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1stMONIyVb6vTFumIY5JJLGNBBzqE29WY",
+    "photoPagi": "https://drive.google.com/open?id=1stMONIyVb6vTFumIY5JJLGNBBzqE29WY",
+    "photoSore": ""
+  },
+  {
+    "id": 478,
+    "timestamp": "5/4/2026 7:20:14",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan mengepel lantai aula mini",
+    "output": "Membersihkan",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1bP4En9MK24fxIJHcTbDF5Qxvdqf_oW1J",
+    "photoPagi": "https://drive.google.com/open?id=1bP4En9MK24fxIJHcTbDF5Qxvdqf_oW1J",
+    "photoSore": ""
+  },
+  {
+    "id": 479,
+    "timestamp": "5/4/2026 8:10:59",
+    "author": "Mardianto",
+    "content": "Membersih kan asrama putra",
+    "output": "Bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1ubqL_g4PjOtJuw7hs6ZbsZnTmca968PW",
+    "photoPagi": "https://drive.google.com/open?id=1ubqL_g4PjOtJuw7hs6ZbsZnTmca968PW",
+    "photoSore": ""
+  },
+  {
+    "id": 480,
+    "timestamp": "5/4/2026 8:12:08",
+    "author": "Mardianto",
+    "content": "Membersihkan samping asrama putra",
+    "output": "Bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=13TSGZVsRCwd4jsOsnc5UvAJp-uE9iso0",
+    "photoPagi": "https://drive.google.com/open?id=13TSGZVsRCwd4jsOsnc5UvAJp-uE9iso0",
+    "photoSore": ""
+  },
+  {
+    "id": 481,
+    "timestamp": "5/4/2026 8:22:49",
+    "author": "Rio Mailando Agustiano",
+    "content": "Mengepel gedung aula utama",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1O794Fqp51m-cJKef1qZ09XTynTZmVqkb",
+    "photoPagi": "https://drive.google.com/open?id=1O794Fqp51m-cJKef1qZ09XTynTZmVqkb",
+    "photoSore": ""
+  },
+  {
+    "id": 482,
+    "timestamp": "5/4/2026 8:23:48",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan lantai aula utama",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1eLz0Ha9UY9uMrnnts29RcbqMz8cEafRE",
+    "photoPagi": "https://drive.google.com/open?id=1eLz0Ha9UY9uMrnnts29RcbqMz8cEafRE",
+    "photoSore": ""
+  },
+  {
+    "id": 483,
+    "timestamp": "5/4/2026 8:24:06",
+    "author": "Fitriandi",
+    "content": "samping rumah dinas mencabut rumput",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1RrFSP_V7aGXNDlsAyI7BQ3j45GrPeRWs",
+    "photoPagi": "https://drive.google.com/open?id=1RrFSP_V7aGXNDlsAyI7BQ3j45GrPeRWs",
+    "photoSore": ""
+  },
+  {
+    "id": 484,
+    "timestamp": "5/4/2026 8:25:28",
+    "author": "Fitriandi",
+    "content": "lorong ruangan pustaka",
+    "output": "bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1UuWyChoNoVOdGaSbTgCv6axRaVCzqfMO",
+    "photoPagi": "https://drive.google.com/open?id=1UuWyChoNoVOdGaSbTgCv6axRaVCzqfMO",
+    "photoSore": ""
+  },
+  {
+    "id": 485,
+    "timestamp": "5/4/2026 8:35:49",
+    "author": "Fitriandi",
+    "content": "lorong samping ULT",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1aCR5PiG-dHw6917e7Ad3deIMINuGl7tz",
+    "photoPagi": "https://drive.google.com/open?id=1aCR5PiG-dHw6917e7Ad3deIMINuGl7tz",
+    "photoSore": ""
+  },
+  {
+    "id": 486,
+    "timestamp": "5/4/2026 8:37:24",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1TFbTpHexS2OinleMnw0gfdmvDEgp5MOy",
+    "photoPagi": "https://drive.google.com/open?id=1TFbTpHexS2OinleMnw0gfdmvDEgp5MOy",
+    "photoSore": ""
+  },
+  {
+    "id": 487,
+    "timestamp": "5/4/2026 8:38:24",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=11Bp1AuMDQ3-gNskcOdKqORBaBYC6e5CG",
+    "photoPagi": "https://drive.google.com/open?id=11Bp1AuMDQ3-gNskcOdKqORBaBYC6e5CG",
+    "photoSore": ""
+  },
+  {
+    "id": 488,
+    "timestamp": "5/4/2026 8:39:40",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1iUuvjGLUOJe1yDB_ibd_o4ohVml8_0y5",
+    "photoPagi": "https://drive.google.com/open?id=1iUuvjGLUOJe1yDB_ibd_o4ohVml8_0y5",
+    "photoSore": ""
+  },
+  {
+    "id": 489,
+    "timestamp": "5/4/2026 8:45:25",
+    "author": "Buyung Syafrianto",
+    "content": "Stambay di repsionis kantor hari ini",
+    "output": "Stambay",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1v_nmnggd5uoV_aHOqYyH-mADRRWZ5P4d",
+    "photoPagi": "https://drive.google.com/open?id=1v_nmnggd5uoV_aHOqYyH-mADRRWZ5P4d",
+    "photoSore": ""
+  },
+  {
+    "id": 490,
+    "timestamp": "5/4/2026 9:32:52",
+    "author": "Musrizaldi",
+    "content": "Membersihkan kaca ruangan",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1q9rTTIFrzOVqT1ZnKdyp1QFspuI5rG-I",
+    "photoPagi": "https://drive.google.com/open?id=1q9rTTIFrzOVqT1ZnKdyp1QFspuI5rG-I",
+    "photoSore": ""
+  },
+  {
+    "id": 491,
+    "timestamp": "5/4/2026 9:33:51",
+    "author": "Musrizaldi",
+    "content": "Menyapu teras ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1zCWospezDIW0RH0eA83CM1CFb4DyzUuY",
+    "photoPagi": "https://drive.google.com/open?id=1zCWospezDIW0RH0eA83CM1CFb4DyzUuY",
+    "photoSore": ""
+  },
+  {
+    "id": 492,
+    "timestamp": "5/4/2026 15:02:00",
+    "author": "Salaudin",
+    "content": "Memberikan dan memberikan pupuk buga",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1T9p0uhg4qd65I2rmUGM_YzMvqR9gd9Ub",
+    "photoPagi": "https://drive.google.com/open?id=1T9p0uhg4qd65I2rmUGM_YzMvqR9gd9Ub",
+    "photoSore": "https://drive.google.com/open?id=1a4jcgPGbw45nkX9izdsVAYTg1bibSiWB"
+  },
+  {
+    "id": 493,
+    "timestamp": "5/4/2026 15:27:07",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1vlHulH3d69p1UgMjnDwC8SLO2xAovaVK",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1vlHulH3d69p1UgMjnDwC8SLO2xAovaVK"
+  },
+  {
+    "id": 494,
+    "timestamp": "5/4/2026 15:38:08",
+    "author": "Musrizaldi",
+    "content": "Menyapu teras ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1qrjm6vysE2TOrWOa-jrKgqlacPGDqLuy",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1qrjm6vysE2TOrWOa-jrKgqlacPGDqLuy"
+  },
+  {
+    "id": 495,
+    "timestamp": "5/4/2026 15:46:59",
+    "author": "Buyung Syafrianto",
+    "content": "Sampai saat ini stambay d repsionis kantor BGTK Provinsi Sumbar",
+    "output": "Berjaga-jaga",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1a2eD8adUGfIsQ8c_xJeWqNVwzSs-JUZB",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1a2eD8adUGfIsQ8c_xJeWqNVwzSs-JUZB"
+  },
+  {
+    "id": 496,
+    "timestamp": "5/4/2026 16:03:09",
+    "author": "Rio Mailando Agustiano",
+    "content": "",
+    "output": "",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=18H0-vAP6H1TPOvC0fmwNIj-4MCHWBKRu",
+    "photoPagi": "https://drive.google.com/open?id=18H0-vAP6H1TPOvC0fmwNIj-4MCHWBKRu",
+    "photoSore": ""
+  },
+  {
+    "id": 497,
+    "timestamp": "5/4/2026 16:35:10",
+    "author": "Fitriandi",
+    "content": "membersihkan pekarangan ruangan pengaduan",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1xI1Ok6bobqSZqIemf1gsmR7S0MYVyp5c",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1xI1Ok6bobqSZqIemf1gsmR7S0MYVyp5c"
+  },
+  {
+    "id": 498,
+    "timestamp": "5/4/2026 16:36:18",
+    "author": "Fitriandi",
+    "content": "pekarangan perpustakaan",
+    "output": "bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1AuuN1TC28I_d0c5sGpgwjS0f3e6MpiEP",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1AuuN1TC28I_d0c5sGpgwjS0f3e6MpiEP"
+  },
+  {
+    "id": 499,
+    "timestamp": "5/4/2026 16:37:32",
+    "author": "Fitriandi",
+    "content": "pekarangan ruangan numerasi",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1EgWyD8hGWs9qYOVKImLCPHb93L8a6Icz",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1EgWyD8hGWs9qYOVKImLCPHb93L8a6Icz"
+  },
+  {
+    "id": 500,
+    "timestamp": "5/4/2026 16:38:35",
+    "author": "Fitriandi",
+    "content": "ruangan pengaduan",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1m0OaRgitgSKLckWOkfp0FQsFHRRagskQ",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1m0OaRgitgSKLckWOkfp0FQsFHRRagskQ"
+  },
+  {
+    "id": 501,
+    "timestamp": "5/4/2026 21:31:16",
+    "author": "Usrialdi",
+    "content": "Membersihkan aula mini dan mushola.dan menyambung pipa air yang lepas di gedung baru",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1K-px7RzZVTetUZEwrPSr5yF6s9uloGLt",
+    "photoPagi": "https://drive.google.com/open?id=1K-px7RzZVTetUZEwrPSr5yF6s9uloGLt",
+    "photoSore": "https://drive.google.com/open?id=1_UiSG7-k2mlXA9d4AbrlI_pmXcKwA_FK"
+  },
+  {
+    "id": 502,
+    "timestamp": "5/5/2026 7:01:16",
+    "author": "Salaudin",
+    "content": "Memberikan pekarangan kantor",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1NH_OLwTUS08ogDYk2pnj5nHqSxie2st1",
+    "photoPagi": "https://drive.google.com/open?id=1NH_OLwTUS08ogDYk2pnj5nHqSxie2st1",
+    "photoSore": ""
+  },
+  {
+    "id": 503,
+    "timestamp": "5/5/2026 7:41:14",
+    "author": "Fitriandi",
+    "content": "mengepel teras ult,",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1SVcM758NAM4O4fakzuAYmJURLOYesjOs",
+    "photoPagi": "https://drive.google.com/open?id=1SVcM758NAM4O4fakzuAYmJURLOYesjOs",
+    "photoSore": ""
+  },
+  {
+    "id": 504,
+    "timestamp": "5/5/2026 7:42:09",
+    "author": "Fitriandi",
+    "content": "mengepel teras pengaduan",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1nhdh-GI8g_d-kV1Cgi3HZAGF1JsXLNPr",
+    "photoPagi": "https://drive.google.com/open?id=1nhdh-GI8g_d-kV1Cgi3HZAGF1JsXLNPr",
+    "photoSore": ""
+  },
+  {
+    "id": 505,
+    "timestamp": "5/5/2026 7:45:29",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu bagian aula mini luar dan dalam",
+    "output": "Membersihkan",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=16nUBIe7mcQKkGyYGuKfPPFejPhMkFOoP",
+    "photoPagi": "https://drive.google.com/open?id=16nUBIe7mcQKkGyYGuKfPPFejPhMkFOoP",
+    "photoSore": ""
+  },
+  {
+    "id": 506,
+    "timestamp": "5/5/2026 7:46:05",
+    "author": "Fitriandi",
+    "content": "teras rumah dinas",
+    "output": "bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1jL14RJ2hp2R6XSvzBX8qMqUaN-7VETMQ",
+    "photoPagi": "https://drive.google.com/open?id=1jL14RJ2hp2R6XSvzBX8qMqUaN-7VETMQ",
+    "photoSore": ""
+  },
+  {
+    "id": 507,
+    "timestamp": "5/5/2026 7:52:28",
+    "author": "Fitriandi",
+    "content": "menyiram bunga",
+    "output": "selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=13MwU0NaHGc20FiYFbEYJO-kID0vSgO1Q",
+    "photoPagi": "https://drive.google.com/open?id=13MwU0NaHGc20FiYFbEYJO-kID0vSgO1Q",
+    "photoSore": ""
+  },
+  {
+    "id": 508,
+    "timestamp": "5/5/2026 8:08:19",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=14Z4bFvJ_FA2Jmz0M38dEEXL3w0-nLl9C",
+    "photoPagi": "https://drive.google.com/open?id=14Z4bFvJ_FA2Jmz0M38dEEXL3w0-nLl9C",
+    "photoSore": ""
+  },
+  {
+    "id": 509,
+    "timestamp": "5/5/2026 8:09:20",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1ZXQJYlskvmhof4NlqQB3qP3mp0gWYewE",
+    "photoPagi": "https://drive.google.com/open?id=1ZXQJYlskvmhof4NlqQB3qP3mp0gWYewE",
+    "photoSore": ""
+  },
+  {
+    "id": 510,
+    "timestamp": "5/5/2026 8:10:09",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1dM6kDl4f2Z-j6H38MnuCp4b0SGQ0JIK-",
+    "photoPagi": "https://drive.google.com/open?id=1dM6kDl4f2Z-j6H38MnuCp4b0SGQ0JIK-",
+    "photoSore": ""
+  },
+  {
+    "id": 511,
+    "timestamp": "5/5/2026 8:10:54",
+    "author": "Musrizaldi",
+    "content": "Menyapu teras ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1OQ9iCMA5GokG7T92IFS6e33uC39LTHpy",
+    "photoPagi": "https://drive.google.com/open?id=1OQ9iCMA5GokG7T92IFS6e33uC39LTHpy",
+    "photoSore": ""
+  },
+  {
+    "id": 512,
+    "timestamp": "5/5/2026 8:49:01",
+    "author": "Rio Mailando Agustiano",
+    "content": "Pelayanan tamu",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1hVDJWEE7Ta_9jgPJl6Wykj3HE9-wb--G",
+    "photoPagi": "https://drive.google.com/open?id=1hVDJWEE7Ta_9jgPJl6Wykj3HE9-wb--G",
+    "photoSore": ""
+  },
+  {
+    "id": 513,
+    "timestamp": "5/5/2026 9:15:19",
+    "author": "Rio Mailando Agustiano",
+    "content": "Me cek aset kantor barang iventaris dalam keadaan baik",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1DsX4Jjex6d4MYp51LNwv-KmTXf_xlIr_",
+    "photoPagi": "https://drive.google.com/open?id=1DsX4Jjex6d4MYp51LNwv-KmTXf_xlIr_",
+    "photoSore": ""
+  },
+  {
+    "id": 514,
+    "timestamp": "5/5/2026 9:50:44",
+    "author": "Ade inputra",
+    "content": "bersihkan ruang belajar Wi",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tgl 4 mei 2026",
+    "photoUrl": "https://drive.google.com/open?id=1pdaIQTJgPNn1wV8gjj-jo7pEMGzhfdeG",
+    "photoPagi": "https://drive.google.com/open?id=1pdaIQTJgPNn1wV8gjj-jo7pEMGzhfdeG",
+    "photoSore": ""
+  },
+  {
+    "id": 515,
+    "timestamp": "5/5/2026 9:52:31",
+    "author": "Ade inputra",
+    "content": "bersihkan teras arsip dan servis ac ruang belajar wi",
+    "output": "terselesai pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1hcXnlzHdfBZRZLvNWfJbX3x4U1YjnN8J",
+    "photoPagi": "https://drive.google.com/open?id=1hcXnlzHdfBZRZLvNWfJbX3x4U1YjnN8J",
+    "photoSore": "https://drive.google.com/open?id=1FYNHA3dOwzsdWXGEpqzuWn185pRUdlnw"
+  },
+  {
+    "id": 516,
+    "timestamp": "5/5/2026 12:49:51",
+    "author": "Fitriandi",
+    "content": "toilet ult",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=12PnMdGDIpPqb13-a--ZurgXIt7B0wuWg",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=12PnMdGDIpPqb13-a--ZurgXIt7B0wuWg"
+  },
+  {
+    "id": 517,
+    "timestamp": "5/5/2026 12:51:24",
+    "author": "Fitriandi",
+    "content": "toilet perpustakaan",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1a1l-BI8xnyAoQ3E5v847vHDG_GpteJVi",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1a1l-BI8xnyAoQ3E5v847vHDG_GpteJVi"
+  },
+  {
+    "id": 518,
+    "timestamp": "5/5/2026 12:52:22",
+    "author": "Fitriandi",
+    "content": "ruangan area smoking",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=16Yn5G8rruKYdFWyTu30HeZA6JBB-Mudx",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=16Yn5G8rruKYdFWyTu30HeZA6JBB-Mudx"
+  },
+  {
+    "id": 519,
+    "timestamp": "5/5/2026 12:56:49",
+    "author": "Mardianto",
+    "content": "toilet",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1vQFJpsxeLYn9JK28hfywizNIEBxyQH-z",
+    "photoPagi": "https://drive.google.com/open?id=1vQFJpsxeLYn9JK28hfywizNIEBxyQH-z",
+    "photoSore": ""
+  },
+  {
+    "id": 520,
+    "timestamp": "5/5/2026 12:57:51",
+    "author": "Mardianto",
+    "content": "membersihkan asrama",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1xvI6APidkY15x1M9eFgKmLCWAtov9gys",
+    "photoPagi": "https://drive.google.com/open?id=1xvI6APidkY15x1M9eFgKmLCWAtov9gys",
+    "photoSore": ""
+  },
+  {
+    "id": 521,
+    "timestamp": "5/5/2026 12:58:47",
+    "author": "Mardianto",
+    "content": "membersihkan halaman",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1yLn4QAa3In097Xq-k8H4owNTV8IrVy_C",
+    "photoPagi": "https://drive.google.com/open?id=1yLn4QAa3In097Xq-k8H4owNTV8IrVy_C",
+    "photoSore": ""
+  },
+  {
+    "id": 522,
+    "timestamp": "5/5/2026 12:59:36",
+    "author": "Mardianto",
+    "content": "teras",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1xCXuIg7xx6peP7bDpGChmHKFTq2NUkpS",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1xCXuIg7xx6peP7bDpGChmHKFTq2NUkpS"
+  },
+  {
+    "id": 523,
+    "timestamp": "5/5/2026 13:00:28",
+    "author": "Mardianto",
+    "content": "teras",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1Sk5IkU6g-BGdmln-j7_EZZdjGbBJ1427",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1Sk5IkU6g-BGdmln-j7_EZZdjGbBJ1427"
+  },
+  {
+    "id": 524,
+    "timestamp": "5/5/2026 13:01:39",
+    "author": "Mardianto",
+    "content": "lantai asrama",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1uxmTstuijj1j3M71Zj1WLKfn49it2oMg",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1uxmTstuijj1j3M71Zj1WLKfn49it2oMg"
+  },
+  {
+    "id": 525,
+    "timestamp": "5/5/2026 16:13:41",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu ruang aula mini",
+    "output": "Bersihkan",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=11k3krNX0hLZq92ZrMpawxIntkxqavj_B",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=11k3krNX0hLZq92ZrMpawxIntkxqavj_B"
+  },
+  {
+    "id": 526,
+    "timestamp": "5/5/2026 21:04:23",
+    "author": "Usrialdi",
+    "content": "Membersihkan mushola dan melakukan perawatan closet kamar mandi kepala",
+    "output": "Selesai",
+    "hambatan": "Ada alat otomatis yanag rusak",
+    "photoUrl": "https://drive.google.com/open?id=1ZYK7wP73E3O3aZylIyqk2RIa_i0FdVki",
+    "photoPagi": "https://drive.google.com/open?id=1ZYK7wP73E3O3aZylIyqk2RIa_i0FdVki",
+    "photoSore": "https://drive.google.com/open?id=1ZiDILtWV1l-NxW2sKMftO3mtrwD6e2lh"
+  },
+  {
+    "id": 527,
+    "timestamp": "5/6/2026 7:24:56",
+    "author": "Fitriandi",
+    "content": "teras kantor",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1f3z_gvzQ09Ka_e7d0ye31JLoEoQmK-F2",
+    "photoPagi": "https://drive.google.com/open?id=1f3z_gvzQ09Ka_e7d0ye31JLoEoQmK-F2",
+    "photoSore": ""
+  },
+  {
+    "id": 528,
+    "timestamp": "5/6/2026 7:25:54",
+    "author": "Fitriandi",
+    "content": "area jalan depan kantor",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1JNJcVueIsgFcBGM9kqtvBjgaW_3pBQ2J",
+    "photoPagi": "https://drive.google.com/open?id=1JNJcVueIsgFcBGM9kqtvBjgaW_3pBQ2J",
+    "photoSore": ""
+  },
+  {
+    "id": 529,
+    "timestamp": "5/6/2026 7:26:54",
+    "author": "Fitriandi",
+    "content": "taman samping kantor",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1e1yvbmtxnB6HbpNwiIp0WlAy1uU-rk_-",
+    "photoPagi": "https://drive.google.com/open?id=1e1yvbmtxnB6HbpNwiIp0WlAy1uU-rk_-",
+    "photoSore": ""
+  },
+  {
+    "id": 530,
+    "timestamp": "5/6/2026 8:27:31",
+    "author": "Buyung Syafrianto",
+    "content": "Mengepel lantai dan menyapu area aula mini luar dan dalam",
+    "output": "Membersihkan",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1d5uXEi1wG0clfKLuebNOK7az79-wytDN",
+    "photoPagi": "https://drive.google.com/open?id=1d5uXEi1wG0clfKLuebNOK7az79-wytDN",
+    "photoSore": ""
+  },
+  {
+    "id": 531,
+    "timestamp": "5/6/2026 8:48:18",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1GvK9xoMOevtpsjOo7llaJCx6LlMF-Fjb",
+    "photoPagi": "https://drive.google.com/open?id=1GvK9xoMOevtpsjOo7llaJCx6LlMF-Fjb",
+    "photoSore": ""
+  },
+  {
+    "id": 532,
+    "timestamp": "5/6/2026 8:49:14",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=10qe7-cWIrKTmT3zWfiB--N3EzYwDqbQe",
+    "photoPagi": "https://drive.google.com/open?id=10qe7-cWIrKTmT3zWfiB--N3EzYwDqbQe",
+    "photoSore": ""
+  },
+  {
+    "id": 533,
+    "timestamp": "5/6/2026 8:50:08",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1zcRRMN3M68atQ2lAsk95Z4l5vPa69kRu",
+    "photoPagi": "https://drive.google.com/open?id=1zcRRMN3M68atQ2lAsk95Z4l5vPa69kRu",
+    "photoSore": ""
+  },
+  {
+    "id": 534,
+    "timestamp": "5/6/2026 8:51:04",
+    "author": "Musrizaldi",
+    "content": "Menyapu teras ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1VMVCketj1AvahBHjtMYbiruzijBd3E_t",
+    "photoPagi": "https://drive.google.com/open?id=1VMVCketj1AvahBHjtMYbiruzijBd3E_t",
+    "photoSore": ""
+  },
+  {
+    "id": 535,
+    "timestamp": "5/6/2026 9:14:18",
+    "author": "Rio Mailando Agustiano",
+    "content": "Menyiapkan perlengkapan buat senam pagi",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1uNT3iEA-ygcVg7GEdtmmWuevo3I2ywLP",
+    "photoPagi": "https://drive.google.com/open?id=1uNT3iEA-ygcVg7GEdtmmWuevo3I2ywLP",
+    "photoSore": ""
+  },
+  {
+    "id": 536,
+    "timestamp": "5/6/2026 9:36:44",
+    "author": "Neli Aftariani",
+    "content": "Melaksanakan kegiatan pelatihan PKGSDMBI di hotel Imelda padang",
+    "output": "Aman",
+    "hambatan": "Hari senin",
+    "photoUrl": "https://drive.google.com/open?id=1ArpF9L9kNt6yI1H3uipsLtKEN1Q27Mm1",
+    "photoPagi": "https://drive.google.com/open?id=1ArpF9L9kNt6yI1H3uipsLtKEN1Q27Mm1",
+    "photoSore": ""
+  },
+  {
+    "id": 537,
+    "timestamp": "5/6/2026 14:10:17",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC dekat ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1-pr3l3MAeLngd04uGGPwXDIvU_oz92L2",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1-pr3l3MAeLngd04uGGPwXDIvU_oz92L2"
   },
   {
     "id": 538,
-    "timestamp": "3/31/2026 16:48:50",
-    "author": "Fitriandi",
-    "content": "membersihkan ruangan pengaduan dan halaman depan ULT",
-    "output": "bersih",
-    "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1Unl7OIKl6D_LRI-crtlFg61AvjTX9q_b"
+    "timestamp": "5/6/2026 14:13:03",
+    "author": "Musrizaldi",
+    "content": "Membersihkan laba laba diatap WC",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1tQHTase3NvASRPvrQ_X37u6gNasQBb5L",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1tQHTase3NvASRPvrQ_X37u6gNasQBb5L"
   },
   {
     "id": 539,
-    "timestamp": "3/31/2026 18:36:27",
-    "author": "Rio Mailando Agustiano",
-    "content": "Memberihkan teras aula utama",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1BuOQA7QYEqmi9xNCI7nTzcenbGwi0lKq"
+    "timestamp": "5/6/2026 14:15:19",
+    "author": "Fitriandi",
+    "content": "teras kantor utama",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1AhMP2MS5bLV63o_oyq-NRNXhCllK9Y-f",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1AhMP2MS5bLV63o_oyq-NRNXhCllK9Y-f"
   },
   {
     "id": 540,
-    "timestamp": "3/31/2026 19:27:37",
-    "author": "Ade inputra",
-    "content": "Mengganti dudukan toilet dan buat konten tiktok halal bihalal",
-    "output": "terselesaikannya pekerjaan",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1FV3RxPk341Uc8ExEXImNcQb8ePmQG5l6"
+    "timestamp": "5/6/2026 14:16:59",
+    "author": "Fitriandi",
+    "content": "toilet pria",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1zLqMdsVxJYzYH6e4ef3O4y-LqEruQVop",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1zLqMdsVxJYzYH6e4ef3O4y-LqEruQVop"
   },
   {
     "id": 541,
-    "timestamp": "4/1/2026 15:06:02",
+    "timestamp": "5/6/2026 15:34:14",
     "author": "Usrialdi",
-    "content": "Memperbaiki mesin sanio dua mesin",
+    "content": "Membersihkan mushola dan gudang di gedung baru",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1YzZ-PorI1YFqQtcezEY1gPR_xmlIDQt8"
+    "photoUrl": "https://drive.google.com/open?id=1NTTdA-dcCov2DbIogj23xSOrbsZtqBk2",
+    "photoPagi": "https://drive.google.com/open?id=1NTTdA-dcCov2DbIogj23xSOrbsZtqBk2",
+    "photoSore": "https://drive.google.com/open?id=1qPPcbQM3hLtv2SMt2pUlYMjp-XLZt5Lg"
   },
   {
     "id": 542,
-    "timestamp": "4/1/2026 15:34:28",
-    "author": "Mardianto",
-    "content": "Kegiatan",
-    "output": "1",
+    "timestamp": "5/6/2026 15:45:27",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan aula mini",
+    "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1EgeReFBUwsxgqRNKvHuyi-BtBokQRe6w"
+    "photoUrl": "https://drive.google.com/open?id=1FM-W9x1NKcqjMFTIHVWqUcmPVO-FBtdt",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1FM-W9x1NKcqjMFTIHVWqUcmPVO-FBtdt"
   },
   {
     "id": 543,
-    "timestamp": "4/1/2026 15:35:28",
-    "author": "Fitriandi",
-    "content": "membersihkan halaman pengaduan dan membersihkan kaca",
-    "output": "bersih",
-    "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1jtTteeqAOfgQlwVEYV6KsVFgAc3edoY1"
+    "timestamp": "5/6/2026 16:28:13",
+    "author": "Salaudin",
+    "content": "Memberikan area",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1ajAyPHCR22WubLra4eA6vQ17PHBtyOgz",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1ajAyPHCR22WubLra4eA6vQ17PHBtyOgz"
   },
   {
     "id": 544,
-    "timestamp": "4/1/2026 16:08:20",
-    "author": "Ade inputra",
-    "content": "Kontrol PLN selesaikan kabel putus depan parkier kepala dan selesaikan verval",
-    "output": "terselesaikannya pekerjaan",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1um5RERghzKUPiL8CON1VEf-EpFIYFuLb"
+    "timestamp": "5/6/2026 16:34:32",
+    "author": "Neli Aftariani",
+    "content": "Melaksanakan kegiatan senam bersama peserta PKGSDMBI Imelda padang",
+    "output": "Aman",
+    "hambatan": "Hari selasa",
+    "photoUrl": "https://drive.google.com/open?id=1KZ4aZNs76-8VYuFnlVfbnuQqO6kdcj2P",
+    "photoPagi": "https://drive.google.com/open?id=1KZ4aZNs76-8VYuFnlVfbnuQqO6kdcj2P",
+    "photoSore": ""
   },
   {
     "id": 545,
-    "timestamp": "4/1/2026 16:11:18",
-    "author": "Buyung Syafrianto",
-    "content": "Membersihkan/menyapu lantai aula mini BGTK Sumbar",
-    "output": "Bersih-Bersih",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1fo65rhRACcddmAc8aleCf-ltFE-6lfEs"
+    "timestamp": "5/6/2026 16:34:45",
+    "author": "",
+    "content": "",
+    "output": "",
+    "hambatan": "",
+    "photoUrl": "",
+    "photoPagi": "",
+    "photoSore": ""
   },
   {
     "id": 546,
-    "timestamp": "4/1/2026 17:27:20",
-    "author": "Rio Mailando Agustiano",
-    "content": "Bersihkan teras aula utama",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1T-qlc9yYd2WhDch5P0kA9uOoVsR0Jxdi"
+    "timestamp": "5/6/2026 16:36:59",
+    "author": "Neli Aftariani",
+    "content": "Penutupan kegiatan PKGSDMBI di hotel Imelda padang",
+    "output": "Aman",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1nVkIwUsMdZyStv-HGhY4ZxW_7RIHsiLb",
+    "photoPagi": "https://drive.google.com/open?id=1nVkIwUsMdZyStv-HGhY4ZxW_7RIHsiLb",
+    "photoSore": ""
   },
   {
     "id": 547,
-    "timestamp": "4/2/2026 15:14:25",
-    "author": "Usrialdi",
-    "content": "Memperbaiki instalasi air gedung baru,dan rapat di aula mini",
-    "output": "Belum di temukan permasalahan nya",
-    "hambatan": "Intalasi air dalam tembok dinding",
-    "photoUrl": "https://drive.google.com/open?id=18jl5Zro3GfHJEoHPm3qy3cFEiIEVm_p3"
+    "timestamp": "5/6/2026 16:41:41",
+    "author": "Ade inputra",
+    "content": "pasang kipas aula utaman dan cek genset",
+    "output": "terselesaikan pekerjaa",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1c_3k7pVHOERtQbiI3D9BcCnERuEbucyA",
+    "photoPagi": "https://drive.google.com/open?id=1c_3k7pVHOERtQbiI3D9BcCnERuEbucyA",
+    "photoSore": "https://drive.google.com/open?id=1eleeP70wHazNC3GL6IwrplK57uK7SbpU"
   },
   {
     "id": 548,
-    "timestamp": "4/2/2026 16:04:52",
-    "author": "Mardianto",
-    "content": "Kegiatan",
-    "output": "1",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1pWxSzb7HBi7UIK3dmdDNsnaCCnC9XVC-"
+    "timestamp": "5/7/2026 6:51:38",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor dekat parkiran mobil ibuk kepala",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1OX2zZ-pDaoY3WwVJFgWOx12iVe6uw5sX",
+    "photoPagi": "https://drive.google.com/open?id=1OX2zZ-pDaoY3WwVJFgWOx12iVe6uw5sX",
+    "photoSore": ""
   },
   {
     "id": 549,
-    "timestamp": "4/2/2026 16:10:23",
-    "author": "Buyung Syafrianto",
-    "content": "Menyapu lantai aula besar",
-    "output": "Membersihkan",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1BUQ-7HRGLr7cYMgtGQ8pguaZmhGo38TX"
+    "timestamp": "5/7/2026 6:52:28",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor dekat hol mini",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1DunIbDOUOZY4SF7b6_uGfcqS21mM7XnN",
+    "photoPagi": "https://drive.google.com/open?id=1DunIbDOUOZY4SF7b6_uGfcqS21mM7XnN",
+    "photoSore": ""
   },
   {
     "id": 550,
-    "timestamp": "4/2/2026 16:23:24",
-    "author": "Fitriandi",
-    "content": "membersihkan samping asrama baru dan toilet",
-    "output": "bersih",
-    "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1QVq-us-NRYcht9m7XNDn1PcWMbXX4Oor"
+    "timestamp": "5/7/2026 6:53:59",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor dekat parkiran baru depan gedung baru",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1FKjJwPNtXwOrEsWSijrYZgl_CaR4Ck-f",
+    "photoPagi": "https://drive.google.com/open?id=1FKjJwPNtXwOrEsWSijrYZgl_CaR4Ck-f",
+    "photoSore": ""
   },
   {
     "id": 551,
-    "timestamp": "4/6/2026 15:27:25",
-    "author": "Fitriandi",
-    "content": "membersihkan dan pel ULT SERTA MENCABUT rumput di pekarangan",
-    "output": "bersih",
-    "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1zKW5MZWrVFxSkcWN4CZTnqyNpnpdUHCD"
+    "timestamp": "5/7/2026 6:55:53",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan lumerasi",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1gr1HbYtjX--TwbFUhLqtlPyCB2CXki1o",
+    "photoPagi": "https://drive.google.com/open?id=1gr1HbYtjX--TwbFUhLqtlPyCB2CXki1o",
+    "photoSore": ""
   },
   {
     "id": 552,
-    "timestamp": "4/6/2026 15:47:04",
-    "author": "Buyung Syafrianto",
-    "content": "Menyapu lantai aula mini BGTK Sumbar",
-    "output": "Membersihkan",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1bQl8MkfuH7w9cShx8LGVRVohgRbUWBzb"
+    "timestamp": "5/7/2026 7:09:48",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan dekat pos satpam depan gedung baru",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=19SwMdmlx6uHI22WvbksdUjFjyTMu6nwT",
+    "photoPagi": "https://drive.google.com/open?id=19SwMdmlx6uHI22WvbksdUjFjyTMu6nwT",
+    "photoSore": ""
   },
   {
     "id": 553,
-    "timestamp": "4/6/2026 15:47:53",
-    "author": "Usrialdi",
-    "content": "Memperbaiki pipa lepas jalur ke gedung utama",
-    "output": "Selesai",
+    "timestamp": "5/7/2026 7:20:52",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan mengepel lantai aula mini",
+    "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1BSDhzBJ-eo0X9Laqq_t_RNB8lPSfNDMw"
+    "photoUrl": "https://drive.google.com/open?id=1l73YrQ60EuCX3yBp-muN5yONux0PbifN",
+    "photoPagi": "https://drive.google.com/open?id=1l73YrQ60EuCX3yBp-muN5yONux0PbifN",
+    "photoSore": ""
   },
   {
     "id": 554,
-    "timestamp": "4/7/2026 14:23:56",
-    "author": "Usrialdi",
-    "content": "Memperbaiki kran air d gedung baru",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1CSgBzjDwb3rU5D1dpDlsWOZmvVBrsok6"
+    "timestamp": "5/7/2026 7:24:35",
+    "author": "Fitriandi",
+    "content": "mengepel ruangan pengaduan",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1imvnjDT8IwUncos1VDeWa1Louo0WdZom",
+    "photoPagi": "https://drive.google.com/open?id=1imvnjDT8IwUncos1VDeWa1Louo0WdZom",
+    "photoSore": ""
   },
   {
     "id": 555,
-    "timestamp": "4/7/2026 16:33:43",
-    "author": "Buyung Syafrianto",
-    "content": "Membersihkan lantai aula mini",
-    "output": "Bersih",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1tWwRSkH-5pXEXg1o6FilHuZi-dgVqKXJ"
+    "timestamp": "5/7/2026 7:25:41",
+    "author": "Fitriandi",
+    "content": "teras pengaduan dan ult",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1Em_FZwKy8pyxocib6THjXLPIsxRaxTvB",
+    "photoPagi": "https://drive.google.com/open?id=1Em_FZwKy8pyxocib6THjXLPIsxRaxTvB",
+    "photoSore": ""
   },
   {
     "id": 556,
-    "timestamp": "4/13/2026 14:39:21",
-    "author": "Rio Mailando Agustiano",
-    "content": "Tertatanya ruangan halaman aula utama",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1GijroTs56fDkRvk9IAEt3JP9ROu_Avn4"
+    "timestamp": "5/7/2026 7:26:46",
+    "author": "Fitriandi",
+    "content": "menyiram bunga",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1f-TxngkL-BkWbGtInmGnYxGYqSSyfk_L",
+    "photoPagi": "https://drive.google.com/open?id=1f-TxngkL-BkWbGtInmGnYxGYqSSyfk_L",
+    "photoSore": ""
   },
   {
     "id": 557,
-    "timestamp": "4/13/2026 15:57:07",
-    "author": "Fitriandi",
-    "content": "membersihkan teras ULT dan membersihkan toilet",
-    "output": "bersih",
-    "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1rWH-imywcdmt0LcJ6Tjbof6-Ras0bNzx"
+    "timestamp": "5/7/2026 7:28:34",
+    "author": "Mardianto",
+    "content": "Membersihkan teras arama",
+    "output": "Bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1bzbKpoNlphGN2gnHWN52cVizCktE1ycX",
+    "photoPagi": "https://drive.google.com/open?id=1bzbKpoNlphGN2gnHWN52cVizCktE1ycX",
+    "photoSore": ""
   },
   {
     "id": 558,
-    "timestamp": "4/13/2026 15:59:36",
+    "timestamp": "5/7/2026 7:29:35",
     "author": "Mardianto",
-    "content": "Kegiatan",
-    "output": "1",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1lwUxi12yOc7N5kpUgf-T8IC047AH9W_C"
+    "content": "Membersih kan depan teras",
+    "output": "Bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1nWbv3yTsDUP-7tnL6SEQRN0jqYZnrmkq",
+    "photoPagi": "https://drive.google.com/open?id=1nWbv3yTsDUP-7tnL6SEQRN0jqYZnrmkq",
+    "photoSore": ""
   },
   {
     "id": 559,
-    "timestamp": "4/13/2026 16:10:36",
-    "author": "Musrizaldi",
-    "content": "Membersihkan depan halaman numerasi",
-    "output": "Selesai",
-    "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=10NWWWy9EMvybuhlxM_5ARhhUM6txn_gN"
+    "timestamp": "5/7/2026 7:30:52",
+    "author": "Mardianto",
+    "content": "Membuah sampah samping asrama",
+    "output": "Bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1sjZga1JFy0-3HgFFXlJSugfRlVx2KOB3",
+    "photoPagi": "https://drive.google.com/open?id=1sjZga1JFy0-3HgFFXlJSugfRlVx2KOB3",
+    "photoSore": ""
   },
   {
     "id": 560,
-    "timestamp": "4/13/2026 16:12:44",
-    "author": "Usrialdi",
-    "content": "Memasang mesin sanio",
-    "output": "Terlaksana",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1K1rIeDH7CXygo52Qd_mZOT5l1fDL8lJu"
+    "timestamp": "5/7/2026 7:32:59",
+    "author": "Mardianto",
+    "content": "Membersihkan samping rumah dinas",
+    "output": "Bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1gGK8Iy9iZ4h8ugZDOwjwE_6GKFJLjUhP",
+    "photoPagi": "https://drive.google.com/open?id=1gGK8Iy9iZ4h8ugZDOwjwE_6GKFJLjUhP",
+    "photoSore": ""
   },
   {
     "id": 561,
-    "timestamp": "4/13/2026 18:06:54",
-    "author": "Buyung Syafrianto",
-    "content": "Membersihkan aula besar",
-    "output": "Menyapu aula",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1WEyODfggAg1c5wrWFSItxwHUsA1wCBIB"
+    "timestamp": "5/7/2026 8:02:28",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1YlSgN0jwRIHTNaZWt-y5RD5HTOOtYUAt",
+    "photoPagi": "https://drive.google.com/open?id=1YlSgN0jwRIHTNaZWt-y5RD5HTOOtYUAt",
+    "photoSore": ""
   },
   {
     "id": 562,
-    "timestamp": "4/14/2026 9:42:49",
-    "author": "Neli Aftariani",
-    "content": "Memberikan perkarsng kantor",
-    "output": "Bersih",
-    "hambatan": "Terlupa tanggal 9 maret sore",
-    "photoUrl": "https://drive.google.com/open?id=1yQhrq3J0jeqp8iD-fn0wLkGQEpOtcSTn"
+    "timestamp": "5/7/2026 8:03:49",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT dan parkir Kepala",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1EQTzcTMb5quTkwvHW0RrPxmt7fjY7qFJ",
+    "photoPagi": "https://drive.google.com/open?id=1EQTzcTMb5quTkwvHW0RrPxmt7fjY7qFJ",
+    "photoSore": ""
   },
   {
     "id": 563,
-    "timestamp": "4/14/2026 10:03:56",
-    "author": "",
-    "content": "Menata seluruh ruang aula utama dan membersihkan",
+    "timestamp": "5/7/2026 8:05:06",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman depan numerasi",
     "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1OEWNLulKVt1qHIHwBHwVoOAPwVB8dJ-r"
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=18MPV2XX6xAHOg-GX4lKdnvR0ocEu8f5h",
+    "photoPagi": "https://drive.google.com/open?id=18MPV2XX6xAHOg-GX4lKdnvR0ocEu8f5h",
+    "photoSore": ""
   },
   {
     "id": 564,
-    "timestamp": "4/14/2026 10:06:07",
-    "author": "Rio Mailando Agustiano",
-    "content": "Membersihkan halaman aula utama",
+    "timestamp": "5/7/2026 8:08:18",
+    "author": "Musrizaldi",
+    "content": "Menyapu teras sebelah parkir kepala",
     "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1xLG_uUa4hLdzkyu5Ajqc_cpIqSkmHyno"
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1jf-BRPm2VjaoUO_Ctz3lbwDeMYXKPC3q",
+    "photoPagi": "https://drive.google.com/open?id=1jf-BRPm2VjaoUO_Ctz3lbwDeMYXKPC3q",
+    "photoSore": ""
   },
   {
     "id": 565,
-    "timestamp": "4/14/2026 10:07:47",
-    "author": "Rio Mailando Agustiano",
-    "content": "Membersihkan mushalla",
+    "timestamp": "5/7/2026 10:05:58",
+    "author": "Musrizaldi",
+    "content": "Membersihkan lumut dan rumput diselokan sebelah ULT",
     "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=16nhLOi3yZYQhNxrIg2tt39qoTteSbP3U"
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1FKLQ-RZwfELV_PsTDul3c60U49Dcd2VV",
+    "photoPagi": "https://drive.google.com/open?id=1FKLQ-RZwfELV_PsTDul3c60U49Dcd2VV",
+    "photoSore": ""
   },
   {
     "id": 566,
-    "timestamp": "4/14/2026 10:10:02",
-    "author": "Rio Mailando Agustiano",
-    "content": "Memebersihkan lingjungan kantor",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=17snGaVEwyK1VeSKM5BV1AUiuchBStuiM"
+    "timestamp": "5/7/2026 13:02:27",
+    "author": "Mardianto",
+    "content": "Mengarahkan tamu ke ULT",
+    "output": "aman",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1r8blJ4TeO7iBKInQ_S7RCPDrfMKCfDpC",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1r8blJ4TeO7iBKInQ_S7RCPDrfMKCfDpC"
   },
   {
     "id": 567,
-    "timestamp": "4/14/2026 11:30:10",
-    "author": "Neli Aftariani",
-    "content": "Mencabut rumput di dekat taman lumerasi",
-    "output": "Bersih",
-    "hambatan": "Lupa tanggal 10 April 202 sore",
-    "photoUrl": "https://drive.google.com/open?id=1SqBwIchzxwpGE8ULCkMFtcUUupL0UT25"
+    "timestamp": "5/7/2026 14:24:32",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan area kantor",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1e55kV4YQobgSppRAZ8KGjkHDQs7CPCya",
+    "photoPagi": "https://drive.google.com/open?id=1e55kV4YQobgSppRAZ8KGjkHDQs7CPCya",
+    "photoSore": ""
   },
   {
     "id": 568,
-    "timestamp": "4/14/2026 15:13:24",
+    "timestamp": "5/7/2026 14:27:50",
     "author": "Fitriandi",
-    "content": "fitriandi",
-    "output": "membersihkan ruangan teras pengaduan",
+    "content": "pekarangan aula besar",
+    "output": "bersih",
     "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=13irV9oSrJZZ25N7M2S3Tfxc9AsL26eFa"
+    "photoUrl": "https://drive.google.com/open?id=1FQGxtCMMxQDV7oAGYUmB4wQfrFsHI7UC",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1FQGxtCMMxQDV7oAGYUmB4wQfrFsHI7UC"
   },
   {
     "id": 569,
-    "timestamp": "4/14/2026 15:27:25",
-    "author": "Usrialdi",
-    "content": "Membersihkan aula mini dan mengecek meteran listri yg mati",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1X8fAGC42Wmgo1mkNxD1bEKh885WSwi3d"
+    "timestamp": "5/7/2026 14:30:14",
+    "author": "Fitriandi",
+    "content": "toilet kantor pria",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1qdP243wslqUpwojJz8QLWAtS0beM6D88",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1qdP243wslqUpwojJz8QLWAtS0beM6D88"
   },
   {
     "id": 570,
-    "timestamp": "4/14/2026 15:42:37",
-    "author": "Neli Aftariani",
-    "content": "Menyapu perkarangan kantor",
-    "output": "Bersih",
-    "hambatan": "",
-    "photoUrl": "https://drive.google.com/open?id=14rwTYxCREj1xr77RfJoq9Y3Rc65d1R5U"
+    "timestamp": "5/7/2026 14:31:44",
+    "author": "Fitriandi",
+    "content": "aula besar",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1XBR05mhOWnTUX7wCQu6z4qH2IUBOLkL1",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1XBR05mhOWnTUX7wCQu6z4qH2IUBOLkL1"
   },
   {
     "id": 571,
-    "timestamp": "4/14/2026 15:57:19",
-    "author": "Buyung Syafrianto",
-    "content": "Menyapu area parkir mobil dinas",
-    "output": "Membersihkan",
+    "timestamp": "5/7/2026 15:53:40",
+    "author": "Usrialdi",
+    "content": "Membersihkan mushola luar dalam..dan servis closet ruangan BNN",
+    "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1ZoL9l_nCfV-LZ4cXIRZ52ZzvIjPAWtGs"
+    "photoUrl": "https://drive.google.com/open?id=1FREQlL_-fQiQ5xh5Ni1XTePgUz-gtyfy",
+    "photoPagi": "https://drive.google.com/open?id=1FREQlL_-fQiQ5xh5Ni1XTePgUz-gtyfy",
+    "photoSore": "https://drive.google.com/open?id=1J9lcnAoFuRPWA__YDBd-Xj8VjOk0X5B0"
   },
   {
     "id": 572,
-    "timestamp": "4/15/2026 10:58:25",
-    "author": "Rio Mailando Agustiano",
-    "content": "Membersihkan halaman aula utama",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1eObD92vy-H0IoJ_JGSw_QvCksvvDlsQx"
+    "timestamp": "5/7/2026 16:04:02",
+    "author": "Buyung Syafrianto",
+    "content": "",
+    "output": "Membersihkan",
+    "hambatan": "Bersih",
+    "photoUrl": "https://drive.google.com/open?id=1Knt2nnGJ8GlWigYY9aAi8LfUFqCUYbN0",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1Knt2nnGJ8GlWigYY9aAi8LfUFqCUYbN0"
   },
   {
     "id": 573,
-    "timestamp": "4/15/2026 11:00:24",
-    "author": "Rio Mailando Agustiano",
-    "content": "Memeberaihkan halaman auala utama",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=10oPqyp7KqHy8o0l0q__pCvYg676fQC0Y"
-  },
-  {
-    "id": 574,
-    "timestamp": "4/15/2026 11:02:15",
-    "author": "Rio Mailando Agustiano",
-    "content": "Membersihkan aula utama",
-    "output": "-",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1Z1nK_dO9wxTEmsQarV80bshilgB_r2MG"
-  },
-  {
-    "id": 575,
-    "timestamp": "4/15/2026 14:54:55",
-    "author": "Musrizaldi",
-    "content": "Membersihkan rak penitipan barang",
-    "output": "Selesai",
-    "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1NeDvDe6w4PbCqWjiclWKCy9ctTgZzsjx"
-  },
-  {
-    "id": 576,
-    "timestamp": "4/15/2026 15:56:06",
-    "author": "Usrialdi",
-    "content": "Membersihkan  teras aula mini",
-    "output": "Terselesaikan",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=19ECelBOp1UU6bFZng7fVYtnIVUayypV3"
-  },
-  {
-    "id": 577,
-    "timestamp": "4/15/2026 16:14:45",
-    "author": "Fitriandi",
-    "content": "menyapu teras ULT",
-    "output": "bersih",
-    "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=18BrWKHbNVR3yTox5hka4tXlSCGCHN9Ey"
-  },
-  {
-    "id": 578,
-    "timestamp": "4/15/2026 17:16:49",
-    "author": "Neli Aftariani",
-    "content": "Menyapu perkarangan kantor",
-    "output": "Bersih",
-    "hambatan": "Tidak",
-    "photoUrl": "https://drive.google.com/open?id=1qBLJYHqgt7OqqiK0KRCc2z9K9IpMHdq7"
-  },
-  {
-    "id": 579,
-    "timestamp": "4/15/2026 17:25:18",
-    "author": "Ade inputra",
-    "content": "mendampingi  tamu biro keuangan",
-    "output": "terlaksananya pekerjaan",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1f41jnd5A8jrERd1ChTvLDn0nED55-aAf"
-  },
-  {
-    "id": 580,
-    "timestamp": "4/15/2026 17:36:43",
-    "author": "Buyung Syafrianto",
-    "content": "Menyapu lantai belakang aula besar BGTK Sumbar",
-    "output": "Membersihkan",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1HWtupNPcIpHK5G8g_y2CeetEkey8OxHK"
-  },
-  {
-    "id": 581,
-    "timestamp": "4/16/2026 9:10:03",
-    "author": "Rio Mailando Agustiano",
-    "content": "Membersihkan depan halaman aula utama",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1vNWm5ab4yfE0U1LYOLTzl2nHDhmbgzDO"
-  },
-  {
-    "id": 582,
-    "timestamp": "4/16/2026 13:35:10",
-    "author": "Fitriandi",
-    "content": "Sanyo di gedung perpustakaan",
-    "output": "pengecekan",
-    "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1vn4CVoQUrBhW19HkQjZyCDI5GNFtLuAI"
-  },
-  {
-    "id": 583,
-    "timestamp": "4/16/2026 13:36:19",
-    "author": "Mardianto",
-    "content": "sanio",
-    "output": "pengecekan sanio di asrama",
-    "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1FqaOpp3TFcSvzGHikLSA-ykgO60lKrP-"
-  },
-  {
-    "id": 584,
-    "timestamp": "4/16/2026 14:01:23",
-    "author": "Mardianto",
-    "content": "pemindahan barang milik negara dan pemasangan meja",
-    "output": "tgl sebelumnya",
-    "hambatan": "selesai",
-    "photoUrl": "https://drive.google.com/open?id=1J0wh0O32x4e_qtsHwy6Q94NdXsmLGw7b"
-  },
-  {
-    "id": 585,
-    "timestamp": "4/16/2026 14:02:40",
-    "author": "Mardianto",
-    "content": "pemasangan meja baru",
-    "output": "tanggal sebelumnya",
-    "hambatan": "selesai",
-    "photoUrl": "https://drive.google.com/open?id=1OCl9hvnfqIM1sRdm-01_wjxy5QB1ZToy"
-  },
-  {
-    "id": 586,
-    "timestamp": "4/16/2026 14:03:53",
-    "author": "Mardianto",
-    "content": "pemasangan meja untuk pegawai",
-    "output": "tanggal sebelumnya",
-    "hambatan": "selesai",
-    "photoUrl": "https://drive.google.com/open?id=170GJ8HFjMTqf8k7Vv1DNCRwg2GrC__zY"
-  },
-  {
-    "id": 587,
-    "timestamp": "4/16/2026 14:05:50",
-    "author": "Mardianto",
-    "content": "merundap rumput samping aula utama",
-    "output": "tanggal sebelumnya",
-    "hambatan": "selesai",
-    "photoUrl": "https://drive.google.com/open?id=1nQMxgshnfAPHoeosRpIgVtB97YAYeHhx"
-  },
-  {
-    "id": 588,
-    "timestamp": "4/16/2026 14:14:31",
-    "author": "Fitriandi",
-    "content": "merundap samping aula besar",
-    "output": "bersih dan selesai",
-    "hambatan": "tanggal sebelumnya",
-    "photoUrl": "https://drive.google.com/open?id=1a1QzBCAL4W3T014VeGWbO9wO_TwwoXnn"
-  },
-  {
-    "id": 589,
-    "timestamp": "4/16/2026 14:20:54",
-    "author": "Salaudin",
-    "content": "Merondap rumput",
-    "output": "Aman",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1sy8Ues2OnU97EuBzRMtWroY81yfGEpTa"
-  },
-  {
-    "id": 590,
-    "timestamp": "4/16/2026 15:39:31",
-    "author": "Buyung Syafrianto",
-    "content": "Membersihkan/menyapu area tempat parkir mobil dinas BGTK Sumbar",
-    "output": "Dibersihkan",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1jpBSdqWPlkFOKIrkQoz9qrekfQdtO88c"
-  },
-  {
-    "id": 591,
-    "timestamp": "4/16/2026 16:12:22",
-    "author": "Musrizaldi",
-    "content": "Menyapu teras sekitar ULT dan Pustaka",
-    "output": "Selesai",
-    "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1QC7AFh7VE6-S2QCoFkWXNOUwgzabeMNh"
-  },
-  {
-    "id": 592,
-    "timestamp": "4/16/2026 16:19:37",
-    "author": "Usrialdi",
-    "content": "Membersihkan aula mini..dan memperbaiki kran air yang rusak",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1-S366fRFNMEARMD81JfR_NUC-3q8HTFI"
-  },
-  {
-    "id": 593,
-    "timestamp": "4/16/2026 17:01:43",
-    "author": "Neli Aftariani",
-    "content": "Menyapu perkarangan kantor",
-    "output": "Bersih",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1nEj4f_XXAgf1cxK-YZ7WEqpaZ9260I6E"
-  },
-  {
-    "id": 594,
-    "timestamp": "4/17/2026 20:44:00",
-    "author": "Ade inputra",
-    "content": "verval dan bersihkan ruang belajar Wi",
-    "output": "terlaksananya pekerjaan",
-    "hambatan": "tgl 16 april 2024",
-    "photoUrl": "https://drive.google.com/open?id=11Uvx19Jxq_TDC4UG3-uCHhiOpT-JXz7v"
-  },
-  {
-    "id": 595,
-    "timestamp": "4/20/2026 14:58:33",
-    "author": "Mardianto",
-    "content": "Membersihkan depan asrama",
-    "output": "Bersih",
-    "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1Ilg2SFmsmIlDP3MaFbfwMBeWoEmUwuWT"
-  },
-  {
-    "id": 596,
-    "timestamp": "4/20/2026 14:59:49",
-    "author": "Mardianto",
-    "content": "Halaman belakang asrama",
-    "output": "Bersih",
-    "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1fSWRX11fR5I7qTYWjZySDiReOtj44eyX"
-  },
-  {
-    "id": 597,
-    "timestamp": "4/20/2026 15:00:52",
-    "author": "",
-    "content": "Halaman samping asrama",
-    "output": "Bersih",
-    "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1M3fQzSj-26j1juZRltMKxHddf2ZBTwIL"
-  },
-  {
-    "id": 598,
-    "timestamp": "4/20/2026 15:01:20",
-    "author": "Rio Mailando Agustiano",
-    "content": "Membersihkan samping ruang aula utama",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1Q3uTcAikxGH39I3JGASmfYfLMeoQMAzn"
-  },
-  {
-    "id": 599,
-    "timestamp": "4/20/2026 15:03:55",
-    "author": "Mardianto",
-    "content": "Halaman samping asrama putra",
-    "output": "Bersih",
-    "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1jxmcB6EngKuKrTpJ7PTm-yhfjciQdzO3"
-  },
-  {
-    "id": 600,
-    "timestamp": "4/20/2026 15:19:23",
-    "author": "Fitriandi",
-    "content": "lantai kantor utama",
-    "output": "bersih",
-    "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1W-ZUHuEuuxeHmSZcQAYMW7qaiSU0sS3P"
-  },
-  {
-    "id": 601,
-    "timestamp": "4/20/2026 15:25:02",
-    "author": "Fitriandi",
-    "content": "pekarangan ruangan pengaduan dan numerisasi",
-    "output": "bersih",
-    "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1dykvwbrCdmtKz0ub4ms46sIQybpv5m7C"
-  },
-  {
-    "id": 602,
-    "timestamp": "4/20/2026 16:06:22",
-    "author": "Musrizaldi",
-    "content": "Menyapu teras area ULT dan pustaka",
-    "output": "Selesai",
-    "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1Kix8PtGVD7rt-rGJHaa7QO7GRMnOC_UW"
-  },
-  {
-    "id": 603,
-    "timestamp": "4/20/2026 16:17:56",
-    "author": "Buyung Syafrianto",
-    "content": "Membersihkan area aula mini",
-    "output": "Menyapu",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=185V4ZR1JBRARkmOFz0xOPlFIeP6PAF2u"
-  },
-  {
-    "id": 604,
-    "timestamp": "4/20/2026 16:31:20",
-    "author": "Salaudin",
-    "content": "Memotong rumput",
-    "output": "Aman",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1fgx7yUzSr3jMlBhBpp9BuVXt8z-sdwGy"
-  },
-  {
-    "id": 605,
-    "timestamp": "4/20/2026 17:34:25",
-    "author": "Ade inputra",
-    "content": "membersihkan teras arsip dan tambal ban mobil kantor",
-    "output": "terselesaikannya pekerjaan",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1CrjBbeo69ZXjvUiJ8ZBsfyvzHfywmO3z"
-  },
-  {
-    "id": 606,
-    "timestamp": "4/21/2026 15:33:16",
-    "author": "Fitriandi",
-    "content": "mengepel ruangan tamu asrama",
-    "output": "bersih",
-    "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1kunJCFjwrf086ykmINLvwC3Zfnf69zFE"
-  },
-  {
-    "id": 607,
-    "timestamp": "4/21/2026 15:35:47",
-    "author": "Fitriandi",
-    "content": "membersihkan ruangan BMN",
-    "output": "bersih",
-    "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=14qsxY7OAno9PCnuRajuo3W8fKdTyvd0J"
-  },
-  {
-    "id": 608,
-    "timestamp": "4/21/2026 15:36:42",
-    "author": "Mardianto",
-    "content": "teras asrama baru di pel",
-    "output": "bersih",
-    "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=19llDEdpbRi9uRI5qqhXDJS-lVMZsuMZb"
-  },
-  {
-    "id": 609,
-    "timestamp": "4/21/2026 15:39:59",
-    "author": "Fitriandi",
-    "content": "bersihkan ruangan ventry",
-    "output": "bersih",
-    "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1uytWLbzWE8u7A3Ioerym92fyrWvULABF"
-  },
-  {
-    "id": 610,
-    "timestamp": "4/21/2026 15:42:09",
-    "author": "Ade inputra",
-    "content": "dokumentasi acara di aula mini dan bantuan baju sekolah",
-    "output": "terlaksana pekerjaan",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1fGsIP386fOdNld5VZKz4dFMowCfMpxOH"
-  },
-  {
-    "id": 611,
-    "timestamp": "4/21/2026 16:03:36",
-    "author": "Buyung Syafrianto",
-    "content": "Stambay di repsionis kantor BGTK Sumbar",
-    "output": "Jaga kantor utama",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1WJuRorRtyuHqDGUiYgy_xkS8bjx8tbPH"
-  },
-  {
-    "id": 612,
-    "timestamp": "4/21/2026 16:05:11",
-    "author": "Rio Mailando Agustiano",
-    "content": "Mengerjakan membersihkan halaman ult",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1upNMf48kJltAMf1Qx3klZKXFWPaB6w39"
-  },
-  {
-    "id": 613,
-    "timestamp": "4/21/2026 17:21:18",
+    "timestamp": "5/7/2026 16:13:59",
     "author": "Salaudin",
     "content": "Memberikan area kantor",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1c9YtvK8y23hEuvAAxTqSjXjfkyOMyWBs"
+    "photoUrl": "https://drive.google.com/open?id=1n1wsjf97kanh8WleqnpZXDnadWn0Y5Ya",
+    "photoPagi": "https://drive.google.com/open?id=1n1wsjf97kanh8WleqnpZXDnadWn0Y5Ya",
+    "photoSore": ""
+  },
+  {
+    "id": 574,
+    "timestamp": "5/7/2026 18:13:20",
+    "author": "Ade inputra",
+    "content": "membersihkan ruang arsip dan lap kaca jendela",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1SPdUxm3gM70opX6rDRACaMQ4andphKBz",
+    "photoPagi": "https://drive.google.com/open?id=1SPdUxm3gM70opX6rDRACaMQ4andphKBz",
+    "photoSore": "https://drive.google.com/open?id=1PQIRxFY5N49V6q55OzopihlndS0fgKpT"
+  },
+  {
+    "id": 575,
+    "timestamp": "5/8/2026 18:13:22",
+    "author": "Ade inputra",
+    "content": "dokumentasi area kantor pelaporan BMN",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1w4wURMEHUoBtOXvl7SQjBOtm2Ahp5RlF",
+    "photoPagi": "https://drive.google.com/open?id=1w4wURMEHUoBtOXvl7SQjBOtm2Ahp5RlF",
+    "photoSore": "https://drive.google.com/open?id=1NDob-CpNAaTqf62-8YwB_WgwcgPPxxgk"
+  },
+  {
+    "id": 576,
+    "timestamp": "5/11/2026 8:05:14",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan mengepel lantai aula mini BGTK Provinsi Sumbar",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1YSEM2dWlmNOk1M46wZ6akwdhKjn8mBOH",
+    "photoPagi": "https://drive.google.com/open?id=1YSEM2dWlmNOk1M46wZ6akwdhKjn8mBOH",
+    "photoSore": ""
+  },
+  {
+    "id": 577,
+    "timestamp": "5/11/2026 8:38:35",
+    "author": "Fitriandi",
+    "content": "menyiram bunga",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1vFc4y2pJVSsO0uXFDcowc1eKhxz4reIJ",
+    "photoPagi": "https://drive.google.com/open?id=1vFc4y2pJVSsO0uXFDcowc1eKhxz4reIJ",
+    "photoSore": ""
+  },
+  {
+    "id": 578,
+    "timestamp": "5/11/2026 8:39:32",
+    "author": "Fitriandi",
+    "content": "teras ult dan pustaka",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1PCOjQkbyCuHyE32KHZsGZL_SVQ6k9WgC",
+    "photoPagi": "https://drive.google.com/open?id=1PCOjQkbyCuHyE32KHZsGZL_SVQ6k9WgC",
+    "photoSore": ""
+  },
+  {
+    "id": 579,
+    "timestamp": "5/11/2026 8:40:21",
+    "author": "Fitriandi",
+    "content": "teras pengaduan",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1AFQsELbc4DcX0r0i0Klwm3HWajRxhFZc",
+    "photoPagi": "https://drive.google.com/open?id=1AFQsELbc4DcX0r0i0Klwm3HWajRxhFZc",
+    "photoSore": ""
+  },
+  {
+    "id": 580,
+    "timestamp": "5/11/2026 10:02:58",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1EdfftUBEkMtYn5Z74_DDsAymy7MHIERa",
+    "photoPagi": "https://drive.google.com/open?id=1EdfftUBEkMtYn5Z74_DDsAymy7MHIERa",
+    "photoSore": ""
+  },
+  {
+    "id": 581,
+    "timestamp": "5/11/2026 10:03:58",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1IUw02hW8w6iooLszjUkysn3U5P3frDE_",
+    "photoPagi": "https://drive.google.com/open?id=1IUw02hW8w6iooLszjUkysn3U5P3frDE_",
+    "photoSore": ""
+  },
+  {
+    "id": 582,
+    "timestamp": "5/11/2026 10:04:49",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1z3saQ7vcZGUSrbZG6t4qOqPeLA-SvkM9",
+    "photoPagi": "https://drive.google.com/open?id=1z3saQ7vcZGUSrbZG6t4qOqPeLA-SvkM9",
+    "photoSore": ""
+  },
+  {
+    "id": 583,
+    "timestamp": "5/11/2026 10:06:12",
+    "author": "Musrizaldi",
+    "content": "Mencek pompa sanio mati",
+    "output": "Sudah kembali hidup",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1oAsZme-sugoicqg4JACPhMa336rL4Ypz",
+    "photoPagi": "https://drive.google.com/open?id=1oAsZme-sugoicqg4JACPhMa336rL4Ypz",
+    "photoSore": ""
+  },
+  {
+    "id": 584,
+    "timestamp": "5/11/2026 10:07:15",
+    "author": "Musrizaldi",
+    "content": "Mencabut rumput depan ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=19vwKbRQm97MIarTXobTrSeHxOofRZd1w",
+    "photoPagi": "https://drive.google.com/open?id=19vwKbRQm97MIarTXobTrSeHxOofRZd1w",
+    "photoSore": ""
+  },
+  {
+    "id": 585,
+    "timestamp": "5/11/2026 10:08:17",
+    "author": "Rio Mailando Agustiano",
+    "content": "Mempersiapkan perlengkapan sound system untuk apel",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1WUN3s9kLuGjhcmHt1e3tKQTkpOL4kvyR",
+    "photoPagi": "https://drive.google.com/open?id=1WUN3s9kLuGjhcmHt1e3tKQTkpOL4kvyR",
+    "photoSore": ""
+  },
+  {
+    "id": 586,
+    "timestamp": "5/11/2026 15:40:53",
+    "author": "Usrialdi",
+    "content": "Membersihkan mushola",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1cNJjqKrbqEbMpnu_jIavThpwxdb-z2i9",
+    "photoPagi": "https://drive.google.com/open?id=1cNJjqKrbqEbMpnu_jIavThpwxdb-z2i9",
+    "photoSore": "https://drive.google.com/open?id=1zEXmCv9TOnaWtvzJf7WiezzG49yL_k0a"
+  },
+  {
+    "id": 587,
+    "timestamp": "5/11/2026 16:02:35",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1NQ_u2-ZEVfVfEyia77y514kDcuAxokRU",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1NQ_u2-ZEVfVfEyia77y514kDcuAxokRU"
+  },
+  {
+    "id": 588,
+    "timestamp": "5/11/2026 16:14:23",
+    "author": "Salaudin",
+    "content": "Memberikan area",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1ixz5A6XqqnB3ntBPt2aGh6nhDHI2QHDI",
+    "photoPagi": "https://drive.google.com/open?id=1ixz5A6XqqnB3ntBPt2aGh6nhDHI2QHDI",
+    "photoSore": ""
+  },
+  {
+    "id": 589,
+    "timestamp": "5/12/2026 7:30:43",
+    "author": "Fitriandi",
+    "content": "taman rumah dinas",
+    "output": "bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1zqdJtyUrHc5AteEd5HVJ2xq2Jwh5b8if",
+    "photoPagi": "https://drive.google.com/open?id=1zqdJtyUrHc5AteEd5HVJ2xq2Jwh5b8if",
+    "photoSore": ""
+  },
+  {
+    "id": 590,
+    "timestamp": "5/12/2026 7:33:17",
+    "author": "Fitriandi",
+    "content": "taman pengaduan",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1CMxI-ZoktzKVNEd29tVatCGoUQ3eS-4i",
+    "photoPagi": "https://drive.google.com/open?id=1CMxI-ZoktzKVNEd29tVatCGoUQ3eS-4i",
+    "photoSore": ""
+  },
+  {
+    "id": 591,
+    "timestamp": "5/12/2026 7:40:33",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu, mengepel, membersihkan kaca aula mini BGTK Sumbar",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1zO2XFm-AL2QQtG-QzS6qiGqbW-FADToQ",
+    "photoPagi": "https://drive.google.com/open?id=1zO2XFm-AL2QQtG-QzS6qiGqbW-FADToQ",
+    "photoSore": ""
+  },
+  {
+    "id": 592,
+    "timestamp": "5/12/2026 7:44:38",
+    "author": "Fitriandi",
+    "content": "taman numerasi",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1VuAMQT7dbcNgfGHbJfh4_FHMrpm_jqUB",
+    "photoPagi": "https://drive.google.com/open?id=1VuAMQT7dbcNgfGHbJfh4_FHMrpm_jqUB",
+    "photoSore": ""
+  },
+  {
+    "id": 593,
+    "timestamp": "5/12/2026 7:59:43",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1SpP1BhZS8D4bEaqYdY7GNTgG_A5PS0Ij",
+    "photoPagi": "https://drive.google.com/open?id=1SpP1BhZS8D4bEaqYdY7GNTgG_A5PS0Ij",
+    "photoSore": ""
+  },
+  {
+    "id": 594,
+    "timestamp": "5/12/2026 8:00:43",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1TG0i1EVy6a6QzO-Qe6MphlYCySjqVDoZ",
+    "photoPagi": "https://drive.google.com/open?id=1TG0i1EVy6a6QzO-Qe6MphlYCySjqVDoZ",
+    "photoSore": ""
+  },
+  {
+    "id": 595,
+    "timestamp": "5/12/2026 8:01:44",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1k8585Hg1j2DOsZXLooOdUY0-7G5lGwx1",
+    "photoPagi": "https://drive.google.com/open?id=1k8585Hg1j2DOsZXLooOdUY0-7G5lGwx1",
+    "photoSore": ""
+  },
+  {
+    "id": 596,
+    "timestamp": "5/12/2026 8:14:52",
+    "author": "Rio Mailando Agustiano",
+    "content": "Mwnyapu dan ma pel ruang aula utama",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1lDom6xFg1Cx4MJx78ALohbv6-JxfXRES",
+    "photoPagi": "https://drive.google.com/open?id=1lDom6xFg1Cx4MJx78ALohbv6-JxfXRES",
+    "photoSore": "https://drive.google.com/open?id=1Oqw_BXMwQ2cUcgRU4L5l2mErT5aJqiXc"
+  },
+  {
+    "id": 597,
+    "timestamp": "5/12/2026 8:47:50",
+    "author": "Ade inputra",
+    "content": "sapu teras arsip dan piket receptionist",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tgl 11 mei 2026",
+    "photoUrl": "https://drive.google.com/open?id=1-mi7OzpJ40v6GTf1-KifBIEJHdFQPG5O",
+    "photoPagi": "https://drive.google.com/open?id=1-mi7OzpJ40v6GTf1-KifBIEJHdFQPG5O",
+    "photoSore": "https://drive.google.com/open?id=1yQ5BjkDZaQxJYKds2HkxVepVPaHsCpwJ"
+  },
+  {
+    "id": 598,
+    "timestamp": "5/12/2026 10:55:21",
+    "author": "Mardianto",
+    "content": "Memperbaiki mobil dinas",
+    "output": "aman",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1znyMXfXKDBWiQfxMMv-VxLVXm54ws95_",
+    "photoPagi": "https://drive.google.com/open?id=1znyMXfXKDBWiQfxMMv-VxLVXm54ws95_",
+    "photoSore": ""
+  },
+  {
+    "id": 599,
+    "timestamp": "5/12/2026 10:57:54",
+    "author": "Mardianto",
+    "content": "Memperbaiki mobil dinas",
+    "output": "aman",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1JA1zufUemyrV8MTWfHoxaLhecmsk3mH8",
+    "photoPagi": "https://drive.google.com/open?id=1JA1zufUemyrV8MTWfHoxaLhecmsk3mH8",
+    "photoSore": ""
+  },
+  {
+    "id": 600,
+    "timestamp": "5/12/2026 11:18:26",
+    "author": "Salaudin",
+    "content": "Memberikan area",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1QPWG9upAesZYtBRZhN6b2ZkolqAMWu1n",
+    "photoPagi": "https://drive.google.com/open?id=1QPWG9upAesZYtBRZhN6b2ZkolqAMWu1n",
+    "photoSore": ""
+  },
+  {
+    "id": 601,
+    "timestamp": "5/12/2026 13:15:10",
+    "author": "Fitriandi",
+    "content": "samping rumah dinas",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=19l5bkcmnGUUwIJOhjyY2TbjoSPo0XqcT",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=19l5bkcmnGUUwIJOhjyY2TbjoSPo0XqcT"
+  },
+  {
+    "id": 602,
+    "timestamp": "5/12/2026 13:15:57",
+    "author": "Fitriandi",
+    "content": "area smoking",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1BzzjkGU2ORwMoAt3otcNptXKAv9yhdyt",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1BzzjkGU2ORwMoAt3otcNptXKAv9yhdyt"
+  },
+  {
+    "id": 603,
+    "timestamp": "5/12/2026 15:37:06",
+    "author": "Usrialdi",
+    "content": "Memasang listrik di belakang ruangan arsip..dan membersihkan mushola",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1u5BWAiEjwlBP4Yex1ETzKVgIJs-pgJka",
+    "photoPagi": "https://drive.google.com/open?id=1u5BWAiEjwlBP4Yex1ETzKVgIJs-pgJka",
+    "photoSore": "https://drive.google.com/open?id=1YqcZbvI13_fCkVqGMxVIVU8iHmOEAAuI"
+  },
+  {
+    "id": 604,
+    "timestamp": "5/12/2026 16:18:13",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan dalam ruang aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1pPKQ-iV3SFkpcQ94-dc_wszvmZsKYZFF",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1pPKQ-iV3SFkpcQ94-dc_wszvmZsKYZFF"
+  },
+  {
+    "id": 605,
+    "timestamp": "5/12/2026 17:10:37",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1gshi_SG7bJAzktW-TQwdphAnypSrJWDb",
+    "photoPagi": "https://drive.google.com/open?id=1gshi_SG7bJAzktW-TQwdphAnypSrJWDb",
+    "photoSore": ""
+  },
+  {
+    "id": 606,
+    "timestamp": "5/12/2026 17:14:25",
+    "author": "Neli Aftariani",
+    "content": "Membuang sampah",
+    "output": "Aman",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1u4aTGIF8_dJ4Q2egv1Kk70nBQ-vxxS_2",
+    "photoPagi": "https://drive.google.com/open?id=1u4aTGIF8_dJ4Q2egv1Kk70nBQ-vxxS_2",
+    "photoSore": ""
+  },
+  {
+    "id": 607,
+    "timestamp": "5/12/2026 17:16:19",
+    "author": "Neli Aftariani",
+    "content": "Menyapu potongan bunga' di taman hol besar",
+    "output": "Bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1zzBitQagN60qaxwkZqb1sO_L8PQafqHU",
+    "photoPagi": "https://drive.google.com/open?id=1zzBitQagN60qaxwkZqb1sO_L8PQafqHU",
+    "photoSore": ""
+  },
+  {
+    "id": 608,
+    "timestamp": "5/12/2026 17:17:38",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan pos satpam depan gedung baru",
+    "output": "Bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1iDS3_12SRPav4MNrfrq2KpDRaGrHvgGT",
+    "photoPagi": "https://drive.google.com/open?id=1iDS3_12SRPav4MNrfrq2KpDRaGrHvgGT",
+    "photoSore": ""
+  },
+  {
+    "id": 609,
+    "timestamp": "5/12/2026 18:04:38",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Hari Senin tanggal  11 mai",
+    "photoUrl": "https://drive.google.com/open?id=1U-biscNF-GqZMCIJfF92sqVDnOEcgBDm",
+    "photoPagi": "https://drive.google.com/open?id=1U-biscNF-GqZMCIJfF92sqVDnOEcgBDm",
+    "photoSore": ""
+  },
+  {
+    "id": 610,
+    "timestamp": "5/12/2026 18:07:02",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor depan gedung baru",
+    "output": "Bersih",
+    "hambatan": "Hari Senin tanggal  11 mai",
+    "photoUrl": "https://drive.google.com/open?id=1CCc4D1JypxKytXTQYQN-RfrrZ0HxCHbU",
+    "photoPagi": "https://drive.google.com/open?id=1CCc4D1JypxKytXTQYQN-RfrrZ0HxCHbU",
+    "photoSore": ""
+  },
+  {
+    "id": 611,
+    "timestamp": "5/13/2026 7:20:23",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dalam ruang aula mini dan luar aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=13oejwHmne1fAPpGeeeQETcTiuQM-4yAy",
+    "photoPagi": "https://drive.google.com/open?id=13oejwHmne1fAPpGeeeQETcTiuQM-4yAy",
+    "photoSore": ""
+  },
+  {
+    "id": 612,
+    "timestamp": "5/13/2026 7:27:01",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan area luar aula mini",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1sKZnwUu5Qc4MRV1DSI-nagh-u3fDy5d-",
+    "photoPagi": "https://drive.google.com/open?id=1sKZnwUu5Qc4MRV1DSI-nagh-u3fDy5d-",
+    "photoSore": ""
+  },
+  {
+    "id": 613,
+    "timestamp": "5/13/2026 7:27:44",
+    "author": "Mardianto",
+    "content": "Membersih kan depan teras R. arsip",
+    "output": "aman",
+    "hambatan": "Bersih",
+    "photoUrl": "https://drive.google.com/open?id=1XNEAx_0B7YL_WvHf76MViEP_1AuH6Q4C",
+    "photoPagi": "https://drive.google.com/open?id=1XNEAx_0B7YL_WvHf76MViEP_1AuH6Q4C",
+    "photoSore": ""
   },
   {
     "id": 614,
-    "timestamp": "4/22/2026 13:21:17",
-    "author": "Ade inputra",
-    "content": "menyapu teras belakang arsiap dan perbaikan selang wc pria",
-    "output": "terselesaikannya pekerjaan",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1X_dPpOqRWOU7CM3sTDCeyK1rb8uMsYAa"
+    "timestamp": "5/13/2026 7:29:13",
+    "author": "Mardianto",
+    "content": "Membersih kan samping Rb siti nurbaya",
+    "output": "aman",
+    "hambatan": "Bersih",
+    "photoUrl": "https://drive.google.com/open?id=1S_QC06G3ly4ZtG0FiQYO_yAVE3EbgeAb",
+    "photoPagi": "https://drive.google.com/open?id=1S_QC06G3ly4ZtG0FiQYO_yAVE3EbgeAb",
+    "photoSore": ""
   },
   {
     "id": 615,
-    "timestamp": "4/22/2026 13:46:44",
-    "author": "Rio Mailando Agustiano",
-    "content": "Melayani tamu",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1rGqIzknXdV1ZTURtXUp8FphbBHxFyqm8"
+    "timestamp": "5/13/2026 7:33:19",
+    "author": "Fitriandi",
+    "content": "pekarangan pustaka",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1i9zwz-l7EfSpp-irtfKkjUbfhpFx4lp5",
+    "photoPagi": "https://drive.google.com/open?id=1i9zwz-l7EfSpp-irtfKkjUbfhpFx4lp5",
+    "photoSore": ""
   },
   {
     "id": 616,
-    "timestamp": "4/22/2026 13:48:03",
-    "author": "Rio Mailando Agustiano",
-    "content": "Melayani tamu",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1b9QDLpi3EaBIhKbgb5NsJn6uZA4YYt6E"
+    "timestamp": "5/13/2026 7:33:25",
+    "author": "Mardianto",
+    "content": "Membersihkan samping asrama putra",
+    "output": "aman",
+    "hambatan": "Bersih",
+    "photoUrl": "https://drive.google.com/open?id=1LE4fBhEizdKSxboHxlSt0wCyZhYlTuAG",
+    "photoPagi": "https://drive.google.com/open?id=1LE4fBhEizdKSxboHxlSt0wCyZhYlTuAG",
+    "photoSore": ""
   },
   {
     "id": 617,
-    "timestamp": "4/22/2026 13:49:07",
-    "author": "Rio Mailando Agustiano",
-    "content": "Melayani tamu",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1_7sJOsvk0Oa_JKzRiq2Gqcd_oUJrlq_z"
+    "timestamp": "5/13/2026 7:34:32",
+    "author": "Fitriandi",
+    "content": "pekarangan numerasi",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1RQFN9Jz-Hu2A-j2VUwUXEaC4c8VjuOre",
+    "photoPagi": "https://drive.google.com/open?id=1RQFN9Jz-Hu2A-j2VUwUXEaC4c8VjuOre",
+    "photoSore": ""
   },
   {
     "id": 618,
-    "timestamp": "4/22/2026 13:50:32",
+    "timestamp": "5/13/2026 7:35:35",
+    "author": "Fitriandi",
+    "content": "jalan utama",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1Bb4RDQBKAzYya9lyctKcjpyvqsTl29zF",
+    "photoPagi": "https://drive.google.com/open?id=1Bb4RDQBKAzYya9lyctKcjpyvqsTl29zF",
+    "photoSore": ""
+  },
+  {
+    "id": 619,
+    "timestamp": "5/13/2026 7:51:46",
+    "author": "Mardianto",
+    "content": "Membersih kan asrama putra",
+    "output": "Bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1GFHXEl3Df0swCXcIKh20ESUX4a0bojgr",
+    "photoPagi": "https://drive.google.com/open?id=1GFHXEl3Df0swCXcIKh20ESUX4a0bojgr",
+    "photoSore": ""
+  },
+  {
+    "id": 620,
+    "timestamp": "5/13/2026 10:05:47",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Tts0bPtGGhBU80VJOmssxc2lD3Q5wfDw",
+    "photoPagi": "https://drive.google.com/open?id=1Tts0bPtGGhBU80VJOmssxc2lD3Q5wfDw",
+    "photoSore": ""
+  },
+  {
+    "id": 621,
+    "timestamp": "5/13/2026 10:06:43",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1D3lm1cwVLiOy_WpwYiHY3ZtaYf4I3Yim",
+    "photoPagi": "https://drive.google.com/open?id=1D3lm1cwVLiOy_WpwYiHY3ZtaYf4I3Yim",
+    "photoSore": ""
+  },
+  {
+    "id": 622,
+    "timestamp": "5/13/2026 10:07:28",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1pBvaJo1SG7pOr07wbv01XYG9Dv3kWl_U",
+    "photoPagi": "https://drive.google.com/open?id=1pBvaJo1SG7pOr07wbv01XYG9Dv3kWl_U",
+    "photoSore": ""
+  },
+  {
+    "id": 623,
+    "timestamp": "5/13/2026 10:08:58",
+    "author": "Musrizaldi",
+    "content": "Goro bersama",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1y9E2zXantNqm6FHfQauLzvV7HDuqw7UP",
+    "photoPagi": "https://drive.google.com/open?id=1y9E2zXantNqm6FHfQauLzvV7HDuqw7UP",
+    "photoSore": ""
+  },
+  {
+    "id": 624,
+    "timestamp": "5/13/2026 10:13:55",
+    "author": "Musrizaldi",
+    "content": "Kunjungan dan bikin konten BGTK SUMBAR diruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1KQqGZOr6eBo4Vnhi2g8khejFAzZwoIF0",
+    "photoPagi": "https://drive.google.com/open?id=1KQqGZOr6eBo4Vnhi2g8khejFAzZwoIF0",
+    "photoSore": ""
+  },
+  {
+    "id": 625,
+    "timestamp": "5/13/2026 10:50:56",
+    "author": "Fitriandi",
+    "content": "mengarahkan tamu ke recepcionist",
+    "output": "ketemu",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1Zf6k53GbgmaHXVu7P0MEpkqjVwRGteek",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1Zf6k53GbgmaHXVu7P0MEpkqjVwRGteek"
+  },
+  {
+    "id": 626,
+    "timestamp": "5/13/2026 10:59:29",
+    "author": "Musrizaldi",
+    "content": "Menerima tamu dari SAKA Hotel sawahlunto",
+    "output": "Lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1TOhexnKlRdTgMWn1S3nGBBPj2edVjRSy",
+    "photoPagi": "https://drive.google.com/open?id=1TOhexnKlRdTgMWn1S3nGBBPj2edVjRSy",
+    "photoSore": ""
+  },
+  {
+    "id": 627,
+    "timestamp": "5/13/2026 11:05:40",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan aula utama dan menyiapkan mfokus untuk senam",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1aoqGTv3CGJQqOAmlenbHuv_HoHtV9bdi",
+    "photoPagi": "https://drive.google.com/open?id=1aoqGTv3CGJQqOAmlenbHuv_HoHtV9bdi",
+    "photoSore": "https://drive.google.com/open?id=1GOluDgeKj4l-lVVRzmpaCzuUHVVOmjNt"
+  },
+  {
+    "id": 628,
+    "timestamp": "5/13/2026 11:30:28",
+    "author": "Ade inputra",
+    "content": "senam dan goro bersama",
+    "output": "selesai pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1CkFVkTozd0Nhz-sEiF7iKUkofoDc4aYX",
+    "photoPagi": "https://drive.google.com/open?id=1CkFVkTozd0Nhz-sEiF7iKUkofoDc4aYX",
+    "photoSore": "https://drive.google.com/open?id=1lMZXFJOPR_YiPqrNfKIZa_UX8Uc-3pgU"
+  },
+  {
+    "id": 629,
+    "timestamp": "5/13/2026 14:37:38",
     "author": "Rio Mailando Agustiano",
     "content": "Melayani tamu",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1A92IwXCmo4o0C-4EnDDn2ItvUTzPCfb6"
-  },
-  {
-    "id": 619,
-    "timestamp": "4/22/2026 14:50:24",
-    "author": "Musrizaldi",
-    "content": "Mengikuti Rapat ZIWBK di hol mini",
-    "output": "Lancar",
-    "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1LZ5mnlffpaVlQK_3MYKiZlrS21m4grMe"
-  },
-  {
-    "id": 620,
-    "timestamp": "4/22/2026 15:08:47",
-    "author": "Buyung Syafrianto",
-    "content": "Masih dalam rapat ziwbk di aula mini",
-    "output": "Mengikuti rapat sampai sekarang",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1MVK7zhIMd-EjSmNRVRB7DunPmTOBarGe"
-  },
-  {
-    "id": 621,
-    "timestamp": "4/22/2026 18:57:37",
-    "author": "Salaudin",
-    "content": "Memberikan area kantor, membuang sampah",
-    "output": "Aman",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1KZptiOPCjR53D719T4JH2qpKdr_HpiLn"
-  },
-  {
-    "id": 622,
-    "timestamp": "4/23/2026 13:56:34",
-    "author": "Fitriandi",
-    "content": "membuka gudang",
-    "output": "bobol ganti gembok",
-    "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1MeogR1XC68RqxI_BiFUsnzCsTEp7rpKc"
-  },
-  {
-    "id": 623,
-    "timestamp": "4/23/2026 14:09:59",
-    "author": "Fitriandi",
-    "content": "mengarahkan tamu",
-    "output": "1",
-    "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1CNJORViTFUIKwGagJ23mSQ9KBgoP5KqV"
-  },
-  {
-    "id": 624,
-    "timestamp": "4/23/2026 14:36:53",
-    "author": "Fitriandi",
-    "content": "sarana dan prasarana gembok utk gudang",
-    "output": "2",
-    "hambatan": "baru di beli",
-    "photoUrl": "https://drive.google.com/open?id=1BN1oqlS35t0zkxrkK2Md-Cew9bFx_Ua5"
-  },
-  {
-    "id": 625,
-    "timestamp": "4/23/2026 14:49:14",
-    "author": "Salaudin",
-    "content": "Memberikan area kantor, membuang sampah, memberikan rumput dan menata rumput",
-    "output": "Aman",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=10u-WkG6xcbWasefpMhQio3gzVFx8cr4k"
-  },
-  {
-    "id": 626,
-    "timestamp": "4/23/2026 15:01:03",
-    "author": "Mardianto",
-    "content": "Membersihkan area jalan depan kantor",
-    "output": "Bersih",
-    "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1He2qBxXVKt4YryS9HmgSxL9iqJIX8WdX"
-  },
-  {
-    "id": 627,
-    "timestamp": "4/23/2026 15:20:33",
-    "author": "Ade inputra",
-    "content": "kontrol kerja PLN pencabutan instalasi dan cek barang BMN",
-    "output": "terselesaikan pekerjaan",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1EjZmskoD9ZWAyKDcpVIgN-B3rVNogacn"
-  },
-  {
-    "id": 628,
-    "timestamp": "4/23/2026 15:38:40",
-    "author": "Rio Mailando Agustiano",
-    "content": "Cek keadaan kebersihan ruang lingkup kerja",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1NJmdFMhtcz4nRwBYj6OHf4QuAneylRMi"
-  },
-  {
-    "id": 629,
-    "timestamp": "4/23/2026 15:51:22",
-    "author": "Musrizaldi",
-    "content": "Mencabut rumput diteras sela sela batu depan pustaka",
-    "output": "Selesai",
-    "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1CefnyxBV7BJ4Ze2Xlww26bp65cuCoNIM"
+    "photoUrl": "https://drive.google.com/open?id=1lJJ5QrmyHGYOopLvWc_0EzmKfcv0h05I",
+    "photoPagi": "https://drive.google.com/open?id=1lJJ5QrmyHGYOopLvWc_0EzmKfcv0h05I",
+    "photoSore": ""
   },
   {
     "id": 630,
-    "timestamp": "4/23/2026 15:51:31",
-    "author": "Fitriandi",
-    "content": "membersihkan teras numerasi",
-    "output": "bersih",
-    "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1OqsQF6RooDvRLyB-pAutE1AALnem1fcn"
+    "timestamp": "5/13/2026 14:50:39",
+    "author": "Usrialdi",
+    "content": "Membersihkan mushola dan menanam tanaman palawija,",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1l6FrrjVSdqEkjGTrM1CDROvlc8LWeNe7",
+    "photoPagi": "https://drive.google.com/open?id=1l6FrrjVSdqEkjGTrM1CDROvlc8LWeNe7",
+    "photoSore": "https://drive.google.com/open?id=19fM5cTvqNKsHZu5FZVFd70Ht08WLgXGP"
   },
   {
     "id": 631,
-    "timestamp": "4/23/2026 15:51:50",
-    "author": "Usrialdi",
-    "content": "Membersihkan aula mini,dan memperbaiki instalasi air pos satpam",
-    "output": "Selesai dengan baik",
+    "timestamp": "5/13/2026 16:33:36",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dalam ruang aula mini",
+    "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=17DVM7c-sQGBagjS983haBjyodfzSv5jW"
+    "photoUrl": "https://drive.google.com/open?id=1qPMAtSOucwfSkmoLpvZHZIkOJP2TLe5N",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1qPMAtSOucwfSkmoLpvZHZIkOJP2TLe5N"
   },
   {
     "id": 632,
-    "timestamp": "4/23/2026 15:55:13",
-    "author": "Musrizaldi",
-    "content": "Menyapu teras sebelah parkir Kepala",
-    "output": "Selesai",
-    "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1PnlKY64SoiD3un3zpHPCMRZp52jxQQBQ"
+    "timestamp": "5/13/2026 16:52:28",
+    "author": "Salaudin",
+    "content": "Memberikan area",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1BecBUXwnO6htZTH1JmCdabJdQBbSQ9b4",
+    "photoPagi": "https://drive.google.com/open?id=1BecBUXwnO6htZTH1JmCdabJdQBbSQ9b4",
+    "photoSore": ""
   },
   {
     "id": 633,
-    "timestamp": "4/23/2026 15:57:41",
-    "author": "Buyung Syafrianto",
-    "content": "Sapu lantai mushola",
-    "output": "Bersih²",
+    "timestamp": "5/18/2026 7:15:08",
+    "author": "Salaudin",
+    "content": "Memberikan area",
+    "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=10H7wZ85ho7Ak0KdYnd2NRmow6bFym4WA"
+    "photoUrl": "https://drive.google.com/open?id=1EaZEV7C_PxLa6pN1jMDpO59ZK5D3EWc7",
+    "photoPagi": "https://drive.google.com/open?id=1EaZEV7C_PxLa6pN1jMDpO59ZK5D3EWc7",
+    "photoSore": ""
   },
   {
     "id": 634,
-    "timestamp": "4/23/2026 17:23:09",
-    "author": "Salaudin",
-    "content": "",
-    "output": "",
-    "hambatan": "",
-    "photoUrl": "https://drive.google.com/open?id=1QsksFxZOG29pV0pess3vNelCeHu6PmPC"
+    "timestamp": "5/18/2026 7:30:28",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan memberikan jaringan laba-laba aula mini",
+    "output": "Dibersihkan",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=18lecLPUCSEmPIsj8rDIGsoUbRAoBctzV",
+    "photoPagi": "https://drive.google.com/open?id=18lecLPUCSEmPIsj8rDIGsoUbRAoBctzV",
+    "photoSore": ""
   },
   {
     "id": 635,
-    "timestamp": "4/23/2026 17:35:01",
-    "author": "Neli Aftariani",
-    "content": "Mencabut rumput di depan ruang kepala",
-    "output": "Bersih",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1I_se_x_zYOUflRtvVG-fmEggA_N55gAv"
+    "timestamp": "5/18/2026 7:31:04",
+    "author": "",
+    "content": "",
+    "output": "",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1D2feuvTSN1rXpBTe9gXqgycOUynzGs_V",
+    "photoPagi": "https://drive.google.com/open?id=1D2feuvTSN1rXpBTe9gXqgycOUynzGs_V",
+    "photoSore": ""
   },
   {
     "id": 636,
-    "timestamp": "4/27/2026 14:57:40",
-    "author": "Musrizaldi",
-    "content": "Mendampingi tukang memperbaiki pintu",
-    "output": "Lancar",
-    "hambatan": "Tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1oSXvdrsFcp1sMDEc6SaOYrfg7gVFZfdX"
+    "timestamp": "5/18/2026 8:20:54",
+    "author": "Mardianto",
+    "content": "Membersih kan ruangan asrama putra",
+    "output": "aman",
+    "hambatan": "Bersih",
+    "photoUrl": "https://drive.google.com/open?id=1jMuQVLp7UWMUEXKRq8ZzaGy1Qj-jyYPx",
+    "photoPagi": "https://drive.google.com/open?id=1jMuQVLp7UWMUEXKRq8ZzaGy1Qj-jyYPx",
+    "photoSore": ""
   },
   {
     "id": 637,
-    "timestamp": "4/27/2026 15:21:19",
-    "author": "Salaudin",
-    "content": "Memberikan tumpukan tanah",
-    "output": "Aman",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1ulFq2qVW8ZQ62t_QUz-gZX6ulAJq7b9u"
+    "timestamp": "5/18/2026 8:22:01",
+    "author": "Mardianto",
+    "content": "Membersihkan samping asrama putra",
+    "output": "Betsih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1dRvhipVoNjZghP4vm5MsAr50ZkkRb-V_",
+    "photoPagi": "https://drive.google.com/open?id=1dRvhipVoNjZghP4vm5MsAr50ZkkRb-V_",
+    "photoSore": ""
   },
   {
     "id": 638,
-    "timestamp": "4/27/2026 15:31:36",
-    "author": "Mardianto",
-    "content": "Membersihkan area kantor",
-    "output": "Bersih",
-    "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=10alMR5SONYzNLC1dHHloAX86sDSrETtx"
+    "timestamp": "5/18/2026 8:47:34",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=11vJCMDhksBfX_QT33WW5_Pp_cVe7aFUh",
+    "photoPagi": "https://drive.google.com/open?id=11vJCMDhksBfX_QT33WW5_Pp_cVe7aFUh",
+    "photoSore": ""
   },
   {
     "id": 639,
-    "timestamp": "4/27/2026 15:32:36",
-    "author": "Mardianto",
-    "content": "Membersihkan diluar asrama putra",
-    "output": "Bersih",
-    "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=17s_qI9eIcisvJ1fyzCaGSbd-zfhOvZJn"
+    "timestamp": "5/18/2026 8:49:05",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1weR0nJYxttATyfkjHIIK9wvZZetZyy4F",
+    "photoPagi": "https://drive.google.com/open?id=1weR0nJYxttATyfkjHIIK9wvZZetZyy4F",
+    "photoSore": ""
   },
   {
     "id": 640,
-    "timestamp": "4/27/2026 15:39:01",
-    "author": "Usrialdi",
-    "content": "Membersihkan aula mini.mushola dan perawatan pintu gedung baru.dan instalasi air d lantai dua",
+    "timestamp": "5/18/2026 8:50:32",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC  laki laki dan wanita",
     "output": "Selesai",
-    "hambatan": "Kendala di intalasi air gedung baru lantai dua.karna pipa dalam coran semen",
-    "photoUrl": "https://drive.google.com/open?id=1_Cdo4N7I5RL_b5vUwOTLrGGqoJLV_NNV"
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1sMm9q4kXEtdGxMnkS7WOwDdByGzHPFyK",
+    "photoPagi": "https://drive.google.com/open?id=1sMm9q4kXEtdGxMnkS7WOwDdByGzHPFyK",
+    "photoSore": ""
   },
   {
     "id": 641,
-    "timestamp": "4/27/2026 15:58:44",
-    "author": "Neli Aftariani",
-    "content": "Memasang gorden ruang Siti Nurbaya BGTK Sumbar",
+    "timestamp": "5/18/2026 8:51:56",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
     "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1V4AjXWwBgGStvzO6ZcYYcSYcPSEE0c2A"
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1bhXSI_V9wxH-gkgPLmM2gXcHro7GW_93",
+    "photoPagi": "https://drive.google.com/open?id=1bhXSI_V9wxH-gkgPLmM2gXcHro7GW_93",
+    "photoSore": ""
   },
   {
     "id": 642,
-    "timestamp": "4/27/2026 16:05:44",
+    "timestamp": "5/18/2026 8:54:13",
+    "author": "Musrizaldi",
+    "content": "Melaporkan kerusakan di WC wanita",
+    "output": "Dikerjakan",
+    "hambatan": "Tidak ada  belum selesai",
+    "photoUrl": "https://drive.google.com/open?id=1RzNPosji2QJ8zvs-X-N6Xxo8YPo8IWcl",
+    "photoPagi": "https://drive.google.com/open?id=1RzNPosji2QJ8zvs-X-N6Xxo8YPo8IWcl",
+    "photoSore": ""
+  },
+  {
+    "id": 643,
+    "timestamp": "5/18/2026 8:57:16",
+    "author": "Musrizaldi",
+    "content": "Menata dan menyiram bibit tomat dan cabe",
+    "output": "Lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=18Er6elXQC1tLQfDeyiSBxZJdt6iZPfjL",
+    "photoPagi": "https://drive.google.com/open?id=18Er6elXQC1tLQfDeyiSBxZJdt6iZPfjL",
+    "photoSore": ""
+  },
+  {
+    "id": 644,
+    "timestamp": "5/18/2026 9:00:23",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar parkir Kepala",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1uPCynjLt_xXXKXymDA1bs6Q-HYY0w82u",
+    "photoPagi": "https://drive.google.com/open?id=1uPCynjLt_xXXKXymDA1bs6Q-HYY0w82u",
+    "photoSore": ""
+  },
+  {
+    "id": 645,
+    "timestamp": "5/18/2026 15:51:07",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan ruang aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1f6AGpVL-S34Z_ZAIb6xlh2ZnsGxGmJKB",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1f6AGpVL-S34Z_ZAIb6xlh2ZnsGxGmJKB"
+  },
+  {
+    "id": 646,
+    "timestamp": "5/18/2026 15:54:22",
+    "author": "Usrialdi",
+    "content": "Membersihkan mushola dan merawat tanaman di brlakang gedung baru",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1NIaku6pFxxOgWLh3HgzSYfkAZAbpB-QH",
+    "photoPagi": "https://drive.google.com/open?id=1NIaku6pFxxOgWLh3HgzSYfkAZAbpB-QH",
+    "photoSore": "https://drive.google.com/open?id=1AEu2FmG5i_hA1w6tNvfll9Np4wJN_3rY"
+  },
+  {
+    "id": 647,
+    "timestamp": "5/18/2026 17:32:22",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan aula utama dan menyiapkan perlengkapan apel pagi",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1QKUCFhfwMfV4lmxoTU8Nkm6vtMx0bvoF",
+    "photoPagi": "https://drive.google.com/open?id=1QKUCFhfwMfV4lmxoTU8Nkm6vtMx0bvoF",
+    "photoSore": ""
+  },
+  {
+    "id": 648,
+    "timestamp": "5/18/2026 17:50:35",
+    "author": "Salaudin",
+    "content": "Membuang sampah ketempat pembuangan sampah",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=13V9gIZSMzEpirXRy7hRufGxvUAf_yaWh",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=13V9gIZSMzEpirXRy7hRufGxvUAf_yaWh"
+  },
+  {
+    "id": 649,
+    "timestamp": "5/18/2026 18:23:27",
+    "author": "Ade inputra",
+    "content": "bersih teras arsip dan cek kit atk",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=10rjRp059GSieN7lQq2j4xKLQSfDY8xJD",
+    "photoPagi": "https://drive.google.com/open?id=10rjRp059GSieN7lQq2j4xKLQSfDY8xJD",
+    "photoSore": "https://drive.google.com/open?id=1XJycbdy3bQ9BuREGGJLLIlZA8k-LwT4F"
+  },
+  {
+    "id": 650,
+    "timestamp": "5/18/2026 20:27:22",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor dekat parkiran mobil ibuk kepala",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1uLBnifV7TVgscaa-U1NU-O_9kJoXQH7T",
+    "photoPagi": "https://drive.google.com/open?id=1uLBnifV7TVgscaa-U1NU-O_9kJoXQH7T",
+    "photoSore": ""
+  },
+  {
+    "id": 651,
+    "timestamp": "5/18/2026 20:28:58",
+    "author": "Neli Aftariani",
+    "content": "Membuang sampah",
+    "output": "Aman",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1XHOdjmc1iVBUnoAAcenLe1ncbGC-p_Fb",
+    "photoPagi": "https://drive.google.com/open?id=1XHOdjmc1iVBUnoAAcenLe1ncbGC-p_Fb",
+    "photoSore": ""
+  },
+  {
+    "id": 652,
+    "timestamp": "5/18/2026 20:34:46",
+    "author": "Neli Aftariani",
+    "content": "Mencabut rumput di depan parkiran mobil ibuk kepala",
+    "output": "Belum selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1l-GQRDkMs1s_QXYHgJGEeEN3a3dNXyLu",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1l-GQRDkMs1s_QXYHgJGEeEN3a3dNXyLu"
+  },
+  {
+    "id": 653,
+    "timestamp": "5/18/2026 20:37:32",
+    "author": "Neli Aftariani",
+    "content": "Memindahkan barang dari pos satpam ke tempat gedung BMN",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1iH-6715ly3-qq2nv0CCnOCFrZ07aBdHQ",
+    "photoPagi": "https://drive.google.com/open?id=1iH-6715ly3-qq2nv0CCnOCFrZ07aBdHQ",
+    "photoSore": ""
+  },
+  {
+    "id": 654,
+    "timestamp": "5/19/2026 7:09:01",
     "author": "Buyung Syafrianto",
     "content": "Menyapu lantai aula mini",
     "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=10wWoCmFlT6F0_k9DJC1W-9e_foxAFvkJ"
-  },
-  {
-    "id": 643,
-    "timestamp": "4/27/2026 16:19:21",
-    "author": "Buyung Syafrianto",
-    "content": "Merapikan ruang aula mini stelan kegiatan",
-    "output": "Menyusun kursi",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1VghLXWMd-sMdM_VjSBJNvAuUX_vbfzjw"
-  },
-  {
-    "id": 644,
-    "timestamp": "4/28/2026 8:07:23",
-    "author": "Fitriandi",
-    "content": "ruangan ult",
-    "output": "bersih",
-    "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1tGEputyBakH6zloy2g6Td9yAtgOR16wo"
-  },
-  {
-    "id": 645,
-    "timestamp": "4/28/2026 8:58:24",
-    "author": "Fitriandi",
-    "content": "ruangan numerasi",
-    "output": "bersih",
-    "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1HbAEFUJr-01VPv8Owgt84VXnyLRVge97"
-  },
-  {
-    "id": 646,
-    "timestamp": "4/28/2026 9:01:46",
-    "author": "Fitriandi",
-    "content": "ruangan perpustakaan",
-    "output": "menjamu",
-    "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=16MTgI6oe6IYcZFZsnuxmoyrjShPpr5ql"
-  },
-  {
-    "id": 647,
-    "timestamp": "4/28/2026 14:24:09",
-    "author": "Mardianto",
-    "content": "Memperbaiki saluran pembuangan air di asrama putra",
-    "output": "Beres",
-    "hambatan": "Aman",
-    "photoUrl": "https://drive.google.com/open?id=1-RvgTS9oLrovqgRA75Lk1xwpd2m_9G6G"
-  },
-  {
-    "id": 648,
-    "timestamp": "4/28/2026 15:54:10",
-    "author": "Fitriandi",
-    "content": "membersihkan taman",
-    "output": "bersih",
-    "hambatan": "aman",
-    "photoUrl": "https://drive.google.com/open?id=1yK0KjCq6gJOCBcWYZ7FQ0LP5oEu5_6ZM"
-  },
-  {
-    "id": 649,
-    "timestamp": "4/28/2026 16:16:53",
-    "author": "Buyung Syafrianto",
-    "content": "Menyusun kursi setelah kegiatan wayoik di aula mini",
-    "output": "Merapikan",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1fHHU5Ep02z0b86updn0IbjTkBFagdkS6"
-  },
-  {
-    "id": 650,
-    "timestamp": "4/28/2026 16:18:00",
-    "author": "Ade inputra",
-    "content": "persiapan kelas belajar Wi dan menyusun spj",
-    "output": "terlaksana pekerjaa",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1EJZMGaqjd27-iCB7TYkpLFV2XvyMqqLU"
-  },
-  {
-    "id": 651,
-    "timestamp": "4/28/2026 16:20:24",
-    "author": "Ade inputra",
-    "content": "masang gorden dan persiapan kelas belajar",
-    "output": "terlaksana pekerjaan",
-    "hambatan": "tgl 27 april 2026",
-    "photoUrl": "https://drive.google.com/open?id=1o5GuCinkOmkLbqy93AAM09y8RIm_gTqw"
-  },
-  {
-    "id": 652,
-    "timestamp": "4/28/2026 17:14:42",
-    "author": "Usrialdi",
-    "content": "Membersihkan aula mini dan memperbaiki saluran air kamar mandi gedung baru",
-    "output": "Selesai",
-    "hambatan": "Pipa di ruangan sempit",
-    "photoUrl": "https://drive.google.com/open?id=1Kfo60tlzxdo8DFfI6duA52mLrFeSv1O0"
-  },
-  {
-    "id": 653,
-    "timestamp": "4/28/2026 18:38:46",
-    "author": "Rio Mailando Agustiano",
-    "content": "Membersihkan aula utama dan menata aula utama buat senam besok",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1ixI_ZR9QdQnUsu6hx2Dg4vnTPEqKnEZf"
-  },
-  {
-    "id": 654,
-    "timestamp": "4/28/2026 18:40:40",
-    "author": "Rio Mailando Agustiano",
-    "content": "Membersihkan kaca aula utama",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1m0g4lNvxPil648S8tWLQrK8hd-LERRwu"
+    "photoUrl": "https://drive.google.com/open?id=1qb6YsvswdUJxUbZuJi87kXO1283F5RKY",
+    "photoPagi": "https://drive.google.com/open?id=1qb6YsvswdUJxUbZuJi87kXO1283F5RKY",
+    "photoSore": ""
   },
   {
     "id": 655,
-    "timestamp": "4/29/2026 9:51:28",
-    "author": "Fitriandi",
-    "content": "monitor ke numerasi",
-    "output": "aman",
-    "hambatan": "_",
-    "photoUrl": "https://drive.google.com/open?id=1wV-CFhekHNHyRXQZ9phFVjgXBJ4MQERV"
+    "timestamp": "5/19/2026 7:56:54",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1LR07cm8u1j3GMg3zca1Ut-Pde_f15zxk",
+    "photoPagi": "https://drive.google.com/open?id=1LR07cm8u1j3GMg3zca1Ut-Pde_f15zxk",
+    "photoSore": ""
   },
   {
     "id": 656,
-    "timestamp": "4/29/2026 15:50:03",
-    "author": "Ade inputra",
-    "content": "persiapan kelas dan plat mobil",
-    "output": "terlaksana pekerjaan",
-    "hambatan": "tidak ada",
-    "photoUrl": "https://drive.google.com/open?id=1xUYQccX5FDpAoyARXsES3swJFkACn9-Y"
+    "timestamp": "5/19/2026 7:58:17",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT dan pustaka",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1H8SfZwwbZi_qgSCF2bEutLmzylC6m-85",
+    "photoPagi": "https://drive.google.com/open?id=1H8SfZwwbZi_qgSCF2bEutLmzylC6m-85",
+    "photoSore": ""
   },
   {
     "id": 657,
-    "timestamp": "4/29/2026 15:54:55",
-    "author": "Usrialdi",
-    "content": "Membersihkan aula mini.dan periksa listrik di asrama putra.",
+    "timestamp": "5/19/2026 7:59:12",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
     "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1w0GfDzFeWc1XHK0VrhTJXH5Xf-k6P0Pr"
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1pheEISqVz7JXhTxckdRIP3nJxEO0Cy3i",
+    "photoPagi": "https://drive.google.com/open?id=1pheEISqVz7JXhTxckdRIP3nJxEO0Cy3i",
+    "photoSore": ""
   },
   {
     "id": 658,
-    "timestamp": "4/29/2026 16:29:02",
-    "author": "Salaudin",
-    "content": "Membuang sampah dan membakar sampah",
-    "output": "Aman",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1TSUSDGF-5FdtIBeEFvt7DMgoHNNo3BoY"
+    "timestamp": "5/19/2026 8:00:12",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1tk5XxTWaaz6EUKQDgZy4uRq7IgmEB5Ad",
+    "photoPagi": "https://drive.google.com/open?id=1tk5XxTWaaz6EUKQDgZy4uRq7IgmEB5Ad",
+    "photoSore": ""
   },
   {
     "id": 659,
-    "timestamp": "4/29/2026 17:09:59",
-    "author": "Buyung Syafrianto",
-    "content": "Menyapu dan menyusun meja kursi untuk kegiatan wayoik",
-    "output": "Merapikan meja kursi untuk kegiatan wayoik besok",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1c7p8RBVmdtFlhPKVwcOtNeOtnXbxTFhy"
+    "timestamp": "5/19/2026 8:01:44",
+    "author": "Musrizaldi",
+    "content": "Menyiram tanaman cabe dan tomat",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1YeFtL4j6sZUGmSbAXLADhU0bPhpPv2Cw",
+    "photoPagi": "https://drive.google.com/open?id=1YeFtL4j6sZUGmSbAXLADhU0bPhpPv2Cw",
+    "photoSore": ""
   },
   {
     "id": 660,
-    "timestamp": "4/30/2026 9:37:15",
+    "timestamp": "5/19/2026 8:06:13",
     "author": "Fitriandi",
-    "content": "monitoring dari SD sungai limau",
-    "output": "aman",
-    "hambatan": "",
-    "photoUrl": "https://drive.google.com/open?id=1PVggyDpCZVbB0T8XVw8Ln-1YiuImtP0V"
+    "content": "teras ruangan pengaduan",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1u8OvGxcMwIGKP4ZTBRAeDwIB17nqD1z2",
+    "photoPagi": "https://drive.google.com/open?id=1u8OvGxcMwIGKP4ZTBRAeDwIB17nqD1z2",
+    "photoSore": ""
   },
   {
     "id": 661,
-    "timestamp": "4/30/2026 13:49:59",
-    "author": "Rio Mailando Agustiano",
-    "content": "Membersihkan seluruh kaca aula utama",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1jx48ytsxNmgovy0S_nDWK7rkMPvlGD6a"
+    "timestamp": "5/19/2026 8:07:11",
+    "author": "Fitriandi",
+    "content": "teras ult dan perpustakaan",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1H4Olnn9qxJCAciily1EguisbD7thp4Mo",
+    "photoPagi": "https://drive.google.com/open?id=1H4Olnn9qxJCAciily1EguisbD7thp4Mo",
+    "photoSore": ""
   },
   {
     "id": 662,
-    "timestamp": "4/30/2026 13:52:19",
-    "author": "Rio Mailando Agustiano",
-    "content": "Membersihkan aula utama dan membersihkan kaca aula utama",
-    "output": "Selesai",
-    "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1VaD5-hchyNstC4Nbz_PVT-WBTOCCySZH"
+    "timestamp": "5/19/2026 8:08:23",
+    "author": "Fitriandi",
+    "content": "teras rumah dinas",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1cCVHrHeHxq9UGnfkSxnqYEVTiJYKHvii",
+    "photoPagi": "https://drive.google.com/open?id=1cCVHrHeHxq9UGnfkSxnqYEVTiJYKHvii",
+    "photoSore": ""
   },
   {
     "id": 663,
-    "timestamp": "4/30/2026 14:27:25",
+    "timestamp": "5/19/2026 8:10:14",
+    "author": "Fitriandi",
+    "content": "teras luar ult",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=11VOX3XMATkM3_7PNMKTHOYkwjVxpqs1U",
+    "photoPagi": "https://drive.google.com/open?id=11VOX3XMATkM3_7PNMKTHOYkwjVxpqs1U",
+    "photoSore": ""
+  },
+  {
+    "id": 664,
+    "timestamp": "5/19/2026 8:20:29",
+    "author": "Musrizaldi",
+    "content": "Membuang sampah dalam WC pria dan wanita",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=13AgewTNtUnA2_itUbNw43V8jOevOy70I",
+    "photoPagi": "https://drive.google.com/open?id=13AgewTNtUnA2_itUbNw43V8jOevOy70I",
+    "photoSore": ""
+  },
+  {
+    "id": 665,
+    "timestamp": "5/19/2026 9:03:42",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan kaca aula utama dan mengepel lantai aula utama",
+    "output": "Selesai",
+    "hambatan": "Kain buat kaca tidak ada jadi kurang bersih lap kaca",
+    "photoUrl": "https://drive.google.com/open?id=1osGJHRZh8egGyyc5eD5mrgJmoeFgNHMx",
+    "photoPagi": "https://drive.google.com/open?id=1osGJHRZh8egGyyc5eD5mrgJmoeFgNHMx",
+    "photoSore": "https://drive.google.com/open?id=1ooLPvgHcJO-WrhWzgSsNSDk-TEhvxDIg"
+  },
+  {
+    "id": 666,
+    "timestamp": "5/19/2026 16:48:03",
+    "author": "Usrialdi",
+    "content": "Membersihkan mushola dan menyiram tanaman",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1Xup7jdXc9Cl-mLK8DEa_kK6A1YrtzHX5",
+    "photoPagi": "https://drive.google.com/open?id=1Xup7jdXc9Cl-mLK8DEa_kK6A1YrtzHX5",
+    "photoSore": "https://drive.google.com/open?id=1gV8QZ1NVFGAo_Ba0IRHr48W6dA9f-5ij"
+  },
+  {
+    "id": 667,
+    "timestamp": "5/19/2026 16:58:29",
+    "author": "Buyung Syafrianto",
+    "content": "Bersihkan aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1Bb9DC6VHas5yP2FJrNOD36Ur3Md6QjZO",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1Bb9DC6VHas5yP2FJrNOD36Ur3Md6QjZO"
+  },
+  {
+    "id": 668,
+    "timestamp": "5/19/2026 17:01:24",
+    "author": "Salaudin",
+    "content": "Memberikan area",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1To0OUOJvolbWu2LhtCikXz09DwbTUBFV",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1To0OUOJvolbWu2LhtCikXz09DwbTUBFV"
+  },
+  {
+    "id": 669,
+    "timestamp": "5/19/2026 20:34:06",
+    "author": "Ade inputra",
+    "content": "ambil kebutuhan persediaan dan sapu ruang BMN",
+    "output": "terselesai pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1kM2l-_Y80S_VRkO4uHKe5ACpbJ5ZjAwH",
+    "photoPagi": "https://drive.google.com/open?id=1kM2l-_Y80S_VRkO4uHKe5ACpbJ5ZjAwH",
+    "photoSore": "https://drive.google.com/open?id=1Icd8eqtsxFbuTN29WVyCPkMciOZgIVj7"
+  },
+  {
+    "id": 670,
+    "timestamp": "5/20/2026 7:24:51",
+    "author": "Buyung Syafrianto",
+    "content": "Mengepel lantai aula mini",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1v256WgqtJjQmWsti3aAsFur8kzc19wP0",
+    "photoPagi": "https://drive.google.com/open?id=1v256WgqtJjQmWsti3aAsFur8kzc19wP0",
+    "photoSore": ""
+  },
+  {
+    "id": 671,
+    "timestamp": "5/20/2026 8:52:52",
+    "author": "Fitriandi",
+    "content": "halaman pengaduan",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1yMkXv75bVQm5Vs7vl6UHCxjWno4vT44D",
+    "photoPagi": "https://drive.google.com/open?id=1yMkXv75bVQm5Vs7vl6UHCxjWno4vT44D",
+    "photoSore": ""
+  },
+  {
+    "id": 672,
+    "timestamp": "5/20/2026 8:53:52",
+    "author": "Fitriandi",
+    "content": "halaman luar ult",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1OyDXM9irtS3EU_no3f976urUu_WO5vDV",
+    "photoPagi": "https://drive.google.com/open?id=1OyDXM9irtS3EU_no3f976urUu_WO5vDV",
+    "photoSore": ""
+  },
+  {
+    "id": 673,
+    "timestamp": "5/20/2026 9:01:46",
+    "author": "Fitriandi",
+    "content": "teras rumah dinas",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1EOBtzKQkoZcUXDxogo2UCxJR53K9pfGC",
+    "photoPagi": "https://drive.google.com/open?id=1EOBtzKQkoZcUXDxogo2UCxJR53K9pfGC",
+    "photoSore": ""
+  },
+  {
+    "id": 674,
+    "timestamp": "5/20/2026 9:40:57",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1BOjnRhZoD1I9cW8gXBkd9gK07geYQpbM",
+    "photoPagi": "https://drive.google.com/open?id=1BOjnRhZoD1I9cW8gXBkd9gK07geYQpbM",
+    "photoSore": ""
+  },
+  {
+    "id": 675,
+    "timestamp": "5/20/2026 9:41:42",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1IitDjNEMvSpnkTuOJqbB236_1kmuULE0",
+    "photoPagi": "https://drive.google.com/open?id=1IitDjNEMvSpnkTuOJqbB236_1kmuULE0",
+    "photoSore": ""
+  },
+  {
+    "id": 676,
+    "timestamp": "5/20/2026 9:42:37",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1m9_WBa1lEkhEI5QeAtlchaCcj01tV6u9",
+    "photoPagi": "https://drive.google.com/open?id=1m9_WBa1lEkhEI5QeAtlchaCcj01tV6u9",
+    "photoSore": ""
+  },
+  {
+    "id": 677,
+    "timestamp": "5/20/2026 9:43:51",
+    "author": "Musrizaldi",
+    "content": "Menyapu teras ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1gdVF8JhmUa04qCyGqY8xiqow_O_3euk-",
+    "photoPagi": "https://drive.google.com/open?id=1gdVF8JhmUa04qCyGqY8xiqow_O_3euk-",
+    "photoSore": ""
+  },
+  {
+    "id": 678,
+    "timestamp": "5/20/2026 13:56:30",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1hLwVcwBdrSX5G7cjMixXtV46HK-zXcA6",
+    "photoPagi": "https://drive.google.com/open?id=1hLwVcwBdrSX5G7cjMixXtV46HK-zXcA6",
+    "photoSore": ""
+  },
+  {
+    "id": 679,
+    "timestamp": "5/20/2026 13:57:45",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=11m1Bhg5G9MPD6jlYIavWfaUeYZyp9XJu",
+    "photoPagi": "https://drive.google.com/open?id=11m1Bhg5G9MPD6jlYIavWfaUeYZyp9XJu",
+    "photoSore": ""
+  },
+  {
+    "id": 680,
+    "timestamp": "5/20/2026 14:00:10",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1jXfe9ljajOTFMRYzQyhB150GTrk7yv6p",
+    "photoPagi": "https://drive.google.com/open?id=1jXfe9ljajOTFMRYzQyhB150GTrk7yv6p",
+    "photoSore": ""
+  },
+  {
+    "id": 681,
+    "timestamp": "5/20/2026 14:46:26",
+    "author": "Fitriandi",
+    "content": "tamu menemui Robbi daryodi",
+    "output": "bicara",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1nIVmu_QYIkUKPrRRfSi6tdn-igMJEGhB",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1nIVmu_QYIkUKPrRRfSi6tdn-igMJEGhB"
+  },
+  {
+    "id": 682,
+    "timestamp": "5/20/2026 16:04:34",
+    "author": "Salaudin",
+    "content": "Melakukan tugas kebersihan",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1D1O944DuXK018hoJcuJZ4kv3GkzrNYPD",
+    "photoPagi": "https://drive.google.com/open?id=1D1O944DuXK018hoJcuJZ4kv3GkzrNYPD",
+    "photoSore": ""
+  },
+  {
+    "id": 683,
+    "timestamp": "5/20/2026 16:17:23",
+    "author": "Ade inputra",
+    "content": "cuci mobil kantor dan periksa kit atk",
+    "output": "terselesai pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1IdYav_cNSrJtQ5--c4Y1KS96McHPHS5O",
+    "photoPagi": "https://drive.google.com/open?id=1IdYav_cNSrJtQ5--c4Y1KS96McHPHS5O",
+    "photoSore": "https://drive.google.com/open?id=1eS6piPWXG6TyruyoJXCtDkXF280pEuds"
+  },
+  {
+    "id": 684,
+    "timestamp": "5/20/2026 16:25:55",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dalam ruang aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1Xy1dFDOiElrS1AFHv-zvFSEU2Ob0cB5y",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1Xy1dFDOiElrS1AFHv-zvFSEU2Ob0cB5y"
+  },
+  {
+    "id": 685,
+    "timestamp": "5/21/2026 8:03:25",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan area dalam aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1STmP-WvUmiciE8XS7RJCAogLmtZZdmZX",
+    "photoPagi": "https://drive.google.com/open?id=1STmP-WvUmiciE8XS7RJCAogLmtZZdmZX",
+    "photoSore": ""
+  },
+  {
+    "id": 686,
+    "timestamp": "5/21/2026 8:58:39",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1UWy2xXGt-9A87wiAlLY92fhFXzdblT0M",
+    "photoPagi": "https://drive.google.com/open?id=1UWy2xXGt-9A87wiAlLY92fhFXzdblT0M",
+    "photoSore": ""
+  },
+  {
+    "id": 687,
+    "timestamp": "5/21/2026 8:59:27",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1FX1ZhTY5UDbmUXe1mq3xZKsluge_L7M0",
+    "photoPagi": "https://drive.google.com/open?id=1FX1ZhTY5UDbmUXe1mq3xZKsluge_L7M0",
+    "photoSore": ""
+  },
+  {
+    "id": 688,
+    "timestamp": "5/21/2026 9:00:20",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1rTFsTaFSWUmGoejDP3OsTzODUjW6kdsW",
+    "photoPagi": "https://drive.google.com/open?id=1rTFsTaFSWUmGoejDP3OsTzODUjW6kdsW",
+    "photoSore": ""
+  },
+  {
+    "id": 689,
+    "timestamp": "5/21/2026 9:01:10",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1M5ixoKFKKIUN115Di76gMwEohUtvMOKt",
+    "photoPagi": "https://drive.google.com/open?id=1M5ixoKFKKIUN115Di76gMwEohUtvMOKt",
+    "photoSore": ""
+  },
+  {
+    "id": 690,
+    "timestamp": "5/21/2026 9:02:09",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit tomat dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1viTG9iiL6lEJmJXA7E-V1CZvS4Yxnx6p",
+    "photoPagi": "https://drive.google.com/open?id=1viTG9iiL6lEJmJXA7E-V1CZvS4Yxnx6p",
+    "photoSore": ""
+  },
+  {
+    "id": 691,
+    "timestamp": "5/21/2026 9:04:38",
+    "author": "Fitriandi",
+    "content": "area teras samping rumah dinas",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1ohVQiwBY5jtg57VgFHI1j4KX9KWm-8Wh",
+    "photoPagi": "https://drive.google.com/open?id=1ohVQiwBY5jtg57VgFHI1j4KX9KWm-8Wh",
+    "photoSore": ""
+  },
+  {
+    "id": 692,
+    "timestamp": "5/21/2026 9:06:24",
+    "author": "Fitriandi",
+    "content": "menyiram bunga",
+    "output": "basah",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1Xms4CdU9bisiE-KiHJYGyBATTWGYs5kU",
+    "photoPagi": "https://drive.google.com/open?id=1Xms4CdU9bisiE-KiHJYGyBATTWGYs5kU",
+    "photoSore": ""
+  },
+  {
+    "id": 693,
+    "timestamp": "5/21/2026 9:09:49",
+    "author": "Fitriandi",
+    "content": "membersihkan taman rumah dinas",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1HuMmXPFb2iilclMMt9Kbq-9KD0yCho-V",
+    "photoPagi": "https://drive.google.com/open?id=1HuMmXPFb2iilclMMt9Kbq-9KD0yCho-V",
+    "photoSore": ""
+  },
+  {
+    "id": 694,
+    "timestamp": "5/21/2026 15:26:14",
+    "author": "Karmawar",
+    "content": "pemotongan bunga dan halaman kantor",
+    "output": "tertata rapi dan bersih",
+    "hambatan": "tak ada kendala",
+    "photoUrl": "https://drive.google.com/open?id=1_mn28tHj4kQcv4cLowKzyPnp2_k3iEtr",
+    "photoPagi": "https://drive.google.com/open?id=1_mn28tHj4kQcv4cLowKzyPnp2_k3iEtr",
+    "photoSore": "https://drive.google.com/open?id=1hVshC0IQv8UXa69kuYCesny8SEXDh5-S"
+  },
+  {
+    "id": 695,
+    "timestamp": "5/21/2026 15:59:29",
+    "author": "Usrialdi",
+    "content": "Membersihkan mushola dan merawat taman di gedung baru",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1mnov6nRPM8KsK9cKbU24Ary4f-SM6OHL",
+    "photoPagi": "https://drive.google.com/open?id=1mnov6nRPM8KsK9cKbU24Ary4f-SM6OHL",
+    "photoSore": "https://drive.google.com/open?id=1PsZhfsKPfOpb8-bcL2GYK4k3Bo9nSB1I"
+  },
+  {
+    "id": 696,
+    "timestamp": "5/21/2026 16:07:01",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu lantai luar aula mini",
+    "output": "Membersihkan",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1G78uQ9kYS5N83tZCCn-plHuBa2zuOHZt",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1G78uQ9kYS5N83tZCCn-plHuBa2zuOHZt"
+  },
+  {
+    "id": 697,
+    "timestamp": "5/21/2026 16:09:51",
+    "author": "Salaudin",
+    "content": "Melakukan tugas kebersihan",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1ZHZ98-75e1czEZb2KmKlTB8RFh5J32s5",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1ZHZ98-75e1czEZb2KmKlTB8RFh5J32s5"
+  },
+  {
+    "id": 698,
+    "timestamp": "5/21/2026 16:20:59",
+    "author": "Ade inputra",
+    "content": "piket jaga receptionist dan bersih teras arsip",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=17hZ086O9OtLGamMCMZL91xlYfmXNkefV",
+    "photoPagi": "https://drive.google.com/open?id=17hZ086O9OtLGamMCMZL91xlYfmXNkefV",
+    "photoSore": "https://drive.google.com/open?id=1BzlGVs8RCSjGZ6a1MmtZQtzDk19Fpgdm"
+  },
+  {
+    "id": 699,
+    "timestamp": "5/22/2026 9:59:08",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu area aula mini",
+    "output": "Membersihkan",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1w4iiSvy-rpjpmlawBK7z_LCZJ6ajOL7g",
+    "photoPagi": "https://drive.google.com/open?id=1w4iiSvy-rpjpmlawBK7z_LCZJ6ajOL7g",
+    "photoSore": ""
+  },
+  {
+    "id": 700,
+    "timestamp": "5/22/2026 17:03:44",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1gOErCf2QroDai5OEyN8kWwJOvYRtNpcV",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1gOErCf2QroDai5OEyN8kWwJOvYRtNpcV"
+  },
+  {
+    "id": 701,
+    "timestamp": "5/23/2026 9:26:54",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor dan rumput siap di potong",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1I17NBSe3sMrWcihgEEIFxrQ5_ViHIpDv",
+    "photoPagi": "https://drive.google.com/open?id=1I17NBSe3sMrWcihgEEIFxrQ5_ViHIpDv",
+    "photoSore": ""
+  },
+  {
+    "id": 702,
+    "timestamp": "5/23/2026 9:28:32",
+    "author": "Salaudin",
+    "content": "Memotong rumput di depan parkiran mobil ibuk kepala",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1p5qCqkTh6-Tby6lbgn6ympsjWx9lgTiF",
+    "photoPagi": "https://drive.google.com/open?id=1p5qCqkTh6-Tby6lbgn6ympsjWx9lgTiF",
+    "photoSore": ""
+  },
+  {
+    "id": 703,
+    "timestamp": "5/23/2026 10:36:51",
+    "author": "Salaudin",
+    "content": "Membakar sampah",
+    "output": "Belum selesai",
+    "hambatan": "Hari jumat",
+    "photoUrl": "https://drive.google.com/open?id=1n5KULvftcUoEnn-2m5aNkCkPJLoMctuT",
+    "photoPagi": "https://drive.google.com/open?id=1n5KULvftcUoEnn-2m5aNkCkPJLoMctuT",
+    "photoSore": ""
+  },
+  {
+    "id": 704,
+    "timestamp": "5/23/2026 10:38:08",
+    "author": "Neli Aftariani",
+    "content": "Membakar sampah",
+    "output": "Belum selesai",
+    "hambatan": "Hari jumat",
+    "photoUrl": "https://drive.google.com/open?id=13MtdMTvzl8pUq9DCkNXTs_YQy47_wOWS",
+    "photoPagi": "https://drive.google.com/open?id=13MtdMTvzl8pUq9DCkNXTs_YQy47_wOWS",
+    "photoSore": ""
+  },
+  {
+    "id": 705,
+    "timestamp": "5/24/2026 11:16:22",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor dan menyapu potongan rumput di depan hol mini",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1hD5M_cmLvsmD1i_S2VrdoSLksTrIzzBX",
+    "photoPagi": "https://drive.google.com/open?id=1hD5M_cmLvsmD1i_S2VrdoSLksTrIzzBX",
+    "photoSore": ""
+  },
+  {
+    "id": 706,
+    "timestamp": "5/24/2026 11:17:51",
+    "author": "Neli Aftariani",
+    "content": "Membuang sampah ketempat pembuangan",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=17EnXzpJ8A-w57xv17t5RsFI19eAQ6S7Y",
+    "photoPagi": "https://drive.google.com/open?id=17EnXzpJ8A-w57xv17t5RsFI19eAQ6S7Y",
+    "photoSore": ""
+  },
+  {
+    "id": 707,
+    "timestamp": "5/24/2026 11:19:14",
+    "author": "Salaudin",
+    "content": "Memotong rumput di halaman hol mini",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1gFgKB4z7oBF_hJyJpgRt2rDNyFJ_FcU4",
+    "photoPagi": "https://drive.google.com/open?id=1gFgKB4z7oBF_hJyJpgRt2rDNyFJ_FcU4",
+    "photoSore": ""
+  },
+  {
+    "id": 708,
+    "timestamp": "5/24/2026 19:00:02",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan aula utama dan lap kaca atas",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1kie80Q615LCF2Cneh09cc3q8EsdR5Dsa",
+    "photoPagi": "https://drive.google.com/open?id=1kie80Q615LCF2Cneh09cc3q8EsdR5Dsa",
+    "photoSore": "https://drive.google.com/open?id=1DBTsuxk2-kpcOtGzj4JJzdmVza44TDHy"
+  },
+  {
+    "id": 709,
+    "timestamp": "5/25/2026 7:23:51",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu",
+    "output": "Membersihkan",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1wN_Y3GSAJVXSvqt09oOseAAOwOk_CHE-",
+    "photoPagi": "https://drive.google.com/open?id=1wN_Y3GSAJVXSvqt09oOseAAOwOk_CHE-",
+    "photoSore": ""
+  },
+  {
+    "id": 710,
+    "timestamp": "5/25/2026 8:12:27",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1OQwDa0yp1KrSCFaq49igNjoCytMveLPg",
+    "photoPagi": "https://drive.google.com/open?id=1OQwDa0yp1KrSCFaq49igNjoCytMveLPg",
+    "photoSore": ""
+  },
+  {
+    "id": 711,
+    "timestamp": "5/25/2026 8:13:30",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1eroU8vRqakOjg_2Yv8ryqBaRe_uMKwdt",
+    "photoPagi": "https://drive.google.com/open?id=1eroU8vRqakOjg_2Yv8ryqBaRe_uMKwdt",
+    "photoSore": ""
+  },
+  {
+    "id": 712,
+    "timestamp": "5/25/2026 8:14:32",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT dan pustaka",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1y8cKqDcqgKoEmVrCiqte8xorZI9WY_JY",
+    "photoPagi": "https://drive.google.com/open?id=1y8cKqDcqgKoEmVrCiqte8xorZI9WY_JY",
+    "photoSore": ""
+  },
+  {
+    "id": 713,
+    "timestamp": "5/25/2026 8:15:47",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita didepan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=133SO1i4BWGZIcEU8qOcFXzrg1eZ18Gkw",
+    "photoPagi": "https://drive.google.com/open?id=133SO1i4BWGZIcEU8qOcFXzrg1eZ18Gkw",
+    "photoSore": ""
+  },
+  {
+    "id": 714,
+    "timestamp": "5/25/2026 8:17:13",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit tomat dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1IXfUv6XmziVrGczFFtN1hnAWE6oumBMJ",
+    "photoPagi": "https://drive.google.com/open?id=1IXfUv6XmziVrGczFFtN1hnAWE6oumBMJ",
+    "photoSore": ""
+  },
+  {
+    "id": 715,
+    "timestamp": "5/25/2026 8:43:48",
+    "author": "Mardianto",
+    "content": "Membersihkan samping asrama putra",
+    "output": "bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1ci60CRAxWqjFApph15ozMlfz_KsWEj_E",
+    "photoPagi": "https://drive.google.com/open?id=1ci60CRAxWqjFApph15ozMlfz_KsWEj_E",
+    "photoSore": ""
+  },
+  {
+    "id": 716,
+    "timestamp": "5/25/2026 8:44:53",
+    "author": "Mardianto",
+    "content": "Membersih kan ruangan asrama putra",
+    "output": "bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=11l4_juJG1bkH--1iOEkZooVLOcNvmIXK",
+    "photoPagi": "https://drive.google.com/open?id=11l4_juJG1bkH--1iOEkZooVLOcNvmIXK",
+    "photoSore": ""
+  },
+  {
+    "id": 717,
+    "timestamp": "5/25/2026 8:45:51",
+    "author": "Mardianto",
+    "content": "Membersih kan depan asrama putra",
+    "output": "bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1Bowj4EbCPy8J9RqaxAhnRoydlEKbHeoi",
+    "photoPagi": "https://drive.google.com/open?id=1Bowj4EbCPy8J9RqaxAhnRoydlEKbHeoi",
+    "photoSore": ""
+  },
+  {
+    "id": 718,
+    "timestamp": "5/25/2026 8:48:24",
+    "author": "Fitriandi",
+    "content": "menyapu rumah dinas",
+    "output": "bersih",
+    "hambatan": "sampah potong rumput berserak an",
+    "photoUrl": "https://drive.google.com/open?id=11msusan_1g2lnXz_JkZNLSBxXmBVCSIw",
+    "photoPagi": "https://drive.google.com/open?id=11msusan_1g2lnXz_JkZNLSBxXmBVCSIw",
+    "photoSore": ""
+  },
+  {
+    "id": 719,
+    "timestamp": "5/25/2026 8:50:13",
+    "author": "Fitriandi",
+    "content": "teras ULT dan pustaka",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1l0PyswO5BO3o3MOb9Jx9aB6l2bPyTlX9",
+    "photoPagi": "https://drive.google.com/open?id=1l0PyswO5BO3o3MOb9Jx9aB6l2bPyTlX9",
+    "photoSore": ""
+  },
+  {
+    "id": 720,
+    "timestamp": "5/25/2026 8:51:25",
+    "author": "Fitriandi",
+    "content": "menyiram bunga",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1674Rly9tyaaed2g87l5K41B4xGfcrwr-",
+    "photoPagi": "https://drive.google.com/open?id=1674Rly9tyaaed2g87l5K41B4xGfcrwr-",
+    "photoSore": ""
+  },
+  {
+    "id": 721,
+    "timestamp": "5/25/2026 9:27:47",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor dekat parkiran mobil ibuk kepala",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Kqob3LfuL53BqVCNVd7EuUWnLRCGMvSF",
+    "photoPagi": "https://drive.google.com/open?id=1Kqob3LfuL53BqVCNVd7EuUWnLRCGMvSF",
+    "photoSore": ""
+  },
+  {
+    "id": 722,
+    "timestamp": "5/25/2026 9:30:03",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan lumerasi",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1mzANhNkqNlPKGPSlrxjuMCvpjxYS50hC",
+    "photoPagi": "https://drive.google.com/open?id=1mzANhNkqNlPKGPSlrxjuMCvpjxYS50hC",
+    "photoSore": ""
+  },
+  {
+    "id": 723,
+    "timestamp": "5/25/2026 9:35:53",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan hol mini",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1y3RRSmVh52_H7ZjVxz1SzL6epgTaGwyf",
+    "photoPagi": "https://drive.google.com/open?id=1y3RRSmVh52_H7ZjVxz1SzL6epgTaGwyf",
+    "photoSore": ""
+  },
+  {
+    "id": 724,
+    "timestamp": "5/25/2026 9:37:52",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan parkir mobil di depan gedung baru",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1eJbZ7pO6TpeqyPwwSoO0O-d4EU1t9K0t",
+    "photoPagi": "https://drive.google.com/open?id=1eJbZ7pO6TpeqyPwwSoO0O-d4EU1t9K0t",
+    "photoSore": ""
+  },
+  {
+    "id": 725,
+    "timestamp": "5/25/2026 9:41:18",
+    "author": "Neli Aftariani",
+    "content": "Menyiapkan sonsistem untuk apel pagi",
+    "output": "Aman",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1w97crfGdDL7rcGbawT1gz3a0pA6Fr_g4",
+    "photoPagi": "https://drive.google.com/open?id=1w97crfGdDL7rcGbawT1gz3a0pA6Fr_g4",
+    "photoSore": ""
+  },
+  {
+    "id": 726,
+    "timestamp": "5/25/2026 9:43:41",
+    "author": "Neli Aftariani",
+    "content": "Membuang sampah",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1d1TS78SsY33O3O6jwIpwxeG8mQAJHhQa",
+    "photoPagi": "https://drive.google.com/open?id=1d1TS78SsY33O3O6jwIpwxeG8mQAJHhQa",
+    "photoSore": ""
+  },
+  {
+    "id": 727,
+    "timestamp": "5/25/2026 14:58:32",
+    "author": "Fitriandi",
+    "content": "menyiram bunga di asrama putra",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1VSZ2QI8CXyo16TOG0BzBDXalLcp7F-OG",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1VSZ2QI8CXyo16TOG0BzBDXalLcp7F-OG"
+  },
+  {
+    "id": 728,
+    "timestamp": "5/25/2026 15:42:32",
+    "author": "Mardianto",
+    "content": "Menyiram bunga di samping asrama putra",
+    "output": "Bersih",
+    "hambatan": "aman",
+    "photoUrl": "",
+    "photoPagi": "",
+    "photoSore": ""
+  },
+  {
+    "id": 729,
+    "timestamp": "5/25/2026 15:43:36",
+    "author": "",
+    "content": "Menyiram bunga di samping asrama putra",
+    "output": "bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1lbBlB14eCie_Bgir3PohgPbon2JNEjvx",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1lbBlB14eCie_Bgir3PohgPbon2JNEjvx"
+  },
+  {
+    "id": 730,
+    "timestamp": "5/25/2026 15:44:56",
+    "author": "Mardianto",
+    "content": "Menyiram bunga di samping asrama putra",
+    "output": "bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1XXcYhi7R7d66GlpB8BVbih0xi3LDqDZp",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1XXcYhi7R7d66GlpB8BVbih0xi3LDqDZp"
+  },
+  {
+    "id": 731,
+    "timestamp": "5/25/2026 15:46:10",
+    "author": "",
+    "content": "menyiram bunga di samping asrama putra",
+    "output": "Bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1DDhIvvskROWTW6heu8_6jp2jqsyXLhsC",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1DDhIvvskROWTW6heu8_6jp2jqsyXLhsC"
+  },
+  {
+    "id": 732,
+    "timestamp": "5/25/2026 15:56:55",
+    "author": "Usrialdi",
+    "content": "Membersihkan mushola dan merawan selang air d lantai dua gedung baru yang bocor",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1Q9Ak4OKHCKofQ7GXn01CZDPd42PkFKiz",
+    "photoPagi": "https://drive.google.com/open?id=1Q9Ak4OKHCKofQ7GXn01CZDPd42PkFKiz",
+    "photoSore": "https://drive.google.com/open?id=1wneD1dG9rDGecZV4caN7C5yo07If4eY8"
+  },
+  {
+    "id": 733,
+    "timestamp": "5/25/2026 16:01:15",
+    "author": "Salaudin",
+    "content": "Memotong rumput area kantor",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1VIB6bR9AqddfIO6CLIXLAD2H4be1W2G5",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1VIB6bR9AqddfIO6CLIXLAD2H4be1W2G5"
+  },
+  {
+    "id": 734,
+    "timestamp": "5/25/2026 16:43:54",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1XvnVrXeEOZPyh5CdKDp3ZtDGJ5d9WqP-",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1XvnVrXeEOZPyh5CdKDp3ZtDGJ5d9WqP-"
+  },
+  {
+    "id": 735,
+    "timestamp": "5/26/2026 8:43:47",
+    "author": "Fitriandi",
+    "content": "menyiram tanaman",
+    "output": "bg wrzuh",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1XDrwS2ELeFigc7e7KGGJNpuwZCG7z44P",
+    "photoPagi": "https://drive.google.com/open?id=1XDrwS2ELeFigc7e7KGGJNpuwZCG7z44P",
+    "photoSore": ""
+  },
+  {
+    "id": 736,
+    "timestamp": "5/26/2026 8:44:52",
+    "author": "Fitriandi",
+    "content": "membersihkan lantai utama kantor",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1zl8IamoB0_ACLq1Qh_ZbfRj3M0YLEfxz",
+    "photoPagi": "https://drive.google.com/open?id=1zl8IamoB0_ACLq1Qh_ZbfRj3M0YLEfxz",
+    "photoSore": ""
+  },
+  {
+    "id": 737,
+    "timestamp": "5/26/2026 8:50:22",
+    "author": "Fitriandi",
+    "content": "pel ruangan pengaduan",
+    "output": "bersih",
+    "hambatan": "__",
+    "photoUrl": "https://drive.google.com/open?id=1XPgG_iQ4P3m7xJZ87rqZ16CSxrb6mYF3",
+    "photoPagi": "https://drive.google.com/open?id=1XPgG_iQ4P3m7xJZ87rqZ16CSxrb6mYF3",
+    "photoSore": ""
+  },
+  {
+    "id": 738,
+    "timestamp": "5/26/2026 9:02:21",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1bVCL8Pa6kuiTHQ1eo3xoUreeUL3FlojD",
+    "photoPagi": "https://drive.google.com/open?id=1bVCL8Pa6kuiTHQ1eo3xoUreeUL3FlojD",
+    "photoSore": ""
+  },
+  {
+    "id": 739,
+    "timestamp": "5/26/2026 11:08:54",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1K71TIrITk5Ol8lxpll5Nk2TmgoIIhjec",
+    "photoPagi": "https://drive.google.com/open?id=1K71TIrITk5Ol8lxpll5Nk2TmgoIIhjec",
+    "photoSore": ""
+  },
+  {
+    "id": 740,
+    "timestamp": "5/26/2026 11:09:59",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1GWt2Yfy4HN8loFhXNFNH8MyC3prYq7Of",
+    "photoPagi": "https://drive.google.com/open?id=1GWt2Yfy4HN8loFhXNFNH8MyC3prYq7Of",
+    "photoSore": ""
+  },
+  {
+    "id": 741,
+    "timestamp": "5/26/2026 11:11:01",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1hF2sb9GoeulmMnCMaSuSrq3mDSNi40BO",
+    "photoPagi": "https://drive.google.com/open?id=1hF2sb9GoeulmMnCMaSuSrq3mDSNi40BO",
+    "photoSore": ""
+  },
+  {
+    "id": 742,
+    "timestamp": "5/26/2026 11:12:41",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1U43vCJmrhE3txEHoYRPgKvSO_3mAtzeO",
+    "photoPagi": "https://drive.google.com/open?id=1U43vCJmrhE3txEHoYRPgKvSO_3mAtzeO",
+    "photoSore": ""
+  },
+  {
+    "id": 743,
+    "timestamp": "5/26/2026 11:13:36",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit tomat dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1wA7cF_XlYdOKDJsOMaIbGNMWHnG0MxfB",
+    "photoPagi": "https://drive.google.com/open?id=1wA7cF_XlYdOKDJsOMaIbGNMWHnG0MxfB",
+    "photoSore": ""
+  },
+  {
+    "id": 744,
+    "timestamp": "5/26/2026 11:16:34",
+    "author": "Musrizaldi",
+    "content": "Menerima tamu yang berkunjung ke BGTK SUMBAR",
+    "output": "Lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1qKiHvYubvhFDtGrssSEKWpUW4iYUrl0V",
+    "photoPagi": "https://drive.google.com/open?id=1qKiHvYubvhFDtGrssSEKWpUW4iYUrl0V",
+    "photoSore": ""
+  },
+  {
+    "id": 745,
+    "timestamp": "5/26/2026 16:27:14",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan dalam aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1vXPvIBZ9jgZwIcEkgpWjrivowYaALuXu",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1vXPvIBZ9jgZwIcEkgpWjrivowYaALuXu"
+  },
+  {
+    "id": 746,
+    "timestamp": "5/26/2026 18:24:01",
+    "author": "Usrialdi",
+    "content": "Membersihkan mushola luar dalam",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=11mlskrhULnJVPqzCIHRNSmvHa4lq7w6y",
+    "photoPagi": "https://drive.google.com/open?id=11mlskrhULnJVPqzCIHRNSmvHa4lq7w6y",
+    "photoSore": "https://drive.google.com/open?id=1QXdpJlurxZvTVcMqmo_N-Xkjp5DMH9W3"
+  },
+  {
+    "id": 747,
+    "timestamp": "5/31/2026 18:26:31",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan aula utama buat upacara hari pancasila",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1gUfqpvilOSx6U64Q5XxCq5zDysupV4Cc",
+    "photoPagi": "https://drive.google.com/open?id=1gUfqpvilOSx6U64Q5XxCq5zDysupV4Cc",
+    "photoSore": "https://drive.google.com/open?id=17Pe996h5Pq9vhwRwerKFbfnTxAjjxYPs"
+  },
+  {
+    "id": 748,
+    "timestamp": "6/1/2026 7:15:42",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=13rjqgQwrCUbeEvGLFJe3WMQyB4CO0eiQ",
+    "photoPagi": "https://drive.google.com/open?id=13rjqgQwrCUbeEvGLFJe3WMQyB4CO0eiQ",
+    "photoSore": ""
+  },
+  {
+    "id": 749,
+    "timestamp": "6/1/2026 7:50:22",
+    "author": "Buyung Syafrianto",
+    "content": "Menyiram bunga",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1drpAzUV4iur24RGM0xg0edE_CioX8Q1w",
+    "photoPagi": "https://drive.google.com/open?id=1drpAzUV4iur24RGM0xg0edE_CioX8Q1w",
+    "photoSore": ""
+  },
+  {
+    "id": 750,
+    "timestamp": "6/2/2026 7:43:49",
+    "author": "Mardianto",
+    "content": "Membersihkan samping asrama putra",
+    "output": "bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=14ZunHEyNnPHyMKYx7RPCa-3rUWWTn6OG",
+    "photoPagi": "https://drive.google.com/open?id=14ZunHEyNnPHyMKYx7RPCa-3rUWWTn6OG",
+    "photoSore": ""
+  },
+  {
+    "id": 751,
+    "timestamp": "6/2/2026 7:44:45",
+    "author": "Mardianto",
+    "content": "Membersih kan depan asrama putra",
+    "output": "bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1UW4q6aEVGSqdWIJuC_K4MOyKAA_W5g2J",
+    "photoPagi": "https://drive.google.com/open?id=1UW4q6aEVGSqdWIJuC_K4MOyKAA_W5g2J",
+    "photoSore": ""
+  },
+  {
+    "id": 752,
+    "timestamp": "6/2/2026 7:46:13",
+    "author": "Mardianto",
+    "content": "Membersihkan ruangan asrama putra",
+    "output": "bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1ML9T9Ukp-Ti-ePmLQYIqIWDcJChusrPv",
+    "photoPagi": "https://drive.google.com/open?id=1ML9T9Ukp-Ti-ePmLQYIqIWDcJChusrPv",
+    "photoSore": ""
+  },
+  {
+    "id": 753,
+    "timestamp": "6/2/2026 7:47:20",
+    "author": "Mardianto",
+    "content": "Membersihkan  ruangan tengah asrama putra",
+    "output": "bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1koLo658uybxP6pQESLyenDNPyOOZfCXv",
+    "photoPagi": "https://drive.google.com/open?id=1koLo658uybxP6pQESLyenDNPyOOZfCXv",
+    "photoSore": ""
+  },
+  {
+    "id": 754,
+    "timestamp": "6/2/2026 8:22:20",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan mengepel lantai aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1twU5J1FaAOuIPJfLvLClrsW-s7g03Oq1",
+    "photoPagi": "https://drive.google.com/open?id=1twU5J1FaAOuIPJfLvLClrsW-s7g03Oq1",
+    "photoSore": ""
+  },
+  {
+    "id": 755,
+    "timestamp": "6/2/2026 8:54:13",
+    "author": "Rio Mailando Agustiano",
+    "content": "Menata ruangan aula buat kegiatan guru",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1kw0bTrMi-HZZw7RSRRtaWeo8HL_vxbuL",
+    "photoPagi": "https://drive.google.com/open?id=1kw0bTrMi-HZZw7RSRRtaWeo8HL_vxbuL",
+    "photoSore": "https://drive.google.com/open?id=12Lx9W2mI3M_8akzfaQRCoxPgDHIl9MFQ"
+  },
+  {
+    "id": 756,
+    "timestamp": "6/2/2026 9:21:17",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1a3aD5TveqfQWGlPB5cwzDsuAbVTsYlcd",
+    "photoPagi": "https://drive.google.com/open?id=1a3aD5TveqfQWGlPB5cwzDsuAbVTsYlcd",
+    "photoSore": ""
+  },
+  {
+    "id": 757,
+    "timestamp": "6/2/2026 9:22:19",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1BLBFeCDJjy67jleYjDTpHL4ZWDQH4nAp",
+    "photoPagi": "https://drive.google.com/open?id=1BLBFeCDJjy67jleYjDTpHL4ZWDQH4nAp",
+    "photoSore": ""
+  },
+  {
+    "id": 758,
+    "timestamp": "6/2/2026 9:23:25",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1IbL1esI8l9IayprocAnRmvsNKwe0QEiX",
+    "photoPagi": "https://drive.google.com/open?id=1IbL1esI8l9IayprocAnRmvsNKwe0QEiX",
+    "photoSore": ""
+  },
+  {
+    "id": 759,
+    "timestamp": "6/2/2026 9:24:43",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1FUWaoZ6x_GDl2PCOU-Vjal0K1KEulv3R",
+    "photoPagi": "https://drive.google.com/open?id=1FUWaoZ6x_GDl2PCOU-Vjal0K1KEulv3R",
+    "photoSore": ""
+  },
+  {
+    "id": 760,
+    "timestamp": "6/2/2026 9:25:45",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit tomat dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1d1IB4ID0NrzjMAg9AR_p84Opm_WPB5SV",
+    "photoPagi": "https://drive.google.com/open?id=1d1IB4ID0NrzjMAg9AR_p84Opm_WPB5SV",
+    "photoSore": ""
+  },
+  {
+    "id": 761,
+    "timestamp": "6/2/2026 9:27:43",
+    "author": "Musrizaldi",
+    "content": "Membantu menyusun dan menghitung barang bantuan diaula utama",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=11-5IMu-QC6QPAA5Lb834qbjZvsac9vNF",
+    "photoPagi": "https://drive.google.com/open?id=11-5IMu-QC6QPAA5Lb834qbjZvsac9vNF",
+    "photoSore": ""
+  },
+  {
+    "id": 762,
+    "timestamp": "6/2/2026 14:27:56",
+    "author": "Buyung Syafrianto",
+    "content": "Sampai saat ini masih piket d repsionis kantor",
+    "output": "Stambay",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1z8mUutF0rNC81czXcgZViQv0IvoBsycv",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1z8mUutF0rNC81czXcgZViQv0IvoBsycv"
+  },
+  {
+    "id": 763,
+    "timestamp": "6/2/2026 14:53:27",
+    "author": "Salaudin",
+    "content": "Memberikan kaca are kantor",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=137Rr8ql7iPuZ-UUyt36AiGJSutX_OF4x",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=137Rr8ql7iPuZ-UUyt36AiGJSutX_OF4x"
+  },
+  {
+    "id": 764,
+    "timestamp": "6/2/2026 14:58:35",
+    "author": "Fitriandi",
+    "content": "membersihkan kaca asrama",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1AJyOV95Q7gFxoHVg--2hpZIznSG-zih0",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1AJyOV95Q7gFxoHVg--2hpZIznSG-zih0"
+  },
+  {
+    "id": 765,
+    "timestamp": "6/2/2026 15:03:26",
+    "author": "Fitriandi",
+    "content": "kaca teras depan asrama",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1v0N1j3xUxqfMIUoNOvrN_bCgh-PuYKLo",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1v0N1j3xUxqfMIUoNOvrN_bCgh-PuYKLo"
+  },
+  {
+    "id": 766,
+    "timestamp": "6/2/2026 15:04:45",
+    "author": "Fitriandi",
+    "content": "samping ruangan",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1S13w9rxyErqJPueaMSf6UDKbQW6kevF2",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1S13w9rxyErqJPueaMSf6UDKbQW6kevF2"
+  },
+  {
+    "id": 767,
+    "timestamp": "6/2/2026 15:58:15",
+    "author": "Usrialdi",
+    "content": "Memasang mesin sanio baru d sumur bor yang bari",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1gIAEXP7vjgbjAz7yO3N3GHB5QAjsoi2H",
+    "photoPagi": "https://drive.google.com/open?id=1gIAEXP7vjgbjAz7yO3N3GHB5QAjsoi2H",
+    "photoSore": "https://drive.google.com/open?id=1JGJ-d5_9CVo0UA_ptR55aVRj05xtpP8D"
+  },
+  {
+    "id": 768,
+    "timestamp": "6/2/2026 17:27:00",
+    "author": "Karmawar",
+    "content": "menata lingkungan kantor",
+    "output": "bersih dan rapi",
+    "hambatan": "tak ada",
+    "photoUrl": "https://drive.google.com/open?id=1-LZlU4BSlmFSiH8QtcvVvtnAkI1M8tCR",
+    "photoPagi": "https://drive.google.com/open?id=1-LZlU4BSlmFSiH8QtcvVvtnAkI1M8tCR",
+    "photoSore": "https://drive.google.com/open?id=1JM2p60o6W5Z7yMkcr38GUP6uhqBTtVSK"
+  },
+  {
+    "id": 769,
+    "timestamp": "6/3/2026 7:24:50",
+    "author": "Rio Mailando Agustiano",
+    "content": "Mempersiapkan sound system untuk senam pagi",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1Xd7V7D0D14arvZXd7s3GF1Bj8E4Iwv9_",
+    "photoPagi": "https://drive.google.com/open?id=1Xd7V7D0D14arvZXd7s3GF1Bj8E4Iwv9_",
+    "photoSore": "https://drive.google.com/open?id=1PjcTX779bGNS4UsTaFz-LnVMCpkh1Z_k"
+  },
+  {
+    "id": 770,
+    "timestamp": "6/3/2026 7:38:08",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan area aula mini luar dan dalam",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1gXvvKG-owcxoC7PmC9gNQQGGWPPSsKV1",
+    "photoPagi": "https://drive.google.com/open?id=1gXvvKG-owcxoC7PmC9gNQQGGWPPSsKV1",
+    "photoSore": ""
+  },
+  {
+    "id": 771,
+    "timestamp": "6/3/2026 8:16:43",
+    "author": "Fitriandi",
+    "content": "mengangkat kursi dan meja",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=19gSbVdV16vRTEjIIt8Byb4vNjKZLFL7U",
+    "photoPagi": "https://drive.google.com/open?id=19gSbVdV16vRTEjIIt8Byb4vNjKZLFL7U",
+    "photoSore": ""
+  },
+  {
+    "id": 772,
+    "timestamp": "6/3/2026 9:08:14",
+    "author": "Fitriandi",
+    "content": "memindahkan meja",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1YQT7ASUe1IpT5UQ5l8tkgK-1fE2_NI0h",
+    "photoPagi": "https://drive.google.com/open?id=1YQT7ASUe1IpT5UQ5l8tkgK-1fE2_NI0h",
+    "photoSore": ""
+  },
+  {
+    "id": 773,
+    "timestamp": "6/3/2026 9:42:37",
+    "author": "Fitriandi",
+    "content": "jalan utama kantor",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1j2n0AWEQbnvEpdKJF_LS4OJTbJOVkl68",
+    "photoPagi": "https://drive.google.com/open?id=1j2n0AWEQbnvEpdKJF_LS4OJTbJOVkl68",
+    "photoSore": ""
+  },
+  {
+    "id": 774,
+    "timestamp": "6/3/2026 9:44:26",
+    "author": "Fitriandi",
+    "content": "menyiram bunga di kantor utama",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1_t7xUOoaxqx-y8_HaBMeV0fxEBzTjB-H",
+    "photoPagi": "https://drive.google.com/open?id=1_t7xUOoaxqx-y8_HaBMeV0fxEBzTjB-H",
+    "photoSore": ""
+  },
+  {
+    "id": 775,
+    "timestamp": "6/3/2026 10:39:11",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Q8h-kpVGmrNhcSg9wXYROq67VJqZODKW",
+    "photoPagi": "https://drive.google.com/open?id=1Q8h-kpVGmrNhcSg9wXYROq67VJqZODKW",
+    "photoSore": ""
+  },
+  {
+    "id": 776,
+    "timestamp": "6/3/2026 10:40:07",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1vPrtvmcxjgys1lARAaUxmzt1C6XBbs0c",
+    "photoPagi": "https://drive.google.com/open?id=1vPrtvmcxjgys1lARAaUxmzt1C6XBbs0c",
+    "photoSore": ""
+  },
+  {
+    "id": 777,
+    "timestamp": "6/3/2026 10:41:00",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1LlmMAP9Yl5f0EESZx2NUHwKgwQH7KEGC",
+    "photoPagi": "https://drive.google.com/open?id=1LlmMAP9Yl5f0EESZx2NUHwKgwQH7KEGC",
+    "photoSore": ""
+  },
+  {
+    "id": 778,
+    "timestamp": "6/3/2026 10:41:54",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1sj4xNXPGgF6dGpRr8UtO6egiHbWXbATm",
+    "photoPagi": "https://drive.google.com/open?id=1sj4xNXPGgF6dGpRr8UtO6egiHbWXbATm",
+    "photoSore": ""
+  },
+  {
+    "id": 779,
+    "timestamp": "6/3/2026 10:42:47",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit tomat dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1pmIQjkGosDVOPE5whdX-ZVewfYTIINmh",
+    "photoPagi": "https://drive.google.com/open?id=1pmIQjkGosDVOPE5whdX-ZVewfYTIINmh",
+    "photoSore": ""
+  },
+  {
+    "id": 780,
+    "timestamp": "6/3/2026 10:44:27",
+    "author": "Musrizaldi",
+    "content": "Menerima tamu dari kab. Padang Pariaman",
+    "output": "Lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1NU4ANvwLTBTW_rya3dRJTz4cfWDChhOo",
+    "photoPagi": "https://drive.google.com/open?id=1NU4ANvwLTBTW_rya3dRJTz4cfWDChhOo",
+    "photoSore": ""
+  },
+  {
+    "id": 781,
+    "timestamp": "6/3/2026 12:22:30",
+    "author": "Fitriandi",
+    "content": "membersihkan AC diruangan tu",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=11iSMF6n452qrsf-h-IPRL8Sr4T_EaVm1",
+    "photoPagi": "https://drive.google.com/open?id=11iSMF6n452qrsf-h-IPRL8Sr4T_EaVm1",
+    "photoSore": ""
+  },
+  {
+    "id": 782,
+    "timestamp": "6/3/2026 13:53:50",
+    "author": "Fitriandi",
+    "content": "sarana dan prasarana di ruangan telekonfren",
+    "output": "ac",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1LGypLBAMPHtGKr7Gbfobb4IBUQa1C0mH",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1LGypLBAMPHtGKr7Gbfobb4IBUQa1C0mH"
+  },
+  {
+    "id": 783,
+    "timestamp": "6/3/2026 14:58:55",
+    "author": "Karmawar",
+    "content": "menata lingkungan kantor dan sekitarnya",
+    "output": "bersih dan rapi",
+    "hambatan": "tak ada",
+    "photoUrl": "https://drive.google.com/open?id=1DSSvUs4lbusnTtK-8ojOHUxuBusfp2mK",
+    "photoPagi": "https://drive.google.com/open?id=1DSSvUs4lbusnTtK-8ojOHUxuBusfp2mK",
+    "photoSore": "https://drive.google.com/open?id=1iMn2oqyO8R7TcKkL2q5aJbWOfWn8WtU4"
+  },
+  {
+    "id": 784,
+    "timestamp": "6/3/2026 16:08:57",
+    "author": "Usrialdi",
+    "content": "Memasang instalasi air",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1mpIGe5k1fZUVC7CvbPlXl-YEmRGlsn-t",
+    "photoPagi": "https://drive.google.com/open?id=1mpIGe5k1fZUVC7CvbPlXl-YEmRGlsn-t",
+    "photoSore": "https://drive.google.com/open?id=1uSlQzks86sO7AhDCBky4hcqfuWxWO1K_"
+  },
+  {
+    "id": 785,
+    "timestamp": "6/3/2026 17:47:28",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=181P8WR9j3hJ1sU2bV80FljC8LTk0qcTr",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=181P8WR9j3hJ1sU2bV80FljC8LTk0qcTr"
+  },
+  {
+    "id": 786,
+    "timestamp": "6/4/2026 8:25:55",
+    "author": "Ade inputra",
+    "content": "bersihkan teras arsip dan konten wayoik",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tgl 2 juni 2026",
+    "photoUrl": "https://drive.google.com/open?id=1YHyk8PHybTLAqCfIRgDXY6Y2s1fxUF05",
+    "photoPagi": "https://drive.google.com/open?id=1YHyk8PHybTLAqCfIRgDXY6Y2s1fxUF05",
+    "photoSore": "https://drive.google.com/open?id=14shKIdnitEzpGWj3Qc2qv-beIixBqnnI"
+  },
+  {
+    "id": 787,
+    "timestamp": "6/4/2026 8:32:36",
+    "author": "Ade inputra",
+    "content": "bersihkan teras dan ruang berlajar arsip",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tgl 3 juni 2026",
+    "photoUrl": "https://drive.google.com/open?id=1qz4CrYBUHJzpVeH4zQHeS5B1755HKkiH",
+    "photoPagi": "https://drive.google.com/open?id=1qz4CrYBUHJzpVeH4zQHeS5B1755HKkiH",
+    "photoSore": "https://drive.google.com/open?id=1zRL1iTz2WJAIgOOgjwwEcbcIq_Rjdqh6"
+  },
+  {
+    "id": 788,
+    "timestamp": "6/4/2026 8:48:43",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan dan menyusun kursi buat kegiatan di aula utama",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1ad6HgJdKG1dQwbYEX6-3KyU-njTzPwk5",
+    "photoPagi": "https://drive.google.com/open?id=1ad6HgJdKG1dQwbYEX6-3KyU-njTzPwk5",
+    "photoSore": "https://drive.google.com/open?id=12bFe1HYCwjbu51cdhhNLkzevyTcNJa2x"
+  },
+  {
+    "id": 789,
+    "timestamp": "6/4/2026 11:56:56",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=11_JnRjfu9Yv2qHhR7WaSf-IJPN2yQkdJ",
+    "photoPagi": "https://drive.google.com/open?id=11_JnRjfu9Yv2qHhR7WaSf-IJPN2yQkdJ",
+    "photoSore": ""
+  },
+  {
+    "id": 790,
+    "timestamp": "6/4/2026 11:58:34",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1P0s1MUkv07JkDYgiCW8Z_wypgyUKGXZM",
+    "photoPagi": "https://drive.google.com/open?id=1P0s1MUkv07JkDYgiCW8Z_wypgyUKGXZM",
+    "photoSore": ""
+  },
+  {
+    "id": 791,
+    "timestamp": "6/4/2026 12:00:03",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1w1MpvPE_FJsMl9tKK-1tQ10ymxu7VAF1",
+    "photoPagi": "https://drive.google.com/open?id=1w1MpvPE_FJsMl9tKK-1tQ10ymxu7VAF1",
+    "photoSore": ""
+  },
+  {
+    "id": 792,
+    "timestamp": "6/4/2026 12:00:57",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1GZPXgKtiSD_oE1HbtmyJPDWWY4ez087B",
+    "photoPagi": "https://drive.google.com/open?id=1GZPXgKtiSD_oE1HbtmyJPDWWY4ez087B",
+    "photoSore": ""
+  },
+  {
+    "id": 793,
+    "timestamp": "6/4/2026 12:01:59",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1ih-9hX62Y6ha-nR15SyvBkbhLE5S-yNJ",
+    "photoPagi": "https://drive.google.com/open?id=1ih-9hX62Y6ha-nR15SyvBkbhLE5S-yNJ",
+    "photoSore": ""
+  },
+  {
+    "id": 794,
+    "timestamp": "6/4/2026 12:03:41",
+    "author": "Musrizaldi",
+    "content": "Mencabut rumput depan teras numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1gJP-ZT4IWNsfrVGHGY6VrLV683W31UDx",
+    "photoPagi": "https://drive.google.com/open?id=1gJP-ZT4IWNsfrVGHGY6VrLV683W31UDx",
+    "photoSore": ""
+  },
+  {
+    "id": 795,
+    "timestamp": "6/4/2026 12:19:14",
+    "author": "Musrizaldi",
+    "content": "Rapat penjelasan asesmen kompetensi diruang telecomferen",
+    "output": "Lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=13JJOvZpOzWMDQ5p2dawTIhEZQanXuL5u",
+    "photoPagi": "https://drive.google.com/open?id=13JJOvZpOzWMDQ5p2dawTIhEZQanXuL5u",
+    "photoSore": ""
+  },
+  {
+    "id": 796,
+    "timestamp": "6/4/2026 12:21:38",
+    "author": "Musrizaldi",
+    "content": "Mencek teknisi memperbaiki AC diruangan pustaka dan ULT",
+    "output": "Lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1odl37ZuNgcNO_VHo9iTMtt2hcm9rFJ1Q",
+    "photoPagi": "https://drive.google.com/open?id=1odl37ZuNgcNO_VHo9iTMtt2hcm9rFJ1Q",
+    "photoSore": ""
+  },
+  {
+    "id": 797,
+    "timestamp": "6/4/2026 16:02:13",
+    "author": "Usrialdi",
+    "content": "Membersihkan mushola dan mengepel teras mushola",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=102C7Z13bG3j6UnYfcEsWA4E9Lk6QzT-B",
+    "photoPagi": "https://drive.google.com/open?id=102C7Z13bG3j6UnYfcEsWA4E9Lk6QzT-B",
+    "photoSore": "https://drive.google.com/open?id=1KRtIqOCY8gdpmjaC-2PbbJdF62RrYPCb"
+  },
+  {
+    "id": 798,
+    "timestamp": "6/4/2026 16:20:46",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan mengepel lantai aula mini luar dan dalam",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1RobgmruP26RAHuhYdlVF3uPaN6EmEvzt",
+    "photoPagi": "https://drive.google.com/open?id=1RobgmruP26RAHuhYdlVF3uPaN6EmEvzt",
+    "photoSore": ""
+  },
+  {
+    "id": 799,
+    "timestamp": "6/4/2026 16:22:07",
+    "author": "Buyung Syafrianto",
+    "content": "Menyusun kursi dan menyapu",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1Zp8ZrHUfvIxIsyJcT2TR2Te4Xoo1L7ej",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1Zp8ZrHUfvIxIsyJcT2TR2Te4Xoo1L7ej"
+  },
+  {
+    "id": 800,
+    "timestamp": "6/4/2026 17:13:37",
     "author": "Salaudin",
     "content": "Memberikan area kantor",
     "output": "Aman",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1DsxOWihwcyys9V3bsSmVRpq6m6vMJ6aJ"
+    "photoUrl": "https://drive.google.com/open?id=16XXdGcr7cLrIUfbZd8vWMdCFLmb5BGkn",
+    "photoPagi": "https://drive.google.com/open?id=16XXdGcr7cLrIUfbZd8vWMdCFLmb5BGkn",
+    "photoSore": ""
   },
   {
-    "id": 664,
-    "timestamp": "4/30/2026 16:42:38",
+    "id": 801,
+    "timestamp": "6/4/2026 19:35:20",
+    "author": "Karmawar",
+    "content": "menata lingkungan kantor sekitarnya",
+    "output": "bersih dan rapi",
+    "hambatan": "tak ada",
+    "photoUrl": "https://drive.google.com/open?id=1pe3xvFRe24W-o-bfz6IixF9SRnPf9cfm",
+    "photoPagi": "https://drive.google.com/open?id=1pe3xvFRe24W-o-bfz6IixF9SRnPf9cfm",
+    "photoSore": "https://drive.google.com/open?id=19aRTAi8Q7-79Uext6lbsmBMH-er04cGh"
+  },
+  {
+    "id": 802,
+    "timestamp": "6/7/2026 18:47:00",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan ruangan aula utama dan halaman untuk apel senin pagi",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1r21rcUkmM-EnM_gsT-5P7tIannvj5iLN",
+    "photoPagi": "https://drive.google.com/open?id=1r21rcUkmM-EnM_gsT-5P7tIannvj5iLN",
+    "photoSore": "https://drive.google.com/open?id=1yyYcAY5muwBTvS0A_lzkFkY8TiyDIG3B"
+  },
+  {
+    "id": 803,
+    "timestamp": "6/7/2026 18:56:41",
+    "author": "Rio Mailando Agustiano",
+    "content": "Memberaihkan dan menata ruangan buat acara wayoik",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1We5Aa6KthL6_q6aHP1pw9gioru5agr3y",
+    "photoPagi": "https://drive.google.com/open?id=1We5Aa6KthL6_q6aHP1pw9gioru5agr3y",
+    "photoSore": "https://drive.google.com/open?id=15nkV4Zf13LJ1TcjftElzpvYdDi-D9VDm"
+  },
+  {
+    "id": 804,
+    "timestamp": "6/7/2026 18:57:44",
+    "author": "Rio Mailando Agustiano",
+    "content": "Menata ruangan aula",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1MrtKKTbz_NgbOEOKlu0p0i7pzuQs5mJR",
+    "photoPagi": "https://drive.google.com/open?id=1MrtKKTbz_NgbOEOKlu0p0i7pzuQs5mJR",
+    "photoSore": ""
+  },
+  {
+    "id": 805,
+    "timestamp": "6/8/2026 7:31:07",
     "author": "Buyung Syafrianto",
-    "content": "Menyapu dan memberikan ruang aula mini",
-    "output": "Selesai",
+    "content": "Menyapu lantai aula mini",
+    "output": "Membersihkan",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=1JxsEOYB2V6WVgtWPEP67qWPxAXtq6sMi"
+    "photoUrl": "https://drive.google.com/open?id=1xsBGcRvbyWf6rMOK-7pAqi1ddNO5rM2T",
+    "photoPagi": "https://drive.google.com/open?id=1xsBGcRvbyWf6rMOK-7pAqi1ddNO5rM2T",
+    "photoSore": ""
   },
   {
-    "id": 665,
-    "timestamp": "4/30/2026 18:18:01",
-    "author": "Usrialdi",
-    "content": "Membersihkan aula mini dan mushola",
+    "id": 806,
+    "timestamp": "6/8/2026 10:04:23",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1CYp96HC6sGvA_RjI88fdj4kOwSfZ5EJ9",
+    "photoPagi": "https://drive.google.com/open?id=1CYp96HC6sGvA_RjI88fdj4kOwSfZ5EJ9",
+    "photoSore": ""
+  },
+  {
+    "id": 807,
+    "timestamp": "6/8/2026 10:05:29",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1XKEAHRPT88h3_O5dFZiqsYwg6P5VIQL9",
+    "photoPagi": "https://drive.google.com/open?id=1XKEAHRPT88h3_O5dFZiqsYwg6P5VIQL9",
+    "photoSore": ""
+  },
+  {
+    "id": 808,
+    "timestamp": "6/8/2026 10:06:28",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1g9TaH8CnGm023q1T4ySuC0gVh56brqf1",
+    "photoPagi": "https://drive.google.com/open?id=1g9TaH8CnGm023q1T4ySuC0gVh56brqf1",
+    "photoSore": ""
+  },
+  {
+    "id": 809,
+    "timestamp": "6/8/2026 10:07:24",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1wg89TDAroxbWQ6uZsqzOF8iDVROcHgMx",
+    "photoPagi": "https://drive.google.com/open?id=1wg89TDAroxbWQ6uZsqzOF8iDVROcHgMx",
+    "photoSore": ""
+  },
+  {
+    "id": 810,
+    "timestamp": "6/8/2026 10:08:40",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit tomat dan terong",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1ygK8uFvnocu1YUyDgP7RtBpJ3RauH2ee",
+    "photoPagi": "https://drive.google.com/open?id=1ygK8uFvnocu1YUyDgP7RtBpJ3RauH2ee",
+    "photoSore": ""
+  },
+  {
+    "id": 811,
+    "timestamp": "6/8/2026 11:41:18",
+    "author": "Fitriandi",
+    "content": "penempelan stiker BMN",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=16g_tZUljyh4oT3xwbdgNeHJdxckH1JZ7",
+    "photoPagi": "https://drive.google.com/open?id=16g_tZUljyh4oT3xwbdgNeHJdxckH1JZ7",
+    "photoSore": ""
+  },
+  {
+    "id": 812,
+    "timestamp": "6/8/2026 11:42:34",
+    "author": "Fitriandi",
+    "content": "tamu dari hotel",
+    "output": "menemui buk Surya marlina",
+    "hambatan": "ketemu",
+    "photoUrl": "https://drive.google.com/open?id=1fkjR3GRsdmE0Vuw7Uqi8Tct7obogS5YV",
+    "photoPagi": "https://drive.google.com/open?id=1fkjR3GRsdmE0Vuw7Uqi8Tct7obogS5YV",
+    "photoSore": ""
+  },
+  {
+    "id": 813,
+    "timestamp": "6/8/2026 11:58:33",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan ruangan aula utama dab teras aula utama",
     "output": "Selesai",
     "hambatan": "-",
-    "photoUrl": "https://drive.google.com/open?id=14xZN0_V9Wv5uMYmY1GCpVf_nKdaq_dl0"
+    "photoUrl": "https://drive.google.com/open?id=1uvBIM9efAlnsISlSbRhUfnXSXXGCoBTU",
+    "photoPagi": "https://drive.google.com/open?id=1uvBIM9efAlnsISlSbRhUfnXSXXGCoBTU",
+    "photoSore": "https://drive.google.com/open?id=19xV35SVIJOR3ni2tPoRrexL5NXipPJnx"
+  },
+  {
+    "id": 814,
+    "timestamp": "6/8/2026 15:38:59",
+    "author": "Salaudin",
+    "content": "Memberikan area membuang sampah ketempat pembuangan sampah",
+    "output": "Aman",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1bW884jBrGk27MJhyQpiuVzGpI2tqTaHL",
+    "photoPagi": "https://drive.google.com/open?id=1bW884jBrGk27MJhyQpiuVzGpI2tqTaHL",
+    "photoSore": ""
+  },
+  {
+    "id": 815,
+    "timestamp": "6/8/2026 16:10:22",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan area dalam aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1Vx1olIcz14a7Yn1zSqYG6lKb_tuhhftd",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1Vx1olIcz14a7Yn1zSqYG6lKb_tuhhftd"
+  },
+  {
+    "id": 816,
+    "timestamp": "6/8/2026 17:16:09",
+    "author": "Karmawar",
+    "content": "menata lingkungan kantor",
+    "output": "rapi dan bersih",
+    "hambatan": "tak ada kendala",
+    "photoUrl": "https://drive.google.com/open?id=1dqwzZw5G9mmLoa3Zfa3eaQaBuxpnQeIa",
+    "photoPagi": "https://drive.google.com/open?id=1dqwzZw5G9mmLoa3Zfa3eaQaBuxpnQeIa",
+    "photoSore": "https://drive.google.com/open?id=1bCgYi1gQkdmZcvNIBmV3aAP_prMgokDd"
+  },
+  {
+    "id": 817,
+    "timestamp": "6/9/2026 8:10:05",
+    "author": "Fitriandi",
+    "content": "teras pustaka",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1ANJdooXhH2HgrK-V8Kc3lhj00zmcb6Qf",
+    "photoPagi": "https://drive.google.com/open?id=1ANJdooXhH2HgrK-V8Kc3lhj00zmcb6Qf",
+    "photoSore": ""
+  },
+  {
+    "id": 818,
+    "timestamp": "6/9/2026 8:10:51",
+    "author": "Fitriandi",
+    "content": "teras pengaduan",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1AUerG9DU-y1_BrC4UJJ4sbEOzxNXICPk",
+    "photoPagi": "https://drive.google.com/open?id=1AUerG9DU-y1_BrC4UJJ4sbEOzxNXICPk",
+    "photoSore": ""
+  },
+  {
+    "id": 819,
+    "timestamp": "6/9/2026 8:11:40",
+    "author": "Fitriandi",
+    "content": "teras ULT",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1171LGixPO42xUdE7G63cHhZ78O5FrRCo",
+    "photoPagi": "https://drive.google.com/open?id=1171LGixPO42xUdE7G63cHhZ78O5FrRCo",
+    "photoSore": ""
+  },
+  {
+    "id": 820,
+    "timestamp": "6/9/2026 8:47:34",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1fACyWjrtP5nKFX-0atg_ZH_-GG4BfHmw",
+    "photoPagi": "https://drive.google.com/open?id=1fACyWjrtP5nKFX-0atg_ZH_-GG4BfHmw",
+    "photoSore": ""
+  },
+  {
+    "id": 821,
+    "timestamp": "6/9/2026 8:48:36",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1bhiigTU-Nagm7q3o_psUoqvTTe77SIpp",
+    "photoPagi": "https://drive.google.com/open?id=1bhiigTU-Nagm7q3o_psUoqvTTe77SIpp",
+    "photoSore": ""
+  },
+  {
+    "id": 822,
+    "timestamp": "6/9/2026 8:49:42",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=13qz9cNKhxojxDTK7JLPMPF4Gxl8c9Kct",
+    "photoPagi": "https://drive.google.com/open?id=13qz9cNKhxojxDTK7JLPMPF4Gxl8c9Kct",
+    "photoSore": ""
+  },
+  {
+    "id": 823,
+    "timestamp": "6/9/2026 8:50:36",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1NbKJEoMGWxF1qOJDbsOEZ2DjLohMUqg9",
+    "photoPagi": "https://drive.google.com/open?id=1NbKJEoMGWxF1qOJDbsOEZ2DjLohMUqg9",
+    "photoSore": ""
+  },
+  {
+    "id": 824,
+    "timestamp": "6/9/2026 8:51:39",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=14vv4yXJ5EVxJode7Gg0kMju0SgpvLTES",
+    "photoPagi": "https://drive.google.com/open?id=14vv4yXJ5EVxJode7Gg0kMju0SgpvLTES",
+    "photoSore": ""
+  },
+  {
+    "id": 825,
+    "timestamp": "6/9/2026 8:55:28",
+    "author": "Musrizaldi",
+    "content": "Tamu datang mengukur baju kemeja putih untuk pegawai BGTK SUMBAR",
+    "output": "Lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Z4wo5dYHEO5AuybBAd1EiNQGxkNw-LmW",
+    "photoPagi": "https://drive.google.com/open?id=1Z4wo5dYHEO5AuybBAd1EiNQGxkNw-LmW",
+    "photoSore": ""
+  },
+  {
+    "id": 826,
+    "timestamp": "6/9/2026 16:04:43",
+    "author": "Salaudin",
+    "content": "Melakukan tugas kebersihan",
+    "output": "",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1Pvc3mirZ_lDqNXIb4EfgzI_hHfFYPq0R",
+    "photoPagi": "https://drive.google.com/open?id=1Pvc3mirZ_lDqNXIb4EfgzI_hHfFYPq0R",
+    "photoSore": ""
+  },
+  {
+    "id": 827,
+    "timestamp": "6/9/2026 16:08:06",
+    "author": "Buyung Syafrianto",
+    "content": "Kondisi bersih",
+    "output": "Selesai",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1dHMiUy8n28J4gQzS3FFeB7QR1pAdCpHa",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1dHMiUy8n28J4gQzS3FFeB7QR1pAdCpHa"
+  },
+  {
+    "id": 828,
+    "timestamp": "6/9/2026 17:43:10",
+    "author": "Karmawar",
+    "content": "menatta lingkungan kantor",
+    "output": "rapi dan bersih",
+    "hambatan": "tak ada kendala",
+    "photoUrl": "https://drive.google.com/open?id=1FGTGUUlxx2qkODIESG9szEr6pDq1VTF-",
+    "photoPagi": "https://drive.google.com/open?id=1FGTGUUlxx2qkODIESG9szEr6pDq1VTF-",
+    "photoSore": "https://drive.google.com/open?id=1Swk1jVSK_yAghUGSozzpv92CJJM9UUlk"
+  },
+  {
+    "id": 829,
+    "timestamp": "6/11/2026 7:48:19",
+    "author": "Ade inputra",
+    "content": "bersihkan ruang BMN dan ruang mkn",
+    "output": "terselsesaikan pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1svAwlseXmqu886xyyzZcQQR2BtJuKEM3",
+    "photoPagi": "https://drive.google.com/open?id=1svAwlseXmqu886xyyzZcQQR2BtJuKEM3",
+    "photoSore": "https://drive.google.com/open?id=13IYmCvgGmeMaIWmpLfcc04EnNayI5Ex4"
+  },
+  {
+    "id": 830,
+    "timestamp": "6/11/2026 7:52:17",
+    "author": "Ade inputra",
+    "content": "bersihkan teras arsip dan ruang belajar Wi",
+    "output": "rapi dan bersih",
+    "hambatan": "tgl 9 juni 2026",
+    "photoUrl": "https://drive.google.com/open?id=1h25NOpQuna1glGvHNOSLOZJ9bqH1tBfM",
+    "photoPagi": "https://drive.google.com/open?id=1h25NOpQuna1glGvHNOSLOZJ9bqH1tBfM",
+    "photoSore": "https://drive.google.com/open?id=1lYL8BJkL4Dvh9DhunVs8gTYTSTaoPRBU"
+  },
+  {
+    "id": 831,
+    "timestamp": "6/11/2026 7:54:05",
+    "author": "Ade inputra",
+    "content": "bersih ruang arsip dan pendataan BMN",
+    "output": "terselelsaikan pekerjaan",
+    "hambatan": "tgl 8 juni 2026",
+    "photoUrl": "https://drive.google.com/open?id=1jlNJ5SdiZ14fJP7ga6Sk9meDdqyiKdjG",
+    "photoPagi": "https://drive.google.com/open?id=1jlNJ5SdiZ14fJP7ga6Sk9meDdqyiKdjG",
+    "photoSore": "https://drive.google.com/open?id=1j8qHPNj9r_aT_wBJ2KMa9vh0iMeEXVpu"
+  },
+  {
+    "id": 832,
+    "timestamp": "6/11/2026 7:59:13",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu area aula mini BGTK Sumbar",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=12iRttg_j4eR_5tsKP6TqnMV2KPZjD1hF",
+    "photoPagi": "https://drive.google.com/open?id=12iRttg_j4eR_5tsKP6TqnMV2KPZjD1hF",
+    "photoSore": ""
+  },
+  {
+    "id": 833,
+    "timestamp": "6/11/2026 9:54:01",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1j33NGuGBXquFuUHCTbiWQEwRHI1u3q-j",
+    "photoPagi": "https://drive.google.com/open?id=1j33NGuGBXquFuUHCTbiWQEwRHI1u3q-j",
+    "photoSore": ""
+  },
+  {
+    "id": 834,
+    "timestamp": "6/11/2026 9:55:07",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1pwodWSdji2XOZyx6Pr1UJFDHISdKmS5N",
+    "photoPagi": "https://drive.google.com/open?id=1pwodWSdji2XOZyx6Pr1UJFDHISdKmS5N",
+    "photoSore": ""
+  },
+  {
+    "id": 835,
+    "timestamp": "6/11/2026 9:56:04",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1eDmxT4EBAvYEEUJ0uyKtoNzXOYch_w5q",
+    "photoPagi": "https://drive.google.com/open?id=1eDmxT4EBAvYEEUJ0uyKtoNzXOYch_w5q",
+    "photoSore": ""
+  },
+  {
+    "id": 836,
+    "timestamp": "6/11/2026 9:57:03",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1GfpiYmeBk_w9X--LO7lHfuWZ-lotkaaw",
+    "photoPagi": "https://drive.google.com/open?id=1GfpiYmeBk_w9X--LO7lHfuWZ-lotkaaw",
+    "photoSore": ""
+  },
+  {
+    "id": 837,
+    "timestamp": "6/11/2026 9:58:03",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1A-3YNMYhbEsZKL8P7wfmyJ4s9cUNUW4m",
+    "photoPagi": "https://drive.google.com/open?id=1A-3YNMYhbEsZKL8P7wfmyJ4s9cUNUW4m",
+    "photoSore": ""
+  },
+  {
+    "id": 838,
+    "timestamp": "6/11/2026 10:00:45",
+    "author": "Musrizaldi",
+    "content": "Memindahkan bibit terong dan cabe ke pekarangan depan pustaka bersama ibuk subag",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1KgE6dEfLfjaSXpDhgvBqhfCOj-Rgvy0G",
+    "photoPagi": "https://drive.google.com/open?id=1KgE6dEfLfjaSXpDhgvBqhfCOj-Rgvy0G",
+    "photoSore": ""
+  },
+  {
+    "id": 839,
+    "timestamp": "6/11/2026 11:17:31",
+    "author": "Usrialdi",
+    "content": "Mengepel mushola luar dan dalam",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1quVspX_hfudGfxPBMOVnPiYlkREzBpaP",
+    "photoPagi": "https://drive.google.com/open?id=1quVspX_hfudGfxPBMOVnPiYlkREzBpaP",
+    "photoSore": "https://drive.google.com/open?id=1b-PwZ13nmQEL7S6U9bIjKJ-4AQz-6Kv_"
+  },
+  {
+    "id": 840,
+    "timestamp": "6/11/2026 13:36:06",
+    "author": "Fitriandi",
+    "content": "menempel logo unventaris",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1ww_74o8Zhorh6yys9vERFvEMEEFGH3rQ",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1ww_74o8Zhorh6yys9vERFvEMEEFGH3rQ"
+  },
+  {
+    "id": 841,
+    "timestamp": "6/11/2026 13:37:35",
+    "author": "Fitriandi",
+    "content": "menempel logo inventaris diruangan TU",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1KtCIahYKaW5jvxdzxtk86mkNdPAX99e5",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1KtCIahYKaW5jvxdzxtk86mkNdPAX99e5"
+  },
+  {
+    "id": 842,
+    "timestamp": "6/11/2026 13:37:38",
+    "author": "Salaudin",
+    "content": "Melakukan tugas kebersihan",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1Rw3S9bId1VAWR3Vd9KYhLjUU1v-DiwoH",
+    "photoPagi": "https://drive.google.com/open?id=1Rw3S9bId1VAWR3Vd9KYhLjUU1v-DiwoH",
+    "photoSore": ""
+  },
+  {
+    "id": 843,
+    "timestamp": "6/11/2026 13:38:57",
+    "author": "Fitriandi",
+    "content": "menata pembersihan ruangan pengaduan",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1jPBBhBgatM-rF22F5DAwHXkpWMJnts40",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1jPBBhBgatM-rF22F5DAwHXkpWMJnts40"
+  },
+  {
+    "id": 844,
+    "timestamp": "6/11/2026 16:05:28",
+    "author": "Karmawar",
+    "content": "menata lingkungan kantor",
+    "output": "rapi dan bersih",
+    "hambatan": "tak ada",
+    "photoUrl": "https://drive.google.com/open?id=1o0Llo0eRa4JdYuhBo2Z6MROMYLdViQZr",
+    "photoPagi": "https://drive.google.com/open?id=1o0Llo0eRa4JdYuhBo2Z6MROMYLdViQZr",
+    "photoSore": "https://drive.google.com/open?id=1r6NjA-RgWvK14ZxEfaIKYHzzG9o2iypP"
+  },
+  {
+    "id": 845,
+    "timestamp": "6/11/2026 16:10:07",
+    "author": "Buyung Syafrianto",
+    "content": "Tugas di repsionis gedung utama kantor BGTK Provinsi Sumbar",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1kBlRif1ihxrNbGTvIjK6J66I2jq6kd9F",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1kBlRif1ihxrNbGTvIjK6J66I2jq6kd9F"
+  },
+  {
+    "id": 846,
+    "timestamp": "6/12/2026 9:39:48",
+    "author": "Buyung Syafrianto",
+    "content": "Mengerjakan SKP",
+    "output": "Selasai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1l-LmZSK-EXDyItXXQvc5FwMr2hXIcG7J",
+    "photoPagi": "https://drive.google.com/open?id=1l-LmZSK-EXDyItXXQvc5FwMr2hXIcG7J",
+    "photoSore": ""
+  },
+  {
+    "id": 847,
+    "timestamp": "6/15/2026 7:36:50",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan mengepel area aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1o6YsG05lZc4lyzvqq7Sj-veu4fLmo4Xr",
+    "photoPagi": "https://drive.google.com/open?id=1o6YsG05lZc4lyzvqq7Sj-veu4fLmo4Xr",
+    "photoSore": ""
+  },
+  {
+    "id": 848,
+    "timestamp": "6/15/2026 9:27:51",
+    "author": "Salaudin",
+    "content": "Melakukan tugas kebersihan",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=11-61QlQdlvAiQYraf-GUP0vnJarUHXIK",
+    "photoPagi": "https://drive.google.com/open?id=11-61QlQdlvAiQYraf-GUP0vnJarUHXIK",
+    "photoSore": ""
+  },
+  {
+    "id": 849,
+    "timestamp": "6/15/2026 10:10:19",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1-KRLuELrhUMSnoMXu1vjbkpo38evHtFo",
+    "photoPagi": "https://drive.google.com/open?id=1-KRLuELrhUMSnoMXu1vjbkpo38evHtFo",
+    "photoSore": ""
+  },
+  {
+    "id": 850,
+    "timestamp": "6/15/2026 10:11:14",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1ZNGVgGeyZo_7fhgY8bFSXSMHRcEYA-qz",
+    "photoPagi": "https://drive.google.com/open?id=1ZNGVgGeyZo_7fhgY8bFSXSMHRcEYA-qz",
+    "photoSore": ""
+  },
+  {
+    "id": 851,
+    "timestamp": "6/15/2026 10:12:14",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1xfJ9A7rm2epONubZ-ZhAeONSkfD_hlAD",
+    "photoPagi": "https://drive.google.com/open?id=1xfJ9A7rm2epONubZ-ZhAeONSkfD_hlAD",
+    "photoSore": ""
+  },
+  {
+    "id": 852,
+    "timestamp": "6/15/2026 10:13:34",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1wR7m8HS1zTrexn3e83Mq3gjkzIX7a3ll",
+    "photoPagi": "https://drive.google.com/open?id=1wR7m8HS1zTrexn3e83Mq3gjkzIX7a3ll",
+    "photoSore": ""
+  },
+  {
+    "id": 853,
+    "timestamp": "6/15/2026 10:14:35",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1AvHWmLSAls5O9wAMEkLuW21nHQDvXaSn",
+    "photoPagi": "https://drive.google.com/open?id=1AvHWmLSAls5O9wAMEkLuW21nHQDvXaSn",
+    "photoSore": ""
+  },
+  {
+    "id": 854,
+    "timestamp": "6/15/2026 16:17:01",
+    "author": "Usrialdi",
+    "content": "Membersihkan mushola dan merawat taman",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1TfsIvKEk_EJsdylyISFndWR1-D3_kh44",
+    "photoPagi": "https://drive.google.com/open?id=1TfsIvKEk_EJsdylyISFndWR1-D3_kh44",
+    "photoSore": "https://drive.google.com/open?id=1QJGQUrdvGRTi8sR_6_jnL2cHJ0IX29T3"
+  },
+  {
+    "id": 855,
+    "timestamp": "6/15/2026 16:29:45",
+    "author": "Ade inputra",
+    "content": "sapu teras arsip dan verval",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1-_EEMVJszug1qsncMzI2V7V6Mh6cJU38",
+    "photoPagi": "https://drive.google.com/open?id=1-_EEMVJszug1qsncMzI2V7V6Mh6cJU38",
+    "photoSore": "https://drive.google.com/open?id=1rhrU6edYPebyljr5c4S40mzpBoDhOpha"
+  },
+  {
+    "id": 856,
+    "timestamp": "6/15/2026 16:36:52",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1ZxlClD1uLCCOi-pW9eP3zNZyI-vAGFLc",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1ZxlClD1uLCCOi-pW9eP3zNZyI-vAGFLc"
+  },
+  {
+    "id": 857,
+    "timestamp": "6/15/2026 20:44:17",
+    "author": "Karmawar",
+    "content": "menata lingkungan kantor daan sekitarnya",
+    "output": "rapi dan bersih",
+    "hambatan": "tak ada",
+    "photoUrl": "https://drive.google.com/open?id=1GW-CI7-oIkqltnb8fXuTRRFlOTYEyHWX",
+    "photoPagi": "https://drive.google.com/open?id=1GW-CI7-oIkqltnb8fXuTRRFlOTYEyHWX",
+    "photoSore": "https://drive.google.com/open?id=1DqDVE4TUZ0wfBG99Sa3eOqGgB5NLGCnU"
+  },
+  {
+    "id": 858,
+    "timestamp": "6/16/2026 18:43:43",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan ruang aula utama utntuk senam pagi besok",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1Iu7z0yF9Xlnk4fy7Ivg9ZsrUoAy-hqWa",
+    "photoPagi": "https://drive.google.com/open?id=1Iu7z0yF9Xlnk4fy7Ivg9ZsrUoAy-hqWa",
+    "photoSore": ""
+  },
+  {
+    "id": 859,
+    "timestamp": "6/17/2026 8:18:42",
+    "author": "Buyung Syafrianto",
+    "content": "Menyusun meja dan kursi serta menyapu lantai aula mini luar dan dalam",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1SQ8aB4Tivm9lwwNg8e-uGdoHJM_XgUmJ",
+    "photoPagi": "https://drive.google.com/open?id=1SQ8aB4Tivm9lwwNg8e-uGdoHJM_XgUmJ",
+    "photoSore": ""
+  },
+  {
+    "id": 860,
+    "timestamp": "6/17/2026 8:19:07",
+    "author": "",
+    "content": "",
+    "output": "",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1p7Kt7Ny3W03q6HjNhluJdbLG0hwOcYYH",
+    "photoPagi": "https://drive.google.com/open?id=1p7Kt7Ny3W03q6HjNhluJdbLG0hwOcYYH",
+    "photoSore": ""
+  },
+  {
+    "id": 861,
+    "timestamp": "6/17/2026 11:32:40",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1fjtfQMIXld7e6CPQ3Ah63afxtu5OlUcJ",
+    "photoPagi": "https://drive.google.com/open?id=1fjtfQMIXld7e6CPQ3Ah63afxtu5OlUcJ",
+    "photoSore": ""
+  },
+  {
+    "id": 862,
+    "timestamp": "6/17/2026 11:33:38",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1R1rcrirA9TtfFJoNr15m9XqWwP7HPkoI",
+    "photoPagi": "https://drive.google.com/open?id=1R1rcrirA9TtfFJoNr15m9XqWwP7HPkoI",
+    "photoSore": ""
+  },
+  {
+    "id": 863,
+    "timestamp": "6/17/2026 11:34:35",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=12J2SFG6sxCXX5cZvjSOJ_1rd9OCYUxd1",
+    "photoPagi": "https://drive.google.com/open?id=12J2SFG6sxCXX5cZvjSOJ_1rd9OCYUxd1",
+    "photoSore": ""
+  },
+  {
+    "id": 864,
+    "timestamp": "6/17/2026 11:35:34",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1ilZZpj7M_CeFxKFAC2ZLG8vnz7bCgqfE",
+    "photoPagi": "https://drive.google.com/open?id=1ilZZpj7M_CeFxKFAC2ZLG8vnz7bCgqfE",
+    "photoSore": ""
+  },
+  {
+    "id": 865,
+    "timestamp": "6/17/2026 11:36:30",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1XgMXp2zHeGaGgM6N75fbY-jwI139L-X5",
+    "photoPagi": "https://drive.google.com/open?id=1XgMXp2zHeGaGgM6N75fbY-jwI139L-X5",
+    "photoSore": ""
+  },
+  {
+    "id": 866,
+    "timestamp": "6/17/2026 15:54:58",
+    "author": "Karmawar",
+    "content": "menata lingkungan kantor dan sekitarnya",
+    "output": "rapi dan bersih",
+    "hambatan": "tak ada",
+    "photoUrl": "https://drive.google.com/open?id=1V_-xSick_zFEG1Tk1jpV0Y4PPoia-UvH",
+    "photoPagi": "https://drive.google.com/open?id=1V_-xSick_zFEG1Tk1jpV0Y4PPoia-UvH",
+    "photoSore": "https://drive.google.com/open?id=16so_vKBcCmMMeBdnpLVxiFl-cXIiRSln"
+  },
+  {
+    "id": 867,
+    "timestamp": "6/17/2026 16:09:48",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan bagian dalam aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1cXboSb-M7DbuhYQhK66rqaNJ8An2gsYV",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1cXboSb-M7DbuhYQhK66rqaNJ8An2gsYV"
+  },
+  {
+    "id": 868,
+    "timestamp": "6/17/2026 18:18:13",
+    "author": "Usrialdi",
+    "content": "Merawat taman dan merawan mesin air",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1LkTdRA1FnjSZQVkRKv2_AcXfcqRp7cnh",
+    "photoPagi": "https://drive.google.com/open?id=1LkTdRA1FnjSZQVkRKv2_AcXfcqRp7cnh",
+    "photoSore": "https://drive.google.com/open?id=1aHTBHiKB_8Eg482JJQ1jBoZX9GOnqazB"
+  },
+  {
+    "id": 869,
+    "timestamp": "6/18/2026 7:34:14",
+    "author": "Fitriandi",
+    "content": "teras perpustakaan",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1eE5IFFLIac2xX7eLHSD7HdRbnVT0bDI4",
+    "photoPagi": "https://drive.google.com/open?id=1eE5IFFLIac2xX7eLHSD7HdRbnVT0bDI4",
+    "photoSore": ""
+  },
+  {
+    "id": 870,
+    "timestamp": "6/18/2026 7:35:36",
+    "author": "Fitriandi",
+    "content": "teras pengaduan",
+    "output": "bersih",
+    "hambatan": "__",
+    "photoUrl": "https://drive.google.com/open?id=1L-jdALOCjF7MwDZVOw8fz0iCJ-cGYHZG",
+    "photoPagi": "https://drive.google.com/open?id=1L-jdALOCjF7MwDZVOw8fz0iCJ-cGYHZG",
+    "photoSore": ""
+  },
+  {
+    "id": 871,
+    "timestamp": "6/18/2026 7:36:23",
+    "author": "Fitriandi",
+    "content": "teras ult",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1fFs8LjXFqkNmPCRkgHXIoSmhHpKB5hU1",
+    "photoPagi": "https://drive.google.com/open?id=1fFs8LjXFqkNmPCRkgHXIoSmhHpKB5hU1",
+    "photoSore": ""
+  },
+  {
+    "id": 872,
+    "timestamp": "6/18/2026 7:38:47",
+    "author": "Ade inputra",
+    "content": "bersihkan teras arsip dan ruang belajar Wi",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tgl 17 juni 2028",
+    "photoUrl": "https://drive.google.com/open?id=1q0PpNPT3_tKS4jlMyOloVZSyoZc6r7_C",
+    "photoPagi": "https://drive.google.com/open?id=1q0PpNPT3_tKS4jlMyOloVZSyoZc6r7_C",
+    "photoSore": "https://drive.google.com/open?id=1c9hMN5hW7cu0zYatBI6TyCa3RYOhgn1y"
+  },
+  {
+    "id": 873,
+    "timestamp": "6/18/2026 7:40:26",
+    "author": "Ade inputra",
+    "content": "bersihkan teras arsip dan asrama putri",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1BRnAmVDVgZkJTx_jm5_P5e0t-2tdJeio",
+    "photoPagi": "https://drive.google.com/open?id=1BRnAmVDVgZkJTx_jm5_P5e0t-2tdJeio",
+    "photoSore": "https://drive.google.com/open?id=1DVzxWUGDEeyZz-fLsAkvYkBzgA0hOZFq"
+  },
+  {
+    "id": 874,
+    "timestamp": "6/18/2026 7:41:21",
+    "author": "Buyung Syafrianto",
+    "content": "Menyiapkan ruang rapat aula mini untuk kegiatan BK",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1wujlaQxEOVtMsIG3Y8y91uHVlVcdoU3M",
+    "photoPagi": "https://drive.google.com/open?id=1wujlaQxEOVtMsIG3Y8y91uHVlVcdoU3M",
+    "photoSore": ""
+  },
+  {
+    "id": 875,
+    "timestamp": "6/18/2026 10:28:31",
+    "author": "Fitriandi",
+    "content": "tamu dari kepala sekolah di padang",
+    "output": "ketemu",
+    "hambatan": "tentang wayoik",
+    "photoUrl": "https://drive.google.com/open?id=1fAwXL0N0ad83-C9zIRUC0WRKb0xmiqN1",
+    "photoPagi": "https://drive.google.com/open?id=1fAwXL0N0ad83-C9zIRUC0WRKb0xmiqN1",
+    "photoSore": ""
+  },
+  {
+    "id": 876,
+    "timestamp": "6/18/2026 13:34:51",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1CIAl-v5fE_5l6GpBGWW9cloW3zCceOHu",
+    "photoPagi": "https://drive.google.com/open?id=1CIAl-v5fE_5l6GpBGWW9cloW3zCceOHu",
+    "photoSore": ""
+  },
+  {
+    "id": 877,
+    "timestamp": "6/18/2026 13:35:38",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1oLb-w364itJZxf8dN3DlG8BiYoBEibU3",
+    "photoPagi": "https://drive.google.com/open?id=1oLb-w364itJZxf8dN3DlG8BiYoBEibU3",
+    "photoSore": ""
+  },
+  {
+    "id": 878,
+    "timestamp": "6/18/2026 13:36:30",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1MGno-PEw5srtRXiuAHelmUou7G4vLbh7",
+    "photoPagi": "https://drive.google.com/open?id=1MGno-PEw5srtRXiuAHelmUou7G4vLbh7",
+    "photoSore": ""
+  },
+  {
+    "id": 879,
+    "timestamp": "6/18/2026 13:37:18",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1AoyWOfspQG-4SECPg0aYp7WfhyPXicvM",
+    "photoPagi": "https://drive.google.com/open?id=1AoyWOfspQG-4SECPg0aYp7WfhyPXicvM",
+    "photoSore": ""
+  },
+  {
+    "id": 880,
+    "timestamp": "6/18/2026 13:38:30",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Rx0srBm12roFnSOnVhWnYmnLwmQ3wdlX",
+    "photoPagi": "https://drive.google.com/open?id=1Rx0srBm12roFnSOnVhWnYmnLwmQ3wdlX",
+    "photoSore": ""
+  },
+  {
+    "id": 881,
+    "timestamp": "6/18/2026 16:07:30",
+    "author": "Karmawar",
+    "content": "menata lingkungan kantor dan sekitarnya",
+    "output": "bersih dan rapi",
+    "hambatan": "tak ada",
+    "photoUrl": "https://drive.google.com/open?id=1ghFCUlH2d1As8hFLZIdohd2wU-5wxSq_",
+    "photoPagi": "https://drive.google.com/open?id=1ghFCUlH2d1As8hFLZIdohd2wU-5wxSq_",
+    "photoSore": "https://drive.google.com/open?id=13g3HrfBEMnhPcNVcZu578zeP6G0e8_l5"
+  },
+  {
+    "id": 882,
+    "timestamp": "6/18/2026 16:07:53",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan ruang aula mini stelah rapat",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1EzQboyWXxjlY1DMrrEXaJRl9tX1jMU1y",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1EzQboyWXxjlY1DMrrEXaJRl9tX1jMU1y"
+  },
+  {
+    "id": 883,
+    "timestamp": "6/18/2026 16:17:31",
+    "author": "Salaudin",
+    "content": "Memberikan area kantor",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1G2yGkSkxHukFqlZ0zjgeJYHtbq-mNzsY",
+    "photoPagi": "https://drive.google.com/open?id=1G2yGkSkxHukFqlZ0zjgeJYHtbq-mNzsY",
+    "photoSore": "https://drive.google.com/open?id=1FRQ8SDDY8MEZ2I7dklALHR0tnIfnGI7O"
+  },
+  {
+    "id": 884,
+    "timestamp": "6/18/2026 18:15:01",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1B-7oQZFo4lI-aketG-qkXilLZNAEj4pL",
+    "photoPagi": "https://drive.google.com/open?id=1B-7oQZFo4lI-aketG-qkXilLZNAEj4pL",
+    "photoSore": ""
+  },
+  {
+    "id": 885,
+    "timestamp": "6/18/2026 18:20:40",
+    "author": "Neli Aftariani",
+    "content": "Membuang sampah ketempat pembuangan",
+    "output": "Aman",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=154SQI47glS2fkDkeaYfxeVpBDwO_kUQz",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=154SQI47glS2fkDkeaYfxeVpBDwO_kUQz"
+  },
+  {
+    "id": 886,
+    "timestamp": "6/21/2026 18:04:24",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan ruang aula utam dan teras utama buat apel senin tgl 22 juni 2026",
+    "output": "Selesai",
+    "hambatan": "Angin kencang susah membersihkan teras aula utama",
+    "photoUrl": "https://drive.google.com/open?id=1surO2ySLn7XQf1n4rrTfnWLVL3KBQkyY",
+    "photoPagi": "https://drive.google.com/open?id=1surO2ySLn7XQf1n4rrTfnWLVL3KBQkyY",
+    "photoSore": "https://drive.google.com/open?id=1lsbarFvNFZd03C-gjLM9D4qaVva4bJgI"
+  },
+  {
+    "id": 887,
+    "timestamp": "6/22/2026 8:24:01",
+    "author": "Fitriandi",
+    "content": "menyiram bunga",
+    "output": "basah",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1IysekAJvAmLSpdq3bYiBpIiJHTRDifP5",
+    "photoPagi": "https://drive.google.com/open?id=1IysekAJvAmLSpdq3bYiBpIiJHTRDifP5",
+    "photoSore": ""
+  },
+  {
+    "id": 888,
+    "timestamp": "6/22/2026 8:30:24",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu area aula mini BGTK Sumbar",
+    "output": "Membersihkan",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1CQyGXUlMLPwxZKK2nuBcq6OI0GmSISsP",
+    "photoPagi": "https://drive.google.com/open?id=1CQyGXUlMLPwxZKK2nuBcq6OI0GmSISsP",
+    "photoSore": ""
+  },
+  {
+    "id": 889,
+    "timestamp": "6/22/2026 8:35:18",
+    "author": "Fitriandi",
+    "content": "teras toilet",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1f-LeTG7LwzteKaIov2MKWgxG2SSeeaKm",
+    "photoPagi": "https://drive.google.com/open?id=1f-LeTG7LwzteKaIov2MKWgxG2SSeeaKm",
+    "photoSore": ""
+  },
+  {
+    "id": 890,
+    "timestamp": "6/22/2026 8:46:03",
+    "author": "Fitriandi",
+    "content": "teras",
+    "output": "bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1zpKNIyOFYPBrGBA0wxeCbE_nMgfNSHLj",
+    "photoPagi": "https://drive.google.com/open?id=1zpKNIyOFYPBrGBA0wxeCbE_nMgfNSHLj",
+    "photoSore": ""
+  },
+  {
+    "id": 891,
+    "timestamp": "6/22/2026 10:08:16",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=12PwWv1ySgyZ4dH8G0EW_F_WUEhvfE1z5",
+    "photoPagi": "https://drive.google.com/open?id=12PwWv1ySgyZ4dH8G0EW_F_WUEhvfE1z5",
+    "photoSore": ""
+  },
+  {
+    "id": 892,
+    "timestamp": "6/22/2026 10:09:22",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1GCeI7f0v_OZtyhkeM-Ts3QVtkG95OJzu",
+    "photoPagi": "https://drive.google.com/open?id=1GCeI7f0v_OZtyhkeM-Ts3QVtkG95OJzu",
+    "photoSore": ""
+  },
+  {
+    "id": 893,
+    "timestamp": "6/22/2026 10:10:33",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1J9IhQgzKWzeHLPDlfColJit-I_fJULBX",
+    "photoPagi": "https://drive.google.com/open?id=1J9IhQgzKWzeHLPDlfColJit-I_fJULBX",
+    "photoSore": ""
+  },
+  {
+    "id": 894,
+    "timestamp": "6/22/2026 10:11:38",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1jnuTeXoBWA8szOLzAAB50U4wonHQpach",
+    "photoPagi": "https://drive.google.com/open?id=1jnuTeXoBWA8szOLzAAB50U4wonHQpach",
+    "photoSore": ""
+  },
+  {
+    "id": 895,
+    "timestamp": "6/22/2026 10:12:46",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=15BA8oAhgtHBtuEkWdOjjtYYEGIhQcyL3",
+    "photoPagi": "https://drive.google.com/open?id=15BA8oAhgtHBtuEkWdOjjtYYEGIhQcyL3",
+    "photoSore": ""
+  },
+  {
+    "id": 896,
+    "timestamp": "6/22/2026 10:15:29",
+    "author": "Musrizaldi",
+    "content": "Mencabut rumput diteras depan ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Lo0Jf_EnxWgQCx8mAd9zVmqbY7KRZKZ2",
+    "photoPagi": "https://drive.google.com/open?id=1Lo0Jf_EnxWgQCx8mAd9zVmqbY7KRZKZ2",
+    "photoSore": ""
+  },
+  {
+    "id": 897,
+    "timestamp": "6/22/2026 10:16:27",
+    "author": "Musrizaldi",
+    "content": "Perawatan genset",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1PKkKpYpBZd4vkR06ZX2QzczUHZyDGKTi",
+    "photoPagi": "https://drive.google.com/open?id=1PKkKpYpBZd4vkR06ZX2QzczUHZyDGKTi",
+    "photoSore": ""
+  },
+  {
+    "id": 898,
+    "timestamp": "6/22/2026 12:30:03",
+    "author": "Salaudin",
+    "content": "Melakukan tugas kebersihan",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1LUqCXZpMkqg1iZHq205eV8Nz-8qmHki4",
+    "photoPagi": "https://drive.google.com/open?id=1LUqCXZpMkqg1iZHq205eV8Nz-8qmHki4",
+    "photoSore": "https://drive.google.com/open?id=18eCFQQVPO3wLFD4_Uyjt-PnrAqOC9GWx"
+  },
+  {
+    "id": 899,
+    "timestamp": "6/22/2026 16:35:07",
+    "author": "Buyung Syafrianto",
+    "content": "Bersihkan ruang dalam aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1N7xF6FA1T2EqM2bO2z7y4_Vujby9ik-T",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1N7xF6FA1T2EqM2bO2z7y4_Vujby9ik-T"
+  },
+  {
+    "id": 900,
+    "timestamp": "6/22/2026 19:57:41",
+    "author": "Karmawar",
+    "content": "menata lingkungan kantor",
+    "output": "rapi dan bersih",
+    "hambatan": "tak ada",
+    "photoUrl": "https://drive.google.com/open?id=1gu2raskIwhcg_d2xvAW4kDLt4DBtwKyx",
+    "photoPagi": "https://drive.google.com/open?id=1gu2raskIwhcg_d2xvAW4kDLt4DBtwKyx",
+    "photoSore": "https://drive.google.com/open?id=1TJZ0EbugcsLs-ETB1w6wzlbkpbWqpLtj"
+  },
+  {
+    "id": 901,
+    "timestamp": "6/23/2026 7:53:29",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan laba² jaringan di palapon ruang aula mini n",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1xfBmFZyURs9nhQBVBQ-auVVY1e14ZolP",
+    "photoPagi": "https://drive.google.com/open?id=1xfBmFZyURs9nhQBVBQ-auVVY1e14ZolP",
+    "photoSore": ""
+  },
+  {
+    "id": 902,
+    "timestamp": "6/23/2026 12:25:37",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1tpHPR47Uscrc3g4bTdk53pG1DLdLuLR5",
+    "photoPagi": "https://drive.google.com/open?id=1tpHPR47Uscrc3g4bTdk53pG1DLdLuLR5",
+    "photoSore": ""
+  },
+  {
+    "id": 903,
+    "timestamp": "6/23/2026 12:26:35",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1RsY9vl7-flmR-hGFfbZfkQPDNUrm93m7",
+    "photoPagi": "https://drive.google.com/open?id=1RsY9vl7-flmR-hGFfbZfkQPDNUrm93m7",
+    "photoSore": ""
+  },
+  {
+    "id": 904,
+    "timestamp": "6/23/2026 12:27:36",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1bHeGT3b8tDGaFOdAVR5jdOGkY5PT-lKb",
+    "photoPagi": "https://drive.google.com/open?id=1bHeGT3b8tDGaFOdAVR5jdOGkY5PT-lKb",
+    "photoSore": ""
+  },
+  {
+    "id": 905,
+    "timestamp": "6/23/2026 12:28:37",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1r68WOTUmOOhgtz7mZJ5j45VJYGDz1L0n",
+    "photoPagi": "https://drive.google.com/open?id=1r68WOTUmOOhgtz7mZJ5j45VJYGDz1L0n",
+    "photoSore": ""
+  },
+  {
+    "id": 906,
+    "timestamp": "6/23/2026 12:29:42",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1jhHRrS2r5qGwTNi-EESBlgIXLLz-JaCk",
+    "photoPagi": "https://drive.google.com/open?id=1jhHRrS2r5qGwTNi-EESBlgIXLLz-JaCk",
+    "photoSore": ""
+  },
+  {
+    "id": 907,
+    "timestamp": "6/23/2026 15:51:20",
+    "author": "Karmawar",
+    "content": "menata lingkungan kantor dan sekitarnya",
+    "output": "rapi dan bersih",
+    "hambatan": "tak ada",
+    "photoUrl": "https://drive.google.com/open?id=1upVKSPd_5nxkpkidGQvfb61AhEdjoiP4",
+    "photoPagi": "https://drive.google.com/open?id=1upVKSPd_5nxkpkidGQvfb61AhEdjoiP4",
+    "photoSore": "https://drive.google.com/open?id=1KOwyax2GGo5qvT2O7fzWNn7mh5sqHshH"
+  },
+  {
+    "id": 908,
+    "timestamp": "6/23/2026 16:06:42",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1ayjERG-8KWMLtwSVAJcdjW0tCVOyM6OQ",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1ayjERG-8KWMLtwSVAJcdjW0tCVOyM6OQ"
+  },
+  {
+    "id": 909,
+    "timestamp": "6/23/2026 16:38:13",
+    "author": "Fitriandi",
+    "content": "mengukur tanah dan bangunan aula mini",
+    "output": "pasti",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1sd329E1P9PfYqgJgoczGb6Q5JDeE8Zar",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1sd329E1P9PfYqgJgoczGb6Q5JDeE8Zar"
+  },
+  {
+    "id": 910,
+    "timestamp": "6/23/2026 16:39:19",
+    "author": "Fitriandi",
+    "content": "mengukur tanah gudang",
+    "output": "pasti",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1v3VXRbnqR2NJPQNtskQLbXHa_2NnOeOG",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1v3VXRbnqR2NJPQNtskQLbXHa_2NnOeOG"
+  },
+  {
+    "id": 911,
+    "timestamp": "6/24/2026 15:04:56",
+    "author": "Salaudin",
+    "content": "Melakukan tugas kebersihan",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1ANRPK0zlABwyNAHDC9Uf48HCFIn1pLA4",
+    "photoPagi": "https://drive.google.com/open?id=1ANRPK0zlABwyNAHDC9Uf48HCFIn1pLA4",
+    "photoSore": "https://drive.google.com/open?id=1UIa9esHjCzEu9AiplrQ0PY1J2Vn8q3pz"
+  },
+  {
+    "id": 912,
+    "timestamp": "6/24/2026 15:13:43",
+    "author": "Salaudin",
+    "content": "Melakukan tugas kebersihan",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1XbTVyC-DCBVZm409p8bK2t070dMvvmS4",
+    "photoPagi": "https://drive.google.com/open?id=1XbTVyC-DCBVZm409p8bK2t070dMvvmS4",
+    "photoSore": "https://drive.google.com/open?id=1Ed9teu-RfSuq8SKDmFVABdNBPXnpjvzR"
+  },
+  {
+    "id": 913,
+    "timestamp": "6/24/2026 15:37:39",
+    "author": "Usrialdi",
+    "content": "Marawat taman dan membersihkan mushola",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1Woie-WH16Qs4cWuleJRp0gqbFt6Kijda",
+    "photoPagi": "https://drive.google.com/open?id=1Woie-WH16Qs4cWuleJRp0gqbFt6Kijda",
+    "photoSore": "https://drive.google.com/open?id=1Oup8KHlpQpalARl-Ip8EBYdWo0Ob_jY2"
+  },
+  {
+    "id": 914,
+    "timestamp": "6/28/2026 19:26:52",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan aula utama",
+    "output": "Selesai",
+    "hambatan": ",",
+    "photoUrl": "https://drive.google.com/open?id=1cNQqDuInFN8ukHb1j6vRRsuolxfQ3WgH",
+    "photoPagi": "https://drive.google.com/open?id=1cNQqDuInFN8ukHb1j6vRRsuolxfQ3WgH",
+    "photoSore": "https://drive.google.com/open?id=1zgcBHC1sAjWDU_zscd3_fYBL5NX5klg_"
+  },
+  {
+    "id": 915,
+    "timestamp": "6/29/2026 8:23:50",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan mengepel lantai aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=18S8by33upyHE4hPN7t3AWILOt5lA13H9",
+    "photoPagi": "https://drive.google.com/open?id=18S8by33upyHE4hPN7t3AWILOt5lA13H9",
+    "photoSore": ""
+  },
+  {
+    "id": 916,
+    "timestamp": "6/29/2026 10:06:14",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1xMqfG__Z0qBFCatlx2lDcDCY_Z2lUEBg",
+    "photoPagi": "https://drive.google.com/open?id=1xMqfG__Z0qBFCatlx2lDcDCY_Z2lUEBg",
+    "photoSore": ""
+  },
+  {
+    "id": 917,
+    "timestamp": "6/29/2026 10:07:15",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1oJqz6RszKurbSjuUfhdo0smiClDnHfc9",
+    "photoPagi": "https://drive.google.com/open?id=1oJqz6RszKurbSjuUfhdo0smiClDnHfc9",
+    "photoSore": ""
+  },
+  {
+    "id": 918,
+    "timestamp": "6/29/2026 10:08:16",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Ey2inWuTV2UXqugMBO5u4rqmVYrQVwT6",
+    "photoPagi": "https://drive.google.com/open?id=1Ey2inWuTV2UXqugMBO5u4rqmVYrQVwT6",
+    "photoSore": ""
+  },
+  {
+    "id": 919,
+    "timestamp": "6/29/2026 10:09:33",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1zJVyXH-NQkoZFbdLN4w2eN4srPlMhMpi",
+    "photoPagi": "https://drive.google.com/open?id=1zJVyXH-NQkoZFbdLN4w2eN4srPlMhMpi",
+    "photoSore": ""
+  },
+  {
+    "id": 920,
+    "timestamp": "6/29/2026 10:10:32",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1VUaUbDCDHl_UXsN9xEA_3rCQvtSHHO0w",
+    "photoPagi": "https://drive.google.com/open?id=1VUaUbDCDHl_UXsN9xEA_3rCQvtSHHO0w",
+    "photoSore": ""
+  },
+  {
+    "id": 921,
+    "timestamp": "6/29/2026 14:10:00",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan ruang aula utama abis pakai apel pagi",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=19KtkFkFak_nlwpoHFvS8ED5ehNwhAPbK",
+    "photoPagi": "https://drive.google.com/open?id=19KtkFkFak_nlwpoHFvS8ED5ehNwhAPbK",
+    "photoSore": "https://drive.google.com/open?id=1vkuAVxakISQGuRqXa6M9ABE2rlVV0bXg"
+  },
+  {
+    "id": 922,
+    "timestamp": "6/29/2026 16:07:48",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu area dalam aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1owrqR_-Huuv0UYvlLOHHMBvBMTO_ZeEn",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1owrqR_-Huuv0UYvlLOHHMBvBMTO_ZeEn"
+  },
+  {
+    "id": 923,
+    "timestamp": "6/30/2026 7:04:14",
+    "author": "Ade inputra",
+    "content": "bersihkan teras arsip dan pengambilan barang dipersediaan",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tgl 29 juni 2026",
+    "photoUrl": "https://drive.google.com/open?id=1PkfMyk0rrLuHQHsiSjrxobOWJHuinhnu",
+    "photoPagi": "https://drive.google.com/open?id=1PkfMyk0rrLuHQHsiSjrxobOWJHuinhnu",
+    "photoSore": "https://drive.google.com/open?id=1ZKCh7Xb3AotExUifnBHBR2t1bEB1XxZr"
+  },
+  {
+    "id": 924,
+    "timestamp": "6/30/2026 7:26:29",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan mengepel area aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1-oqU08qC9CGTuzq8ujUkloEk0QThO0N2",
+    "photoPagi": "https://drive.google.com/open?id=1-oqU08qC9CGTuzq8ujUkloEk0QThO0N2",
+    "photoSore": ""
+  },
+  {
+    "id": 925,
+    "timestamp": "6/30/2026 7:26:59",
+    "author": "",
+    "content": "",
+    "output": "",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=167uQXFXAo8V1Ji_nCK9aCr4dyzj10ASi",
+    "photoPagi": "https://drive.google.com/open?id=167uQXFXAo8V1Ji_nCK9aCr4dyzj10ASi",
+    "photoSore": ""
+  },
+  {
+    "id": 926,
+    "timestamp": "6/30/2026 7:56:56",
+    "author": "Fitriandi",
+    "content": "teras buk kepala",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1P3LaYkk7pj7_uM4rUQahbqhHX7hcUPRW",
+    "photoPagi": "https://drive.google.com/open?id=1P3LaYkk7pj7_uM4rUQahbqhHX7hcUPRW",
+    "photoSore": ""
+  },
+  {
+    "id": 927,
+    "timestamp": "6/30/2026 8:01:01",
+    "author": "Fitriandi",
+    "content": "lorong pustaka",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1kUQXfpZuJMFt4qzjRX4hepDY4hSyMR7p",
+    "photoPagi": "https://drive.google.com/open?id=1kUQXfpZuJMFt4qzjRX4hepDY4hSyMR7p",
+    "photoSore": ""
+  },
+  {
+    "id": 928,
+    "timestamp": "6/30/2026 8:02:08",
+    "author": "Fitriandi",
+    "content": "halaman rumah dinas",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1XlpFx4MBwtMykSmOKRu5s22Y-uMA-cGY",
+    "photoPagi": "https://drive.google.com/open?id=1XlpFx4MBwtMykSmOKRu5s22Y-uMA-cGY",
+    "photoSore": ""
+  },
+  {
+    "id": 929,
+    "timestamp": "6/30/2026 10:57:44",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1jJA2RqaAi-WQ3xP10pwFDMT6lSWihpTS",
+    "photoPagi": "https://drive.google.com/open?id=1jJA2RqaAi-WQ3xP10pwFDMT6lSWihpTS",
+    "photoSore": ""
+  },
+  {
+    "id": 930,
+    "timestamp": "6/30/2026 10:58:43",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1OfA1PkINzsy2OMHC1zVHa5EgVzehfDuL",
+    "photoPagi": "https://drive.google.com/open?id=1OfA1PkINzsy2OMHC1zVHa5EgVzehfDuL",
+    "photoSore": ""
+  },
+  {
+    "id": 931,
+    "timestamp": "6/30/2026 10:59:44",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1nSyxZyjmJXfeH4rqb2ESEKwGdCO3NC1g",
+    "photoPagi": "https://drive.google.com/open?id=1nSyxZyjmJXfeH4rqb2ESEKwGdCO3NC1g",
+    "photoSore": ""
+  },
+  {
+    "id": 932,
+    "timestamp": "6/30/2026 11:00:59",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1xY8iak2HN-G13hqvUopsw6L2ULrl7Pi1",
+    "photoPagi": "https://drive.google.com/open?id=1xY8iak2HN-G13hqvUopsw6L2ULrl7Pi1",
+    "photoSore": ""
+  },
+  {
+    "id": 933,
+    "timestamp": "6/30/2026 11:02:56",
+    "author": "Musrizaldi",
+    "content": "Memindahkan bibit cabe bersama ibu kasubag",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1az-rTeePhWNOeIRyvZXU65GFMRoJVJ35",
+    "photoPagi": "https://drive.google.com/open?id=1az-rTeePhWNOeIRyvZXU65GFMRoJVJ35",
+    "photoSore": ""
+  },
+  {
+    "id": 934,
+    "timestamp": "6/30/2026 16:21:01",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan aula mini",
+    "output": "Bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1Uyvn7FrzAcBcVpIbu1PTxxRgI5BB4R4z",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1Uyvn7FrzAcBcVpIbu1PTxxRgI5BB4R4z"
+  },
+  {
+    "id": 935,
+    "timestamp": "7/1/2026 9:52:19",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1MQ-jVYivjXxENbf1ZSYb3RUI9cr0FFiZ",
+    "photoPagi": "https://drive.google.com/open?id=1MQ-jVYivjXxENbf1ZSYb3RUI9cr0FFiZ",
+    "photoSore": ""
+  },
+  {
+    "id": 936,
+    "timestamp": "7/1/2026 9:53:17",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=17gMWTLlpGxgkn7T6iMbMwVyN9BDpfv8Z",
+    "photoPagi": "https://drive.google.com/open?id=17gMWTLlpGxgkn7T6iMbMwVyN9BDpfv8Z",
+    "photoSore": ""
+  },
+  {
+    "id": 937,
+    "timestamp": "7/1/2026 9:54:14",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1aDFOOl9r5SCLapYMk9FXJWWAo5l3iris",
+    "photoPagi": "https://drive.google.com/open?id=1aDFOOl9r5SCLapYMk9FXJWWAo5l3iris",
+    "photoSore": ""
+  },
+  {
+    "id": 938,
+    "timestamp": "7/1/2026 9:55:26",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Et0ccAaf9eK-2NsxtfQojLr7N5y7vUnN",
+    "photoPagi": "https://drive.google.com/open?id=1Et0ccAaf9eK-2NsxtfQojLr7N5y7vUnN",
+    "photoSore": ""
+  },
+  {
+    "id": 939,
+    "timestamp": "7/1/2026 9:56:57",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit cabe dan terong",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1BoFxLa26FdHI0jfxrwk4ZW5giKB8kOih",
+    "photoPagi": "https://drive.google.com/open?id=1BoFxLa26FdHI0jfxrwk4ZW5giKB8kOih",
+    "photoSore": ""
+  },
+  {
+    "id": 940,
+    "timestamp": "7/1/2026 9:58:35",
+    "author": "Musrizaldi",
+    "content": "Menerima tamu dari SD kota Pariaman",
+    "output": "Aman dan lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Gy6mHO26bTJQGznGxN0Av8gP0X7orqFN",
+    "photoPagi": "https://drive.google.com/open?id=1Gy6mHO26bTJQGznGxN0Av8gP0X7orqFN",
+    "photoSore": ""
+  },
+  {
+    "id": 941,
+    "timestamp": "7/1/2026 10:24:15",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan mengepel area aula mini",
+    "output": "Membersihkan",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1l_YBLzLPOMnSn24gQV45N2ujhnPz8jqt",
+    "photoPagi": "https://drive.google.com/open?id=1l_YBLzLPOMnSn24gQV45N2ujhnPz8jqt",
+    "photoSore": ""
+  },
+  {
+    "id": 942,
+    "timestamp": "7/1/2026 16:11:18",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1QkyYN7B1Ucl1VDHRA2xe-4u9XuvPMUm4",
+    "photoPagi": "https://drive.google.com/open?id=1QkyYN7B1Ucl1VDHRA2xe-4u9XuvPMUm4",
+    "photoSore": ""
+  },
+  {
+    "id": 943,
+    "timestamp": "7/1/2026 16:14:00",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1-UOYbTadgHeAoTkKR14yPiE84qsgTMWA",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1-UOYbTadgHeAoTkKR14yPiE84qsgTMWA"
+  },
+  {
+    "id": 944,
+    "timestamp": "7/1/2026 22:34:34",
+    "author": "Neli Aftariani",
+    "content": "Menyapu potongan bunga' dan mencabut rumput",
+    "output": "Belum selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1aj8M-pIu4yCw5H75Sob1nUByGTZ51Xxl",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1aj8M-pIu4yCw5H75Sob1nUByGTZ51Xxl"
+  },
+  {
+    "id": 945,
+    "timestamp": "7/2/2026 8:19:09",
+    "author": "Buyung Syafrianto",
+    "content": "Menyusun kursi dan menyapu luar dalam aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1fXyL5qNDYXkmHa3KIvGBZFYLHEDM4YFY",
+    "photoPagi": "https://drive.google.com/open?id=1fXyL5qNDYXkmHa3KIvGBZFYLHEDM4YFY",
+    "photoSore": ""
+  },
+  {
+    "id": 946,
+    "timestamp": "7/2/2026 8:39:10",
+    "author": "Mardianto",
+    "content": "Mengepel teras ULT",
+    "output": "Bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1y1TGu2vTdlw7bn2zCZUnlp6t6bmWW612",
+    "photoPagi": "https://drive.google.com/open?id=1y1TGu2vTdlw7bn2zCZUnlp6t6bmWW612",
+    "photoSore": ""
+  },
+  {
+    "id": 947,
+    "timestamp": "7/2/2026 8:40:29",
+    "author": "Ade inputra",
+    "content": "pengambilan atk dan pel lantai",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1hv3JyHTZtMDgMhAaGpSzlaF0waAZw9uz",
+    "photoPagi": "https://drive.google.com/open?id=1hv3JyHTZtMDgMhAaGpSzlaF0waAZw9uz",
+    "photoSore": "https://drive.google.com/open?id=1O72slj5Bdc1i-EBYfWIg5Uo2rKUQsv3y"
+  },
+  {
+    "id": 948,
+    "timestamp": "7/2/2026 8:41:36",
+    "author": "Mardianto",
+    "content": "Bersihkan ruangan asrama saat za",
+    "output": "Bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=11FlOfTbDNQ3BRl6DAryxe4pE1cAw2ZcK",
+    "photoPagi": "https://drive.google.com/open?id=11FlOfTbDNQ3BRl6DAryxe4pE1cAw2ZcK",
+    "photoSore": ""
+  },
+  {
+    "id": 949,
+    "timestamp": "7/2/2026 8:43:32",
+    "author": "Ade inputra",
+    "content": "susun spj dan doumentasi acara wayoik",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tgl 1 juli 2026",
+    "photoUrl": "https://drive.google.com/open?id=1y7i_KtY2VWh6boCA2a61j76zYsTp5j96",
+    "photoPagi": "https://drive.google.com/open?id=1y7i_KtY2VWh6boCA2a61j76zYsTp5j96",
+    "photoSore": "https://drive.google.com/open?id=1K-hVUQevVoV93lbgCk17XyUlWZiAQVG6"
+  },
+  {
+    "id": 950,
+    "timestamp": "7/2/2026 8:46:32",
+    "author": "Ade inputra",
+    "content": "sapu teras arsip dan ambil atk",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "29 juni 2026",
+    "photoUrl": "https://drive.google.com/open?id=1wtxV4NLgiuUcA_4SDj9W_eiZn_l894eI",
+    "photoPagi": "https://drive.google.com/open?id=1wtxV4NLgiuUcA_4SDj9W_eiZn_l894eI",
+    "photoSore": "https://drive.google.com/open?id=1EL4F8Zs5zFIBuTH4Rt4N3qC-RWALh7nG"
+  },
+  {
+    "id": 951,
+    "timestamp": "7/2/2026 10:04:04",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1wR6wLSzcE8bVTmZ6oPpbV96XTbezdWL6",
+    "photoPagi": "https://drive.google.com/open?id=1wR6wLSzcE8bVTmZ6oPpbV96XTbezdWL6",
+    "photoSore": ""
+  },
+  {
+    "id": 952,
+    "timestamp": "7/2/2026 10:04:59",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=10f6fllTMHa4oNrcHxyRh0pu9O6b2PJQh",
+    "photoPagi": "https://drive.google.com/open?id=10f6fllTMHa4oNrcHxyRh0pu9O6b2PJQh",
+    "photoSore": ""
+  },
+  {
+    "id": 953,
+    "timestamp": "7/2/2026 10:05:57",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1L8GXyjTZPa_mgR_z53nkUFWOpApMGaFN",
+    "photoPagi": "https://drive.google.com/open?id=1L8GXyjTZPa_mgR_z53nkUFWOpApMGaFN",
+    "photoSore": ""
+  },
+  {
+    "id": 954,
+    "timestamp": "7/2/2026 10:06:53",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1ciLzB7SgFJ-7NnAOYIupWdynTGJy0lq-",
+    "photoPagi": "https://drive.google.com/open?id=1ciLzB7SgFJ-7NnAOYIupWdynTGJy0lq-",
+    "photoSore": ""
+  },
+  {
+    "id": 955,
+    "timestamp": "7/2/2026 10:07:56",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1OokrnzScVo1HxiUW0x2CyWKRfwX6-nTL",
+    "photoPagi": "https://drive.google.com/open?id=1OokrnzScVo1HxiUW0x2CyWKRfwX6-nTL",
+    "photoSore": ""
+  },
+  {
+    "id": 956,
+    "timestamp": "7/2/2026 10:09:25",
+    "author": "Musrizaldi",
+    "content": "Melayani tamu dari guru SD kota Pariaman",
+    "output": "Lancar dan tertib",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=187twkM0GwDBqu7-o99Ium799LdHzXTWm",
+    "photoPagi": "https://drive.google.com/open?id=187twkM0GwDBqu7-o99Ium799LdHzXTWm",
+    "photoSore": ""
+  },
+  {
+    "id": 957,
+    "timestamp": "7/2/2026 11:32:03",
+    "author": "Neli Aftariani",
+    "content": "Membersihkan rumput di depan hol mini",
+    "output": "Belum selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=10_VgMxFDITQXEFRkCQqfiGEEJQLwFIVM",
+    "photoPagi": "https://drive.google.com/open?id=10_VgMxFDITQXEFRkCQqfiGEEJQLwFIVM",
+    "photoSore": ""
+  },
+  {
+    "id": 958,
+    "timestamp": "7/2/2026 15:53:58",
+    "author": "Salaudin",
+    "content": "Melakukan tugas kebersihan",
+    "output": "Aman",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1VwbKZVS721Miea1Bwhgcvpbx80SZelVq",
+    "photoPagi": "https://drive.google.com/open?id=1VwbKZVS721Miea1Bwhgcvpbx80SZelVq",
+    "photoSore": "https://drive.google.com/open?id=1XylIGjO7EjjdwU9U8sPC08h4Q0jPMkWh"
+  },
+  {
+    "id": 959,
+    "timestamp": "7/2/2026 16:31:20",
+    "author": "Buyung Syafrianto",
+    "content": "Merapikan meja kursi lagi aula mini dan menyapu lantai",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1KCap2EYtfACno3jBqW1HL6yOAGsEJgtl",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1KCap2EYtfACno3jBqW1HL6yOAGsEJgtl"
+  },
+  {
+    "id": 960,
+    "timestamp": "7/2/2026 16:36:07",
+    "author": "Neli Aftariani",
+    "content": "Membersihkan potongan rumput di depan hol mini",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1bO4GS2gDi8zWrHW92zAT8MMRpMu4iGIK",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1bO4GS2gDi8zWrHW92zAT8MMRpMu4iGIK"
+  },
+  {
+    "id": 961,
+    "timestamp": "7/2/2026 16:37:21",
+    "author": "Neli Aftariani",
+    "content": "Menyapu potongan bunga' di depan hol besar",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1K5OxxEXLRafkvUjfJEfR-J84vcTX1rfP",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1K5OxxEXLRafkvUjfJEfR-J84vcTX1rfP"
+  },
+  {
+    "id": 962,
+    "timestamp": "7/2/2026 18:17:40",
+    "author": "Fitriandi",
+    "content": "mencarah barang milik negara",
+    "output": "habis",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1bAlJTvp0nHbGl0LcoroLnL-BlgUqPUq4",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1bAlJTvp0nHbGl0LcoroLnL-BlgUqPUq4"
+  },
+  {
+    "id": 963,
+    "timestamp": "7/2/2026 18:18:46",
+    "author": "Fitriandi",
+    "content": "mencarah meja barang milik negara",
+    "output": "kecil kecil",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1GI-5PKRuyvlFUtg96EOX-l09WkJZRL9M",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1GI-5PKRuyvlFUtg96EOX-l09WkJZRL9M"
+  },
+  {
+    "id": 964,
+    "timestamp": "7/2/2026 18:19:37",
+    "author": "Fitriandi",
+    "content": "mencarah barang milik negara",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1gQcttpgPW12Q_QYmn6uIzcMUl-RaOb4I",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1gQcttpgPW12Q_QYmn6uIzcMUl-RaOb4I"
+  },
+  {
+    "id": 965,
+    "timestamp": "7/4/2026 20:06:09",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihakan aula utama hari sabtu atau minggu persiapkan apel pagi",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1G4G-7w1y7TakVIpRWEIO0UOeMzUCHsSV",
+    "photoPagi": "https://drive.google.com/open?id=1G4G-7w1y7TakVIpRWEIO0UOeMzUCHsSV",
+    "photoSore": "https://drive.google.com/open?id=18JQbfh934OSIrKJTs1e_JCZACbLMvJIq"
+  },
+  {
+    "id": 966,
+    "timestamp": "7/6/2026 7:34:24",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan aula utama",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1N2bXJfGZpZPKQPvSqKd3DvjruvpQub9c",
+    "photoPagi": "https://drive.google.com/open?id=1N2bXJfGZpZPKQPvSqKd3DvjruvpQub9c",
+    "photoSore": "https://drive.google.com/open?id=1UbVTG6vkNooVsSpz7AjtBJhrdUaBLqRv"
+  },
+  {
+    "id": 967,
+    "timestamp": "7/6/2026 8:18:52",
+    "author": "Mardianto",
+    "content": "Membersihkan area kantor asrama putra",
+    "output": "Aman",
+    "hambatan": "Bersih",
+    "photoUrl": "https://drive.google.com/open?id=1aQle61sfkVui7nIdA0tdDz3MIpC1avDK",
+    "photoPagi": "https://drive.google.com/open?id=1aQle61sfkVui7nIdA0tdDz3MIpC1avDK",
+    "photoSore": ""
+  },
+  {
+    "id": 968,
+    "timestamp": "7/6/2026 8:31:58",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan dan mengepel/menyapu ruang aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1h0Wet7Gd25RAfbN29J2h0BmriJkj753D",
+    "photoPagi": "https://drive.google.com/open?id=1h0Wet7Gd25RAfbN29J2h0BmriJkj753D",
+    "photoSore": ""
+  },
+  {
+    "id": 969,
+    "timestamp": "7/6/2026 9:02:43",
+    "author": "Mardianto",
+    "content": "Membersihkan dalam asrama putra",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1Rrc0r1QEhXazeR89wVlhw6-d2JfnnbDZ",
+    "photoPagi": "https://drive.google.com/open?id=1Rrc0r1QEhXazeR89wVlhw6-d2JfnnbDZ",
+    "photoSore": ""
+  },
+  {
+    "id": 970,
+    "timestamp": "7/6/2026 9:03:46",
+    "author": "Mardianto",
+    "content": "Membersih kan samping asrama putra",
+    "output": "Aman",
+    "hambatan": "Bersih",
+    "photoUrl": "https://drive.google.com/open?id=1BGbjXs-4BxGeh6vU49bi2YVSO2pPjYpn",
+    "photoPagi": "https://drive.google.com/open?id=1BGbjXs-4BxGeh6vU49bi2YVSO2pPjYpn",
+    "photoSore": ""
+  },
+  {
+    "id": 971,
+    "timestamp": "7/6/2026 9:04:54",
+    "author": "Mardianto",
+    "content": "Membersih kan samping asrama putra",
+    "output": "Aman",
+    "hambatan": "Bersih",
+    "photoUrl": "https://drive.google.com/open?id=1svgIXQxIddqLcqmMF-HB0lUr20GSbTC3",
+    "photoPagi": "https://drive.google.com/open?id=1svgIXQxIddqLcqmMF-HB0lUr20GSbTC3",
+    "photoSore": ""
+  },
+  {
+    "id": 972,
+    "timestamp": "7/6/2026 9:31:41",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1V8slXB9E0PAGS8rlcn_wJb4EFnqq2Gol",
+    "photoPagi": "https://drive.google.com/open?id=1V8slXB9E0PAGS8rlcn_wJb4EFnqq2Gol",
+    "photoSore": ""
+  },
+  {
+    "id": 973,
+    "timestamp": "7/6/2026 9:33:59",
+    "author": "Neli Aftariani",
+    "content": "Mencabut rumput di halaman hol mini",
+    "output": "Belum selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1qnUEk4Ud8Jzf8PcXA3xMbnjyD7o-HDwo",
+    "photoPagi": "https://drive.google.com/open?id=1qnUEk4Ud8Jzf8PcXA3xMbnjyD7o-HDwo",
+    "photoSore": ""
+  },
+  {
+    "id": 974,
+    "timestamp": "7/6/2026 10:38:40",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1jf70xaLkLxcI_QR9o8PkhGH8dgSZp9Kr",
+    "photoPagi": "https://drive.google.com/open?id=1jf70xaLkLxcI_QR9o8PkhGH8dgSZp9Kr",
+    "photoSore": ""
+  },
+  {
+    "id": 975,
+    "timestamp": "7/6/2026 10:39:39",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1w6Vet8v0R0i7BvO5wp0l1kus2eCoTKAx",
+    "photoPagi": "https://drive.google.com/open?id=1w6Vet8v0R0i7BvO5wp0l1kus2eCoTKAx",
+    "photoSore": ""
+  },
+  {
+    "id": 976,
+    "timestamp": "7/6/2026 10:40:46",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1QqythQz4Pjcx23Q12KuldSrjEbZiSdJF",
+    "photoPagi": "https://drive.google.com/open?id=1QqythQz4Pjcx23Q12KuldSrjEbZiSdJF",
+    "photoSore": ""
+  },
+  {
+    "id": 977,
+    "timestamp": "7/6/2026 10:41:47",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1CApUQJBPHCCxwR3PgHOYaQsmeQTZ7_2h",
+    "photoPagi": "https://drive.google.com/open?id=1CApUQJBPHCCxwR3PgHOYaQsmeQTZ7_2h",
+    "photoSore": ""
+  },
+  {
+    "id": 978,
+    "timestamp": "7/6/2026 10:42:39",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Li7h3T71Uw6GExVHpfgfqHqw8VC0TIMh",
+    "photoPagi": "https://drive.google.com/open?id=1Li7h3T71Uw6GExVHpfgfqHqw8VC0TIMh",
+    "photoSore": ""
+  },
+  {
+    "id": 979,
+    "timestamp": "7/6/2026 10:45:07",
+    "author": "Musrizaldi",
+    "content": "Pemeliharaan mesin sanio",
+    "output": "Aman air lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=143BrxsGK3pvtFHr0IbpkYowgHwjTLMwC",
+    "photoPagi": "https://drive.google.com/open?id=143BrxsGK3pvtFHr0IbpkYowgHwjTLMwC",
+    "photoSore": ""
+  },
+  {
+    "id": 980,
+    "timestamp": "7/6/2026 16:16:11",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan teras aula mini",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=10-QMS7zy7cYaEqT_T7YbzqQIddcSeNPY",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=10-QMS7zy7cYaEqT_T7YbzqQIddcSeNPY"
+  },
+  {
+    "id": 981,
+    "timestamp": "7/7/2026 7:48:49",
+    "author": "Buyung Syafrianto",
+    "content": "Mengenal dan menyapu lantai aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=183OhiELlUrff4l14yZLo99wU9i2L_zKN",
+    "photoPagi": "https://drive.google.com/open?id=183OhiELlUrff4l14yZLo99wU9i2L_zKN",
+    "photoSore": ""
+  },
+  {
+    "id": 982,
+    "timestamp": "7/7/2026 9:23:30",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1QqcXFVIV18jNnN-orKAuslnBAMIXjMcx",
+    "photoPagi": "https://drive.google.com/open?id=1QqcXFVIV18jNnN-orKAuslnBAMIXjMcx",
+    "photoSore": ""
+  },
+  {
+    "id": 983,
+    "timestamp": "7/7/2026 9:24:41",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=19BvBOobiw0LD4-N1N9IqFnRHBuskqjJm",
+    "photoPagi": "https://drive.google.com/open?id=19BvBOobiw0LD4-N1N9IqFnRHBuskqjJm",
+    "photoSore": ""
+  },
+  {
+    "id": 984,
+    "timestamp": "7/7/2026 9:25:51",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=17biyPJM1feC_1XvXf3qv_CtmaPAg-H78",
+    "photoPagi": "https://drive.google.com/open?id=17biyPJM1feC_1XvXf3qv_CtmaPAg-H78",
+    "photoSore": ""
+  },
+  {
+    "id": 985,
+    "timestamp": "7/7/2026 9:27:04",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1-pya8AYHUo9gYoRkzN6I2jrzZO2payRM",
+    "photoPagi": "https://drive.google.com/open?id=1-pya8AYHUo9gYoRkzN6I2jrzZO2payRM",
+    "photoSore": ""
+  },
+  {
+    "id": 986,
+    "timestamp": "7/7/2026 9:28:05",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada.",
+    "photoUrl": "https://drive.google.com/open?id=1blnHGGsAMh65Ci-3W1VKI_AuC_rSBbbh",
+    "photoPagi": "https://drive.google.com/open?id=1blnHGGsAMh65Ci-3W1VKI_AuC_rSBbbh",
+    "photoSore": ""
+  },
+  {
+    "id": 987,
+    "timestamp": "7/7/2026 9:29:22",
+    "author": "Neli Aftariani",
+    "content": "Membuang sampah ketempat pembuangan sampah",
+    "output": "Selesai",
+    "hambatan": "Tidak ada.",
+    "photoUrl": "https://drive.google.com/open?id=1dnS5E7KEGpHfGx5nh-3CmISPBuqEu9QL",
+    "photoPagi": "https://drive.google.com/open?id=1dnS5E7KEGpHfGx5nh-3CmISPBuqEu9QL",
+    "photoSore": ""
+  },
+  {
+    "id": 988,
+    "timestamp": "7/7/2026 10:06:37",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1V2OMiDFMh_9dNXJrOtUWaYayVSGXFiUx",
+    "photoPagi": "https://drive.google.com/open?id=1V2OMiDFMh_9dNXJrOtUWaYayVSGXFiUx",
+    "photoSore": ""
+  },
+  {
+    "id": 989,
+    "timestamp": "7/7/2026 10:07:28",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1OQ-AVg99A4xPXp3sx1vx6sPSkUQjWTGm",
+    "photoPagi": "https://drive.google.com/open?id=1OQ-AVg99A4xPXp3sx1vx6sPSkUQjWTGm",
+    "photoSore": ""
+  },
+  {
+    "id": 990,
+    "timestamp": "7/7/2026 10:08:27",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=15oIZtSaLOuxuW062DWLBcakb36rG0Bj6",
+    "photoPagi": "https://drive.google.com/open?id=15oIZtSaLOuxuW062DWLBcakb36rG0Bj6",
+    "photoSore": ""
+  },
+  {
+    "id": 991,
+    "timestamp": "7/7/2026 10:09:22",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Be_o0ZQmHdqGsiXBCuneZMENK5RJ_MVY",
+    "photoPagi": "https://drive.google.com/open?id=1Be_o0ZQmHdqGsiXBCuneZMENK5RJ_MVY",
+    "photoSore": ""
+  },
+  {
+    "id": 992,
+    "timestamp": "7/7/2026 10:10:12",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1xYggOmKI1CXAeoqKFVsfY48ZkEc4zWVK",
+    "photoPagi": "https://drive.google.com/open?id=1xYggOmKI1CXAeoqKFVsfY48ZkEc4zWVK",
+    "photoSore": ""
+  },
+  {
+    "id": 993,
+    "timestamp": "7/7/2026 10:11:12",
+    "author": "Musrizaldi",
+    "content": "Pemeliharaan genset",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1iNmQWVbjPz3NnaFuFFNjw6B2TSmdgbv_",
+    "photoPagi": "https://drive.google.com/open?id=1iNmQWVbjPz3NnaFuFFNjw6B2TSmdgbv_",
+    "photoSore": ""
+  },
+  {
+    "id": 994,
+    "timestamp": "7/7/2026 11:14:30",
+    "author": "Fitriandi",
+    "content": "teras rumah buk kepala",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1_-MMK6But8XfocGKuH4FnreEfYbWdOVt",
+    "photoPagi": "https://drive.google.com/open?id=1_-MMK6But8XfocGKuH4FnreEfYbWdOVt",
+    "photoSore": ""
+  },
+  {
+    "id": 995,
+    "timestamp": "7/7/2026 11:15:18",
+    "author": "Fitriandi",
+    "content": "teras pustaka",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1i8oEmHY-bBP33EMbQQhH-3p8H-IfZ-_p",
+    "photoPagi": "https://drive.google.com/open?id=1i8oEmHY-bBP33EMbQQhH-3p8H-IfZ-_p",
+    "photoSore": ""
+  },
+  {
+    "id": 996,
+    "timestamp": "7/7/2026 11:16:29",
+    "author": "Fitriandi",
+    "content": "teras ult",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1not2zNsPbNo-4eZXuMk4CKNHjylCVf0c",
+    "photoPagi": "https://drive.google.com/open?id=1not2zNsPbNo-4eZXuMk4CKNHjylCVf0c",
+    "photoSore": ""
+  },
+  {
+    "id": 997,
+    "timestamp": "7/7/2026 11:17:55",
+    "author": "Fitriandi",
+    "content": "ruangan pengaduan",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1v6HQHQ-u5IdQO-YJB093PX-GnmLMNEo2",
+    "photoPagi": "https://drive.google.com/open?id=1v6HQHQ-u5IdQO-YJB093PX-GnmLMNEo2",
+    "photoSore": ""
+  },
+  {
+    "id": 998,
+    "timestamp": "7/7/2026 14:20:37",
+    "author": "Fitriandi",
+    "content": "rapat inventarisasi BMN",
+    "output": "pertemuan",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1LCuB1vg-mosQRWnrwuPorNFAIll4vofd",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1LCuB1vg-mosQRWnrwuPorNFAIll4vofd"
+  },
+  {
+    "id": 999,
+    "timestamp": "7/7/2026 14:23:23",
+    "author": "Mardianto",
+    "content": "Membersih kan ruangan",
+    "output": "aman",
+    "hambatan": "Bersih",
+    "photoUrl": "https://drive.google.com/open?id=1IdKKQGtu_kp2-InjnD7IzaDB328WLvAc",
+    "photoPagi": "https://drive.google.com/open?id=1IdKKQGtu_kp2-InjnD7IzaDB328WLvAc",
+    "photoSore": ""
+  },
+  {
+    "id": 1000,
+    "timestamp": "7/7/2026 14:24:49",
+    "author": "Mardianto",
+    "content": "Membersih kan asrama putra",
+    "output": "aman",
+    "hambatan": "bersih",
+    "photoUrl": "https://drive.google.com/open?id=10rfWrgR00_VZn1Foa31yf817qvyA3ucm",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=10rfWrgR00_VZn1Foa31yf817qvyA3ucm"
+  },
+  {
+    "id": 1001,
+    "timestamp": "7/7/2026 15:34:47",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan teras luar aula mini",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1QWVaNzLPIOZTLSpqV4lXgxMesv8LX2qQ",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1QWVaNzLPIOZTLSpqV4lXgxMesv8LX2qQ"
+  },
+  {
+    "id": 1002,
+    "timestamp": "7/7/2026 19:35:36",
+    "author": "Salaudin",
+    "content": "Melakukan tugas kebersihan",
+    "output": "1",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1JMbVFLVmuVtlLR_DjQL7ZxdLiM1004Ce",
+    "photoPagi": "https://drive.google.com/open?id=1JMbVFLVmuVtlLR_DjQL7ZxdLiM1004Ce",
+    "photoSore": "https://drive.google.com/open?id=1MIB7HOh7WyecFPPN_Zb6_dwyNnLhwi_f"
+  },
+  {
+    "id": 1003,
+    "timestamp": "7/7/2026 20:08:07",
+    "author": "Fitriandi",
+    "content": "rapat inventaris",
+    "output": "pertemuan",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1N7E-MUzTE9a_8vSH_ny03hayHOzqY-Vx",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1N7E-MUzTE9a_8vSH_ny03hayHOzqY-Vx"
+  },
+  {
+    "id": 1004,
+    "timestamp": "7/7/2026 20:29:37",
+    "author": "Neli Aftariani",
+    "content": "Membersihkan rumput yang telah dicangkul dan membuang ke tempat sampah",
+    "output": "Selesai dan bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1zqC1FejZGZ9EKpLP1ouBc_5WZnCRQCkH",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1zqC1FejZGZ9EKpLP1ouBc_5WZnCRQCkH"
+  },
+  {
+    "id": 1005,
+    "timestamp": "7/8/2026 7:29:07",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan aula utama untuk senam pagi",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1U0nysldt70-iP3_cPGPvHCjcHWHKe7Kk",
+    "photoPagi": "https://drive.google.com/open?id=1U0nysldt70-iP3_cPGPvHCjcHWHKe7Kk",
+    "photoSore": ""
+  },
+  {
+    "id": 1006,
+    "timestamp": "7/8/2026 7:51:40",
+    "author": "Buyung Syafrianto",
+    "content": "Kerja pagi menyapu dan mengepel lantai aula mini luar dan dalam ruang",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=18JkE6e5ofsCVvEmpcXs3JotvZr0-Fw7D",
+    "photoPagi": "https://drive.google.com/open?id=18JkE6e5ofsCVvEmpcXs3JotvZr0-Fw7D",
+    "photoSore": ""
+  },
+  {
+    "id": 1007,
+    "timestamp": "7/8/2026 11:09:04",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1dleiC8irKU48EYt-5TJN7qgsFesrf6kW",
+    "photoPagi": "https://drive.google.com/open?id=1dleiC8irKU48EYt-5TJN7qgsFesrf6kW",
+    "photoSore": ""
+  },
+  {
+    "id": 1008,
+    "timestamp": "7/8/2026 11:10:00",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=15S8diGfcWFZxC4ipApMTPMGOaRJcn7cb",
+    "photoPagi": "https://drive.google.com/open?id=15S8diGfcWFZxC4ipApMTPMGOaRJcn7cb",
+    "photoSore": ""
+  },
+  {
+    "id": 1009,
+    "timestamp": "7/8/2026 11:11:09",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Tx2UOckfAHrJ3uNTHXR4_Qv5lR-QdlXr",
+    "photoPagi": "https://drive.google.com/open?id=1Tx2UOckfAHrJ3uNTHXR4_Qv5lR-QdlXr",
+    "photoSore": ""
+  },
+  {
+    "id": 1010,
+    "timestamp": "7/8/2026 11:13:00",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1vEXRM41lR6DFUDrtMW7BK_pG71rGHHlq",
+    "photoPagi": "https://drive.google.com/open?id=1vEXRM41lR6DFUDrtMW7BK_pG71rGHHlq",
+    "photoSore": ""
+  },
+  {
+    "id": 1011,
+    "timestamp": "7/8/2026 11:14:10",
+    "author": "Musrizaldi",
+    "content": "Menyiram bibit terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1A3ls-DuIgek3UhHK6PaK406uXFC-ZWmi",
+    "photoPagi": "https://drive.google.com/open?id=1A3ls-DuIgek3UhHK6PaK406uXFC-ZWmi",
+    "photoSore": ""
+  },
+  {
+    "id": 1012,
+    "timestamp": "7/8/2026 14:01:32",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan aula utama untuk senam pagi",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1jskEqGAlIv21W776RdE_QkMzj3PmuQcG",
+    "photoPagi": "https://drive.google.com/open?id=1jskEqGAlIv21W776RdE_QkMzj3PmuQcG",
+    "photoSore": ""
+  },
+  {
+    "id": 1013,
+    "timestamp": "7/8/2026 16:10:54",
+    "author": "Karmawar",
+    "content": "menata lingkungan kantor dan sekitarnya",
+    "output": "rapi dan bersih",
+    "hambatan": "tak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Rc_5w4BUI6of6gauIpOZdt0bh0Bf7Tft",
+    "photoPagi": "https://drive.google.com/open?id=1Rc_5w4BUI6of6gauIpOZdt0bh0Bf7Tft",
+    "photoSore": "https://drive.google.com/open?id=1hpW1erTq4yvdq5yAr1ykjwLMVdgM33qB"
+  },
+  {
+    "id": 1014,
+    "timestamp": "7/8/2026 16:11:00",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=176hZZs90v6M-Qw4YYwO6MIyFJPgxZ6YO",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=176hZZs90v6M-Qw4YYwO6MIyFJPgxZ6YO"
+  },
+  {
+    "id": 1015,
+    "timestamp": "7/8/2026 20:15:18",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1ivDXvTMYvVV7uVUqKa8-VIGgmTeywLJJ",
+    "photoPagi": "https://drive.google.com/open?id=1ivDXvTMYvVV7uVUqKa8-VIGgmTeywLJJ",
+    "photoSore": ""
+  },
+  {
+    "id": 1016,
+    "timestamp": "7/8/2026 20:17:18",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1JbWMp7i5uQzmDlvzDau9kbIcWtjHA3hW",
+    "photoPagi": "https://drive.google.com/open?id=1JbWMp7i5uQzmDlvzDau9kbIcWtjHA3hW",
+    "photoSore": ""
+  },
+  {
+    "id": 1017,
+    "timestamp": "7/8/2026 20:19:28",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1OPvy-lu-gmutRQ9RY7pfG7zxSjsbHb7g",
+    "photoPagi": "https://drive.google.com/open?id=1OPvy-lu-gmutRQ9RY7pfG7zxSjsbHb7g",
+    "photoSore": ""
+  },
+  {
+    "id": 1018,
+    "timestamp": "7/8/2026 20:21:55",
+    "author": "Neli Aftariani",
+    "content": "Menyiapkan sonsistem untuk olahraga pagi",
+    "output": "Aman",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1EaBnEYj4PFIY8NH5lQhoXCxD1zfImWVf",
+    "photoPagi": "https://drive.google.com/open?id=1EaBnEYj4PFIY8NH5lQhoXCxD1zfImWVf",
+    "photoSore": ""
+  },
+  {
+    "id": 1019,
+    "timestamp": "7/8/2026 20:23:44",
+    "author": "Neli Aftariani",
+    "content": "Membuang sampah ketempat pembuangan sampah",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1t-fUp5qgdwGT80royIP5Qxt462rpebVn",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1t-fUp5qgdwGT80royIP5Qxt462rpebVn"
+  },
+  {
+    "id": 1020,
+    "timestamp": "7/9/2026 7:29:10",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu lantai aula mini",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1Ol62utsFRVkGTlGWabCw6QJRVT2s8d7U",
+    "photoPagi": "https://drive.google.com/open?id=1Ol62utsFRVkGTlGWabCw6QJRVT2s8d7U",
+    "photoSore": ""
+  },
+  {
+    "id": 1021,
+    "timestamp": "7/9/2026 7:41:07",
+    "author": "Ade inputra",
+    "content": "bersihkan teras arsip dan beli alat atk kantor",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1HYzLaW0dkC9r7toJ-iY1UKwDZf8R3RiU",
+    "photoPagi": "https://drive.google.com/open?id=1HYzLaW0dkC9r7toJ-iY1UKwDZf8R3RiU",
+    "photoSore": "https://drive.google.com/open?id=1BDVm8abnMrDgdsrA1UbtUp5uCetEPURY"
+  },
+  {
+    "id": 1022,
+    "timestamp": "7/9/2026 7:43:49",
+    "author": "Ade inputra",
+    "content": "bersihkan teras arsip dan aula siti nurbaya",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tgl 6 juli 2026",
+    "photoUrl": "https://drive.google.com/open?id=1uXsSFFvGAjsDkNgFtTmsSotGLkvgCD8i",
+    "photoPagi": "https://drive.google.com/open?id=1uXsSFFvGAjsDkNgFtTmsSotGLkvgCD8i",
+    "photoSore": "https://drive.google.com/open?id=11XKBQKvIIdOEjdo9gX7P-GVc1vbFzBvO"
+  },
+  {
+    "id": 1023,
+    "timestamp": "7/9/2026 13:40:18",
+    "author": "Neli Aftariani",
+    "content": "Menyapu potongan bunga' di depan hol mini",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1zsEXKwXE29zG_N--Pn3cXGiUcH_soAQK",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1zsEXKwXE29zG_N--Pn3cXGiUcH_soAQK"
+  },
+  {
+    "id": 1024,
+    "timestamp": "7/9/2026 13:42:06",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1ya1yI4aJA9Bd3fqcyDOR6Q629FiEVsNy",
+    "photoPagi": "https://drive.google.com/open?id=1ya1yI4aJA9Bd3fqcyDOR6Q629FiEVsNy",
+    "photoSore": ""
+  },
+  {
+    "id": 1025,
+    "timestamp": "7/9/2026 15:51:23",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1v7csCUMMidglvu8wfUv63QWn_Nc-Tb6R",
+    "photoPagi": "https://drive.google.com/open?id=1v7csCUMMidglvu8wfUv63QWn_Nc-Tb6R",
+    "photoSore": ""
+  },
+  {
+    "id": 1026,
+    "timestamp": "7/9/2026 15:52:47",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=19UxKMhH_czWVCTG4ojN4wBN6K95UEtnV",
+    "photoPagi": "https://drive.google.com/open?id=19UxKMhH_czWVCTG4ojN4wBN6K95UEtnV",
+    "photoSore": ""
+  },
+  {
+    "id": 1027,
+    "timestamp": "7/9/2026 15:54:58",
+    "author": "Musrizaldi",
+    "content": "Tim BMN berkunjung ke ruangan numerasi untuk pendataan",
+    "output": "Lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=10fMBvJVgJ13uPCi860D1zI-IVJ-KrLbC",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=10fMBvJVgJ13uPCi860D1zI-IVJ-KrLbC"
+  },
+  {
+    "id": 1028,
+    "timestamp": "7/9/2026 16:33:40",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu area aula mini",
+    "output": "Selesai",
+    "hambatan": ",-",
+    "photoUrl": "https://drive.google.com/open?id=1IaSKgQmWU8xieaSfnRF893swq2BgTo_p",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1IaSKgQmWU8xieaSfnRF893swq2BgTo_p"
+  },
+  {
+    "id": 1029,
+    "timestamp": "7/9/2026 19:00:21",
+    "author": "Karmawar",
+    "content": "menata lingkungan kantor dan sekitarnya",
+    "output": "rapi dan bersih",
+    "hambatan": "tak ada",
+    "photoUrl": "https://drive.google.com/open?id=1hGyPELCbEVPRZDqHhXBVCi2DEad9PTjF",
+    "photoPagi": "https://drive.google.com/open?id=1hGyPELCbEVPRZDqHhXBVCi2DEad9PTjF",
+    "photoSore": "https://drive.google.com/open?id=1eoy7vQ7YtRgIahRg-doT7sN9XcF1xFcf"
+  },
+  {
+    "id": 1030,
+    "timestamp": "7/10/2026 16:40:58",
+    "author": "",
+    "content": "Melakukan pengisian SKP bulanan",
+    "output": "Tugas di rumah",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1GIwZvDiuXFUMq9BWyWoHFFnMsodszgmK",
+    "photoPagi": "https://drive.google.com/open?id=1GIwZvDiuXFUMq9BWyWoHFFnMsodszgmK",
+    "photoSore": ""
+  },
+  {
+    "id": 1031,
+    "timestamp": "7/10/2026 16:44:46",
+    "author": "Buyung Syafrianto",
+    "content": "Membuat SKP bulanan",
+    "output": "Tugas di rumah",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1X4yspu01nByJGTnpVIb9SsgVRf9lgchZ",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1X4yspu01nByJGTnpVIb9SsgVRf9lgchZ"
+  },
+  {
+    "id": 1032,
+    "timestamp": "7/12/2026 14:59:23",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan sabtu dan minggu aula utama bagian dalam untuk apel pagi",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1XD-Vx3bKg86Bw8zF_A_7X5SR05fyL24e",
+    "photoPagi": "https://drive.google.com/open?id=1XD-Vx3bKg86Bw8zF_A_7X5SR05fyL24e",
+    "photoSore": "https://drive.google.com/open?id=1kfvewTjfGbIgjZKPI-dC0mcnTQMSA3Le"
+  },
+  {
+    "id": 1033,
+    "timestamp": "7/13/2026 9:27:47",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1ZzcUKFJlsK029qxfqPDDRxJALSn-dwul",
+    "photoPagi": "https://drive.google.com/open?id=1ZzcUKFJlsK029qxfqPDDRxJALSn-dwul",
+    "photoSore": ""
+  },
+  {
+    "id": 1034,
+    "timestamp": "7/13/2026 9:28:38",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1zXiCuZ4V5N2QbgX_289mCf9ZGaus5Aba",
+    "photoPagi": "https://drive.google.com/open?id=1zXiCuZ4V5N2QbgX_289mCf9ZGaus5Aba",
+    "photoSore": ""
+  },
+  {
+    "id": 1035,
+    "timestamp": "7/13/2026 9:29:31",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Npsu4_tR6HLD-cGTssPtgDGMeiXGLau7",
+    "photoPagi": "https://drive.google.com/open?id=1Npsu4_tR6HLD-cGTssPtgDGMeiXGLau7",
+    "photoSore": ""
+  },
+  {
+    "id": 1036,
+    "timestamp": "7/13/2026 9:30:29",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1lAVJTFfjOCZ2pPDdCnr5Ah9rQkgz4Lfn",
+    "photoPagi": "https://drive.google.com/open?id=1lAVJTFfjOCZ2pPDdCnr5Ah9rQkgz4Lfn",
+    "photoSore": ""
+  },
+  {
+    "id": 1037,
+    "timestamp": "7/13/2026 9:31:42",
+    "author": "Musrizaldi",
+    "content": "Menyiram tanaman terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1-hN6XsrpSIs0Q_rgSIGp-xqOqcFWVhhv",
+    "photoPagi": "https://drive.google.com/open?id=1-hN6XsrpSIs0Q_rgSIGp-xqOqcFWVhhv",
+    "photoSore": ""
+  },
+  {
+    "id": 1038,
+    "timestamp": "7/13/2026 9:33:01",
+    "author": "Musrizaldi",
+    "content": "Pemeliharaan toren air",
+    "output": "Aman",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1W2niC6uM-sJONI8ZOjAIC9XMh-QINWM5",
+    "photoPagi": "https://drive.google.com/open?id=1W2niC6uM-sJONI8ZOjAIC9XMh-QINWM5",
+    "photoSore": ""
+  },
+  {
+    "id": 1039,
+    "timestamp": "7/13/2026 9:49:58",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan mengepel area aula mini luar/dalam",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1BvyjvDV2B5pKC2JKGD5EGHw2pOaX8FJZ",
+    "photoPagi": "https://drive.google.com/open?id=1BvyjvDV2B5pKC2JKGD5EGHw2pOaX8FJZ",
+    "photoSore": ""
+  },
+  {
+    "id": 1040,
+    "timestamp": "7/13/2026 15:38:34",
+    "author": "Buyung Syafrianto",
+    "content": "Stambay di gedung utama repsionis",
+    "output": "Piket",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1o_Rwcp2D-z5nSEeMm4c5zXRpVsNaOtXA",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1o_Rwcp2D-z5nSEeMm4c5zXRpVsNaOtXA"
+  },
+  {
+    "id": 1041,
+    "timestamp": "7/13/2026 16:48:27",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan halaman aula utama kantor",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=127U1uTvprPfMYg-G2xa7stUIy88Xp2i0",
+    "photoPagi": "https://drive.google.com/open?id=127U1uTvprPfMYg-G2xa7stUIy88Xp2i0",
+    "photoSore": ""
+  },
+  {
+    "id": 1042,
+    "timestamp": "7/14/2026 7:24:26",
+    "author": "Ade inputra",
+    "content": "bersihkan teras arsip dan packing atk acara ke daerah",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tgl 13 juli 2026",
+    "photoUrl": "https://drive.google.com/open?id=1LkteFpMTT7ekQkQ1ljEAYwgy6eOvDcdN",
+    "photoPagi": "https://drive.google.com/open?id=1LkteFpMTT7ekQkQ1ljEAYwgy6eOvDcdN",
+    "photoSore": "https://drive.google.com/open?id=1Cs8tyhwXcEFAvr3RXBHfvKwSEi40PebX"
+  },
+  {
+    "id": 1043,
+    "timestamp": "7/14/2026 7:27:14",
+    "author": "Ade inputra",
+    "content": "pengukuran ruangan BMN dan siapkan atk",
+    "output": "terselesaikan pekerjaa",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1I2w5gGNPn8lyUgmuJtFp3UNnpfM7dKJV",
+    "photoPagi": "https://drive.google.com/open?id=1I2w5gGNPn8lyUgmuJtFp3UNnpfM7dKJV",
+    "photoSore": "https://drive.google.com/open?id=19idr5FuYpslCNDiNQpd3ZT77Qunt6yc5"
+  },
+  {
+    "id": 1044,
+    "timestamp": "7/14/2026 8:23:11",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan mengepel lantai aula mini",
+    "output": "Membersihkan",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1F2EOFScrr8hjYVnsQbsGUZGPoBRhBGoG",
+    "photoPagi": "https://drive.google.com/open?id=1F2EOFScrr8hjYVnsQbsGUZGPoBRhBGoG",
+    "photoSore": ""
+  },
+  {
+    "id": 1045,
+    "timestamp": "7/14/2026 8:45:35",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1RQ2XvlTPe3VHut6QTVlyR2yUlOAMB2HO",
+    "photoPagi": "https://drive.google.com/open?id=1RQ2XvlTPe3VHut6QTVlyR2yUlOAMB2HO",
+    "photoSore": ""
+  },
+  {
+    "id": 1046,
+    "timestamp": "7/14/2026 8:46:47",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Okv8wacEDXTl9sN3zbRVNHY_uFi_GEeb",
+    "photoPagi": "https://drive.google.com/open?id=1Okv8wacEDXTl9sN3zbRVNHY_uFi_GEeb",
+    "photoSore": ""
+  },
+  {
+    "id": 1047,
+    "timestamp": "7/14/2026 8:47:49",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1ZoEaiUTOkRJU-wkHs6uIp2x1XwgIxc4e",
+    "photoPagi": "https://drive.google.com/open?id=1ZoEaiUTOkRJU-wkHs6uIp2x1XwgIxc4e",
+    "photoSore": ""
+  },
+  {
+    "id": 1048,
+    "timestamp": "7/14/2026 8:48:47",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1uqzLIXtDeTdQRnW2cUcpMR-b0YohrQr7",
+    "photoPagi": "https://drive.google.com/open?id=1uqzLIXtDeTdQRnW2cUcpMR-b0YohrQr7",
+    "photoSore": ""
+  },
+  {
+    "id": 1049,
+    "timestamp": "7/14/2026 8:49:57",
+    "author": "Musrizaldi",
+    "content": "Menyiram terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=10LEzel8zKIoL5qWUWO-hWNVuOC0udI1J",
+    "photoPagi": "https://drive.google.com/open?id=10LEzel8zKIoL5qWUWO-hWNVuOC0udI1J",
+    "photoSore": ""
+  },
+  {
+    "id": 1050,
+    "timestamp": "7/14/2026 9:41:22",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1n6cm-q9Csm5Olzv4P9XDfXVNn_32eRst",
+    "photoPagi": "https://drive.google.com/open?id=1n6cm-q9Csm5Olzv4P9XDfXVNn_32eRst",
+    "photoSore": ""
+  },
+  {
+    "id": 1051,
+    "timestamp": "7/14/2026 9:43:22",
+    "author": "Neli Aftariani",
+    "content": "Mengikuti rapat UKKJ di ruangan hol mini BGTK Sumbar",
+    "output": "Aman",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1-tELM7jAfHDFMWc9aPgE2jdim0Coe86O",
+    "photoPagi": "https://drive.google.com/open?id=1-tELM7jAfHDFMWc9aPgE2jdim0Coe86O",
+    "photoSore": ""
+  },
+  {
+    "id": 1052,
+    "timestamp": "7/14/2026 15:29:33",
+    "author": "Rio Mailando Agustiano",
+    "content": "Melayani tamu datang ke kantor",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1LHTJ0lkXFTVXQNSE6BTVf3eqTbCMdFHB",
+    "photoPagi": "https://drive.google.com/open?id=1LHTJ0lkXFTVXQNSE6BTVf3eqTbCMdFHB",
+    "photoSore": "https://drive.google.com/open?id=1reCr7VA34v5Vo9kGozqUhAA9AyoY3i8Y"
+  },
+  {
+    "id": 1053,
+    "timestamp": "7/14/2026 16:02:00",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1g8Txg8MS3JxatPRODsOVONLXcjRxBdMe",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1g8Txg8MS3JxatPRODsOVONLXcjRxBdMe"
+  },
+  {
+    "id": 1054,
+    "timestamp": "7/15/2026 7:58:33",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan membersihkan aula mini",
+    "output": "Bersih..bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1kiGrbkKppfUtFzd83BetblNXchcKJyxG",
+    "photoPagi": "https://drive.google.com/open?id=1kiGrbkKppfUtFzd83BetblNXchcKJyxG",
+    "photoSore": ""
+  },
+  {
+    "id": 1055,
+    "timestamp": "7/15/2026 10:25:50",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1w11qeIb1mIgrH7XkqwRfS1gtLXudZ0NQ",
+    "photoPagi": "https://drive.google.com/open?id=1w11qeIb1mIgrH7XkqwRfS1gtLXudZ0NQ",
+    "photoSore": ""
+  },
+  {
+    "id": 1056,
+    "timestamp": "7/15/2026 10:27:14",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1geYlfE-BNCDDBGvxP-lzgEAHqqwujL03",
+    "photoPagi": "https://drive.google.com/open?id=1geYlfE-BNCDDBGvxP-lzgEAHqqwujL03",
+    "photoSore": ""
+  },
+  {
+    "id": 1057,
+    "timestamp": "7/15/2026 10:28:10",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1yxqUdmDzKvyKax2Tla6Kzg6Z0iLkpWYW",
+    "photoPagi": "https://drive.google.com/open?id=1yxqUdmDzKvyKax2Tla6Kzg6Z0iLkpWYW",
+    "photoSore": ""
+  },
+  {
+    "id": 1058,
+    "timestamp": "7/15/2026 10:29:06",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1gBhqHA7FfIJG1j3E2lEy65kDSqQ418D9",
+    "photoPagi": "https://drive.google.com/open?id=1gBhqHA7FfIJG1j3E2lEy65kDSqQ418D9",
+    "photoSore": ""
+  },
+  {
+    "id": 1059,
+    "timestamp": "7/15/2026 10:30:11",
+    "author": "Musrizaldi",
+    "content": "Menyiram terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1OOlt9CZcG56sjFdxAsf52J4yPXVTUeLS",
+    "photoPagi": "https://drive.google.com/open?id=1OOlt9CZcG56sjFdxAsf52J4yPXVTUeLS",
+    "photoSore": ""
+  },
+  {
+    "id": 1060,
+    "timestamp": "7/15/2026 16:32:52",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=14Tp2dhLqG71TIY3pD3_BADaey0oXOAeT",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=14Tp2dhLqG71TIY3pD3_BADaey0oXOAeT"
+  },
+  {
+    "id": 1061,
+    "timestamp": "7/16/2026 7:59:46",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan mengepel lantai aula mini",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1gWUrN8xYnz6ralDYhS5cCYhzeLd7FRYg",
+    "photoPagi": "https://drive.google.com/open?id=1gWUrN8xYnz6ralDYhS5cCYhzeLd7FRYg",
+    "photoSore": ""
+  },
+  {
+    "id": 1062,
+    "timestamp": "7/16/2026 13:12:44",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=17-P-NYEe5WajZpMhGySta2sCdsnnzl87",
+    "photoPagi": "https://drive.google.com/open?id=17-P-NYEe5WajZpMhGySta2sCdsnnzl87",
+    "photoSore": ""
+  },
+  {
+    "id": 1063,
+    "timestamp": "7/16/2026 13:13:38",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1CG22OlFQOxAmVvvJFa-Gaj7ES3mw5tga",
+    "photoPagi": "https://drive.google.com/open?id=1CG22OlFQOxAmVvvJFa-Gaj7ES3mw5tga",
+    "photoSore": ""
+  },
+  {
+    "id": 1064,
+    "timestamp": "7/16/2026 13:14:26",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1DE34SSCzQ-wzcPBpFQ54tZNm6JHpVVuG",
+    "photoPagi": "https://drive.google.com/open?id=1DE34SSCzQ-wzcPBpFQ54tZNm6JHpVVuG",
+    "photoSore": ""
+  },
+  {
+    "id": 1065,
+    "timestamp": "7/16/2026 13:15:25",
+    "author": "Musrizaldi",
+    "content": "Menyiram terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1MwDfSMdvELZ2YanLZuZStgH-h_GXKH4B",
+    "photoPagi": "https://drive.google.com/open?id=1MwDfSMdvELZ2YanLZuZStgH-h_GXKH4B",
+    "photoSore": ""
+  },
+  {
+    "id": 1066,
+    "timestamp": "7/16/2026 16:12:34",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan",
+    "output": "Bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1mXCG_5V87BNCHWscWgT65hh6w5tG_gbP",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1mXCG_5V87BNCHWscWgT65hh6w5tG_gbP"
+  },
+  {
+    "id": 1067,
+    "timestamp": "7/17/2026 16:43:13",
+    "author": "Buyung Syafrianto",
+    "content": "Membuat SKP",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=15i49Dk7yWrliuYKthmKjLJiTTT73rxp4",
+    "photoPagi": "https://drive.google.com/open?id=15i49Dk7yWrliuYKthmKjLJiTTT73rxp4",
+    "photoSore": "https://drive.google.com/open?id=1bXpXRNXQ7DdvOaHkNoEtC8CGPhnt9uOz"
+  },
+  {
+    "id": 1068,
+    "timestamp": "7/19/2026 15:54:49",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan ruang aula pada hari minggu persiapan apel pagi senin pagi",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1r2IZT1O0TrtNw7rSp0heINYBJQ4XEzye",
+    "photoPagi": "https://drive.google.com/open?id=1r2IZT1O0TrtNw7rSp0heINYBJQ4XEzye",
+    "photoSore": "https://drive.google.com/open?id=1llzOFU8ybH59xtjdQg2-_irpRFatAWt8"
+  },
+  {
+    "id": 1069,
+    "timestamp": "7/20/2026 8:23:00",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan mengepel lantai aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1v3002SCSeGg_FqNAfj6V5EGSxPl4Z7Kd",
+    "photoPagi": "https://drive.google.com/open?id=1v3002SCSeGg_FqNAfj6V5EGSxPl4Z7Kd",
+    "photoSore": ""
+  },
+  {
+    "id": 1070,
+    "timestamp": "7/20/2026 8:53:58",
+    "author": "Mardianto",
+    "content": "Membersihkan ruangan asrama putra",
+    "output": "Bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1A8KvlssXi2hIMjn7To-am_NfgH1hcy7b",
+    "photoPagi": "https://drive.google.com/open?id=1A8KvlssXi2hIMjn7To-am_NfgH1hcy7b",
+    "photoSore": ""
+  },
+  {
+    "id": 1071,
+    "timestamp": "7/20/2026 8:54:58",
+    "author": "Mardianto",
+    "content": "Membersihkan iventri asrama putra",
+    "output": "Bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1f7D5AUceSKiLN6nMIcrEV4fJ_YaLH_Vz",
+    "photoPagi": "https://drive.google.com/open?id=1f7D5AUceSKiLN6nMIcrEV4fJ_YaLH_Vz",
+    "photoSore": ""
+  },
+  {
+    "id": 1072,
+    "timestamp": "7/20/2026 8:55:51",
+    "author": "Mardianto",
+    "content": "Membersihkan depan asrama putra",
+    "output": "Bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1hPJuoV0ABqBsKzpFNQWzQaJYjXpoahap",
+    "photoPagi": "https://drive.google.com/open?id=1hPJuoV0ABqBsKzpFNQWzQaJYjXpoahap",
+    "photoSore": ""
+  },
+  {
+    "id": 1073,
+    "timestamp": "7/20/2026 10:25:30",
+    "author": "Fitriandi",
+    "content": "membersihkan kaca ult",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1k_aassetWviDhMMJzjAAl-0_FCbI1bvM",
+    "photoPagi": "https://drive.google.com/open?id=1k_aassetWviDhMMJzjAAl-0_FCbI1bvM",
+    "photoSore": ""
+  },
+  {
+    "id": 1074,
+    "timestamp": "7/20/2026 10:26:26",
+    "author": "Fitriandi",
+    "content": "membersihkan kaca pustaka",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1NkIQZrrHN6g_JNkTf_JZN2cN4VPjidZx",
+    "photoPagi": "https://drive.google.com/open?id=1NkIQZrrHN6g_JNkTf_JZN2cN4VPjidZx",
+    "photoSore": ""
+  },
+  {
+    "id": 1075,
+    "timestamp": "7/20/2026 11:30:43",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1PksVZqVC42yQOiC0BmTNoMdpIIqL2j4O",
+    "photoPagi": "https://drive.google.com/open?id=1PksVZqVC42yQOiC0BmTNoMdpIIqL2j4O",
+    "photoSore": ""
+  },
+  {
+    "id": 1076,
+    "timestamp": "7/20/2026 11:31:34",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1LU9-1vuGmEMaa9wSeykLKK4Nro2mbE_p",
+    "photoPagi": "https://drive.google.com/open?id=1LU9-1vuGmEMaa9wSeykLKK4Nro2mbE_p",
+    "photoSore": ""
+  },
+  {
+    "id": 1077,
+    "timestamp": "7/20/2026 11:32:38",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1UR1VlOC7yVyYI5XDdMd01sxludNI09DM",
+    "photoPagi": "https://drive.google.com/open?id=1UR1VlOC7yVyYI5XDdMd01sxludNI09DM",
+    "photoSore": ""
+  },
+  {
+    "id": 1078,
+    "timestamp": "7/20/2026 11:33:40",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1pvgnTujFF0rSfxGxK6MfnpfMZEpWV2yj",
+    "photoPagi": "https://drive.google.com/open?id=1pvgnTujFF0rSfxGxK6MfnpfMZEpWV2yj",
+    "photoSore": ""
+  },
+  {
+    "id": 1079,
+    "timestamp": "7/20/2026 11:34:55",
+    "author": "Musrizaldi",
+    "content": "Merawat tanaman terong dan cabe",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1C9BIwd2KFGZunhg05n5dkNq9hK236oOH",
+    "photoPagi": "https://drive.google.com/open?id=1C9BIwd2KFGZunhg05n5dkNq9hK236oOH",
+    "photoSore": ""
+  },
+  {
+    "id": 1080,
+    "timestamp": "7/20/2026 16:03:07",
+    "author": "Buyung Syafrianto",
+    "content": "",
+    "output": "Membersihkan aula mini",
+    "hambatan": "Bersih",
+    "photoUrl": "https://drive.google.com/open?id=1hqhbtJdKsUEQhO9O0bcYGnz-ZTvUA1n7",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1hqhbtJdKsUEQhO9O0bcYGnz-ZTvUA1n7"
+  },
+  {
+    "id": 1081,
+    "timestamp": "7/21/2026 8:50:45",
+    "author": "Mardianto",
+    "content": "Megarakan tamu",
+    "output": "Telaksana",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1xp4-dSdXsQu4tHhdl5_eo5eY61ItTUZl",
+    "photoPagi": "https://drive.google.com/open?id=1xp4-dSdXsQu4tHhdl5_eo5eY61ItTUZl",
+    "photoSore": ""
+  },
+  {
+    "id": 1082,
+    "timestamp": "7/21/2026 10:03:36",
+    "author": "Buyung Syafrianto",
+    "content": "Mengepel dan menyapu area aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1dcsiWFUsq_vVyoLrOflV3eakRiKZqoCA",
+    "photoPagi": "https://drive.google.com/open?id=1dcsiWFUsq_vVyoLrOflV3eakRiKZqoCA",
+    "photoSore": ""
+  },
+  {
+    "id": 1083,
+    "timestamp": "7/21/2026 15:42:28",
+    "author": "Rio Mailando Agustiano",
+    "content": "Mengelola kebersihan aula utama buat senam rabu pagi",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1NoaJaRIDulQ-D-CZfTLGv87OrY16xPgK",
+    "photoPagi": "https://drive.google.com/open?id=1NoaJaRIDulQ-D-CZfTLGv87OrY16xPgK",
+    "photoSore": "https://drive.google.com/open?id=1McP0YlY-b8-H-NBcuHlqztyZNsiEMX7s"
+  },
+  {
+    "id": 1084,
+    "timestamp": "7/21/2026 16:10:10",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1P7PXJa9rmfbRpHM866aJ-7mU4CNIgoLX",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1P7PXJa9rmfbRpHM866aJ-7mU4CNIgoLX"
+  },
+  {
+    "id": 1085,
+    "timestamp": "7/22/2026 10:28:13",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=11Imcm6sqxVrGEoZk53wzKgA11vMd5sbd",
+    "photoPagi": "https://drive.google.com/open?id=11Imcm6sqxVrGEoZk53wzKgA11vMd5sbd",
+    "photoSore": ""
+  },
+  {
+    "id": 1086,
+    "timestamp": "7/22/2026 10:31:46",
+    "author": "Musrizaldi",
+    "content": "Goro bersama Kepala Subag dan seluruh staf BGTK",
+    "output": "Aman lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1krIDKVRZfy-8qywVPIfDbTp_P9wdvzMA",
+    "photoPagi": "https://drive.google.com/open?id=1krIDKVRZfy-8qywVPIfDbTp_P9wdvzMA",
+    "photoSore": ""
+  },
+  {
+    "id": 1087,
+    "timestamp": "7/22/2026 15:53:01",
+    "author": "Ade inputra",
+    "content": "konten senam dan sapu arsip",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1uZqIR4BbpO7368sYiaXug4Kwe-PcKjm0",
+    "photoPagi": "https://drive.google.com/open?id=1uZqIR4BbpO7368sYiaXug4Kwe-PcKjm0",
+    "photoSore": "https://drive.google.com/open?id=1ZyrHKcxNleI8j3C6FAR98LuLJ4WHJe47"
+  },
+  {
+    "id": 1088,
+    "timestamp": "7/22/2026 15:55:02",
+    "author": "Ade inputra",
+    "content": "sapu teras arsip dan ambil atk",
+    "output": "terselesaikan pekerjaa",
+    "hambatan": "tgl 21 juli 2026",
+    "photoUrl": "https://drive.google.com/open?id=11W44A_zxSsUiH11lCbxJ9dqvNRIvJSfl",
+    "photoPagi": "https://drive.google.com/open?id=11W44A_zxSsUiH11lCbxJ9dqvNRIvJSfl",
+    "photoSore": "https://drive.google.com/open?id=1XnixdmOV9SNiRVj7oXBKDPuXqo3TcZD2"
+  },
+  {
+    "id": 1089,
+    "timestamp": "7/22/2026 16:16:29",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1CHWT_6p8j2vMVDYUFTxC8BaNZ3FiSScn",
+    "photoPagi": "https://drive.google.com/open?id=1CHWT_6p8j2vMVDYUFTxC8BaNZ3FiSScn",
+    "photoSore": ""
+  },
+  {
+    "id": 1090,
+    "timestamp": "7/23/2026 7:28:50",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu area aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1D2mvY2YAnPL3ZkM8RmekNWrEA4pD3iWO",
+    "photoPagi": "https://drive.google.com/open?id=1D2mvY2YAnPL3ZkM8RmekNWrEA4pD3iWO",
+    "photoSore": ""
+  },
+  {
+    "id": 1091,
+    "timestamp": "7/23/2026 13:47:33",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1OmJTa74z7dfd2x2WlXPZYr7z6KWwZqaH",
+    "photoPagi": "https://drive.google.com/open?id=1OmJTa74z7dfd2x2WlXPZYr7z6KWwZqaH",
+    "photoSore": ""
+  },
+  {
+    "id": 1092,
+    "timestamp": "7/23/2026 13:48:32",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=16sOnADuwDN2GREHzwYF9SGIizCOvMAGG",
+    "photoPagi": "https://drive.google.com/open?id=16sOnADuwDN2GREHzwYF9SGIizCOvMAGG",
+    "photoSore": ""
+  },
+  {
+    "id": 1093,
+    "timestamp": "7/23/2026 13:49:38",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1fy2tNBJ7XSFsqRHlatbJ-qEgmcWNZ4ba",
+    "photoPagi": "https://drive.google.com/open?id=1fy2tNBJ7XSFsqRHlatbJ-qEgmcWNZ4ba",
+    "photoSore": ""
+  },
+  {
+    "id": 1094,
+    "timestamp": "7/23/2026 13:50:48",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1duufaVW0c8zWiQvon0YBi0-kqFWX44FJ",
+    "photoPagi": "https://drive.google.com/open?id=1duufaVW0c8zWiQvon0YBi0-kqFWX44FJ",
+    "photoSore": ""
+  },
+  {
+    "id": 1095,
+    "timestamp": "7/23/2026 13:52:14",
+    "author": "Musrizaldi",
+    "content": "Mencek kran air yang patah",
+    "output": "Sudah dilaporkan",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1rKVmb75U8IUmUegEY7UzbMFpk61AeNxO",
+    "photoPagi": "https://drive.google.com/open?id=1rKVmb75U8IUmUegEY7UzbMFpk61AeNxO",
+    "photoSore": ""
+  },
+  {
+    "id": 1096,
+    "timestamp": "7/23/2026 15:19:20",
+    "author": "Buyung Syafrianto",
+    "content": "Piket di ruang tengah gedung utama kantor",
+    "output": "Stambay",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1Fl2EsLnqKv58NoSY0DeBaXaS6E4p9Dn-",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1Fl2EsLnqKv58NoSY0DeBaXaS6E4p9Dn-"
+  },
+  {
+    "id": 1097,
+    "timestamp": "7/23/2026 16:46:04",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan menyusun kursi/meja stelah kegiatan ibu²  DW BGTK SUMBAR",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1uHmCEr49rLVW0B4BhymKRZtBqYHRqUoZ",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1uHmCEr49rLVW0B4BhymKRZtBqYHRqUoZ"
+  },
+  {
+    "id": 1098,
+    "timestamp": "7/24/2026 16:30:49",
+    "author": "Buyung Syafrianto",
+    "content": "Membuat SKP bulanan",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1xV4y174pR-FXlgfN9QDPi378sFKTYobL",
+    "photoPagi": "https://drive.google.com/open?id=1xV4y174pR-FXlgfN9QDPi378sFKTYobL",
+    "photoSore": ""
+  },
+  {
+    "id": 1099,
+    "timestamp": "7/24/2026 16:32:41",
+    "author": "Buyung Syafrianto",
+    "content": "Membuat SKP bulanan",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1RzbRCVqeuauTpqYG68VnjjLyFrTUw9Y5",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1RzbRCVqeuauTpqYG68VnjjLyFrTUw9Y5"
+  },
+  {
+    "id": 1100,
+    "timestamp": "7/27/2026 8:15:38",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan area aula mini BGTK Provinsi Sumbar",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1ecSJi-5IiakT3NlIbP5mrAuE_cnIbdVo",
+    "photoPagi": "https://drive.google.com/open?id=1ecSJi-5IiakT3NlIbP5mrAuE_cnIbdVo",
+    "photoSore": ""
+  },
+  {
+    "id": 1101,
+    "timestamp": "7/27/2026 11:34:05",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1v0MA024OjbMDU3gypRVMUd47ex-BTRco",
+    "photoPagi": "https://drive.google.com/open?id=1v0MA024OjbMDU3gypRVMUd47ex-BTRco",
+    "photoSore": ""
+  },
+  {
+    "id": 1102,
+    "timestamp": "7/27/2026 11:34:57",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Yf-AbXgPpX94U-RxY4AKiiJUPIBtVkm6",
+    "photoPagi": "https://drive.google.com/open?id=1Yf-AbXgPpX94U-RxY4AKiiJUPIBtVkm6",
+    "photoSore": ""
+  },
+  {
+    "id": 1103,
+    "timestamp": "7/27/2026 11:35:51",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1VVh793skC3u2exJUU5l163j-JD9UYwfV",
+    "photoPagi": "https://drive.google.com/open?id=1VVh793skC3u2exJUU5l163j-JD9UYwfV",
+    "photoSore": ""
+  },
+  {
+    "id": 1104,
+    "timestamp": "7/27/2026 11:36:52",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1DP1-yQL39MhLVhdAUNxA-AvyCkJXs1Jj",
+    "photoPagi": "https://drive.google.com/open?id=1DP1-yQL39MhLVhdAUNxA-AvyCkJXs1Jj",
+    "photoSore": ""
+  },
+  {
+    "id": 1105,
+    "timestamp": "7/27/2026 11:38:05",
+    "author": "Musrizaldi",
+    "content": "Perawatan temon air",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1XOhffdlq49-oyoJ-jm8Gsv2NYePwFHIh",
+    "photoPagi": "https://drive.google.com/open?id=1XOhffdlq49-oyoJ-jm8Gsv2NYePwFHIh",
+    "photoSore": ""
+  },
+  {
+    "id": 1106,
+    "timestamp": "7/27/2026 15:58:06",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu teras aula mini",
+    "output": "Membersihkan",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1p0X4eLsSmjXXH9jzN9QXvMVhZEkoOJ5X",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1p0X4eLsSmjXXH9jzN9QXvMVhZEkoOJ5X"
+  },
+  {
+    "id": 1107,
+    "timestamp": "7/28/2026 8:19:08",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan siram bunga",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1_XlDH-8n9nmHwfrjyR2FmTkkM7Qnjb3r",
+    "photoPagi": "https://drive.google.com/open?id=1_XlDH-8n9nmHwfrjyR2FmTkkM7Qnjb3r",
+    "photoSore": ""
+  },
+  {
+    "id": 1108,
+    "timestamp": "7/28/2026 14:54:03",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1dRZB4SO7_B6bzbxWQ_bZpffGQ96C3Xtp",
+    "photoPagi": "https://drive.google.com/open?id=1dRZB4SO7_B6bzbxWQ_bZpffGQ96C3Xtp",
+    "photoSore": ""
+  },
+  {
+    "id": 1109,
+    "timestamp": "7/28/2026 14:54:56",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1cw6a7a4gcIM5eBAvqbkKfneP5jAD_6px",
+    "photoPagi": "https://drive.google.com/open?id=1cw6a7a4gcIM5eBAvqbkKfneP5jAD_6px",
+    "photoSore": ""
+  },
+  {
+    "id": 1110,
+    "timestamp": "7/28/2026 14:55:47",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1YHUGEZZS5SYxrmBoFwLGrsVMqBTSMqgy",
+    "photoPagi": "https://drive.google.com/open?id=1YHUGEZZS5SYxrmBoFwLGrsVMqBTSMqgy",
+    "photoSore": ""
+  },
+  {
+    "id": 1111,
+    "timestamp": "7/28/2026 14:56:38",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1lJkS7lxy8YKt9CVxYhdHg4nmH5EHELkE",
+    "photoPagi": "https://drive.google.com/open?id=1lJkS7lxy8YKt9CVxYhdHg4nmH5EHELkE",
+    "photoSore": ""
+  },
+  {
+    "id": 1112,
+    "timestamp": "7/28/2026 14:57:51",
+    "author": "Musrizaldi",
+    "content": "Menyiram cabe dan terong",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Ygl5voZRn9t7u3qvC3cT_1uLBETumrxO",
+    "photoPagi": "https://drive.google.com/open?id=1Ygl5voZRn9t7u3qvC3cT_1uLBETumrxO",
+    "photoSore": ""
+  },
+  {
+    "id": 1113,
+    "timestamp": "7/28/2026 15:56:05",
+    "author": "Rio Mailando Agustiano",
+    "content": "Membersihkan ruang aula utama akan melaksanakan senam rabu pagi",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1lL68ezjjbgFq9Nc5vD1jXe-0_9hoHee-",
+    "photoPagi": "https://drive.google.com/open?id=1lL68ezjjbgFq9Nc5vD1jXe-0_9hoHee-",
+    "photoSore": "https://drive.google.com/open?id=1D_2vbqDGvPtIrDf2niEZVPyVoW1ZfQnd"
+  },
+  {
+    "id": 1114,
+    "timestamp": "7/29/2026 7:34:56",
+    "author": "Fitriandi",
+    "content": "membersihkan ruangan pengaduan",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1qV-5DiywZceAdD7Z02XYdOk0UJeGGnbt",
+    "photoPagi": "https://drive.google.com/open?id=1qV-5DiywZceAdD7Z02XYdOk0UJeGGnbt",
+    "photoSore": ""
+  },
+  {
+    "id": 1115,
+    "timestamp": "7/29/2026 7:35:59",
+    "author": "Fitriandi",
+    "content": "membersihkan teras ult",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1UflMdEiTwNWOhrVUVVQXzwUAKNhEpNeg",
+    "photoPagi": "https://drive.google.com/open?id=1UflMdEiTwNWOhrVUVVQXzwUAKNhEpNeg",
+    "photoSore": ""
+  },
+  {
+    "id": 1116,
+    "timestamp": "7/29/2026 7:37:16",
+    "author": "Fitriandi",
+    "content": "membersihkan depan ult",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1fgfxO8w0sjFDiH-AIpj4rhg7uNEIKOEc",
+    "photoPagi": "https://drive.google.com/open?id=1fgfxO8w0sjFDiH-AIpj4rhg7uNEIKOEc",
+    "photoSore": ""
+  },
+  {
+    "id": 1117,
+    "timestamp": "7/29/2026 8:38:36",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1R_MTQJZzGoDnaCYdsRrxm88UOQ7_Hwxg",
+    "photoPagi": "https://drive.google.com/open?id=1R_MTQJZzGoDnaCYdsRrxm88UOQ7_Hwxg",
+    "photoSore": ""
+  },
+  {
+    "id": 1118,
+    "timestamp": "7/29/2026 11:50:59",
+    "author": "Ade inputra",
+    "content": "buat konten senam dan rekap barang",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1k0A7-tT9FpJhMAIy8RNI-DsBSeNF4QXB",
+    "photoPagi": "https://drive.google.com/open?id=1k0A7-tT9FpJhMAIy8RNI-DsBSeNF4QXB",
+    "photoSore": "https://drive.google.com/open?id=1MJ8GS31vbzLJEUtdPYT2vAQzyCw8vG2-"
+  },
+  {
+    "id": 1119,
+    "timestamp": "7/29/2026 11:53:18",
+    "author": "Ade inputra",
+    "content": "pendataan BMN dan ambil atk",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tgl 28 juli 2026",
+    "photoUrl": "https://drive.google.com/open?id=1vMev2wRGtVfV0__pVChnPa6-7Ffnw7UA",
+    "photoPagi": "https://drive.google.com/open?id=1vMev2wRGtVfV0__pVChnPa6-7Ffnw7UA",
+    "photoSore": "https://drive.google.com/open?id=1xllkaUfQDuzZnpgHUqDmlFwqB_qPeTaY"
+  },
+  {
+    "id": 1120,
+    "timestamp": "7/29/2026 11:55:17",
+    "author": "Ade inputra",
+    "content": "sapu teras arsip",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tgl 27 juli 2026",
+    "photoUrl": "https://drive.google.com/open?id=1gSnkIeE-32JEdMFjETjc2TycAAPwJ618",
+    "photoPagi": "https://drive.google.com/open?id=1gSnkIeE-32JEdMFjETjc2TycAAPwJ618",
+    "photoSore": "https://drive.google.com/open?id=1DAEbqtH9I-M9jOT1ZduOw4h69mO4ExEF"
+  },
+  {
+    "id": 1121,
+    "timestamp": "7/29/2026 12:09:08",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1MbSBGS0H_zxkBXgAjI861qIBjNl2O78J",
+    "photoPagi": "https://drive.google.com/open?id=1MbSBGS0H_zxkBXgAjI861qIBjNl2O78J",
+    "photoSore": ""
+  },
+  {
+    "id": 1122,
+    "timestamp": "7/29/2026 12:10:35",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=19laYw6aGPUDxyLfAZxrM3EomwbDfLhYc",
+    "photoPagi": "https://drive.google.com/open?id=19laYw6aGPUDxyLfAZxrM3EomwbDfLhYc",
+    "photoSore": ""
+  },
+  {
+    "id": 1123,
+    "timestamp": "7/29/2026 12:11:36",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=18e2XAipl9qLrYFbXl9iUYSSMsSl6hxsE",
+    "photoPagi": "https://drive.google.com/open?id=18e2XAipl9qLrYFbXl9iUYSSMsSl6hxsE",
+    "photoSore": ""
+  },
+  {
+    "id": 1124,
+    "timestamp": "7/29/2026 12:13:08",
+    "author": "Musrizaldi",
+    "content": "Membersihkan rumput didepan ruangan numerasi",
+    "output": "Aman lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1QATq6RBomxSBiJ2RPH3fQ0EdqAR4j2rh",
+    "photoPagi": "https://drive.google.com/open?id=1QATq6RBomxSBiJ2RPH3fQ0EdqAR4j2rh",
+    "photoSore": ""
+  },
+  {
+    "id": 1125,
+    "timestamp": "7/30/2026 7:56:24",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan aula mini stelah d pakai rapat sama tamu pusat",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1G_WD9qNA7FU4sx17MWxswd7KaLn9CJpO",
+    "photoPagi": "https://drive.google.com/open?id=1G_WD9qNA7FU4sx17MWxswd7KaLn9CJpO",
+    "photoSore": ""
+  },
+  {
+    "id": 1126,
+    "timestamp": "7/30/2026 11:27:58",
+    "author": "Buyung Syafrianto",
+    "content": "Kegiatan Rapat bersama tamu dari pusat di aula mini",
+    "output": "Berlangsung",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1ESL_l-5X2pJ_NoNO8i9LLowMSLOF14Pn",
+    "photoPagi": "https://drive.google.com/open?id=1ESL_l-5X2pJ_NoNO8i9LLowMSLOF14Pn",
+    "photoSore": ""
+  },
+  {
+    "id": 1127,
+    "timestamp": "7/30/2026 18:57:46",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan dan merapikan meja kursi",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1nm8pwQTyu8BHiIlltjbfLO_-XCiqw_uF",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1nm8pwQTyu8BHiIlltjbfLO_-XCiqw_uF"
+  },
+  {
+    "id": 1128,
+    "timestamp": "7/31/2026 17:00:26",
+    "author": "Buyung Syafrianto",
+    "content": "Membuat SKP bulanan",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1iUSsn4BGSRY2pYSR9FhSJVMPtwxqGAwW",
+    "photoPagi": "https://drive.google.com/open?id=1iUSsn4BGSRY2pYSR9FhSJVMPtwxqGAwW",
+    "photoSore": ""
+  },
+  {
+    "id": 1129,
+    "timestamp": "7/31/2026 17:02:04",
+    "author": "Buyung Syafrianto",
+    "content": "Membuat SKP bulanan",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1YVSH5mMTpVMYRkP6ssY448gwR-xoUBkT",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1YVSH5mMTpVMYRkP6ssY448gwR-xoUBkT"
+  },
+  {
+    "id": 1130,
+    "timestamp": "8/3/2026 8:13:33",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan mengepel lantai aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1ZXFPaiOcbT88eNOJUeCIreFuO0zw7M8n",
+    "photoPagi": "https://drive.google.com/open?id=1ZXFPaiOcbT88eNOJUeCIreFuO0zw7M8n",
+    "photoSore": ""
+  },
+  {
+    "id": 1131,
+    "timestamp": "8/3/2026 16:20:48",
+    "author": "Ade inputra",
+    "content": "sapu teras arsip dan pasang bendera",
+    "output": "terlaksananya pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1J0XpXCW1ZZyw4izacOPowZoLy9G2xN5y",
+    "photoPagi": "https://drive.google.com/open?id=1J0XpXCW1ZZyw4izacOPowZoLy9G2xN5y",
+    "photoSore": "https://drive.google.com/open?id=1cQNVhcPKZ99LUSd1nb9vFfydtati9Zzu"
+  },
+  {
+    "id": 1132,
+    "timestamp": "8/3/2026 21:11:34",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1p95fp7ZYKI5EAzFH3ufwWDr0Xe4AgD7v",
+    "photoPagi": "https://drive.google.com/open?id=1p95fp7ZYKI5EAzFH3ufwWDr0Xe4AgD7v",
+    "photoSore": ""
+  },
+  {
+    "id": 1133,
+    "timestamp": "8/3/2026 21:12:56",
+    "author": "Musrizaldi",
+    "content": "Membersihkan halaman depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1oJrkQY9psm16OHgRlqjIO07ONCnis3FE",
+    "photoPagi": "https://drive.google.com/open?id=1oJrkQY9psm16OHgRlqjIO07ONCnis3FE",
+    "photoSore": ""
+  },
+  {
+    "id": 1134,
+    "timestamp": "8/3/2026 21:14:09",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1m1QTq4tOCUlKoUResL-mRhLZDqjXhuBt",
+    "photoPagi": "https://drive.google.com/open?id=1m1QTq4tOCUlKoUResL-mRhLZDqjXhuBt",
+    "photoSore": ""
+  },
+  {
+    "id": 1135,
+    "timestamp": "8/3/2026 21:15:21",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1GVTbKcfC4NVCnN1XVvYw5wz6D_-XX37q",
+    "photoPagi": "https://drive.google.com/open?id=1GVTbKcfC4NVCnN1XVvYw5wz6D_-XX37q",
+    "photoSore": ""
+  },
+  {
+    "id": 1136,
+    "timestamp": "8/3/2026 21:17:24",
+    "author": "Musrizaldi",
+    "content": "Membersihkan kaca",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1pAtDCeeJhE96Iw6odKu2FccaD1rOeDlg",
+    "photoPagi": "https://drive.google.com/open?id=1pAtDCeeJhE96Iw6odKu2FccaD1rOeDlg",
+    "photoSore": ""
+  },
+  {
+    "id": 1137,
+    "timestamp": "8/3/2026 21:20:02",
+    "author": "Musrizaldi",
+    "content": "Menerima tamu dari Lubuk Alung",
+    "output": "Lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1g3N53lUcWm3fSvz91Ikv5ILo747IXfYG",
+    "photoPagi": "https://drive.google.com/open?id=1g3N53lUcWm3fSvz91Ikv5ILo747IXfYG",
+    "photoSore": ""
+  },
+  {
+    "id": 1138,
+    "timestamp": "8/4/2026 10:30:51",
+    "author": "Buyung Syafrianto",
+    "content": "Merapikan meja kursi dan menyapu",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1VG0JbtIfc5MCugiWRxzq0nyKeTAeeiYo",
+    "photoPagi": "https://drive.google.com/open?id=1VG0JbtIfc5MCugiWRxzq0nyKeTAeeiYo",
+    "photoSore": ""
+  },
+  {
+    "id": 1139,
+    "timestamp": "8/4/2026 11:39:04",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1WQM8AkpK2ID33CSkXv66zA8Xvh_-mLql",
+    "photoPagi": "https://drive.google.com/open?id=1WQM8AkpK2ID33CSkXv66zA8Xvh_-mLql",
+    "photoSore": ""
+  },
+  {
+    "id": 1140,
+    "timestamp": "8/4/2026 11:40:29",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1jOEx9vYmS8K1aVramdcSkWSkIGhnWeZG",
+    "photoPagi": "https://drive.google.com/open?id=1jOEx9vYmS8K1aVramdcSkWSkIGhnWeZG",
+    "photoSore": ""
+  },
+  {
+    "id": 1141,
+    "timestamp": "8/4/2026 11:41:34",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1CH6kbQmSKikWTWL6hw6ltLmNGicB7t-N",
+    "photoPagi": "https://drive.google.com/open?id=1CH6kbQmSKikWTWL6hw6ltLmNGicB7t-N",
+    "photoSore": ""
+  },
+  {
+    "id": 1142,
+    "timestamp": "8/4/2026 11:42:51",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1QB6WeW7Bixhmgu4bgaoRdjMdKSj2YEuO",
+    "photoPagi": "https://drive.google.com/open?id=1QB6WeW7Bixhmgu4bgaoRdjMdKSj2YEuO",
+    "photoSore": ""
+  },
+  {
+    "id": 1143,
+    "timestamp": "8/4/2026 11:44:23",
+    "author": "Musrizaldi",
+    "content": "Memasang bendera",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1lD0BQF-rC9FitwyYReR2_vaZ-oTbh5xR",
+    "photoPagi": "https://drive.google.com/open?id=1lD0BQF-rC9FitwyYReR2_vaZ-oTbh5xR",
+    "photoSore": ""
+  },
+  {
+    "id": 1144,
+    "timestamp": "8/4/2026 14:27:49",
+    "author": "Ade inputra",
+    "content": "persiapan kelas belajar dan pasang bendera",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1mtRD-FEXZRzR4HbBgC80WknC9qCEMBfo",
+    "photoPagi": "https://drive.google.com/open?id=1mtRD-FEXZRzR4HbBgC80WknC9qCEMBfo",
+    "photoSore": "https://drive.google.com/open?id=1wM10bdRQgiWkFszHwKQQDtuC0yXKLFja"
+  },
+  {
+    "id": 1145,
+    "timestamp": "8/4/2026 14:49:41",
+    "author": "Neli Aftariani",
+    "content": "Neli aftariani",
+    "output": "Menyapu perkarangan kantor",
+    "hambatan": "Senin tanggal 3 Agustus",
+    "photoUrl": "https://drive.google.com/open?id=1OXyAjHQv3AZevKbod6k6QBKMAIbj9lHv",
+    "photoPagi": "https://drive.google.com/open?id=1OXyAjHQv3AZevKbod6k6QBKMAIbj9lHv",
+    "photoSore": ""
+  },
+  {
+    "id": 1146,
+    "timestamp": "8/4/2026 14:52:25",
+    "author": "Neli Aftariani",
+    "content": "Neli aftariani",
+    "output": "Menyapu perkarangan kantor",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1fN2zIPuiFpKEDZPNGvn5o5Fk5JHhkaf6",
+    "photoPagi": "https://drive.google.com/open?id=1fN2zIPuiFpKEDZPNGvn5o5Fk5JHhkaf6",
+    "photoSore": ""
+  },
+  {
+    "id": 1147,
+    "timestamp": "8/4/2026 17:01:45",
+    "author": "Buyung Syafrianto",
+    "content": "Merapikan meja dan kursi lagi",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1oj9wxjx7WjDWpRmBG2HZ4X9ZErg6eymD",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1oj9wxjx7WjDWpRmBG2HZ4X9ZErg6eymD"
+  },
+  {
+    "id": 1148,
+    "timestamp": "8/5/2026 7:29:43",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan merapikan meja",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1byczlAEkb_oRPJ49BHeE9YgbowbruFlO",
+    "photoPagi": "https://drive.google.com/open?id=1byczlAEkb_oRPJ49BHeE9YgbowbruFlO",
+    "photoSore": ""
+  },
+  {
+    "id": 1149,
+    "timestamp": "8/5/2026 11:01:30",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1ji-fV2EfL9mTy_1NZOroYQYy980PvL3K",
+    "photoPagi": "https://drive.google.com/open?id=1ji-fV2EfL9mTy_1NZOroYQYy980PvL3K",
+    "photoSore": ""
+  },
+  {
+    "id": 1150,
+    "timestamp": "8/5/2026 11:02:28",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=15-4vr4MWtPHnzbnH-ZtcZsaIPhw8LSzU",
+    "photoPagi": "https://drive.google.com/open?id=15-4vr4MWtPHnzbnH-ZtcZsaIPhw8LSzU",
+    "photoSore": ""
+  },
+  {
+    "id": 1151,
+    "timestamp": "8/5/2026 11:03:30",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1PPhVJ9dsz336C-AdBkeY6tSov4NXSrll",
+    "photoPagi": "https://drive.google.com/open?id=1PPhVJ9dsz336C-AdBkeY6tSov4NXSrll",
+    "photoSore": ""
+  },
+  {
+    "id": 1152,
+    "timestamp": "8/5/2026 11:04:25",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=10u833ZCdJwESMUnSJHnHkETz_G-NyE3u",
+    "photoPagi": "https://drive.google.com/open?id=10u833ZCdJwESMUnSJHnHkETz_G-NyE3u",
+    "photoSore": ""
+  },
+  {
+    "id": 1153,
+    "timestamp": "8/5/2026 11:06:42",
+    "author": "Musrizaldi",
+    "content": "Menerima tamu Pengawas dari Dinas pendidikan kota Bukittinggi",
+    "output": "Lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1ufpHqaiSfm8JR17UH877COICDCHM4cY6",
+    "photoPagi": "https://drive.google.com/open?id=1ufpHqaiSfm8JR17UH877COICDCHM4cY6",
+    "photoSore": ""
+  },
+  {
+    "id": 1154,
+    "timestamp": "8/5/2026 16:08:37",
+    "author": "Buyung Syafrianto",
+    "content": "Menyusun meja dan kursi di ruang aula mini",
+    "output": "Merapikan",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=10XwYJ_qOwR3x067EeHm11KU7WAzjhKY4",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=10XwYJ_qOwR3x067EeHm11KU7WAzjhKY4"
+  },
+  {
+    "id": 1155,
+    "timestamp": "8/5/2026 17:57:07",
+    "author": "Salaudin",
+    "content": "Membakar sampah kering",
+    "output": "1",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1NqKKulyMM93AvhTU9x41XBtqFIdbWU0M",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1NqKKulyMM93AvhTU9x41XBtqFIdbWU0M"
+  },
+  {
+    "id": 1156,
+    "timestamp": "8/6/2026 8:32:30",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan aula mini luar dan dalam ruang",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1_V9rh9_Trn9UzNbruEDll8eParYwfBbA",
+    "photoPagi": "https://drive.google.com/open?id=1_V9rh9_Trn9UzNbruEDll8eParYwfBbA",
+    "photoSore": ""
+  },
+  {
+    "id": 1157,
+    "timestamp": "8/6/2026 16:08:23",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1IJYOnNnpxSgL4T3GXseT-edNdTj89V2W",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1IJYOnNnpxSgL4T3GXseT-edNdTj89V2W"
+  },
+  {
+    "id": 1158,
+    "timestamp": "8/10/2026 7:12:14",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan membersihkan aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1NR_dgWOn5FxMFypdiyzKKgyhMDvkR2Ru",
+    "photoPagi": "https://drive.google.com/open?id=1NR_dgWOn5FxMFypdiyzKKgyhMDvkR2Ru",
+    "photoSore": ""
+  },
+  {
+    "id": 1159,
+    "timestamp": "8/10/2026 10:29:18",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1dvSU7S83Yr05CKvfZNwDmbIXJrbpeGWB",
+    "photoPagi": "https://drive.google.com/open?id=1dvSU7S83Yr05CKvfZNwDmbIXJrbpeGWB",
+    "photoSore": ""
+  },
+  {
+    "id": 1160,
+    "timestamp": "8/10/2026 10:30:14",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1E0ssDu680Yi58NbH2CqLlJQUAcwF88jZ",
+    "photoPagi": "https://drive.google.com/open?id=1E0ssDu680Yi58NbH2CqLlJQUAcwF88jZ",
+    "photoSore": ""
+  },
+  {
+    "id": 1161,
+    "timestamp": "8/10/2026 10:31:04",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=13p9AkOMbORZ-l72ejGOSorOCEdFNNCJb",
+    "photoPagi": "https://drive.google.com/open?id=13p9AkOMbORZ-l72ejGOSorOCEdFNNCJb",
+    "photoSore": ""
+  },
+  {
+    "id": 1162,
+    "timestamp": "8/10/2026 10:31:49",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1gX-iYeDkgPQ0yvfHlWLSYiSevrDBNlw3",
+    "photoPagi": "https://drive.google.com/open?id=1gX-iYeDkgPQ0yvfHlWLSYiSevrDBNlw3",
+    "photoSore": ""
+  },
+  {
+    "id": 1163,
+    "timestamp": "8/10/2026 10:32:47",
+    "author": "Musrizaldi",
+    "content": "Perawatan masin sanio",
+    "output": "Lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=19aphHDEaL3rg5S1Cdel9efRLl67JbivS",
+    "photoPagi": "https://drive.google.com/open?id=19aphHDEaL3rg5S1Cdel9efRLl67JbivS",
+    "photoSore": ""
+  },
+  {
+    "id": 1164,
+    "timestamp": "8/11/2026 8:05:02",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu bersih aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1o-InE_Ii_Rb_4TsG2_3xII4jC2XD2g86",
+    "photoPagi": "https://drive.google.com/open?id=1o-InE_Ii_Rb_4TsG2_3xII4jC2XD2g86",
+    "photoSore": ""
+  },
+  {
+    "id": 1165,
+    "timestamp": "8/11/2026 16:23:03",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1nFluXoAlWvXN_X09WV8qBLq9UiZ5sTHN",
+    "photoPagi": "https://drive.google.com/open?id=1nFluXoAlWvXN_X09WV8qBLq9UiZ5sTHN",
+    "photoSore": ""
+  },
+  {
+    "id": 1166,
+    "timestamp": "8/11/2026 16:24:30",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Rm7U_edSTR3RvL9egp9fRTx2bpnCYrzy",
+    "photoPagi": "https://drive.google.com/open?id=1Rm7U_edSTR3RvL9egp9fRTx2bpnCYrzy",
+    "photoSore": ""
+  },
+  {
+    "id": 1167,
+    "timestamp": "8/11/2026 16:25:19",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1NdDAv5pnR0dtGUMG1zqKIaCAQjIPfG4M",
+    "photoPagi": "https://drive.google.com/open?id=1NdDAv5pnR0dtGUMG1zqKIaCAQjIPfG4M",
+    "photoSore": ""
+  },
+  {
+    "id": 1168,
+    "timestamp": "8/11/2026 16:26:16",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1L6eEkKiKK2tWB_B5MntsQVNoNzCpVZXQ",
+    "photoPagi": "https://drive.google.com/open?id=1L6eEkKiKK2tWB_B5MntsQVNoNzCpVZXQ",
+    "photoSore": ""
+  },
+  {
+    "id": 1169,
+    "timestamp": "8/11/2026 16:27:36",
+    "author": "Musrizaldi",
+    "content": "Menyiram cabe dan terong",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1lhk7ydC89MBd6tABta5Owu3Obz06MESQ",
+    "photoPagi": "https://drive.google.com/open?id=1lhk7ydC89MBd6tABta5Owu3Obz06MESQ",
+    "photoSore": ""
+  },
+  {
+    "id": 1170,
+    "timestamp": "8/12/2026 8:23:05",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu area aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1_OaZchjeQ-oUTNufiBpvf0UTM_jXwUsH",
+    "photoPagi": "https://drive.google.com/open?id=1_OaZchjeQ-oUTNufiBpvf0UTM_jXwUsH",
+    "photoSore": ""
+  },
+  {
+    "id": 1171,
+    "timestamp": "8/12/2026 10:29:30",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1VNSo8dNBzfswA4vRMq-vZMXVF8WenlmJ",
+    "photoPagi": "https://drive.google.com/open?id=1VNSo8dNBzfswA4vRMq-vZMXVF8WenlmJ",
+    "photoSore": ""
+  },
+  {
+    "id": 1172,
+    "timestamp": "8/12/2026 10:30:26",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1N-71xUg3ERxbNAvHglrAj5o4JxLJO9lT",
+    "photoPagi": "https://drive.google.com/open?id=1N-71xUg3ERxbNAvHglrAj5o4JxLJO9lT",
+    "photoSore": ""
+  },
+  {
+    "id": 1173,
+    "timestamp": "8/12/2026 10:31:15",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1zu3oWC5_Td2qVnhKgS7R2wfHKRKFAfmi",
+    "photoPagi": "https://drive.google.com/open?id=1zu3oWC5_Td2qVnhKgS7R2wfHKRKFAfmi",
+    "photoSore": ""
+  },
+  {
+    "id": 1174,
+    "timestamp": "8/12/2026 10:32:10",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1AFRfh0OR3CrxEpmzi97ZQ2MICNy36pq3",
+    "photoPagi": "https://drive.google.com/open?id=1AFRfh0OR3CrxEpmzi97ZQ2MICNy36pq3",
+    "photoSore": ""
+  },
+  {
+    "id": 1175,
+    "timestamp": "8/12/2026 10:33:05",
+    "author": "Musrizaldi",
+    "content": "Perawatan genset",
+    "output": "Lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1fTHR8Xw6zyU1X9AOVeq0d3OhOhzutk_-",
+    "photoPagi": "https://drive.google.com/open?id=1fTHR8Xw6zyU1X9AOVeq0d3OhOhzutk_-",
+    "photoSore": ""
+  },
+  {
+    "id": 1176,
+    "timestamp": "8/19/2026 10:53:55",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1e3lwFGZtvCWI_pHoip64C61Z-gW0CgG3",
+    "photoPagi": "https://drive.google.com/open?id=1e3lwFGZtvCWI_pHoip64C61Z-gW0CgG3",
+    "photoSore": ""
+  },
+  {
+    "id": 1177,
+    "timestamp": "8/19/2026 10:54:47",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1udEIFd3zA4e5LMQ_EQfFMwh6Ye5n3JQ6",
+    "photoPagi": "https://drive.google.com/open?id=1udEIFd3zA4e5LMQ_EQfFMwh6Ye5n3JQ6",
+    "photoSore": ""
+  },
+  {
+    "id": 1178,
+    "timestamp": "8/19/2026 10:55:44",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Gh2zcwrtHa9mh9yd-k7ZH-tjkxw181_-",
+    "photoPagi": "https://drive.google.com/open?id=1Gh2zcwrtHa9mh9yd-k7ZH-tjkxw181_-",
+    "photoSore": ""
+  },
+  {
+    "id": 1179,
+    "timestamp": "8/19/2026 10:56:52",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1NIqarhkIbSacoLAfwhRODdv9qme4qS9s",
+    "photoPagi": "https://drive.google.com/open?id=1NIqarhkIbSacoLAfwhRODdv9qme4qS9s",
+    "photoSore": ""
+  },
+  {
+    "id": 1180,
+    "timestamp": "8/20/2026 15:51:13",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1ow0H1HjgVJJmN6Wk16LicknPLLOFDLHB",
+    "photoPagi": "https://drive.google.com/open?id=1ow0H1HjgVJJmN6Wk16LicknPLLOFDLHB",
+    "photoSore": ""
+  },
+  {
+    "id": 1181,
+    "timestamp": "8/20/2026 15:52:09",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1BASK8FORB6bbj5b2TbovaRmpjZWSn_oD",
+    "photoPagi": "https://drive.google.com/open?id=1BASK8FORB6bbj5b2TbovaRmpjZWSn_oD",
+    "photoSore": ""
+  },
+  {
+    "id": 1182,
+    "timestamp": "8/20/2026 15:53:00",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=17M_0HRtRsyEQpT-aaxivPJxbb2uw0UpA",
+    "photoPagi": "https://drive.google.com/open?id=17M_0HRtRsyEQpT-aaxivPJxbb2uw0UpA",
+    "photoSore": ""
+  },
+  {
+    "id": 1183,
+    "timestamp": "8/20/2026 15:53:51",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=12OCK3j8AePCbmReG9ADh5taMNMhwCpkB",
+    "photoPagi": "https://drive.google.com/open?id=12OCK3j8AePCbmReG9ADh5taMNMhwCpkB",
+    "photoSore": ""
+  },
+  {
+    "id": 1184,
+    "timestamp": "8/20/2026 15:55:05",
+    "author": "Musrizaldi",
+    "content": "Memanen cabe dan terong",
+    "output": "Lancar",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1aJNnhd-aRV0lLRzk9dvWfC4d7XpxxZ6h",
+    "photoPagi": "https://drive.google.com/open?id=1aJNnhd-aRV0lLRzk9dvWfC4d7XpxxZ6h",
+    "photoSore": ""
+  },
+  {
+    "id": 1185,
+    "timestamp": "8/24/2026 9:04:53",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan mengepel lantai aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=13UG8CcN0eeu9t_I2wKRWKBTQzg6Ku6W4",
+    "photoPagi": "https://drive.google.com/open?id=13UG8CcN0eeu9t_I2wKRWKBTQzg6Ku6W4",
+    "photoSore": ""
+  },
+  {
+    "id": 1186,
+    "timestamp": "8/24/2026 10:09:43",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1y22HcVuQ7vS62CBhDMXUJE5ICzHFDf-9",
+    "photoPagi": "https://drive.google.com/open?id=1y22HcVuQ7vS62CBhDMXUJE5ICzHFDf-9",
+    "photoSore": ""
+  },
+  {
+    "id": 1187,
+    "timestamp": "8/24/2026 10:11:30",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Mp9k90TzGwI3wKxyrd5az-6oF4hOpbR8",
+    "photoPagi": "https://drive.google.com/open?id=1Mp9k90TzGwI3wKxyrd5az-6oF4hOpbR8",
+    "photoSore": ""
+  },
+  {
+    "id": 1188,
+    "timestamp": "8/24/2026 10:12:17",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1YNbgKSLKIjUbpkkjpS6wBMD0KBbXqd-I",
+    "photoPagi": "https://drive.google.com/open?id=1YNbgKSLKIjUbpkkjpS6wBMD0KBbXqd-I",
+    "photoSore": ""
+  },
+  {
+    "id": 1189,
+    "timestamp": "8/24/2026 10:13:28",
+    "author": "Musrizaldi",
+    "content": "Membersihkan WC pria dan wanita depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1fYpRjVu28a1nPn-WHMVTnqRDsYYfVsRI",
+    "photoPagi": "https://drive.google.com/open?id=1fYpRjVu28a1nPn-WHMVTnqRDsYYfVsRI",
+    "photoSore": ""
+  },
+  {
+    "id": 1190,
+    "timestamp": "8/26/2026 7:50:00",
+    "author": "Rio Mailando Agustiano",
+    "content": "Mempersiapkan sound system buat senam pagi",
+    "output": "Selesai",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1QflGtBrscftg_lmdEW8BXzh8rYOSKsP_",
+    "photoPagi": "https://drive.google.com/open?id=1QflGtBrscftg_lmdEW8BXzh8rYOSKsP_",
+    "photoSore": ""
+  },
+  {
+    "id": 1191,
+    "timestamp": "8/26/2026 8:05:13",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan mengepel siram bunga aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1hQajQyQvxD6RoWSr1doK2bKUQ4OdE9Tr",
+    "photoPagi": "https://drive.google.com/open?id=1hQajQyQvxD6RoWSr1doK2bKUQ4OdE9Tr",
+    "photoSore": ""
+  },
+  {
+    "id": 1192,
+    "timestamp": "8/26/2026 10:54:34",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1m8HvkG9oTJ1b3uWpfkSnWSPBcuuywP7U",
+    "photoPagi": "https://drive.google.com/open?id=1m8HvkG9oTJ1b3uWpfkSnWSPBcuuywP7U",
+    "photoSore": ""
+  },
+  {
+    "id": 1193,
+    "timestamp": "8/26/2026 10:55:36",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1TAWDE0tFUsu6yH4dOz_dAz5BZbibiw7R",
+    "photoPagi": "https://drive.google.com/open?id=1TAWDE0tFUsu6yH4dOz_dAz5BZbibiw7R",
+    "photoSore": ""
+  },
+  {
+    "id": 1194,
+    "timestamp": "8/26/2026 10:56:25",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1P7W21SFcWZ8mUeTM7MW9i6W7WBNiv2hz",
+    "photoPagi": "https://drive.google.com/open?id=1P7W21SFcWZ8mUeTM7MW9i6W7WBNiv2hz",
+    "photoSore": ""
+  },
+  {
+    "id": 1195,
+    "timestamp": "8/26/2026 10:58:11",
+    "author": "Musrizaldi",
+    "content": "Mencek mesin sanio",
+    "output": "Belum selesai",
+    "hambatan": "Mesin sanio tidak hidup",
+    "photoUrl": "https://drive.google.com/open?id=1TZtvyWnuPxd50-796_DjQm-mOEdr1CeF",
+    "photoPagi": "https://drive.google.com/open?id=1TZtvyWnuPxd50-796_DjQm-mOEdr1CeF",
+    "photoSore": ""
+  },
+  {
+    "id": 1196,
+    "timestamp": "8/27/2026 7:13:19",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan dalam aula mini",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=17VA8MloTzQM0lM0GiftzMdX-W_Sfockh",
+    "photoPagi": "https://drive.google.com/open?id=17VA8MloTzQM0lM0GiftzMdX-W_Sfockh",
+    "photoSore": ""
+  },
+  {
+    "id": 1197,
+    "timestamp": "8/27/2026 14:15:30",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=14Rr-1_nUOeyWoeCP4IjpmIrUOVSzysRv",
+    "photoPagi": "https://drive.google.com/open?id=14Rr-1_nUOeyWoeCP4IjpmIrUOVSzysRv",
+    "photoSore": ""
+  },
+  {
+    "id": 1198,
+    "timestamp": "8/27/2026 14:16:29",
+    "author": "Musrizaldi",
+    "content": "Menyapu halaman depan ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=11cgY3DNMGdmZTy1YODajIlFHV3uRhyPG",
+    "photoPagi": "https://drive.google.com/open?id=11cgY3DNMGdmZTy1YODajIlFHV3uRhyPG",
+    "photoSore": ""
+  },
+  {
+    "id": 1199,
+    "timestamp": "8/27/2026 14:17:05",
+    "author": "Musrizaldi",
+    "content": "Menyiram bunga sekitar ULT",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1kVHJtRquJjNCUuNdijbiyeiHi3cuuxxK",
+    "photoPagi": "https://drive.google.com/open?id=1kVHJtRquJjNCUuNdijbiyeiHi3cuuxxK",
+    "photoSore": ""
+  },
+  {
+    "id": 1200,
+    "timestamp": "8/31/2026 7:29:34",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu, mengepel lantai dan siram bunga aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1Iv-q_mLkWe_LvsTiTtfutNXezJ9bomWj",
+    "photoPagi": "https://drive.google.com/open?id=1Iv-q_mLkWe_LvsTiTtfutNXezJ9bomWj",
+    "photoSore": ""
+  },
+  {
+    "id": 1201,
+    "timestamp": "9/1/2026 7:28:01",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan dan menyapu area luar dalam aula mini dan menyiram bunga",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1KoLoEYgqCMMo6k3T6nEhhzcVC6ZmwTCl",
+    "photoPagi": "https://drive.google.com/open?id=1KoLoEYgqCMMo6k3T6nEhhzcVC6ZmwTCl",
+    "photoSore": ""
+  },
+  {
+    "id": 1202,
+    "timestamp": "9/1/2026 8:38:11",
+    "author": "Rio Mailando Agustiano",
+    "content": "Mempersiapkan perlengkapan acara wayoik",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1dbUTR8ySt1NPfM-rFixcEXBF3-5euUW2",
+    "photoPagi": "https://drive.google.com/open?id=1dbUTR8ySt1NPfM-rFixcEXBF3-5euUW2",
+    "photoSore": ""
+  },
+  {
+    "id": 1203,
+    "timestamp": "9/2/2026 9:08:08",
+    "author": "Buyung Syafrianto",
+    "content": "Mengenal/menyapu dan menyusun kursi 90 buah untuk kegiatan ayoik",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1jKsy3TswHEbC26NjbPoOnZXBS2YcylRq",
+    "photoPagi": "https://drive.google.com/open?id=1jKsy3TswHEbC26NjbPoOnZXBS2YcylRq",
+    "photoSore": ""
+  },
+  {
+    "id": 1204,
+    "timestamp": "9/2/2026 11:34:15",
+    "author": "Rio Mailando Agustiano",
+    "content": "Menyusun kursi di aula buat kegiatan wayoik",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1QKMMoFJhjDGxseofmb81jAv5octwNgL9",
+    "photoPagi": "https://drive.google.com/open?id=1QKMMoFJhjDGxseofmb81jAv5octwNgL9",
+    "photoSore": ""
+  },
+  {
+    "id": 1205,
+    "timestamp": "9/3/2026 10:26:07",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan menyusun kursi untuk persiapan kegiatan wayoik",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1vNFVxjfGmWdZUYL1MB61EAgzJRcV0IpT",
+    "photoPagi": "https://drive.google.com/open?id=1vNFVxjfGmWdZUYL1MB61EAgzJRcV0IpT",
+    "photoSore": ""
+  },
+  {
+    "id": 1206,
+    "timestamp": "9/9/2026 8:36:45",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu luar dan dalam ruang aula mini",
+    "output": "Selesai",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1BwHufWkOGVl52ZjuHyfoYDBBCzf_zUXo",
+    "photoPagi": "https://drive.google.com/open?id=1BwHufWkOGVl52ZjuHyfoYDBBCzf_zUXo",
+    "photoSore": ""
+  },
+  {
+    "id": 1207,
+    "timestamp": "9/14/2026 8:29:37",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan menyapu mengepel lantai aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1LV4cu1rJ5IwHcdraGptV3dMp0zMxPkM7",
+    "photoPagi": "https://drive.google.com/open?id=1LV4cu1rJ5IwHcdraGptV3dMp0zMxPkM7",
+    "photoSore": ""
+  },
+  {
+    "id": 1208,
+    "timestamp": "9/21/2026 8:58:23",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu mengepel lantai dan membersihkan kaca jendela aula mini dan siram bunga",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1fQ9gUTRKFFWmhuk5OhRkyK5MvOBoSrzI",
+    "photoPagi": "https://drive.google.com/open?id=1fQ9gUTRKFFWmhuk5OhRkyK5MvOBoSrzI",
+    "photoSore": ""
+  },
+  {
+    "id": 1209,
+    "timestamp": "9/21/2026 12:00:20",
+    "author": "Mardianto",
+    "content": "Membersihkan asrama putra",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=16hourK0vZZn5wGpCcxkDFzoLxvJkVhZq",
+    "photoPagi": "https://drive.google.com/open?id=16hourK0vZZn5wGpCcxkDFzoLxvJkVhZq",
+    "photoSore": ""
+  },
+  {
+    "id": 1210,
+    "timestamp": "9/21/2026 12:01:26",
+    "author": "Mardianto",
+    "content": "Membersihkan ruangan asrama putra",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1RYxWHuRLW2b8NQfvxJGDXC29F0BL4cTO",
+    "photoPagi": "https://drive.google.com/open?id=1RYxWHuRLW2b8NQfvxJGDXC29F0BL4cTO",
+    "photoSore": ""
+  },
+  {
+    "id": 1211,
+    "timestamp": "9/21/2026 12:02:19",
+    "author": "Mardianto",
+    "content": "Membersih kan asrama putra",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1-LP2bmvvthShI5HQorGeCm2UM7qY6MrD",
+    "photoPagi": "https://drive.google.com/open?id=1-LP2bmvvthShI5HQorGeCm2UM7qY6MrD",
+    "photoSore": ""
+  },
+  {
+    "id": 1212,
+    "timestamp": "9/21/2026 12:03:25",
+    "author": "Mardianto",
+    "content": "Membersihkan asrama putra",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1GshuYK6CugUN4FKbaj0_B9f28d_-QlkC",
+    "photoPagi": "https://drive.google.com/open?id=1GshuYK6CugUN4FKbaj0_B9f28d_-QlkC",
+    "photoSore": ""
+  },
+  {
+    "id": 1213,
+    "timestamp": "9/21/2026 12:04:14",
+    "author": "Mardianto",
+    "content": "Membersihkan ruangan asrama putra",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1UNkuI0imRLrAjiQ3KahgEMmfMDaJwdBR",
+    "photoPagi": "https://drive.google.com/open?id=1UNkuI0imRLrAjiQ3KahgEMmfMDaJwdBR",
+    "photoSore": ""
+  },
+  {
+    "id": 1214,
+    "timestamp": "9/21/2026 12:05:24",
+    "author": "Mardianto",
+    "content": "Membersih kan depan asrama putra",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=194TTEgLIsj9203uMijKsjsUqecu5Ap1M",
+    "photoPagi": "https://drive.google.com/open?id=194TTEgLIsj9203uMijKsjsUqecu5Ap1M",
+    "photoSore": ""
+  },
+  {
+    "id": 1215,
+    "timestamp": "9/21/2026 12:06:17",
+    "author": "Mardianto",
+    "content": "Membersih kan samping asrama putra",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=19JIUgVtGaAkS-JquEBF5bVbOXExOgKKq",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=19JIUgVtGaAkS-JquEBF5bVbOXExOgKKq"
+  },
+  {
+    "id": 1216,
+    "timestamp": "9/21/2026 12:07:39",
+    "author": "Mardianto",
+    "content": "Membersih kan samping asrama putra",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1bT9qx16Npx_NhBsm92OAaS89acxWZeO1",
+    "photoPagi": "https://drive.google.com/open?id=1bT9qx16Npx_NhBsm92OAaS89acxWZeO1",
+    "photoSore": ""
+  },
+  {
+    "id": 1217,
+    "timestamp": "9/22/2026 7:43:27",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan sikitar area aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1No2QIvUmSD9MHBx_C_V2Y2e3J43l3k4d",
+    "photoPagi": "https://drive.google.com/open?id=1No2QIvUmSD9MHBx_C_V2Y2e3J43l3k4d",
+    "photoSore": ""
+  },
+  {
+    "id": 1218,
+    "timestamp": "9/22/2026 7:53:11",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan sekitar area aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1V-Q_f7g43DJ57HgYPMQyxkA9sbSqKybk",
+    "photoPagi": "https://drive.google.com/open?id=1V-Q_f7g43DJ57HgYPMQyxkA9sbSqKybk",
+    "photoSore": ""
+  },
+  {
+    "id": 1219,
+    "timestamp": "9/23/2026 7:11:26",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1DgvlolP6MHmJfYSh32_dfQbzgOTgwrvT",
+    "photoPagi": "https://drive.google.com/open?id=1DgvlolP6MHmJfYSh32_dfQbzgOTgwrvT",
+    "photoSore": ""
+  },
+  {
+    "id": 1220,
+    "timestamp": "9/24/2026 8:16:22",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1X1-xLkg1hDGtyW1Ego0OcQbNFsS2kol5",
+    "photoPagi": "https://drive.google.com/open?id=1X1-xLkg1hDGtyW1Ego0OcQbNFsS2kol5",
+    "photoSore": ""
+  },
+  {
+    "id": 1221,
+    "timestamp": "9/28/2026 8:01:13",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan dalam ruang aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1c0n-jzyPQUWpUH7cd6F6mz4xPuZMagEg",
+    "photoPagi": "https://drive.google.com/open?id=1c0n-jzyPQUWpUH7cd6F6mz4xPuZMagEg",
+    "photoSore": ""
+  },
+  {
+    "id": 1222,
+    "timestamp": "9/29/2026 8:36:10",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan area aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1cmYO3II7mPr2qnFEJ6rKk2OIOsoB6OiJ",
+    "photoPagi": "https://drive.google.com/open?id=1cmYO3II7mPr2qnFEJ6rKk2OIOsoB6OiJ",
+    "photoSore": ""
+  },
+  {
+    "id": 1223,
+    "timestamp": "9/29/2026 8:37:24",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan area aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=18HnChvZePPiOvn65rq7nByP3hcSanT5f",
+    "photoPagi": "https://drive.google.com/open?id=18HnChvZePPiOvn65rq7nByP3hcSanT5f",
+    "photoSore": ""
+  },
+  {
+    "id": 1224,
+    "timestamp": "9/30/2026 7:40:07",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1IH9YI8199AG_3uKPzuvYGqiRy70C-MsE",
+    "photoPagi": "https://drive.google.com/open?id=1IH9YI8199AG_3uKPzuvYGqiRy70C-MsE",
+    "photoSore": ""
+  },
+  {
+    "id": 1225,
+    "timestamp": "10/5/2026 7:39:45",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan merapikan meja kursi dan menyapu d aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1DEmYtavakfRppSiP0eLjxyCTHBNpX86p",
+    "photoPagi": "https://drive.google.com/open?id=1DEmYtavakfRppSiP0eLjxyCTHBNpX86p",
+    "photoSore": ""
+  },
+  {
+    "id": 1226,
+    "timestamp": "10/5/2026 9:19:12",
+    "author": "Musrizaldi",
+    "content": "Menata ruangan numerasi",
+    "output": "Selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=13oMWGUFgV6FaZYuwDUCjWNrOJRfEPUrA",
+    "photoPagi": "https://drive.google.com/open?id=13oMWGUFgV6FaZYuwDUCjWNrOJRfEPUrA",
+    "photoSore": ""
+  },
+  {
+    "id": 1227,
+    "timestamp": "10/6/2026 15:00:01",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan menyiram bunga aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=14KmiKCDoQnCT0b5UtnE77ISUtIYse92e",
+    "photoPagi": "https://drive.google.com/open?id=14KmiKCDoQnCT0b5UtnE77ISUtIYse92e",
+    "photoSore": ""
+  },
+  {
+    "id": 1228,
+    "timestamp": "10/7/2026 8:24:10",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan area aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1_wIeaEF2h45gDcSz91rVeGQOOxwODTuq",
+    "photoPagi": "https://drive.google.com/open?id=1_wIeaEF2h45gDcSz91rVeGQOOxwODTuq",
+    "photoSore": ""
+  },
+  {
+    "id": 1229,
+    "timestamp": "10/8/2026 7:25:11",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan mengepel lantai aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1aItJzS16wfJ-NVji-X7aovOZ2lgt8jKv",
+    "photoPagi": "https://drive.google.com/open?id=1aItJzS16wfJ-NVji-X7aovOZ2lgt8jKv",
+    "photoSore": ""
+  },
+  {
+    "id": 1230,
+    "timestamp": "10/9/2026 13:38:23",
+    "author": "Buyung Syafrianto",
+    "content": "Melakukan mengisi SKP triwulan 3 evaluasi kinerja",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1f2TJIGWSGa56id--6MISxBI4jGpPkFwC",
+    "photoPagi": "https://drive.google.com/open?id=1f2TJIGWSGa56id--6MISxBI4jGpPkFwC",
+    "photoSore": ""
+  },
+  {
+    "id": 1231,
+    "timestamp": "10/12/2026 7:33:18",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu bersih dan siram bunga aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1IpYMI_pw-pT5DMM6Gk0WRFuwk1Z_JV84",
+    "photoPagi": "https://drive.google.com/open?id=1IpYMI_pw-pT5DMM6Gk0WRFuwk1Z_JV84",
+    "photoSore": ""
+  },
+  {
+    "id": 1232,
+    "timestamp": "10/12/2026 9:52:55",
+    "author": "Fitriandi",
+    "content": "membersihkan rumah dinas",
+    "output": "bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=121RdpkjSMeW4ggCdYW2LwS3TvCZ7Ipp6",
+    "photoPagi": "https://drive.google.com/open?id=121RdpkjSMeW4ggCdYW2LwS3TvCZ7Ipp6",
+    "photoSore": ""
+  },
+  {
+    "id": 1233,
+    "timestamp": "10/12/2026 10:21:50",
+    "author": "Fitriandi",
+    "content": "mencabuti rumput",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1PPfDHVKhvyphxB1x_GxrG0PP80LCDFA0",
+    "photoPagi": "https://drive.google.com/open?id=1PPfDHVKhvyphxB1x_GxrG0PP80LCDFA0",
+    "photoSore": ""
+  },
+  {
+    "id": 1234,
+    "timestamp": "10/12/2026 10:25:19",
+    "author": "Mardianto",
+    "content": "Membersih kan asrama putra",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1ZykF81DbhrGUDE3l6OoKalWuRlhteeb6",
+    "photoPagi": "https://drive.google.com/open?id=1ZykF81DbhrGUDE3l6OoKalWuRlhteeb6",
+    "photoSore": ""
+  },
+  {
+    "id": 1235,
+    "timestamp": "10/12/2026 10:26:04",
+    "author": "Mardianto",
+    "content": "Membersihkan asrama putra",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1weg6qpqw2uhhelU854BdntE2z4JXJOhr",
+    "photoPagi": "https://drive.google.com/open?id=1weg6qpqw2uhhelU854BdntE2z4JXJOhr",
+    "photoSore": ""
+  },
+  {
+    "id": 1236,
+    "timestamp": "10/12/2026 10:28:22",
+    "author": "Mardianto",
+    "content": "Membersihkan asrama putra",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1HQ_AANwkdAyuiQtJTuTmy8tEQgKXJ9nD",
+    "photoPagi": "https://drive.google.com/open?id=1HQ_AANwkdAyuiQtJTuTmy8tEQgKXJ9nD",
+    "photoSore": ""
+  },
+  {
+    "id": 1237,
+    "timestamp": "10/12/2026 10:35:12",
+    "author": "Fitriandi",
+    "content": "teras ult dan pustaka",
+    "output": "bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=12pC670gY-scKLjJEsmGCadkmn4DN5Br6",
+    "photoPagi": "https://drive.google.com/open?id=12pC670gY-scKLjJEsmGCadkmn4DN5Br6",
+    "photoSore": ""
+  },
+  {
+    "id": 1238,
+    "timestamp": "10/12/2026 11:34:03",
+    "author": "Salaudin",
+    "content": "Memberikan halaman",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1wQJQGy5fh7NnzMzhzX3stYBNep5Qb9x1",
+    "photoPagi": "https://drive.google.com/open?id=1wQJQGy5fh7NnzMzhzX3stYBNep5Qb9x1",
+    "photoSore": ""
+  },
+  {
+    "id": 1239,
+    "timestamp": "10/12/2026 11:55:42",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "",
+    "photoPagi": "",
+    "photoSore": ""
+  },
+  {
+    "id": 1240,
+    "timestamp": "10/12/2026 12:44:54",
+    "author": "Neli Aftariani",
+    "content": "Memberikan pekarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1a3P_OcOuRmg8wz_BvwNFl4TyIweybWx-",
+    "photoPagi": "https://drive.google.com/open?id=1a3P_OcOuRmg8wz_BvwNFl4TyIweybWx-",
+    "photoSore": ""
+  },
+  {
+    "id": 1241,
+    "timestamp": "10/12/2026 15:22:36",
+    "author": "Fitriandi",
+    "content": "teras ruangan pengaduan",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1Ra_pIg6ucJ5KAjM6rtN8BNvqa7-EXbpE",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1Ra_pIg6ucJ5KAjM6rtN8BNvqa7-EXbpE"
+  },
+  {
+    "id": 1242,
+    "timestamp": "10/12/2026 15:23:47",
+    "author": "Fitriandi",
+    "content": "teras depan ult",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "",
+    "photoPagi": "",
+    "photoSore": ""
+  },
+  {
+    "id": 1243,
+    "timestamp": "10/12/2026 15:40:51",
+    "author": "Karmawar",
+    "content": "menata lingkungan kantor",
+    "output": "rapi dan bersih",
+    "hambatan": "tak ada",
+    "photoUrl": "https://drive.google.com/open?id=1Ocz49b3o98eyvje-QdgPpCKJgd6Nmx3Z",
+    "photoPagi": "https://drive.google.com/open?id=1Ocz49b3o98eyvje-QdgPpCKJgd6Nmx3Z",
+    "photoSore": "https://drive.google.com/open?id=1m8OZ-CbBoZHIA1XcRzeHv6QJtkCIV5NX"
+  },
+  {
+    "id": 1244,
+    "timestamp": "10/12/2026 15:55:38",
+    "author": "Salaudin",
+    "content": "Memotong rumput",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1J3gAEarwER5zeC_TkZXXzJsDp__3gV7R",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1J3gAEarwER5zeC_TkZXXzJsDp__3gV7R"
+  },
+  {
+    "id": 1245,
+    "timestamp": "10/12/2026 17:11:20",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1U6X8YMCxB-DRiiGuyEjpHSNlTSVyuUsg",
+    "photoPagi": "https://drive.google.com/open?id=1U6X8YMCxB-DRiiGuyEjpHSNlTSVyuUsg",
+    "photoSore": ""
+  },
+  {
+    "id": 1246,
+    "timestamp": "10/12/2026 17:43:23",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1lIluKLzpLmdfP14533qFBUu3OULr77Dk",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1lIluKLzpLmdfP14533qFBUu3OULr77Dk"
+  },
+  {
+    "id": 1247,
+    "timestamp": "10/13/2026 6:08:30",
+    "author": "Salaudin",
+    "content": "Memberikan area kantor",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=15bMiR0TL9UQklh4LPcB2W0mFoyC-bxJV",
+    "photoPagi": "https://drive.google.com/open?id=15bMiR0TL9UQklh4LPcB2W0mFoyC-bxJV",
+    "photoSore": ""
+  },
+  {
+    "id": 1248,
+    "timestamp": "10/13/2026 7:00:23",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada kendala",
+    "photoUrl": "https://drive.google.com/open?id=1LukvaY4zfaGmLceeTQjEPONjFR25c93s",
+    "photoPagi": "https://drive.google.com/open?id=1LukvaY4zfaGmLceeTQjEPONjFR25c93s",
+    "photoSore": ""
+  },
+  {
+    "id": 1249,
+    "timestamp": "10/13/2026 7:01:46",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada kendala",
+    "photoUrl": "https://drive.google.com/open?id=1EN7-_u2ZZfPfDKOx3DHQi5-qM4ojFJRi",
+    "photoPagi": "https://drive.google.com/open?id=1EN7-_u2ZZfPfDKOx3DHQi5-qM4ojFJRi",
+    "photoSore": ""
+  },
+  {
+    "id": 1250,
+    "timestamp": "10/13/2026 7:08:32",
+    "author": "Mardianto",
+    "content": "Mencabut rumput belakang asram putra",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1s8Iun67DbbThbSRbk5JVrkvEFpRwIOId",
+    "photoPagi": "https://drive.google.com/open?id=1s8Iun67DbbThbSRbk5JVrkvEFpRwIOId",
+    "photoSore": ""
+  },
+  {
+    "id": 1251,
+    "timestamp": "10/13/2026 7:31:05",
+    "author": "Fitriandi",
+    "content": "ruangan pengaduan",
+    "output": "bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=15b3aA-gi6ON6v4N8DU4aDj8bKk2UjoQq",
+    "photoPagi": "https://drive.google.com/open?id=15b3aA-gi6ON6v4N8DU4aDj8bKk2UjoQq",
+    "photoSore": ""
+  },
+  {
+    "id": 1252,
+    "timestamp": "10/13/2026 7:31:38",
+    "author": "Mardianto",
+    "content": "Membersihkan remput samping asrama putra",
+    "output": "Bersih",
+    "hambatan": "aman",
+    "photoUrl": "https://drive.google.com/open?id=1EXC5mk_x_TIXX06uDkkMVHNnXvoiIf8i",
+    "photoPagi": "https://drive.google.com/open?id=1EXC5mk_x_TIXX06uDkkMVHNnXvoiIf8i",
+    "photoSore": ""
+  },
+  {
+    "id": 1253,
+    "timestamp": "10/13/2026 7:37:46",
+    "author": "Fitriandi",
+    "content": "ruangan laktasi dan p3k",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1j3I82xyG4N1j0mcckw1SDtitS7-KaFQv",
+    "photoPagi": "https://drive.google.com/open?id=1j3I82xyG4N1j0mcckw1SDtitS7-KaFQv",
+    "photoSore": ""
+  },
+  {
+    "id": 1254,
+    "timestamp": "10/13/2026 7:39:39",
+    "author": "Fitriandi",
+    "content": ".rnenyiram bunga",
+    "output": "ruanga kepala dinas",
+    "hambatan": "-bersih",
+    "photoUrl": "https://drive.google.com/open?id=1-FKART6m5r3q2g5ZTCfI2J31U3li5Aax",
+    "photoPagi": "https://drive.google.com/open?id=1-FKART6m5r3q2g5ZTCfI2J31U3li5Aax",
+    "photoSore": ""
+  },
+  {
+    "id": 1255,
+    "timestamp": "10/13/2026 7:43:22",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan area aula mini menyapu luar dan dalam ruang",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1FpKRsqOkLxeSCgNxx7hqYGv10N1B_Srz",
+    "photoPagi": "https://drive.google.com/open?id=1FpKRsqOkLxeSCgNxx7hqYGv10N1B_Srz",
+    "photoSore": ""
+  },
+  {
+    "id": 1256,
+    "timestamp": "10/13/2026 7:47:37",
+    "author": "Buyung Syafrianto",
+    "content": "Membersihkan aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1EXlFkZeHLBXLCUd_A9yRgFlriOR-i4TR",
+    "photoPagi": "https://drive.google.com/open?id=1EXlFkZeHLBXLCUd_A9yRgFlriOR-i4TR",
+    "photoSore": ""
+  },
+  {
+    "id": 1257,
+    "timestamp": "10/13/2026 9:25:19",
+    "author": "Fitriandi",
+    "content": "pekarangan pustaka",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1abn9bLC_j97tU3IdpGjq3-rh3xYr690C",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1abn9bLC_j97tU3IdpGjq3-rh3xYr690C"
+  },
+  {
+    "id": 1258,
+    "timestamp": "10/13/2026 9:26:51",
+    "author": "Mardianto",
+    "content": "Lem lantai",
+    "output": "Bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1W1h-28Oh8czYvvymLTqo-351aybiygJM",
+    "photoPagi": "https://drive.google.com/open?id=1W1h-28Oh8czYvvymLTqo-351aybiygJM",
+    "photoSore": ""
+  },
+  {
+    "id": 1259,
+    "timestamp": "10/13/2026 9:27:56",
+    "author": "Mardianto",
+    "content": "Lantai ult",
+    "output": "Bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1j0xrWf187oeYfh9PEJJ0mSHTCZTRwxIY",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1j0xrWf187oeYfh9PEJJ0mSHTCZTRwxIY"
+  },
+  {
+    "id": 1260,
+    "timestamp": "10/13/2026 16:03:01",
+    "author": "Neli Aftariani",
+    "content": "Mencabut rumput dan menyapu",
+    "output": "Belum selesai",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1wmyF8ehMNX1NA84rvbSaWckXrBXGm9ST",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1wmyF8ehMNX1NA84rvbSaWckXrBXGm9ST"
+  },
+  {
+    "id": 1261,
+    "timestamp": "10/13/2026 17:06:50",
+    "author": "Usrialdi",
+    "content": "Membersihkan mushola",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1KwYQwBe9uMtVJ5oVUHMGUhZwX7gF2Khb",
+    "photoPagi": "https://drive.google.com/open?id=1KwYQwBe9uMtVJ5oVUHMGUhZwX7gF2Khb",
+    "photoSore": "https://drive.google.com/open?id=1fxAGSXZHDhAgypgYjjrFUQ8oaYYzYZKA"
+  },
+  {
+    "id": 1262,
+    "timestamp": "10/13/2026 18:15:03",
+    "author": "Salaudin",
+    "content": "Memberikan area kantor",
+    "output": "Aman",
+    "hambatan": "Bersih",
+    "photoUrl": "https://drive.google.com/open?id=1bTAoMEabFKKJvLF-8g8EnCULRbKPVn_n",
+    "photoPagi": "https://drive.google.com/open?id=1bTAoMEabFKKJvLF-8g8EnCULRbKPVn_n",
+    "photoSore": ""
+  },
+  {
+    "id": 1263,
+    "timestamp": "10/13/2026 18:17:10",
+    "author": "Salaudin",
+    "content": "Memberikan area kantor",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=12e1zn7iURuJ1e3XB8bTimGfIO5cZrjOH",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=12e1zn7iURuJ1e3XB8bTimGfIO5cZrjOH"
+  },
+  {
+    "id": 1264,
+    "timestamp": "10/13/2026 23:13:17",
+    "author": "Karmawar",
+    "content": "menata lingkungan kantor",
+    "output": "Rapi",
+    "hambatan": "tak ada",
+    "photoUrl": "https://drive.google.com/open?id=1P31YCKfbHdZkAP_Frf7ShsMTP0q_IK1D",
+    "photoPagi": "https://drive.google.com/open?id=1P31YCKfbHdZkAP_Frf7ShsMTP0q_IK1D",
+    "photoSore": "https://drive.google.com/open?id=1h01I2ObEajTvON7KV6n5_JIKorL4FTWe"
+  },
+  {
+    "id": 1265,
+    "timestamp": "10/14/2026 7:25:58",
+    "author": "Fitriandi",
+    "content": "membersihkan kaca",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1kvhAOQ9kwqgnFgqeSJvzrkZhYfUYcxMC",
+    "photoPagi": "https://drive.google.com/open?id=1kvhAOQ9kwqgnFgqeSJvzrkZhYfUYcxMC",
+    "photoSore": ""
+  },
+  {
+    "id": 1266,
+    "timestamp": "10/14/2026 7:44:57",
+    "author": "Fitriandi",
+    "content": "membersihkan kaca perpustakaan",
+    "output": "bersih",
+    "hambatan": "_",
+    "photoUrl": "https://drive.google.com/open?id=1aT8E1ptEq3sVOeVbSLkMJfyStf8smHTZ",
+    "photoPagi": "https://drive.google.com/open?id=1aT8E1ptEq3sVOeVbSLkMJfyStf8smHTZ",
+    "photoSore": ""
+  },
+  {
+    "id": 1267,
+    "timestamp": "10/14/2026 7:50:56",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu dan siram bunga aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=18-5XrLtSnTVjPzlWeCbQRh6T7gyC0csR",
+    "photoPagi": "https://drive.google.com/open?id=18-5XrLtSnTVjPzlWeCbQRh6T7gyC0csR",
+    "photoSore": ""
+  },
+  {
+    "id": 1268,
+    "timestamp": "10/14/2026 8:09:51",
+    "author": "Fitriandi",
+    "content": "kaca ult",
+    "output": "bersih",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1T-WP7fOkBeO5UpoO0Oefo6GLEjvLTObR",
+    "photoPagi": "https://drive.google.com/open?id=1T-WP7fOkBeO5UpoO0Oefo6GLEjvLTObR",
+    "photoSore": ""
+  },
+  {
+    "id": 1269,
+    "timestamp": "10/14/2026 8:15:36",
+    "author": "Salaudin",
+    "content": "Memberikan area kantor",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=14rVMQ4wBTJZtcT-BHaxFQupfV_L-IpNu",
+    "photoPagi": "https://drive.google.com/open?id=14rVMQ4wBTJZtcT-BHaxFQupfV_L-IpNu",
+    "photoSore": ""
+  },
+  {
+    "id": 1270,
+    "timestamp": "10/14/2026 8:34:32",
+    "author": "Fitriandi",
+    "content": "ruangan pengaduan",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1iIwE1qw0RpvfmKvR-J2dk8wQymq9_V7E",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1iIwE1qw0RpvfmKvR-J2dk8wQymq9_V7E"
+  },
+  {
+    "id": 1271,
+    "timestamp": "10/14/2026 10:54:59",
+    "author": "Ade inputra",
+    "content": "siram bunga dan ganti kran ruang kepala",
+    "output": "terselesaikan pekerjaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1MbO6Op7vZgJbnBIM2OgLKB5KHpck7Fqk",
+    "photoPagi": "https://drive.google.com/open?id=1MbO6Op7vZgJbnBIM2OgLKB5KHpck7Fqk",
+    "photoSore": "https://drive.google.com/open?id=1wgqDLRoXCUP_QPqDUyI2r2RbukklDmF4"
+  },
+  {
+    "id": 1272,
+    "timestamp": "10/14/2026 11:56:27",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1RE7qa8tCZFR0bl-B7yHamc_2kLLMJEDE",
+    "photoPagi": "https://drive.google.com/open?id=1RE7qa8tCZFR0bl-B7yHamc_2kLLMJEDE",
+    "photoSore": ""
+  },
+  {
+    "id": 1273,
+    "timestamp": "10/14/2026 11:58:16",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1ja2YmHKqfAOVHVoYx953cpeVyxHSv7KI",
+    "photoPagi": "https://drive.google.com/open?id=1ja2YmHKqfAOVHVoYx953cpeVyxHSv7KI",
+    "photoSore": ""
+  },
+  {
+    "id": 1274,
+    "timestamp": "10/14/2026 12:02:27",
+    "author": "Neli Aftariani",
+    "content": "Membuang sampah ke tempat sampah",
+    "output": "Aman",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1QOzYiT9TfL8hn86T-KI_ASkTfS-unUWF",
+    "photoPagi": "https://drive.google.com/open?id=1QOzYiT9TfL8hn86T-KI_ASkTfS-unUWF",
+    "photoSore": ""
+  },
+  {
+    "id": 1275,
+    "timestamp": "10/14/2026 12:03:44",
+    "author": "",
+    "content": "Menyapu perkarangan kantor dan mencabut rumput",
+    "output": "Aman",
+    "hambatan": "Tidak ada.",
+    "photoUrl": "https://drive.google.com/open?id=1eH-DEfh52VENqUwtPjRga-7mOCfDd80J",
+    "photoPagi": "https://drive.google.com/open?id=1eH-DEfh52VENqUwtPjRga-7mOCfDd80J",
+    "photoSore": ""
+  },
+  {
+    "id": 1276,
+    "timestamp": "10/14/2026 15:24:11",
+    "author": "Fitriandi",
+    "content": "lorong ult",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=10bP8zbcHEy5TiJVxij5vT_GJ-ZDudgqE",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=10bP8zbcHEy5TiJVxij5vT_GJ-ZDudgqE"
+  },
+  {
+    "id": 1277,
+    "timestamp": "10/14/2026 16:04:45",
+    "author": "Usrialdi",
+    "content": "Membersihkan mushola dan memperbaiki mesin air",
+    "output": "1",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1zeCKHdBmSwuSwHva6dSruWmm1aO_8Ow_",
+    "photoPagi": "https://drive.google.com/open?id=1zeCKHdBmSwuSwHva6dSruWmm1aO_8Ow_",
+    "photoSore": "https://drive.google.com/open?id=1Vsr41vGfgA9Lc07-hraA9kyKhEuf1_ei"
+  },
+  {
+    "id": 1278,
+    "timestamp": "10/14/2026 16:41:55",
+    "author": "Salaudin",
+    "content": "Membung sampah ke tempat sampah",
+    "output": "Selesai",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1ZayGv-BmEq0tC6tEisg0ZOE9ao50IV2g",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1ZayGv-BmEq0tC6tEisg0ZOE9ao50IV2g"
+  },
+  {
+    "id": 1279,
+    "timestamp": "10/14/2026 17:07:22",
+    "author": "Neli Aftariani",
+    "content": "",
+    "output": "Menyapu perkarangan kantor dan menyapu rumput yang sudah di cabut",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1b9ABeDgMqRK0Zx0MdU6O_Lw9tPQZIapf",
+    "photoPagi": "",
+    "photoSore": "https://drive.google.com/open?id=1b9ABeDgMqRK0Zx0MdU6O_Lw9tPQZIapf"
+  },
+  {
+    "id": 1280,
+    "timestamp": "10/14/2026 19:11:01",
+    "author": "Karmawar",
+    "content": "menata lingkungan kantor",
+    "output": "RAPI",
+    "hambatan": "tak ada",
+    "photoUrl": "https://drive.google.com/open?id=1mTRFb-4wdGyohPfqKNVWi9NKowdgTrfl",
+    "photoPagi": "https://drive.google.com/open?id=1mTRFb-4wdGyohPfqKNVWi9NKowdgTrfl",
+    "photoSore": "https://drive.google.com/open?id=1CWNpKTFYYKPhGjrS8YLTBSXd6RR7VXh6"
+  },
+  {
+    "id": 1281,
+    "timestamp": "10/15/2026 6:28:55",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1t9pVTbT_AdPnzfq3dqvd8_KtipcNuo-2",
+    "photoPagi": "https://drive.google.com/open?id=1t9pVTbT_AdPnzfq3dqvd8_KtipcNuo-2",
+    "photoSore": ""
+  },
+  {
+    "id": 1282,
+    "timestamp": "10/15/2026 6:39:38",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1zQS6-FBJx-mPl1-E60mC4qFP2OSpQfTY",
+    "photoPagi": "https://drive.google.com/open?id=1zQS6-FBJx-mPl1-E60mC4qFP2OSpQfTY",
+    "photoSore": ""
+  },
+  {
+    "id": 1283,
+    "timestamp": "10/15/2026 6:46:31",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1pirpee41O02IvtDbNpa4aohOCidXuEIT",
+    "photoPagi": "https://drive.google.com/open?id=1pirpee41O02IvtDbNpa4aohOCidXuEIT",
+    "photoSore": ""
+  },
+  {
+    "id": 1284,
+    "timestamp": "10/15/2026 7:04:23",
+    "author": "Neli Aftariani",
+    "content": "Menyapu perkarangan kantor",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1t4-Bl3rdaN_SAWEISNW_KYKJTzQ50mSM",
+    "photoPagi": "https://drive.google.com/open?id=1t4-Bl3rdaN_SAWEISNW_KYKJTzQ50mSM",
+    "photoSore": ""
+  },
+  {
+    "id": 1285,
+    "timestamp": "10/15/2026 7:13:08",
+    "author": "Salaudin",
+    "content": "Memberikan area kantor",
+    "output": "Bersih",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1EtMRid5mgr1MXv1dvayfNU014m9geEyf",
+    "photoPagi": "https://drive.google.com/open?id=1EtMRid5mgr1MXv1dvayfNU014m9geEyf",
+    "photoSore": ""
+  },
+  {
+    "id": 1286,
+    "timestamp": "10/15/2026 7:42:50",
+    "author": "Ade inputra",
+    "content": "sapu teras arsip dan pel",
+    "output": "terselesaikan pekerjaaan",
+    "hambatan": "tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1WA_0pC9rbIUWbIbLDkQfmT-FhCTbtpFJ",
+    "photoPagi": "https://drive.google.com/open?id=1WA_0pC9rbIUWbIbLDkQfmT-FhCTbtpFJ",
+    "photoSore": "https://drive.google.com/open?id=1Yudio_AyBy47TM4oZGHRuT9l9b0dQb5K"
+  },
+  {
+    "id": 1287,
+    "timestamp": "10/15/2026 7:45:01",
+    "author": "Fitriandi",
+    "content": "ruangan pengaduan",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1OsXyWWrCpjDPOHsZh7OE_3dt0x-Z1H33",
+    "photoPagi": "https://drive.google.com/open?id=1OsXyWWrCpjDPOHsZh7OE_3dt0x-Z1H33",
+    "photoSore": ""
+  },
+  {
+    "id": 1288,
+    "timestamp": "10/15/2026 7:46:29",
+    "author": "Fitriandi",
+    "content": "teras Ult kantor",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1Fm0EmhtVLMVKvCd1lF4OuPF6Lz4On2BX",
+    "photoPagi": "https://drive.google.com/open?id=1Fm0EmhtVLMVKvCd1lF4OuPF6Lz4On2BX",
+    "photoSore": ""
+  },
+  {
+    "id": 1289,
+    "timestamp": "10/15/2026 7:47:28",
+    "author": "Fitriandi",
+    "content": "teras perpustakaan",
+    "output": "bersih",
+    "hambatan": "",
+    "photoUrl": "https://drive.google.com/open?id=1OvGKXXuW1Qhab-cHR8yCQLcVh-mLbm-p",
+    "photoPagi": "https://drive.google.com/open?id=1OvGKXXuW1Qhab-cHR8yCQLcVh-mLbm-p",
+    "photoSore": ""
+  },
+  {
+    "id": 1290,
+    "timestamp": "10/15/2026 8:06:32",
+    "author": "Neli Aftariani",
+    "content": "Menyapu pasir di depan hol utama",
+    "output": "Belum selesai",
+    "hambatan": "Aman",
+    "photoUrl": "https://drive.google.com/open?id=1TWbl2vstiUtujeZuuLqpGIPkYxl1gDS7",
+    "photoPagi": "https://drive.google.com/open?id=1TWbl2vstiUtujeZuuLqpGIPkYxl1gDS7",
+    "photoSore": ""
+  },
+  {
+    "id": 1291,
+    "timestamp": "10/15/2026 8:13:11",
+    "author": "Buyung Syafrianto",
+    "content": "Menyapu, mengepel lantai aula mini",
+    "output": "Selesai",
+    "hambatan": "-",
+    "photoUrl": "https://drive.google.com/open?id=1zp3SRjPJQqJCn9d7-5okxTUYPN1MzkAG",
+    "photoPagi": "https://drive.google.com/open?id=1zp3SRjPJQqJCn9d7-5okxTUYPN1MzkAG",
+    "photoSore": ""
+  },
+  {
+    "id": 1292,
+    "timestamp": "10/15/2026 9:44:18",
+    "author": "Neli Aftariani",
+    "content": "Mencabut rumput di parkiran mobil",
+    "output": "Belum selesai",
+    "hambatan": "Tidak ada",
+    "photoUrl": "https://drive.google.com/open?id=1FQhOnHpgYLNCkkzMS7QhzrWS4bz_q9gY",
+    "photoPagi": "https://drive.google.com/open?id=1FQhOnHpgYLNCkkzMS7QhzrWS4bz_q9gY",
+    "photoSore": ""
   }
 ];

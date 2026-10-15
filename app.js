@@ -7,10 +7,10 @@
  * Data Source: Google Spreadsheet (Live JSONP + Offline Fallback)
  */
 
-// Konfigurasi Sumber Data Spreadsheet
+// Konfigurasi Sumber Data Spreadsheet (Tab 'Form Responses 1' - Realtime Live)
 const CONFIG = {
   SPREADSHEET_ID: '1Ey8Qm4rsP73fJhkMdljRAJ253HmglsTNkxY4rV7u-TA',
-  GID: '2124328095',
+  GID: '155701133', // Tab 'Form Responses 1' (Terkoneksi langsung ke Google Form sampai saat ini)
   OFFICE_NAME: 'BALAI GURU DAN TENAGA KEPENDIDIKAN PROVINSI SUMATERA BARAT',
   ADDRESS: 'Jl. Dewi Sartika, Rawang, Kota Pariaman, Sumatera Barat 25511 | Telp: (0751) 91178'
 };
@@ -308,8 +308,14 @@ function processRawReports(rawItems) {
     // Hambatan
     const obsMeta = evaluateObstacle(item.hambatan);
 
-    // Foto Google Drive
-    const driveThumbnail = getDriveDirectThumbnail(item.photoUrl);
+    // Foto Google Drive (Mendukung Foto Pagi & Foto Sore dari Form Responses 1)
+    const fotoPagi = item.photoPagi || '';
+    const fotoSore = item.photoSore || '';
+    const primaryPhoto = item.photoUrl || fotoPagi || fotoSore || '';
+    const driveThumbnail = getDriveDirectThumbnail(primaryPhoto);
+    const driveThumbPagi = getDriveDirectThumbnail(fotoPagi);
+    const driveThumbSore = getDriveDirectThumbnail(fotoSore);
+    const hasPhoto = Boolean(primaryPhoto && primaryPhoto.trim().length > 10);
 
     return {
       id: item.id || idx + 1,
@@ -320,9 +326,13 @@ function processRawReports(rawItems) {
       hambatan: item.hambatan || '',
       hasRealObstacle: obsMeta.hasObstacle,
       obstacleDetail: obsMeta.text,
-      photoUrl: item.photoUrl || '',
+      photoUrl: primaryPhoto,
+      photoPagi: fotoPagi,
+      photoSore: fotoSore,
       driveThumbnail: driveThumbnail,
-      hasPhoto: Boolean(item.photoUrl && item.photoUrl.trim().length > 10),
+      driveThumbPagi: driveThumbPagi,
+      driveThumbSore: driveThumbSore,
+      hasPhoto: hasPhoto,
       time: timeMeta,
       location: locMeta
     };
@@ -386,6 +396,9 @@ function fetchGoogleSheetData() {
       const rows = response.table.rows;
       const parsedItems = rows.map((r, i) => {
         const c = r.c || [];
+        const fotoPagi = c[5] ? String(c[5].v || c[5].f || '') : '';
+        const fotoSore = c[6] ? String(c[6].v || c[6].f || '') : '';
+        const primaryPhoto = fotoPagi || fotoSore || '';
         return {
           id: i + 1,
           timestamp: c[0] ? (c[0].f || String(c[0].v || '')) : '',
@@ -393,7 +406,9 @@ function fetchGoogleSheetData() {
           content: c[2] ? String(c[2].v || '') : '',
           output: c[3] ? String(c[3].v || '') : '',
           hambatan: c[4] ? String(c[4].v || '') : '',
-          photoUrl: c[5] ? String(c[5].v || '') : ''
+          photoUrl: primaryPhoto,
+          photoPagi: fotoPagi,
+          photoSore: fotoSore
         };
       });
 
@@ -821,20 +836,52 @@ function openDetailModal(reportId) {
     <div class="mt-4 space-y-4">
       <!-- Foto Bukti Fisik -->
       ${hasPhoto ? `
-        <div class="rounded-2xl overflow-hidden border border-slate-200 bg-slate-900 max-h-[380px] flex items-center justify-center relative group">
-          <img 
-            src="${report.driveThumbnail}" 
-            alt="Foto Bukti Tugas" 
-            class="max-h-[380px] w-auto object-contain mx-auto"
-            onerror="this.parentElement.innerHTML='<div class=\\'p-8 text-center text-slate-400\\'>Foto gagal dimuat langsung. Buka tautan Google Drive di bawah.</div>'"
-          />
-          <a 
-            href="${report.photoUrl}" 
-            target="_blank" 
-            class="absolute bottom-3 right-3 px-3 py-1.5 rounded-lg bg-black/75 hover:bg-black text-white text-xs font-semibold backdrop-blur-md flex items-center gap-1.5 transition-all">
-            <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
-            Buka di Google Drive
-          </a>
+        <div class="space-y-2">
+          ${report.photoPagi && report.photoSore ? `
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+              <!-- Foto Pagi -->
+              <div class="rounded-2xl overflow-hidden border border-slate-200 bg-slate-900 flex flex-col relative group">
+                <div class="p-2 bg-slate-800 text-white text-[11px] font-bold flex items-center justify-between">
+                  <span>📸 Dokumentasi Pagi</span>
+                  <a href="${report.photoPagi}" target="_blank" class="text-sky-400 hover:underline flex items-center gap-1 text-[10px]">
+                    <i data-lucide="external-link" class="w-3 h-3"></i> Drive
+                  </a>
+                </div>
+                <div class="h-60 flex items-center justify-center p-1">
+                  <img src="${report.driveThumbPagi || report.driveThumbnail}" alt="Foto Pagi" class="max-h-56 w-auto object-contain mx-auto" />
+                </div>
+              </div>
+
+              <!-- Foto Sore -->
+              <div class="rounded-2xl overflow-hidden border border-slate-200 bg-slate-900 flex flex-col relative group">
+                <div class="p-2 bg-slate-800 text-white text-[11px] font-bold flex items-center justify-between">
+                  <span>📸 Dokumentasi Sore</span>
+                  <a href="${report.photoSore}" target="_blank" class="text-sky-400 hover:underline flex items-center gap-1 text-[10px]">
+                    <i data-lucide="external-link" class="w-3 h-3"></i> Drive
+                  </a>
+                </div>
+                <div class="h-60 flex items-center justify-center p-1">
+                  <img src="${report.driveThumbSore || report.driveThumbnail}" alt="Foto Sore" class="max-h-56 w-auto object-contain mx-auto" />
+                </div>
+              </div>
+            </div>
+          ` : `
+            <div class="rounded-2xl overflow-hidden border border-slate-200 bg-slate-900 max-h-[380px] flex items-center justify-center relative group">
+              <img 
+                src="${report.driveThumbnail}" 
+                alt="Foto Bukti Tugas" 
+                class="max-h-[380px] w-auto object-contain mx-auto"
+                onerror="this.parentElement.innerHTML='<div class=\\'p-8 text-center text-slate-400\\'>Foto gagal dimuat langsung. Buka tautan Google Drive di bawah.</div>'"
+              />
+              <a 
+                href="${report.photoUrl}" 
+                target="_blank" 
+                class="absolute bottom-3 right-3 px-3 py-1.5 rounded-lg bg-black/75 hover:bg-black text-white text-xs font-semibold backdrop-blur-md flex items-center gap-1.5 transition-all">
+                <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
+                Buka di Google Drive
+              </a>
+            </div>
+          `}
         </div>
       ` : `
         <div class="p-6 rounded-2xl bg-slate-50 border border-slate-200 text-center text-slate-400 text-xs">
