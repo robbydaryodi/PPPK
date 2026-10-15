@@ -512,7 +512,10 @@ function getFilteredReports() {
 }
 
 /**
- * RENDER: Selector Pegawai
+ * RENDER: Selector Pegawai dengan Indikator Status Laporan Hari Ini
+ * Hijau  : Sudah mengisi laporan hari ini
+ * Kuning : Belum mengisi (sebelum jam 12:00 siang)
+ * Merah  : Belum mengisi (setelah jam 12:00 siang)
  */
 function renderEmployeeSelector() {
   const container = document.getElementById('employeePillsContainer');
@@ -520,10 +523,26 @@ function renderEmployeeSelector() {
 
   const totalAll = state.parsedReports.length;
 
+  // Waktu & Tanggal Hari Ini (WIB)
+  const now = new Date();
+  const todayKey = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+  const currentHour = now.getHours();
+  const isPastNoon = currentHour >= 12;
+
+  // Cek siapa saja yang sudah mengisi laporan hari ini
+  const todayReportsByAuthor = new Map();
+  state.parsedReports.forEach(r => {
+    if (r.time.dateKey === todayKey) {
+      todayReportsByAuthor.set(r.author, (todayReportsByAuthor.get(r.author) || 0) + 1);
+    }
+  });
+
+  const totalTodayReported = todayReportsByAuthor.size;
+
   let html = `
     <button 
       onclick="setEmployee('ALL')" 
-      class="px-3 py-1.5 rounded-xl text-xs font-semibold flex items-center gap-2 transition-all shadow-sm ${
+      class="px-3.5 py-1.5 rounded-xl text-xs font-semibold flex items-center gap-2 transition-all shadow-sm ${
         state.selectedEmployee === 'ALL'
           ? 'bg-bgtk-navy text-white shadow-md ring-2 ring-sky-500/50'
           : 'bg-white text-slate-700 hover:bg-slate-100 border border-slate-200'
@@ -536,19 +555,55 @@ function renderEmployeeSelector() {
 
   state.employees.forEach(emp => {
     const isSelected = state.selectedEmployee === emp.name;
+    const todayCount = todayReportsByAuthor.get(emp.name) || 0;
+    const hasReportedToday = todayCount > 0;
+
+    // Tentukan Tema Warna Status
+    let statusTheme = {};
+    if (hasReportedToday) {
+      // 🟢 HIJAU: Sudah mengisi hari ini
+      statusTheme = {
+        badgeClass: 'border-emerald-300 bg-emerald-50/80 text-emerald-900 hover:bg-emerald-100',
+        selectedClass: 'bg-emerald-700 text-white shadow-md ring-2 ring-emerald-400',
+        dotClass: 'bg-emerald-500 animate-pulse',
+        pillCountClass: 'bg-emerald-200/70 text-emerald-900',
+        label: 'Sudah lapor hari ini',
+        tooltip: `${emp.name}: Sudah mengisi ${todayCount} laporan hari ini`
+      };
+    } else if (isPastNoon) {
+      // 🔴 MERAH / PINK: Belum mengisi dan sudah lewat jam 12:00
+      statusTheme = {
+        badgeClass: 'border-rose-300 bg-rose-50/80 text-rose-900 hover:bg-rose-100',
+        selectedClass: 'bg-rose-700 text-white shadow-md ring-2 ring-rose-400',
+        dotClass: 'bg-rose-500',
+        pillCountClass: 'bg-rose-200/70 text-rose-900',
+        label: 'Belum lapor (Lewat jam 12)',
+        tooltip: `${emp.name}: Belum mengisi hari ini (Sudah lewat jam 12.00)`
+      };
+    } else {
+      // 🟡 KUNING: Belum mengisi dan masih sebelum jam 12:00
+      statusTheme = {
+        badgeClass: 'border-amber-300 bg-amber-50/80 text-amber-900 hover:bg-amber-100',
+        selectedClass: 'bg-amber-600 text-white shadow-md ring-2 ring-amber-300',
+        dotClass: 'bg-amber-400',
+        pillCountClass: 'bg-amber-200/70 text-amber-900',
+        label: 'Menunggu laporan (< 12.00)',
+        tooltip: `${emp.name}: Belum mengisi hari ini (Masih sebelum jam 12.00)`
+      };
+    }
+
     html += `
       <button 
         onclick="setEmployee('${emp.name}')" 
-        class="px-3 py-1.5 rounded-xl text-xs font-semibold flex items-center gap-2 transition-all shadow-sm ${
+        title="${statusTheme.tooltip}"
+        class="px-3 py-1.5 rounded-xl text-xs font-semibold flex items-center gap-2 transition-all shadow-xs border ${
           isSelected
-            ? 'bg-bgtk-navy text-white shadow-md ring-2 ring-sky-500/50 scale-[1.02]'
-            : 'bg-white text-slate-700 hover:bg-slate-100 border border-slate-200'
+            ? statusTheme.selectedClass + ' scale-[1.02]'
+            : statusTheme.badgeClass
         }">
-        <span class="w-5 h-5 rounded-lg bg-gradient-to-tr ${emp.avatarColor} text-white font-bold flex items-center justify-center text-[9px]">
-          ${emp.initials}
-        </span>
+        <span class="w-2 h-2 rounded-full ${statusTheme.dotClass} shrink-0"></span>
         <span>${emp.name}</span>
-        <span class="px-1.5 py-0.5 rounded-full text-[10px] ${isSelected ? 'bg-white/20 text-white' : 'bg-slate-100 text-slate-600'}">
+        <span class="px-1.5 py-0.5 rounded-full text-[10px] font-mono ${isSelected ? 'bg-white/20 text-white' : statusTheme.pillCountClass}">
           ${emp.count}
         </span>
       </button>

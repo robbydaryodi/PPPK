@@ -93,18 +93,30 @@
     <!-- Main Container -->
     <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex-1 w-full space-y-6">
 
-      <!-- SECTION 1: PEMILIHAN PEGAWAI (PRIMARY FILTER) -->
-      <section class="bg-white rounded-2xl p-4 sm:p-5 border border-slate-200/80 shadow-sm">
-        <div class="flex items-center justify-between mb-3">
+      <!-- SECTION 1: PEMILIHAN PEGAWAI (PRIMARY FILTER DENGAN STATUS HARI INI) -->
+      <section class="bg-white rounded-2xl p-4 sm:p-5 border border-slate-200/80 shadow-sm space-y-3">
+        <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2.5">
           <div class="flex items-center gap-2">
             <i data-lucide="users" class="w-4 h-4 text-bgtk-blue"></i>
-            <h2 class="text-xs font-bold uppercase tracking-wider text-slate-500">Pilih Pegawai PPPK yang Dipantau</h2>
+            <h2 class="text-xs font-bold uppercase tracking-wider text-slate-600">Pilih Pegawai PPPK & Status Hari Ini</h2>
           </div>
-          <span class="text-[11px] text-slate-400 font-medium">Klik nama untuk menyaring riwayat kinerja</span>
+
+          <!-- Legenda Warna Status Hari Ini -->
+          <div class="flex flex-wrap items-center gap-3 text-[11px] font-semibold bg-slate-50 px-3 py-1.5 rounded-xl border border-slate-200/80">
+            <span class="inline-flex items-center gap-1.5 text-emerald-700">
+              <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span> Sudah Isi Hari Ini
+            </span>
+            <span class="inline-flex items-center gap-1.5 text-amber-700">
+              <span class="w-2 h-2 rounded-full bg-amber-400"></span> Belum (&lt; 12.00)
+            </span>
+            <span class="inline-flex items-center gap-1.5 text-rose-700">
+              <span class="w-2 h-2 rounded-full bg-rose-500"></span> Belum (&ge; 12.00)
+            </span>
+          </div>
         </div>
 
         <!-- Employee Pills Container (Wrap, No Horizontal Scroll) -->
-        <div id="employeePillsContainer" class="flex flex-wrap items-center gap-2">
+        <div id="employeePillsContainer" class="flex flex-wrap items-center gap-2 pt-1">
           <!-- Diisi otomatis oleh app.js -->
         </div>
       </section>
