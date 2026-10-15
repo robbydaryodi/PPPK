@@ -276,13 +276,22 @@
     </main>
 
     <!-- Footer -->
-    <footer class="bg-white border-t border-slate-200 mt-12 py-6 text-center text-xs text-slate-500 space-y-1">
+    <footer class="bg-white border-t border-slate-200 mt-12 py-6 text-center text-xs text-slate-500 space-y-2">
       <p class="font-semibold text-slate-700">
         Balai Guru dan Tenaga Kependidikan (BGTK) Provinsi Sumatera Barat
       </p>
       <p class="text-slate-400">
         BGTK Sumatera Barat • Urusan Rumah Tangga, Kebersihan & Keamanan
       </p>
+      <div class="pt-2">
+        <button 
+          onclick="openAccessLogModal()" 
+          title="Lihat Log Akses & Perilaku Pengunjung (Shortcut: Ctrl + Shift + L)"
+          class="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-600 text-[11px] font-semibold transition-all border border-slate-200 shadow-xs">
+          <i data-lucide="bar-chart-2" class="w-3.5 h-3.5 text-bgtk-blue"></i>
+          <span>Log Akses Pemantau</span>
+        </button>
+      </div>
     </footer>
 
   </div>
@@ -296,8 +305,68 @@
     </div>
   </div>
 
+  <!-- ========================================== -->
+  <!-- MODAL LOG AKSES & USER BEHAVIOR -->
+  <!-- ========================================== -->
+  <div id="accessLogModal" class="hidden fixed inset-0 z-50 bg-black/70 backdrop-blur-sm flex items-center justify-center p-4">
+    <div class="bg-white rounded-3xl max-w-4xl w-full p-6 shadow-2xl overflow-hidden flex flex-col max-h-[90vh] border border-slate-100">
+      <div class="flex items-center justify-between pb-4 border-b border-slate-100">
+        <div class="flex items-center gap-2.5">
+          <div class="w-9 h-9 rounded-xl bg-blue-50 text-bgtk-blue flex items-center justify-center">
+            <i data-lucide="activity" class="w-5 h-5"></i>
+          </div>
+          <div>
+            <h3 class="text-base font-bold text-slate-900">Rekam Jejak Pemantau (User Behavior Log)</h3>
+            <p class="text-xs text-slate-500">Mencatat waktu akses, perangkat, lokasi IP, dan aksi pencarian/pemilihan pegawai</p>
+          </div>
+        </div>
+        <button onclick="closeAccessLogModal()" class="w-8 h-8 rounded-full bg-slate-100 hover:bg-slate-200 flex items-center justify-center text-slate-600 transition-colors">
+          <i data-lucide="x" class="w-4 h-4"></i>
+        </button>
+      </div>
+
+      <!-- Summary Cards -->
+      <div id="accessLogSummary" class="py-4"></div>
+
+      <!-- Table Logs -->
+      <div class="overflow-y-auto flex-1 border border-slate-200 rounded-2xl scrollbar-thin">
+        <table class="w-full text-left border-collapse">
+          <thead class="bg-slate-100 sticky top-0 text-[10px] font-bold uppercase tracking-wider text-slate-600">
+            <tr>
+              <th class="p-2.5">Waktu</th>
+              <th class="p-2.5">Perangkat</th>
+              <th class="p-2.5">Lokasi / IP</th>
+              <th class="p-2.5">Aksi</th>
+              <th class="p-2.5">Rincian Perilaku</th>
+            </tr>
+          </thead>
+          <tbody id="accessLogTableBody" class="divide-y divide-slate-100">
+            <!-- Diisi otomatis oleh tracker.js -->
+          </tbody>
+        </table>
+      </div>
+
+      <!-- Modal Footer Actions -->
+      <div class="pt-4 mt-2 border-t border-slate-100 flex items-center justify-between">
+        <span class="text-[11px] text-slate-400">Tekan <kbd class="px-1.5 py-0.5 rounded bg-slate-100 border border-slate-200 text-slate-600 font-mono">Ctrl + Shift + L</kbd> untuk buka cepat</span>
+        <div class="flex items-center gap-2">
+          <button onclick="exportLogsToCSV()" class="px-3.5 py-1.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 text-xs font-semibold flex items-center gap-1.5 transition-all">
+            <i data-lucide="download" class="w-3.5 h-3.5"></i>
+            <span>Ekspor CSV</span>
+          </button>
+          <button onclick="closeAccessLogModal()" class="px-4 py-1.5 rounded-xl bg-bgtk-navy text-white text-xs font-semibold hover:bg-slate-800 transition-all">
+            Tutup
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <!-- SCRIPT CADANGAN DATA OFFLINE (Bila jaringan lambat) -->
   <script src="offline-data.js"></script>
+
+  <!-- USER BEHAVIOR & VISITOR TRACKER -->
+  <script src="tracker.js"></script>
 
   <!-- MAIN SCRIPT APPLICATION -->
   <script src="app.js"></script>

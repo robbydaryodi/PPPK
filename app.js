@@ -183,12 +183,12 @@ function evaluateObstacle(hambatanText) {
 }
 
 /**
- * Parsing Tanggal dan Waktu
+ * Parsing Tanggal dan Waktu (Mendukung Date(...) dari Google Sheets & String Biasa)
  */
 function parseTimestamp(tsString) {
   if (!tsString) {
     return {
-      dateObj: new Date(),
+      dateObj: new Date(0),
       dateKey: '',
       monthKey: '',
       monthLabel: '',
@@ -199,24 +199,37 @@ function parseTimestamp(tsString) {
     };
   }
 
-  // Format umum GSheet: "3/2/2026 10:21:44" atau "4/16/2026 8:25:43"
-  const parts = tsString.split(' ');
-  const dateParts = parts[0].split('/');
-  let m = parseInt(dateParts[0], 10);
-  let d = parseInt(dateParts[1], 10);
-  let y = parseInt(dateParts[2], 10);
-  
-  let hours = 8;
-  let minutes = 0;
-  if (parts[1]) {
-    const timeParts = parts[1].split(':');
-    hours = parseInt(timeParts[0], 10);
-    minutes = parseInt(timeParts[1] || '0', 10);
-    if (parts[2] && parts[2].toUpperCase() === 'PM' && hours < 12) hours += 12;
-    if (parts[2] && parts[2].toUpperCase() === 'AM' && hours === 12) hours = 0;
+  let y = 2026, m = 1, d = 1, hours = 8, minutes = 0, seconds = 0;
+
+  // Format 1: Google Sheets v-field -> "Date(2026,3,23,15,55,12)" (Bulan 0-indexed: 3 = April)
+  if (typeof tsString === 'string' && tsString.startsWith('Date(')) {
+    const nums = tsString.slice(5, -1).split(',').map(Number);
+    y = nums[0] || 2026;
+    m = (nums[1] !== undefined ? nums[1] + 1 : 1);
+    d = nums[2] || 1;
+    hours = nums[3] || 0;
+    minutes = nums[4] || 0;
+    seconds = nums[5] || 0;
+  } else {
+    // Format 2: "3/2/2026 10:21:44" atau "4/16/2026 8:25:43"
+    const parts = String(tsString).trim().split(/\s+/);
+    if (parts[0] && parts[0].includes('/')) {
+      const dateParts = parts[0].split('/');
+      m = parseInt(dateParts[0], 10) || 1;
+      d = parseInt(dateParts[1], 10) || 1;
+      y = parseInt(dateParts[2], 10) || 2026;
+    }
+    if (parts[1]) {
+      const timeParts = parts[1].split(':');
+      hours = parseInt(timeParts[0], 10) || 0;
+      minutes = parseInt(timeParts[1], 10) || 0;
+      seconds = parseInt(timeParts[2], 10) || 0;
+      if (parts[2] && parts[2].toUpperCase() === 'PM' && hours < 12) hours += 12;
+      if (parts[2] && parts[2].toUpperCase() === 'AM' && hours === 12) hours = 0;
+    }
   }
 
-  const dateObj = new Date(y, m - 1, d, hours, minutes);
+  const dateObj = new Date(y, m - 1, d, hours, minutes, seconds);
   const monthKey = `${y}-${String(m).padStart(2, '0')}`;
   const dateKey = `${monthKey}-${String(d).padStart(2, '0')}`;
 
@@ -226,8 +239,9 @@ function parseTimestamp(tsString) {
   ];
   const daysIndo = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu'];
 
-  const dayName = daysIndo[dateObj.getDay()];
-  const monthName = monthsIndo[m - 1];
+  const dayIndex = isNaN(dateObj.getDay()) ? 0 : dateObj.getDay();
+  const dayName = daysIndo[dayIndex];
+  const monthName = monthsIndo[Math.max(0, Math.min(11, m - 1))];
   const formattedDate = `${dayName}, ${d} ${monthName} ${y}`;
   const formattedTime = `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')} WIB`;
 
@@ -471,11 +485,13 @@ function getFilteredReports() {
       }
     }
 
-    return true;
   }).sort((a, b) => {
-    const timeA = a.time.dateObj.getTime();
-    const timeB = b.time.dateObj.getTime();
-    return state.sortOrder === 'DESC' ? timeB - timeA : timeA - timeB;
+    const timeA = a.time.dateObj ? a.time.dateObj.getTime() : 0;
+    const timeB = b.time.dateObj ? b.time.dateObj.getTime() : 0;
+    if (!isNaN(timeA) && !isNaN(timeB) && timeA !== timeB) {
+      return state.sortOrder === 'DESC' ? timeB - timeA : timeA - timeB;
+    }
+    return state.sortOrder === 'DESC' ? b.id - a.id : a.id - b.id;
   });
 }
 
@@ -776,6 +792,8 @@ function openDetailModal(reportId) {
   if (!report) return;
 
   state.activeDetailReport = report;
+  if (window.trackDetailPhotoView) trackDetailPhotoView(report.id, report.author);
+
   const modal = document.getElementById('detailModal');
   const modalContent = document.getElementById('modalContentArea');
 
@@ -973,6 +991,7 @@ function generatePrintReport() {
   `;
 
   printArea.innerHTML = printHtml;
+  if (window.trackPrintAction) trackPrintAction(employeeTitle, monthTitle);
   window.print();
 }
 
@@ -981,12 +1000,14 @@ function generatePrintReport() {
  */
 function setEmployee(name) {
   state.selectedEmployee = name;
+  if (window.trackEmployeeFilter) trackEmployeeFilter(name);
   renderEmployeeSelector();
   renderDashboard();
 }
 
 function setPeriodMode(mode) {
   state.selectedPeriodMode = mode;
+  if (window.trackPeriodFilter) trackPeriodFilter(mode, state.selectedMonth);
   updatePeriodModeUI();
   renderDashboard();
 }
@@ -1091,15 +1112,29 @@ function escapeHtml(str) {
 
 // Inisialisasi Saat Halaman Dimuat
 document.addEventListener('DOMContentLoaded', () => {
-  // Setup Search Input Listener
+  // Setup Search Input Listener dengan Debounce Tracking
   const searchInput = document.getElementById('searchInput');
   if (searchInput) {
+    let searchTimer = null;
     searchInput.addEventListener('input', (e) => {
       state.searchQuery = e.target.value;
       renderDashboard();
+
+      clearTimeout(searchTimer);
+      searchTimer = setTimeout(() => {
+        if (window.trackSearchQuery) trackSearchQuery(e.target.value);
+      }, 1000);
     });
   }
 
-  // Load awal
+  // Keyboard shortcut Ctrl + Shift + L untuk membuka Log Pemantau
+  window.addEventListener('keydown', (e) => {
+    if (e.ctrlKey && e.shiftKey && (e.key === 'L' || e.key === 'l')) {
+      e.preventDefault();
+      if (typeof openAccessLogModal === 'function') openAccessLogModal();
+    }
+  });
+
+  // Load awal data
   fetchGoogleSheetData();
 });
