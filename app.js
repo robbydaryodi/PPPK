@@ -485,6 +485,7 @@ function getFilteredReports() {
       }
     }
 
+    return true;
   }).sort((a, b) => {
     const timeA = a.time.dateObj ? a.time.dateObj.getTime() : 0;
     const timeB = b.time.dateObj ? b.time.dateObj.getTime() : 0;
